@@ -1,0 +1,2541 @@
+{
+  "dataset": "structured-kaoyan-english",
+  "description": "考研英语（1998–2025，英语一/英语二）历年真题结构化数据集索引 / Index of structured Kaoyan English papers",
+  "layout": "所有年份卷目统一存放于 data/ 目录；本索引中的路径均相对仓库根目录。",
+  "papers": 44,
+  "years": {
+    "from": 1998,
+    "to": 2025
+  },
+  "total_questions": 2152,
+  "license": "See LICENSE.md — layered license: question data free for any use; explanation data (explanation field / details blocks) CC BY-NC 4.0, non-commercial only.",
+  "generated": "2026-09-20",
+  "index": [
+    {
+      "id": "1998",
+      "year": 1998,
+      "exam": "英语",
+      "json": "data/1998/1998.json",
+      "markdown": "data/1998/1998.md",
+      "assets_images": 1,
+      "questions": 36,
+      "score": 65,
+      "sections": [
+        {
+          "title": "Section I Cloze Test",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 10
+        },
+        {
+          "title": "Section Ⅱ Reading Comprehension",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section IV English-Chinese Translation",
+          "score": 15,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section V Writing",
+          "score": null,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "1999",
+      "year": 1999,
+      "exam": "英语",
+      "json": "data/1999/1999.json",
+      "markdown": "data/1999/1999.md",
+      "assets_images": 1,
+      "questions": 36,
+      "score": 80,
+      "sections": [
+        {
+          "title": "Part Cloze Test",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 10
+        },
+        {
+          "title": "Part ⅡReading Comprehension",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Part Ⅲ English Chinese Translation",
+          "score": 15,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section ⅣWriting",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2000",
+      "year": 2000,
+      "exam": "英语",
+      "json": "data/2000/2000.json",
+      "markdown": "data/2000/2000.md",
+      "assets_images": 1,
+      "questions": 36,
+      "score": 80,
+      "sections": [
+        {
+          "title": "Part Close Test",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 10
+        },
+        {
+          "title": "Part ⅡReading Comprehension",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Part ⅢEnglish-Chinese Translation",
+          "score": 15,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section ⅣWriting",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2001",
+      "year": 2001,
+      "exam": "英语",
+      "json": "data/2001/2001.json",
+      "markdown": "data/2001/2001.md",
+      "assets_images": 1,
+      "questions": 46,
+      "score": 65,
+      "sections": [
+        {
+          "title": "Part I Cloze Test",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Part II Reading Comprehension",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Part III English-Chinese Translation",
+          "score": 15,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section V Writing",
+          "score": null,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2002",
+      "year": 2002,
+      "exam": "英语",
+      "json": "data/2002/2002.json",
+      "markdown": "data/2002/2002.md",
+      "assets_images": 1,
+      "questions": 46,
+      "score": 80,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2003",
+      "year": 2003,
+      "exam": "英语",
+      "json": "data/2003/2003.json",
+      "markdown": "data/2003/2003.md",
+      "assets_images": 1,
+      "questions": 46,
+      "score": 60,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing",
+          "score": null,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2004",
+      "year": 2004,
+      "exam": "英语",
+      "json": "data/2004/2004.json",
+      "markdown": "data/2004/2004.md",
+      "assets_images": 1,
+      "questions": 46,
+      "score": 80,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2005",
+      "year": 2005,
+      "exam": "英语",
+      "json": "data/2005/2005.json",
+      "markdown": "data/2005/2005.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 90,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": null,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "gap_fill"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2006",
+      "year": 2006,
+      "exam": "英语",
+      "json": "data/2006/2006.json",
+      "markdown": "data/2006/2006.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "gap_fill"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2007",
+      "year": 2007,
+      "exam": "英语",
+      "json": "data/2007/2007.json",
+      "markdown": "data/2007/2007.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "heading_matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2008",
+      "year": 2008,
+      "exam": "英语",
+      "json": "data/2008/2008.json",
+      "markdown": "data/2008/2008.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "gap_fill"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2009",
+      "year": 2009,
+      "exam": "英语",
+      "json": "data/2009/2009.json",
+      "markdown": "data/2009/2009.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "gap_fill"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2010-1",
+      "year": 2010,
+      "exam": "英语一",
+      "json": "data/2010-1/2010-1.json",
+      "markdown": "data/2010-1/2010-1.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "ordering"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2010-2",
+      "year": 2010,
+      "exam": "英语二",
+      "json": "data/2010-2/2010-2.json",
+      "markdown": "data/2010-2/2010-2.md",
+      "assets_images": 1,
+      "questions": 48,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Translation",
+          "score": 15,
+          "types": [
+            "translation_full"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part B",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2011-1",
+      "year": 2011,
+      "exam": "英语一",
+      "json": "data/2011-1/2011-1.json",
+      "markdown": "data/2011-1/2011-1.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "ordering"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2011-2",
+      "year": 2011,
+      "exam": "英语二",
+      "json": "data/2011-2/2011-2.json",
+      "markdown": "data/2011-2/2011-2.md",
+      "assets_images": 1,
+      "questions": 48,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Translation",
+          "score": 15,
+          "types": [
+            "translation_full"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part B",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2012-1",
+      "year": 2012,
+      "exam": "英语一",
+      "json": "data/2012-1/2012-1.json",
+      "markdown": "data/2012-1/2012-1.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "gap_fill"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2012-2",
+      "year": 2012,
+      "exam": "英语二",
+      "json": "data/2012-2/2012-2.json",
+      "markdown": "data/2012-2/2012-2.md",
+      "assets_images": 0,
+      "questions": 48,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Translation",
+          "score": 15,
+          "types": [
+            "translation_full"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part B",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2013-1",
+      "year": 2013,
+      "exam": "英语一",
+      "json": "data/2013-1/2013-1.json",
+      "markdown": "data/2013-1/2013-1.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "gap_fill"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2013-2",
+      "year": 2013,
+      "exam": "英语二",
+      "json": "data/2013-2/2013-2.json",
+      "markdown": "data/2013-2/2013-2.md",
+      "assets_images": 1,
+      "questions": 48,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "heading_matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Translation",
+          "score": 15,
+          "types": [
+            "translation_full"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part B",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2014-1",
+      "year": 2014,
+      "exam": "英语一",
+      "json": "data/2014-1/2014-1.json",
+      "markdown": "data/2014-1/2014-1.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "ordering"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2014-2",
+      "year": 2014,
+      "exam": "英语二",
+      "json": "data/2014-2/2014-2.json",
+      "markdown": "data/2014-2/2014-2.md",
+      "assets_images": 1,
+      "questions": 48,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Translation",
+          "score": 15,
+          "types": [
+            "translation_full"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part B",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2015-1",
+      "year": 2015,
+      "exam": "英语一",
+      "json": "data/2015-1/2015-1.json",
+      "markdown": "data/2015-1/2015-1.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "gap_fill"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2015-2",
+      "year": 2015,
+      "exam": "英语二",
+      "json": "data/2015-2/2015-2.json",
+      "markdown": "data/2015-2/2015-2.md",
+      "assets_images": 1,
+      "questions": 48,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "heading_matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Translation",
+          "score": 15,
+          "types": [
+            "translation_full"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part B",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2016-1",
+      "year": 2016,
+      "exam": "英语一",
+      "json": "data/2016-1/2016-1.json",
+      "markdown": "data/2016-1/2016-1.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "heading_matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2016-2",
+      "year": 2016,
+      "exam": "英语二",
+      "json": "data/2016-2/2016-2.json",
+      "markdown": "data/2016-2/2016-2.md",
+      "assets_images": 1,
+      "questions": 48,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "heading_matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Translation",
+          "score": 15,
+          "types": [
+            "translation_full"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part B",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2017-1",
+      "year": 2017,
+      "exam": "英语一",
+      "json": "data/2017-1/2017-1.json",
+      "markdown": "data/2017-1/2017-1.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "ordering"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2017-2",
+      "year": 2017,
+      "exam": "英语二",
+      "json": "data/2017-2/2017-2.json",
+      "markdown": "data/2017-2/2017-2.md",
+      "assets_images": 1,
+      "questions": 48,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Translation",
+          "score": 15,
+          "types": [
+            "translation_full"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part B",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2018-1",
+      "year": 2018,
+      "exam": "英语一",
+      "json": "data/2018-1/2018-1.json",
+      "markdown": "data/2018-1/2018-1.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "ordering"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2018-2",
+      "year": 2018,
+      "exam": "英语二",
+      "json": "data/2018-2/2018-2.json",
+      "markdown": "data/2018-2/2018-2.md",
+      "assets_images": 1,
+      "questions": 48,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "heading_matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Translation",
+          "score": 15,
+          "types": [
+            "translation_full"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part B",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2019-1",
+      "year": 2019,
+      "exam": "英语一",
+      "json": "data/2019-1/2019-1.json",
+      "markdown": "data/2019-1/2019-1.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "ordering"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2019-2",
+      "year": 2019,
+      "exam": "英语二",
+      "json": "data/2019-2/2019-2.json",
+      "markdown": "data/2019-2/2019-2.md",
+      "assets_images": 1,
+      "questions": 48,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Translation",
+          "score": 15,
+          "types": [
+            "translation_full"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part B",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2020-1",
+      "year": 2020,
+      "exam": "英语一",
+      "json": "data/2020-1/2020-1.json",
+      "markdown": "data/2020-1/2020-1.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2020-2",
+      "year": 2020,
+      "exam": "英语二",
+      "json": "data/2020-2/2020-2.json",
+      "markdown": "data/2020-2/2020-2.md",
+      "assets_images": 1,
+      "questions": 48,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "heading_matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Translation",
+          "score": 15,
+          "types": [
+            "translation_full"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part B",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2021-1",
+      "year": 2021,
+      "exam": "英语一",
+      "json": "data/2021-1/2021-1.json",
+      "markdown": "data/2021-1/2021-1.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2021-2",
+      "year": 2021,
+      "exam": "英语二",
+      "json": "data/2021-2/2021-2.json",
+      "markdown": "data/2021-2/2021-2.md",
+      "assets_images": 1,
+      "questions": 48,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "heading_matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Translation",
+          "score": 15,
+          "types": [
+            "translation_full"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part B",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2022-1",
+      "year": 2022,
+      "exam": "英语一",
+      "json": "data/2022-1/2022-1.json",
+      "markdown": "data/2022-1/2022-1.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2022-2",
+      "year": 2022,
+      "exam": "英语二",
+      "json": "data/2022-2/2022-2.json",
+      "markdown": "data/2022-2/2022-2.md",
+      "assets_images": 1,
+      "questions": 48,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "heading_matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Translation",
+          "score": 15,
+          "types": [
+            "translation_full"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part B",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2023-1",
+      "year": 2023,
+      "exam": "英语一",
+      "json": "data/2023-1/2023-1.json",
+      "markdown": "data/2023-1/2023-1.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "ordering"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2023-2",
+      "year": 2023,
+      "exam": "英语二",
+      "json": "data/2023-2/2023-2.json",
+      "markdown": "data/2023-2/2023-2.md",
+      "assets_images": 1,
+      "questions": 48,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Translation",
+          "score": 15,
+          "types": [
+            "translation_full"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part B",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2024-1",
+      "year": 2024,
+      "exam": "英语一",
+      "json": "data/2024-1/2024-1.json",
+      "markdown": "data/2024-1/2024-1.md",
+      "assets_images": 1,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2024-2",
+      "year": 2024,
+      "exam": "英语二",
+      "json": "data/2024-2/2024-2.json",
+      "markdown": "data/2024-2/2024-2.md",
+      "assets_images": 2,
+      "questions": 48,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Translation",
+          "score": 15,
+          "types": [
+            "translation_full"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part B",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2025-1",
+      "year": 2025,
+      "exam": "英语一",
+      "json": "data/2025-1/2025-1.json",
+      "markdown": "data/2025-1/2025-1.md",
+      "assets_images": 0,
+      "questions": 52,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "ordering"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section II Reading Comprehension — Part C",
+          "score": 10,
+          "types": [
+            "translation_sentences"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section III Writing — Part B",
+          "score": 20,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    },
+    {
+      "id": "2025-2",
+      "year": 2025,
+      "exam": "英语二",
+      "json": "data/2025-2/2025-2.json",
+      "markdown": "data/2025-2/2025-2.md",
+      "assets_images": 0,
+      "questions": 48,
+      "score": 100,
+      "sections": [
+        {
+          "title": "Section I Use of English",
+          "score": 10,
+          "types": [
+            "cloze"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part A",
+          "score": 40,
+          "types": [
+            "reading"
+          ],
+          "questions": 20
+        },
+        {
+          "title": "Section II Reading Comprehension — Part B",
+          "score": 10,
+          "types": [
+            "heading_matching"
+          ],
+          "questions": 5
+        },
+        {
+          "title": "Section III Translation",
+          "score": 15,
+          "types": [
+            "translation_full"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part A",
+          "score": 10,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        },
+        {
+          "title": "Section IV Writing — Part B",
+          "score": 15,
+          "types": [
+            "writing"
+          ],
+          "questions": 1
+        }
+      ]
+    }
+  ]
+}

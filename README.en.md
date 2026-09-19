@@ -26,12 +26,14 @@ So I used **300 million tokens of GLM-5.3-Flash** credits together with automati
 **44 complete papers** organized by year. From 2010 onward, the exam splits into English I and English II, so directories carry a `-1` / `-2` suffix:
 
 ```
-1998/           1998.json  1998.md  assets/
-1999/           ...
-2010-1/         2010-1.json  2010-1.md  assets/      # English I
-2010-2/         2010-2.json  2010-2.md  assets/      # English II
-...
-2025-1/  2025-2/
+index.json       # machine-readable catalog: paths, sections, question counts, scores
+data/
+  1998/          1998.json  1998.md  assets/
+  1999/          ...
+  2010-1/        2010-1.json  2010-1.md  assets/    # English I
+  2010-2/        2010-2.json  2010-2.md  assets/    # English II
+  ...
+  2025-1/  2025-2/
 ```
 
 Two complementary formats per paper:
@@ -77,7 +79,8 @@ Two complementary formats per paper:
 ```python
 import json, glob
 
-papers = [json.load(open(p, encoding="utf-8")) for p in glob.glob("*/*.json")]
+catalog = json.load(open("index.json", encoding="utf-8"))      # metadata for all 44 papers
+papers = [json.load(open(p, encoding="utf-8")) for p in glob.glob("data/*/*.json")]
 print(len(papers))  # 44
 
 # License-aware usage: drop the `explanation` field to keep only
