@@ -1,0 +1,711 @@
+{
+ "year": 2020,
+ "exam": "英语二",
+ "sections": [
+  {
+   "title": "Section I Use of English",
+   "instructions": "Read the following text. Choose the best word (s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "cloze",
+     "passage": [
+      "Being a good parent is what every parent would like to be. But defining what it means to be a good parent is undoubtedly very {{1}} , particularly since children respond differently to the same style of parenting. A calm, rule-following child might respond better to a different sort of parenting than, {{2}} , a younger sibling.",
+      "{{3}} , there’s another sort of parent that’s a bit easier to {{4}} : a patient parent. Children of every age benefit from patient parenting. Still, {{5}} every parent would like to be patient, this is no easy {{6}} . Sometimes parents get exhausted and frustrated and are unable to maintain a {{7}} and composed style with their kids. I understand this.",
+      "You’re only human, and sometimes your kids can {{8}} you just a little too far. And then the {{9}} happens: You lose your patience and either scream at your kids or say something that was a bit too {{10}} and does nobody any good. You wish that you could {{11}} the clock and start over, We’ve all been there.",
+      "{{12}} , even though it’s common, it’s important to keep in mind that in a single moment of fatigue, you can say something to your child that you may {{13}} for a long time. This may not only do damage to your relationship with your child but also {{14}} your child’s self-esteem.",
+      "If you consistently lose your {{15}} with your kids, then you are inadvertently modeling a lack of emotional control for your kids. We are all becoming increasingly aware of the {{16}} of modeling tolerance and patience for the younger generation. This is a skill that will help them all throughout life. In fact, the ability to emotionally regulate or maintain emotional control when {{17}} by stress is one of the most important of all life’s skills.",
+      "Certainly, it’s incredibly {{18}} to maintain patience at all times with your children. A more practical goal is to try, to the best of your ability, to be as tolerant and composed as you can when faced with {{19}} situations involving your children. I can promise you this: As a result of working toward this goal. you and your children will benefit and {{20}} from stressful moments feeling better physically and emotionally."
+     ],
+     "questions": [
+      {
+       "number": 1,
+       "score": 0.5,
+       "options": {
+        "A": "tedious",
+        "B": "pleasant",
+        "C": "instructive",
+        "D": "tricky"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n1. [A] tedious 单调乏味的；冗长的；啰嗦的\n\n[B] pleasant 令人愉悦的；可喜的；友好的\n\n[C] instructive 富有教益的；增长知识的\n\n[D] tricky 困难的，难对付的；狡猾的\n\n[考点提炼]上下文语义+形容词辨析。\n\n[解题思路]②句中路标词 But 提示两句间转折逻辑“(当好父母的)理想固然好，但现实存在障碍”,结合②句主句主语 defining what it means to...(阐明‘做好父母’的内涵)以及原因状语从句 particularly since...(对于同一种育儿方式，不同的孩子的反应不同。意即：育儿方式难有好坏之分)可知，“现实障碍”指的是“很难界定什么样的父母才是好父母，因此没有明确的效仿标准”,[D]tricky 意为 difficult to do or deal with“难办、棘手的”,符合文意。\n\n[错项排除]从总体导向看，[B]、[C]两项均为正面语义，与句间转折逻辑矛盾；具体来说，pleasant 指“令人愉快的，吸引人的”或“对人友善、客气的（～to sb）”，如 a pleasant environment（宜人的环境），instructive 指“有启发性的(giving a lot of useful information)”, 如 an instructive experience(富有启发的经历), 而“界定怎样才算好父母”这一行为本身谈不上“令人愉快”与否，也不触及“有教益”与否。[A]虽为负面语义，但 tedious 用于说明“[工作、任务或形势等]因太长、太慢或无趣而令人厌烦的”, 侧重主观情绪，而文意指向的是客观的“情况复杂，不好界定”, 而非“界定繁琐，令人乏味”。"
+      },
+      {
+       "number": 2,
+       "score": 0.5,
+       "options": {
+        "A": "in addition",
+        "B": "for example",
+        "C": "at once",
+        "D": "by accident"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n2. [A] in addition 此外，另外 [B] for example 例如\n\n[C] at once 立刻，马上；同时 [D] by accident 偶然地，意外地\n\n[考点提炼]句间语义逻辑+副词短语辨析。\n\n[解题思路]空格词在句中作插入语，可先看句子主干信息 A calm, rule-following child... better... than... a younger one, 可知该句是针对上句宽泛结论 children respond differently... (不同孩子对同种育儿方式反应不同)给出的具体实例——年龄、性格不同，则反应不同(更大些、不闹、听话的孩子适应力更强),故空格词应表“举例说明”,[B]正确。\n\n[错项排除] [A] in addition (= also, as well) 表并列，位于句中时，前后信息完整（其后常为省略形式），互为补充，如 They study their instruments and, in addition, theory and music history. （他们研究其乐器，还研究其理论和音乐史。），文中空格前后皆不完整，需相连才能构成完整信息 (better... than... a younger sibling)，故两者并非并列关系。注：副词短语 In addition 多见于句首，位于句中时常由 and、but 等连词引出。[C] at once (= immediately; without delay 或 at the same time) 表时间，用于强调动作在短时间内或同时发生/实现，如 Come here at once! （马上到这里来！），Don't all speak at once! （大家不要同时讲！）；[D] by accident 表方式，用于说明某事的发生是偶然、非刻意的，如 Helen got into acting purely by accident. （海伦当演员完全出于偶然。）；文中③句谓语为 respond better，为普遍状况，而非短时间内或偶然之事，故排除两项。"
+      },
+      {
+       "number": 3,
+       "score": 0.5,
+       "options": {
+        "A": "Fortunately",
+        "B": "Occasionally",
+        "C": "Accordingly",
+        "D": "Eventually"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n3. [A] Fortunately 幸运地，幸而，所幸\n\n[B] Occasionally 偶然地；偶尔；有时候\n\n[C] Accordingly 因此；相应地\n\n[D] Eventually 最后；终于\n\n[考点提炼]上下文语义逻辑。\n\n[解题思路]上段提到“‘定义做好父母’很难(也即：人们即使想做好父母，也可能无所适从)”,本段①②句指出“还有一种容易……的父母：耐心的父母。所有年龄段的孩子都能从有耐心的养育方式受益”。很明显，本段退而求其次，向人们介绍一种确定性的好父母特质“耐心”。[A]Fortunately 既体现 tricky vs easier 间对比逻辑，又契合论述的情感色彩：虽难界定，但幸好还有某种标准可依。\n\n[错项排除][B]Occasionally(=sometimes but not often)表频度，暗示“耐心的父母”只偶尔存在，与作者意图“介绍一种确定的好父母标准”不符。[C]Accordingly 可表因果(=therefore),如 The text was too long and the editor accordingly cut it by 20%. (文稿过长，因此编辑删减了五分之一。),还可表方式(=correspondingly),如 We have to discover what his plans are and act accordingly. (我们必须弄清他有什么打算并采取相应行动。);上文既非空格所在句的原因，也非其应该参照的情况，故排除。[D]Eventually 用法有二：一为客观引出情况或过程的最终结局，二为影射某情况历经多时或万难总算达成，均表时间，而空格句并非最终结果。"
+      },
+      {
+       "number": 4,
+       "score": 0.5,
+       "options": {
+        "A": "amuse",
+        "B": "assist",
+        "C": "describe",
+        "D": "train"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n4. [A] amuse 逗乐；提供消遣 [B] assist 帮助，协助\n\n[C] describe 描述；形容 [D] train 训练，培训\n\n[考点提炼]上下文语义。\n\n[解题思路]结合上题分析可知，空格句与上段②句形成转折对比(defining...good parent...tricky vs another sort of parent...easier to ____,引出一种无争议的好父母特质(也即：较容易定性的一种好父母),故空格应与首段 defining 语义相近，[C]describe 意为 to say what sb/sth is like,符合文意。\n\n[错项排除]干扰项利用惯常思维“耐心的父母会让孩子开心/帮助孩子/对孩子进行培训”干扰，但“be+形容词+to do”结构通常以不定式的主动形式表示被动意义，如 The apples are hard to reach.（苹果很难(被)够到。），故主语 parent 与空格词的关系并非“主谓”，而是“动宾”，即“容易被____的父母”，故排除[A]、[B]、[D]三项。"
+      },
+      {
+       "number": 5,
+       "score": 0.5,
+       "options": {
+        "A": "while",
+        "B": "because",
+        "C": "unless",
+        "D": "once"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n5. [A] while 尽管；当……时 [B] because 因为\n\n[C] unless 除非，如果不 [D] once 一旦；曾经\n\n[考点提炼]句内语义逻辑。\n\n[解题思路]空格词体现主句与从句间逻辑，需先明确两句大意。Still 位于句首提示转折，表明本句与上文传递的积极情感“（虽难有明确的标准，但至少）可将耐心作为努力目标”方向相反，可能引出该方法的局限性或实现障碍，由此可见，主句 this is no easy...（this 回指 to be patient)大意应为“耐心并不好达成”，明显与空格所在的分句“所有父母都想成为有耐心之人”为转折逻辑（理想虽好，但现实困难），故[A]while 符合文意。\n\n[错项排除][B]because、[D]once(=as soon as; when)利用“人人都向往的事情往往不易”这一常理干扰，但二者并非因果关系，也非条件关系：“都想有耐心”并非导致/触发“耐心不易”的因素/条件。[C]unless 指向“除非大家都想有耐心，否则这并不容易”，但“都想有耐心”并非“耐心容易”的前提条件，三个选项均存在逻辑错误。"
+      },
+      {
+       "number": 6,
+       "score": 0.5,
+       "options": {
+        "A": "answer",
+        "B": "task",
+        "C": "choice",
+        "D": "access"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n6. [A] answer 答案，解决办法；回答 [B] task 任务；工作\n\n[C] choice 选择；被选中的东西 [D] access 通路；(使用或见到的)机会，权利\n\n[考点提炼]句内语义+名词辨析。\n\n[解题思路]结合上题分析可知，this is no easy ____大意为“耐心不易达成”,而空格词为表语，故应与主语 this(代指 to be patient,表示“目标”)属于同类且互相呼应，[B]task 尤指艰巨或令人厌烦的任务、工作，与“目标”相吻合，同时符合上下文文意，即：变得耐心并非易事。\n\n[错项排除][A]暗指“耐心未必能真正解决问题”，与②句“所有孩子都能受益于耐心的养育”矛盾；[C]暗指“人们做出朝耐心努力这一选择”有一定困难，但文意实为“耐心本身不易达成”，而非“(外界因素等导致)选择难做”。[D]access 表示“获得/使用/接近(某事/某地/某人)的能力、机会或权利”，常以介词 to 引出动作施加的对象，如 have easy access to information(很容易获取信息)；故从结构上看，没有 sth is no easy access 的说法，正确形式应为(there is) no easy access to sth；从语义上看，access 的对象一般为资源、设施、场所、特定人物等，而“变耐心”为目标、任务，两者无法搭配。"
+      },
+      {
+       "number": 7,
+       "score": 0.5,
+       "options": {
+        "A": "tolerant",
+        "B": "formal",
+        "C": "rigid",
+        "D": "critical"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n7. [A] tolerant 容忍的，宽容的 [B] formal 正式的；正规的，庄重的\n\n[C] rigid 僵死的，过于严格的；刻板的 [D] critical 批评的；有判断力的；关键的\n\n[考点提炼]句内语义逻辑+形容词辨析。\n\n[解题思路]maintain a ____ style 框定父母在疲惫而沮丧时无法做到的事情，而选项中属正面、与“耐心”相关的只有[A]tolerant。\n\n[错项排除]干扰项均脱离“耐心”语义场，具体来看，[B]formal 用于说明穿着、言语、行为等适合正式或重要场合，而文中育儿行为不涉及正式或重要场合。formal 还用于说明教育或培训是“在学校获得的（而非个人实践所得）、正规的”，如 She didn't have any formal dance training.（她没受过任何正规的舞蹈训练。），但文中空格词限定的是父母育儿方式/姿态(style)，而非孩子所受教导。[C]rigid 利用其表面义“严格”干扰，但该词实为负面导向，用于说明法律或制度僵死不变从而过于严格，当说明“人”时，意为“古板、头脑僵化”，不合文意。[D]critical 同样利用“严格出教育”这一常见认知干扰，但该词修饰名词、作“批评的”讲时，后接“含批评内容的载体”，如 critical comments/articles（批判性的评论/文章）；critical 还表“有判断力的”，此时可接“方式、方法”，但此义侧重“思考与审慎能力”，与“耐心育儿”并无关联。\n\n**词汇注释与难句分析**\n\nparenting n. 养育，抚养 § rule-following a. 遵守规则的\n\nBut defining what it means to be a good parent is undoubtedly very tricky, particularly since children respond differently to the same style of parenting.\n\n功能注释：本句主干为 But defining...is undoubtedly very tricky,其中 defining 与其宾语从句 what it means to be a good parent 整体充当句子主语，说明“界定做好父母的含义”十分困难。随后 since 引导的原因状语从句进一步解释困难所在。\n\n**语篇分析**\n\nI 段为引子：“好父母”很难界定，育儿难有明确方向。①②句先退后进，强调父母育儿之难：一心向好，但“好”很难定性。particularly since 引出存在困难的最大原因：同一种育儿方式对于不同的孩子来说效果不同。③句以典型的“同一对父母的大、小孩子”为例，说明育儿方式为何难定好坏：在育儿方式一致的前提下，年龄大的孩子更安静听话，比年龄小的孩子更能适应不同的育儿方式。换言之，孩子自身的个体差异（年龄、性格）将影响育儿效果，也即“育儿方式难判好坏”。\n\nⅡ段转而引出稍好界定的一种好父母类型，即全文论述焦点：耐心的父母。①句 Fortunately、another... easier to describe 转承上文“难以界定/无标准”之难，引出起码的一项标准“耐心”，从而正式入题。②句中 of every age 回应首段末“年龄不同则育儿效果有好有坏”，强调“耐心育儿方式”的普适性。③句转而说明该标准实现之难。本句以句际、句内两重转折凸显重心信息，Still、while 分别体现“有了标准可喜 vs 标准达成很难”“都想达成 vs 达成很难”间的落差。④句以具体情境（Sometimes）解释标准（保持耐心）为何难实现。and 体现因果逻辑：累、懊丧→失去耐性。a tolerant style 为 patient parenting 的下义词，即具体表现。⑤句以作者理解强化“耐心难”这一事实。\n\nⅢ ① You're only human, and sometimes your kids can \\_8\\_ you just a little too far. ② And then the \\_9\\_ happens: You lose your patience and either scream at your kids or say something that was too \\_10\\_ and does nobody any good. ③ You wish that you could \\_11\\_ the clock and start over. ④ We've all been there.\n\n①你只是凡人，可有时你的孩子们可能会把你逼得有些过头。②然后不可避免的事就发生了：你失去耐心，要么朝孩子们吼叫，要么说一些过于严厉、对谁都没有好处的话。③你希望可以让时光倒转、从头再来。④我们都有过这样的经历。"
+      },
+      {
+       "number": 8,
+       "score": 0.5,
+       "options": {
+        "A": "move",
+        "B": "drag",
+        "C": "push",
+        "D": "send"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n8. [A] move 移动；改变；感动\n\n[B] drag 拉，拽；硬拉，强迫\n\n[C] push 迫使；推动\n\n[D] send 使(向某方向)移动；使作出(某反应)\n\n[考点提炼]句内语义+固定搭配。\n\n[解题思路]空格句指出，有时你的孩子会____得你有些过头。结合上文“耐心不易”以及空格前半句“你只不过是凡人”可知，本句意在解释“父母为何难以做到耐心”,故文意应为“孩子让父母不得已失去耐心”,push 有“迫使、促使”之意，push sb too far 为固定搭配，意为“逼人太甚、逼得某人发脾气”,故[C]正确。\n\n[错项排除] 本题考查固定短语，选项中只有[C]能与 you...too far 搭配传达“逼迫某人”之意，且[A]“感动过头”与“失去耐心”的语义相悖；[B]drag 也有“强迫”之意，但表示“生拉硬拽，劝人勉强来/去某地”，如I'm sorry to drag you all this way in the heat.（抱歉这么热的天硬拉着你跑了这一路。），文中并无“拉拽去某地”之意。[D]send 有“让人向某方向移动”或“使作出某种反应/行动(send sb to/into sth)”之意，但 too far 并非方向或行为，无法与之搭配。"
+      },
+      {
+       "number": 9,
+       "score": 0.5,
+       "options": {
+        "A": "mysterious",
+        "B": "illogical",
+        "C": "suspicious",
+        "D": "inevitable"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n9. [A] mysterious 神秘的，难以理解的\n\n[B] illogical 不合逻辑的，没有道理的\n\n[C] suspicious 可疑的；怀疑的\n\n[D] inevitable 不可避免的\n\n[考点提炼]上下文语义+形容词辨析。\n\n[解题思路]“the+形容词”表示“……的事情”，冒号提示其是对随后“父母失去耐心的具体表现”的概括性评价，而上句“你只是凡人，孩子有时会逼得人发脾气”传达作者态度：这些不耐心的表现是人在情急下的正常反应，在所难免，情有可原，故[D]inevitable 符合文意。\n\n[错项排除]And then...happens 表明①②句间为因果顺承关系，①句“孩子有时会把人逼得有些过头”这一情况为②句“父母失去耐心”提供了前提，且作者暗示两件事接连发生、在所难免。[A] mysterious、[B] illogical 皆与文章所表达的“理所当然”之意相悖，故排除；the suspicious 表示“可疑的人/事”，与犯罪或欺诈相关，脱离上下文语境，排除[C]。"
+      },
+      {
+       "number": 10,
+       "score": 0.5,
+       "options": {
+        "A": "boring",
+        "B": "naive",
+        "C": "harsh",
+        "D": "vague"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n10. [A] boring 无聊的，令人厌倦的\n\n[B] naive 幼稚的；天真的\n\n[C] harsh 严厉的；残酷的；艰苦的\n\n[D] vague 含糊的；粗略的\n\n[考点提炼]句内语义+形容词辨析。\n\n[解题思路] 句中 either... or... 与 and 分别呈现两组并列信息：scream at your kids 与 say something that... 均为失去耐心后的表现，内容应相近；too ____ 和 does nobody any good 并列修饰 something(父母失去耐心后的言辞), 应同为消极色彩。可见空格词应该同时体现“朝孩子大喊、对谁都没好处”, 故文意应为“向孩子说狠话”, [C]harsh 可用于说明行为或言语“严酷无情”, 符合文意。\n\n[错项排除][A]boring、[B]naive 和 [D]vague 分别指向父母的话“无聊乏味（孩子听不进去）、无知而缺乏经验（没有指导意义）、含糊而不具体（难以理解）”，从育儿角度看三种言辞确实没有好处，但文中 does nobody any good 实为“对父母、孩子双方都无益”，消极程度更甚，其次三项均不能与 scream at your kids 构成并列内容。"
+      },
+      {
+       "number": 11,
+       "score": 0.5,
+       "options": {
+        "A": "turn back",
+        "B": "take apart",
+        "C": "set aside",
+        "D": "cover up"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n11. [A] turn back 往回走；阻挡；翻回到\n\n[B] take apart 拆开；剖析；粗暴对待\n\n[C] set aside 留出；驳回；不顾\n\n[D] cover up 掩盖，盖住\n\n[考点提炼] 上下文语义+固定搭配。\n\n[解题思路] 空格句前句描述父母对孩子发怒时的表现及后果，too... does nobody any good 说明表现过度。空格句指出，你(父母)希望可以____时钟、重新开始。可见空格句应体现“父母为此前的发怒行为感到懊悔”; 由句内逻辑(and 提示衔接/并列)可进一步明确，____ the clock 应与 start over 语义同向，表“回到过去、重新再来”。turn back the clock 为固定搭配，表“使时光倒流”, [A] 正确。\n\n[错项排除]由语境可知，文中 the clock 以具象的“时钟”指代抽象的“时间”，[B]“拆解时钟”只体现对时钟的物理操作，无法传达抽象含义；[C]“将时钟放在一边”指向“不顾时间（流逝）”、[D]“遮盖时钟”指向“掩盖时间（流逝）”，均不符合原文所要传达的“悔恨过往行为、期盼时光倒转”之意。\n\n**词汇注释与难句分析**\n\npush sb too far 逼人太甚(第8题)\n\nlose one's patience 失去耐心\n\nscream at sb 朝某人吼叫\n\ndo sb good 对某人有好处\n\nstart over 从头开始\n\n**语篇分析**\n\n第三段承上具体说明耐心难的原因，承认其属人之常情。①句点明根本原因：人性弱点所致。only human、just a little too far 分别针对父母和孩子而言，说明彼此弱点：前者非圣人，后者必捣蛋。②③句引出“失去耐心”的必然结局。②句 And then the inevitable happens 引出具体表现 scream at your kids、say something that... too harsh, ③句 You wish... turn back the clock and start over 以父母懊悔心情凸显耐心之难：明知不好却还忍不住为之。④句以“失去耐心的情况很普遍”进一步解释并渲染耐心之难。\n\nIV ① 12, even though it's common, it's vital to keep in mind that in a single moment of fatigue, you can say something to your child that you may 13 for a long time. ② This may not only do damage to your relationship with your child but also 14 your child's self-esteem.\n\n①然而，尽管这种情况很常见，但很有必要牢记：在感到疲惫的那一瞬间，你可能会对孩子说出一些让自己后悔良久的话。②这不仅会损害你与孩子的关系，还会影响孩子的自尊心。"
+      },
+      {
+       "number": 12,
+       "score": 0.5,
+       "options": {
+        "A": "Overall",
+        "B": "Instead",
+        "C": "However",
+        "D": "Otherwise"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n12. [A] Overall 总的来说 [B] Instead 相反\n\n[C] However 然而；可是 [D] Otherwise 否则；另外\n\n[考点提炼] 上下文语义+副词辨析。\n\n[解题思路] 空格句先让步承认(even though)“这种情况很常见”(it 回指上文“父母失去耐心而发怒”),随后转折引出建议“父母应记住……(it's vital to keep in mind)”,下句阐述发怒行为的消极后果(do damage)。可知本段主旨为“父母向孩子发怒造成危害”,段首逻辑词应在上下段之间起转折过渡作用，传达“这一行为虽情有可原、谁都难免经历，但仍需警醒其会造成危害”之意，[C]正确。\n\n[错项排除] [A]通常用于总结前文，其前后语义应保持一致，此处不符合原文逻辑。[B]、[D]均含转折意味，但 instead 侧重强调“后者替代前者(而发生)”,如：Geoff didn't study law. Instead, he decided to become an actor.(杰夫没学法律，相反，他决定当演员。);otherwise 侧重强调“某人不照做某事、或某情况不发生/不同的后果”,两项均不符合文中“从探讨事物的正面转向探讨其负面(合理性→危害性)”,可排除。"
+      },
+      {
+       "number": 13,
+       "score": 0.5,
+       "options": {
+        "A": "like",
+        "B": "miss",
+        "C": "believe",
+        "D": "regret"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n13. [A] like 喜欢；愿意 [B] miss 错过；想念\n\n[C] believe 相信；认为 [D] regret 后悔；遗憾\n\n[考点提炼] 上下文语义。\n\n[解题思路] 空格所在主句具体阐述作者建议(it's important to):父母应记住，在疲惫的瞬间你会对孩子说一些你可能会____良久的话。其中，moment of fatigue、say something to your child that...均复现第二、三段所述情形及后果“父母筋疲力尽、情绪失控→说出过于严厉、对双方都无益的话，以至想倒转时光，从头来过”。故①句实为过渡句，空格部分语义应为“说出让自己后悔许久的话”,以引出对具体负面影响的介绍，[D]regret 正确。\n\n[错项排除] [A]like 为正面语义，与文意相悖；[B]miss、[C]believe 指向“错过/相信对孩子所说的话良久”,不合逻辑。"
+      },
+      {
+       "number": 14,
+       "score": 0.5,
+       "options": {
+        "A": "raise",
+        "B": "affect",
+        "C": "justify",
+        "D": "reflect"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n14. [A] raise 提高；筹集；养育 [B] affect 影响；困扰；感染；感动\n\n[C] justify 证明…是正当的；替…辩护 [D] reflect 反映；反射；表达；反省\n\n[考点提炼]句内语义。\n\n[解题思路] 空格所在句以 not only... but also 结构呈现句内语义递进，____ your child's self-esteem(____孩子的自尊)应与 damage... child(破坏亲子关系)同样体现父母发怒行为的危害，且程度更甚，故文意应为“伤害/打击孩子自尊心”, [B] affect 表“影响”时多指向负面影响，故正确。\n\n[错项排除] [A] raise 表明父母行为对孩子的自尊有正面影响(提升自尊心),与文意恰相悖。[C] justify 意为“证明某事有理/有必要，而 self-esteem 指对自身价值、能力的信心，重要性毫无争议，无需“证明”。[D] reflect 指向“父母发怒行为会体现/表明孩子的自尊心”,不合常理，且不涉及“危害”,故排除。\n\n③self-esteem [self i'sti:m] n. 自尊 However, even though it's common, it's important to keep in mind that in a single moment of fatigue, you can say something to your child that you may regret for a long time.\n\n功能注释：句首副词 However、让步状语从句 even though it's common 共同提示转折。主句为典型的“It is+形容词+to do sth”句式，其中 it 为形式主语，不定式 to keep in mind 为真正的主语。状语 in... fatigue 提示行为发生场景，宾语从句 that... child 作 keep 的宾语；其中又嵌套一个定语从句 that... long time 修饰 something,体现行为的后果。\n\n**语篇分析**\n\n第四、五段从正反两面强调父母控制情绪的重要性。\n\n第四段反说，指出父母情绪失控的危害。①句与第二段③句异曲同工：However、even though 形成句/段际、句间双重转折逻辑——普遍、人之常情(common 回应上文 Sometimes parents... their kids、I understand this、You're only human... too far、We've all been there 等) vs 有危害、应自省 (important)。you can... 与②句 This may not only... but also 递进说明父母情绪失控的危害。fatigue 呼应第二、第三段 exhausted and frustrated、push you... too far 等，重申背景/诱因“劳累过度”,直接结果 say something that... regret for a long time(复现上文 say something that... too harsh、wish... turn back the clock and start over)引出连锁危害：不光伤感情，还不利于孩子心理健康。 V ① If you consistently lose your 15 with your kids, then you are modeling a lack of emotional control for your kids. ② We are all becoming increasingly aware of the 16 of modeling patience for the younger generation. ③ This is a skill that will help them all throughout life. ④ In fact, the ability to maintain emotional control when 17 by stress is one of the most significant of all life's skills.\n\n①如果你总是对孩子失去冷静，那么你就在为孩子树立一个缺乏情绪控制力的范例。②我们大家都越来越明白为年轻一代树立耐心典范的重要性。③这是一项可以让他们受益终身的技能。④事实上，面对压力时能够保持情绪控制是最重要的生活技能之一。"
+      },
+      {
+       "number": 15,
+       "score": 0.5,
+       "options": {
+        "A": "time",
+        "B": "bond",
+        "C": "race",
+        "D": "cool"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n15. [A] time 时间；时代；次数\n\n[B] bond(情感)纽带；结合；约定；债券\n\n[C] race 比赛，竞争；种族；门第\n\n[D] cool 冷静，镇定；凉爽\n\n[考点提炼] 上下文语义+固定搭配。\n\n[解题思路] 空格句内条件状语从句 If... then 提示“你给孩子树立缺乏情绪控制的范例”为“你不断对孩子失去____”的结果（文中 you 均指“父母”），则空格词应与“情绪控制”语义相近。结合贯穿全文的话题“父母对孩子失去耐心”，可进一步明确空格词应表与“耐心”相近的特质，选项中只有 [D]cool（平静、镇静）与之有交集，故正确，lose/keep your cool 为习语，意为“火冒三丈/保持沉着”。\n\n[错项排除] [A]time 指向“父母与孩子相处时间不足”，偏离文中要义“育儿难保持耐心”。[B]颠倒因果：bond 虽与上段末句 relationship 同义，但“亲子关系遭破坏”是“父母对孩子发怒”的结果而非原因。[C]race 借“孩子捣蛋、父母发怒”臆想竞赛场景并强加关联，但父母输赢与情绪自控力无关。"
+      },
+      {
+       "number": 16,
+       "score": 0.5,
+       "options": {
+        "A": "nature",
+        "B": "secret",
+        "C": "importance",
+        "D": "context"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n16. [A] nature 本性；性质；自然种类\n\n[B] secret 秘密，机密；秘诀\n\n[C] importance 价值；重要；傲慢\n\n[D] context 环境；上下文；来龙去脉\n\n[考点提炼] 上下文语义逻辑。\n\n[解题思路] 空格句指出，我们都愈发认识到为年轻一代树立耐心典范的____。结合前句“父母失去冷静会给孩子树立缺乏情绪控制的范例”、下两句“这(指代“情绪控制”)是一项可让孩子受益终身的技能(help...throughout life)”“情绪控制是最重要的生活技能(most important...skills)”可推知本段逻辑链：①句暗示缺乏情绪控制力的后果→②句点明情绪控制力的重要性/价值/意义→③④句具体解释情绪控制力的意义，[C]符合文意。\n\n[错项排除] [A]指向“树立耐心典范”的“本质、属性(the basic qualities)”, [B]指向其“方法、技巧”, [D]指向其“外在条件、环境”, 虽能使②句单独成为逻辑自洽的句子，但与上下文逻辑链条脱节。"
+      },
+      {
+       "number": 17,
+       "score": 0.5,
+       "options": {
+        "A": "cheated",
+        "B": "defeated",
+        "C": "confused",
+        "D": "confronted"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n17. [A] cheated 欺骗；骗取\n\n[B] defeated 击败；挫败\n\n[C] confused 使混乱；使困惑\n\n[D] confronted 面对；遭遇\n\n[考点提炼] 上下文语义。\n\n[解题思路] In fact(确切地说)提示④句在③句基础上说明“控制情绪”更重要/具体的作用，空格后 stress 呼应第二至四段所述父母发怒的诱因“压力、疲劳(exhausted、fatigue)”,表明空格句所述“在被压力____时控制情绪的能力”能解决前文所述问题“父母在疲惫时易向孩子发怒”,空格词应表“影响/困扰”之意，be confronted by sth 指“面对(有威胁或难处理的事物)”,故[D]正确。\n\n[错项排除] [A]、[C]均歪曲了压力对父母的影响，文中只提到压力会使父母无法控制情绪，并未提到压力会使父母思维混乱、虚实不分。[B]暗含“父母已被压力击溃、无可救药”之意，与文中建议的隐含义“父母可通过控制情绪避免被压力影响”相悖。\n\n**词汇注释与难句分析**\n\nconsistently ad. 一贯地；始终\n\nmodel v. 塑造\n\n**语篇分析**\n\n第五段正说，指出父母控制情绪的作用。①句递进上段末信息，指出“情绪失控”成为常态后会造成更严重影响。随后以 modeling a lack... your kids vs modeling... younger generation 正反对比强调“父母总是情绪失控”会影响“孩子的情绪自控力”,②句以大众共识解释“父母树立好榜样/控制好情绪的必要性”。importance 呼应上段①句 vital,一方面强调父母控制情绪的重要性；另一方面暗示情绪控制能力对孩子有重要意义。③④句以 This is a skill that will... In fact, the ability... 递进呈现情绪控制的作用，all throughout life、most significant of all life's skills 强调作用之深远、重大。when confronted by stress 复现第二至四段所述父母情绪失控的诱因“精神压力”(exhausted、push... too far、moment of fatigue),从而实现“问题→应对技能”的圆合。\n\nVI ① Certainly, it's \\_18\\_ to maintain patience at all times with your kids. ② A more practical goal is to try to be as calm as you can when faced with _19 situations involving your children. ③ I can promise you this: As a result of working toward this goal, you and your children will benefit and \\_20\\_ from stressful moments feeling better physically and emotionally. [385 words]\n\n①当然，始终对孩子保持耐心是困难的。②一个更可行的目标是，在面临那些涉及到孩子的难熬情形时，尽可能地保持冷静。③我可以向你保证：朝着这个目标努力，你和你的孩子都将从倍感压力的时刻中获益并脱离，获得更好的身心状态。"
+      },
+      {
+       "number": 18,
+       "score": 0.5,
+       "options": {
+        "A": "terrible",
+        "B": "hard",
+        "C": "strange",
+        "D": "wrong"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n18. [A] terrible 可怕的；糟糕的；令人讨厌的\n\n[B] hard 困难的；努力的；硬的；严厉的\n\n[C] strange 奇怪的；陌生的；外行的\n\n[D] wrong 错误的；失常的；不适当的；不道德的\n\n[考点提炼] 上下文语义。\n\n[解题思路] 空格句指出“当然，始终对孩子保持耐心____。”下句指出“一种更可行的做法是……”。可见，空格句承上文“保持耐心的重要性”退而承认保持耐心很难，并引出更实际可行的做法，[B]符合文意。同时契合第三、四段要义“成为耐心的父母并非一项简单的任务”“父母对孩子发怒情有可原”。\n\n[错项排除] [A]、[D]均传达“父母始终对孩子保持耐心是一种错误做法”之意，[C] strange 表示“某情况不正常、出人意料，令人担忧或害怕”，同样否定了该做法的意义，偏离作者态度“始终对孩子保持耐心是最理想的状态，尽管很难”。"
+      },
+      {
+       "number": 19,
+       "score": 0.5,
+       "options": {
+        "A": "trying",
+        "B": "changing",
+        "C": "exciting",
+        "D": "surprising"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n19. [A] trying 令人厌烦的；难对付的\n\n[B] changing 变化的，发展的\n\n[C] exciting 令人兴奋的；使人激动的 [D] surprising 令人惊讶的；意外的\n\n[考点提炼] 上下文语义+熟词僻义。\n\n[解题思路] 空格句指出，一个更现实可行的目标是父母在面临涉及孩子的____情况时尽可能地保持镇静。回溯上文多次复现的信息“成为耐心的父母并不容易，父母时常被孩子逼得情绪失控”可知，_situations involving your children 应为“令人烦恼或失去耐心的、难应付的育儿时刻”,[A] trying 用于说明“某事/人惹人烦、难对付”,故正确。\n\n[错项排除] 由上下文可知，空格词应体现处境对父母不利，首先排除含正向语义的 [C] exciting。[B] changing、[D] surprising 虽可传达负面语义，但前者表意过于宽泛，不能直接指向文中关注的焦点情况“育儿中失去耐心而暴怒”, 而后者与文中 I understand this、We've all been there、it's common 所暗示的该情况“司空见惯，父母皆有体会”相矛盾。"
+      },
+      {
+       "number": 20,
+       "score": 0.5,
+       "options": {
+        "A": "hide",
+        "B": "emerge",
+        "C": "withdraw",
+        "D": "escape"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n20. [A] hide 隐藏；隐瞒；掩饰\n\n[B] emerge 浮现；摆脱；暴露\n\n[C] withdraw 撤退；收回；撤消\n\n[D] escape 逃避，避开，避免；漏出\n\n[考点提炼] 上下文语义+动词辨析。\n\n[解题思路] 空格句说明目标达成 (goal 与②句 A more practical goal 同指) 的结果 (promise you this, As a result... this goal): 父母和孩子都将从紧张的时刻中获益并 ____，身心状态都得到提升。根据上下文以及 and 可知，____ from stressful moments 应和“从中获益”一样，皆体现积极结果，emerge from sth 意为“(从困境或苦难经历中)幸存下来，摆脱出来”，故 [B] 符合文意。\n\n[错项排除] [A]、[C]、[D]均可表示“与……分离，从……中出来”，但均含“因无法解决问题/被击溃而被动消极地逃避”之意，谈不上“最终结果积极、结局良好”。\n\n**词汇注释与难句分析**\n\npractical a. 实际的，务实的\n\nbe faced with 面对；面临\n\nas a result of 由于；作为……的结果\n\nA more practical goal is to try to be as calm as you can when faced with trying situations involving your children.\n\n功能注释：主句主语 A more practical goal 提示引出更可行的建议，不定式 to try 作主句表语，to... you can 说明 try 的内容，其中嵌套时间状语从句 when... situations 说明建议适用场景，后置定语 involving your children 修饰 situations 限定场景类型。\n\n**语篇分析**"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part A",
+   "instructions": "Read the following four texts. Answer the questions below each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET 1. (40 points)",
+   "score": 40,
+   "groups": [
+    {
+     "type": "reading",
+     "passage": [
+      "Rats and other animals need to be highly attuned to social signals from others so they can identify friends to cooperate with and enemies to avoid.To find out if this extends to non-living beings, Laleh Quinn at the University of California, San Diego, and her colleagues tested whether rats can detect social signals from robotic rats.",
+      "They housed eight adult rats with two types of robotic rat—one social and one asocial—for four days.The robot rats were quite minimalist, resembling a chunkier version of a computer mouse with wheels to move around and colourful markings.",
+      "During the experiment, the social robot rat followed the living rats around, played with the same toys, and opened cage doors to let trapped rats escape. Meanwhile, the asocial robot simply moved forwards and backwards and side to side.",
+      "Next, the researchers trapped the robots in cages and gave the rats the opportunity to release them by pressing a lever.Across 18 trials each, the living rats were 52 per cent more likely on average to set the social robot free than the asocial one. This suggests that the rats perceived the social robot as a genuine social being, says Quinn. The rats may have bonded more with the social robot because it displayed behaviors like communal exploring and playing. This could lead to the rats better remembering having freed it earlier, and wanting the robot to return the favour when they get trapped, she says .",
+      "“Rats have been shown to engage in multiple forms of reciprocal help and cooperation, including what is referred to as direct reciprocity where a rat will help another rat that has previously helped them,” says Quinn.",
+      "The readiness of the rats to befriend the social robot was surprising given its minimal design.The robot was the same size as a regular rat but resembled a simple plastic box on wheels. “We’d assumed we’d have to give it a moving head and tail, facial features, and put a scent on it to make it smell like a real rat, but that wasn’t necessary, ” says Janet Wiles at the University of Queensland in Australia, who helped with the research.",
+      "The finding shows how sensitive rats are to social cues, even when they come from basic robots. says Wiles. Similarly, children tend to treat robots as if they are fellow beings, even when they display only simple social signals. “We humans seem to be fascinated by robots, and it turns out other animals are too,” says Wiles."
+     ],
+     "questions": [
+      {
+       "number": 21,
+       "score": 2,
+       "stem": "Quinn and her colleagues conducted a test to see if rats can .",
+       "options": {
+        "A": "pick up social signals from non-living rats",
+        "B": "distinguish a friendly rat from a hostile one",
+        "C": "attain sociable traits through special training",
+        "D": "send out warning messages to their fellows"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n| 21. Quinn and her colleagues conducted a test to see if rats can ____. | 21. 奎因和同事进行了一项试验，观察老鼠是否能____。 |\n| --- | --- |\n| [A] pick up social signals from non-living rats | [A] 接收非生命鼠发出的社交信号 |\n| [B] distinguish a friendly rat from a hostile one | [B] 分辨一只老鼠是敌是友 |\n| [C] attain sociable traits through special training | [C] 通过特殊训练掌握社交技能 |\n| [D] send out warning messages to their fellows | [D] 向同伴们发出警告信息 |\n\n[精准定位]首段末句介绍奎因等的研究目标(tested whether):测试老鼠是否能察觉机器鼠发出的社交信号，[A]正确。\n\n[命题解密]“题干+[A]”同义改写首段末句，if...pick up...from non-living rats 替换 whether...detect...from robotic rats/non-living beings。\n\n[B]、[C]均利用①句已知信息干扰，[B]改写 identify friends... and enemies, 但“接收社交信号以分辨敌友”是老鼠已被证实的能力，而非待证实的能力；[C]将 need to be highly attuned to social signals 断章取义为“老鼠对社交信号不够敏感”，并在此基础上臆断研究者想要观察是否可通过特殊训练提升其技能(attain... through special training)。[D]将研究目标“观察老鼠能否接收/识别(detect)机器鼠(其相似物)发出的社交信息”窜改为完全反向的“观察老鼠是否会向其发出(send out)信息”。\n\n[技巧总结]本题就首段命制事实题，意在考查新研究的目的，要求考生辨别“研究背景/已知信息”与“研究目标/待验证信息”。可采用思路：先由②句 To find out if this extends to...梳理首段逻辑“①句先介绍已知信息，②句引出研究者在已知信息基础之上的进一步研究”，从而明确“②句为正确项来源，且①句很可能被用于设置干扰”。随后重点分析②句，可进一步锁定正确项来源 whether rats can detect social signals from robotic rats，并结合前半句得知 robotic rats 代表 non-living beings，从而确定 [A] 正确。其余选项或利用①句背景信息干扰 ([B]、[C])，或窜改研究目标 ([D])。\n\nII ① They housed eight adult rats with two types of robotic rat—one social and one asocial —for four days. ② The robot rats were quite minimalist, resembling a chunkier version of a computer mouse with wheels to move around and colourful markings.\n\nⅢ① During the experiment, the social robot rat followed the living rats around, played with the same toys, and opened cage doors to let trapped rats escape. ② Meanwhile, the asocial robot simply moved forwards and backwards and side to side.\n\n研究人员让8只成年鼠与2只不同类型的机器鼠——一只爱社交，一只不合群——共处一室4天。这两只机器鼠外形相当简约抽象，就像矮胖版的电脑鼠标，靠轮子四处移动，带有鲜艳的标记。\n\n在试验过程中，社交机器鼠跟随生物鼠们四处走动，玩同样的玩具，还会打开笼门让被困老鼠逃脱。在此期间，非社交机器鼠则只是前后、左右来回移动。\n\n**词汇注释与难句分析**\n\nhouse v. 供……居住\n\nasocial a. 不合群的，缺乏社交性的\n\nminimalist a. 极简抽象的\n\nresemble v. 像，类似\n\nchunky a. 矮胖的\n\nmarking n. 标记\n\ntrapped a. 受困的，被捕获的\n\n第二、三段介绍试验步骤一：让8只成年鼠和2只机器鼠（一只积极社交 vs 一只避免社交）共处一室4天。\n\n第二段介绍研究对象。关键词：eight adult rats with two types of robotic rat (8 只成年鼠和 2 只不同类型的机器鼠)。\n\n句概述试验设置及机器鼠差异。一连串数字 eight adult rats... two types of robotic rat... for four days 明确研究对象“8 只成年鼠、2 只机器鼠”以及本阶段试验时长“4 天”; 插入语 one social and one asocial 强调两只机器鼠“性格迥异”: 积极社交 vs 避免社交；句中 house 用作动词，明确试验方式“让它们共处一室”。\n\n句介绍机器鼠的外形特点。先以 quite minimalist 概括机器鼠设计特点：相当简约抽象，远非栩栩如生 (minimalist 本指“极简主义的，极简抽象派的”)。后具体介绍机器鼠与真老鼠相去甚远的三大特点：(1) 体型像矮胖版鼠标 (resembling...); (2) 活动靠轮子四处移动 (with wheels...); (3) 装饰有鲜艳的标记 (with colourful markings...)。注：联系上句可知，colourful markings 指给两只机器鼠标上不同的颜色以示区分。\n\n第三段介绍两只机器鼠在试验中截然不同的社交表现。关键词：the social robot rat(社交机器鼠)；the asocial robot(非社交机器鼠)。\n\n句介绍社交机器鼠(the social robot rat)的表现。During the experiment 引出对试验过程的介绍；三个并列动词短语 followed...around、played with the same toys、opened cage doors to let trapped rats escape 描绘社交机器鼠“爱好社交、与老鼠们亲密接触”的多个画面，展示其 social(积极社交的)特征：跟着老鼠们四处走动、同游同玩儿，甚至在老鼠被困的时候开门放其逃走。注：the living rats 强调“真老鼠，活老鼠”，与“机器鼠”(non-living beings/non-living rats/robot rats/robotic rats)相对。\n\n句介绍非社交机器鼠(the asocial robot)的表现。Meanwhile 体现两句并列关系，引出非社交机器鼠与社交机器鼠截然不同的表现。simply(“仅仅是，不过是”暗含和①句的对比，强调活动单一)修饰 moved forwards and backwards and side to side(描绘独自进行的重复性动作)，说明非社交机器鼠 asocial(避免社交的)特征。\n\n【段落梳理】第二、三段阅读重点在于理解两只机器鼠的异同：1. 抓住关键词 quite minimalist 理解两只机器鼠的共同特征“极简抽象，远非栩栩如生”；2. 借关键词对 social vs asocial 理解二者迥然不同的社交表现“一只积极社交，与老鼠们同游同玩儿 vs 一只避免社交，独自动来动去”。"
+      },
+      {
+       "number": 22,
+       "score": 2,
+       "stem": "What did the asocial robot do during the experiment?",
+       "options": {
+        "A": "It followed the social robot.",
+        "B": "It played with some toys.",
+        "C": "It set the trapped rats free.",
+        "D": "It moved around alone."
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 22. What did the asocial robot do during the experiment? | 22. 在试验过程中，非社交机器鼠做了什么？|\n| --- | --- |\n| [A] It followed the social robot. | [A] 它跟着社交机器鼠。 |\n| [B] It played with some toys. | [B] 它玩了一些玩具。 |\n| [C] It set the trapped rats free. | [C] 它释放了被困的老鼠。 |\n| [D] It moved around alone. | [D] 它独自四处移动。 |\n\n[精准定位]由 the asocial robot、during the experiment 定位至第三段末句。该句介绍试验过程中非社交机器鼠的表现：只是前后、左右移动。[D]正确。\n\n[命题解密]正确项[D]同义改写第三段末句，alone 点明了句中 simply 一词暗含的对比之意：与社交机器鼠相反，非社交机器鼠不与老鼠们同游同玩儿，而是独自前后左右移动。\n\n[A]、[B]、[C]均张冠李戴，利用第三段首句社交机器鼠(the social robot)的表现捏造干扰，并非题目所问“非社交机器鼠(the asocial robot)行为”。[A]更是将“社交机器鼠跟随生物鼠走动”窜改为原文并未出现的信息“非社交机器鼠跟随社交机器鼠走动”。\n\n[技巧总结]本题考查试验过程中某一对象(非社交机器鼠)的表现，要求考生辨别不同对象的行为，避免张冠李戴。具体来说，可借助 During the experiment, the social robot rat... Meanwhile, the asocial robot simply... 以及关键词对 social vs asocial 明确“社交鼠”和“非社交鼠”的行为截然不同，锁定②句信息，并警惕①句陷阱。\n\nIV ① Next, the researchers trapped the robots in cages and gave the rats the opportunity to release them by pressing a lever. ② Across 18 trials each, the living rats were 52 per cent more likely on average to set the social robot free than the asocial one. ③ This suggests that the rats perceived the social robot as a genuine social being. ④ They may have bonded more with the social robot because it displayed behaviours like communal exploring and playing. ⑤ This could lead to the rats better remembering having freed it earlier, and wanting the robot to return the favour when they get trapped, says Quinn.\n\nV “Rats have been shown to engage in multiple forms of reciprocal help and cooperation, including what is referred to as direct reciprocity—where a rat will help another rat that has previously helped them,” says Quinn.\n\n接下来，研究人员将机器鼠关进笼子，并给老鼠一个按下控制杆解救机器鼠的机会。在对每只(生物鼠)各18次的试验中，生物鼠解救社交机器鼠的几率比解救非社交机器鼠的几率平均高出52%。这表明老鼠将社交机器鼠看作了真正的社交生物。它们可能因先前社交机器鼠表现出集体探险及游戏等行为而与其建立了更强的情感纽带。奎因称，这可能会使老鼠们更清楚记起自己之前曾经解救过机器鼠，并希望自己受困时能得到它相应的回报。\n\n“已有研究表明，老鼠会进行多种形式的互助及合作，其中包括被称为‘直接互惠’的行为，即老鼠会帮助之前曾帮助过自己的另一只老鼠。”奎因说道。\n\n**词汇注释与难句分析**\n\nrelease v. 释放\n\nlever n. 杠杆\n\ntrial n. 试验\n\ngenuine a. 真正的，名副其实的\n\ncommunal a. 公共的，团体的\n\nreciprocal a. 互惠的\n\n**经典搭配**\n\nperceive...as...（将……视为……）\n\nbond with...（与……建立关系）\n\nreturn the favour（回报）\n\n\"Rats have been shown to engage in multiple forms of reciprocal help and cooperation, including what is referred to as direct reciprocity—where a rat will help another rat that has previously helped them,\" says Quinn.\n\n功能注释：本句直接引用 Quinn 发言，采用倒装句式将 says Quinn 移至最后。引语部分主干为 Rats have been shown to engage in multiple forms of reciprocal help and cooperation。including...借助列举聚焦其中一种互助合作方式：直接互惠(direct reciprocity);后接 where 引导的从句解释其内涵，内嵌 that 定语从句揭示直接互惠的关键——帮助曾经帮过自己的老鼠。\n\n**语篇分析**\n\n第四、五段介绍试验步骤二，说明其发现并分析原因，且借先前研究佐证推理（初步回答开篇问题：老鼠能接收机器鼠发出的社交信号）。\n\n第四段介绍步骤二，说明发现并分析原因。关键词：more likely... to set the social robot free(更倾向于解救社交机器鼠)。\n\n①句介绍试验设置：将机器鼠关进笼子，并留给老鼠营救机会。Next 提示试验进入下一阶段；gave the rats the opportunity to... 言外之意为，研究者留给老鼠营救机器鼠的机会，并静观其行为：救还是不救？救社交鼠还是非社交鼠？(注：句中用的是 robots,即：两只机器鼠都被关进笼中)。\n\n②句介绍试验发现：老鼠营救社交鼠的几率大大高于非社交鼠。Across 18 trials each(意即对8只老鼠每只进行18次试验)以试验次数之多凸显试验结果之可靠。more likely on average to set the social robot free 明确老鼠总体倾向：更可能去解救社交机器鼠。52 per cent 则强调这一倾向非常明显。\n\n**③至⑤句分析原因。**\n\n③句总评：老鼠将社交机器鼠视为了真正的社交生物。This suggests(This 指代②句所述试验结果)开启对试验结果的分析。genuine 修饰 social being, 强调“真正的，真实的”,与 robot 内涵“人造机器”形成对比，强调老鼠实际上已完全将社交机器鼠视为同类。\n\n④⑤句详细推理老鼠将机器鼠视为真正社交生物并进行营救的“心理”。\n\n④句回顾步骤一，指出老鼠可能与社交机器鼠在共同的活动中建立了更深的情感。may 表示推测，即分析老鼠救援倾向，推测其中原因。从句 because it displayed behaviours like communal exploring and playing(communal 意为“集体的，共同的”)回应第三段①句“社交机器鼠与真老鼠们同游同玩儿”的画面；主语以 have bonded more 说明其产生的效果：老鼠们与社交机器鼠建立了较强的情感纽带。\n\n⑤句回归步骤二，指出(第一阶段)建立的情感纽带使得(第二阶段)老鼠更愿意做出营救行为。句子整体以 This could lead to sb doing... and doing... 结构表明“情感纽带”所激发的老鼠多重“心理活动/营救动机”:1. 老鼠会更清楚地记起自己之前曾解救过机器鼠(这次也就更愿意继续施救);2. 老鼠希望自己有朝一日被困时也能得到机器鼠的回报(救人等于救自己)。\n\n第五段援引已有研究发现确证老鼠的“救人等于救自己”心理。关键词：direct reciprocity(直接互惠)。\n\n本句三部分以递进逻辑逐步确证上段末所述老鼠的动机“希望他日机器鼠会回报自己”（wanting the robot to return the favour when they get trapped): 主句 have been shown... 表明先前研究已经证实老鼠会进行多种形式的互助及合作 (multiple forms of reciprocal help and cooperation) → 介词短语 including... 聚焦其中一种“直接互惠 (direct reciprocity)” → where 从句进一步解释直接互惠的内涵“老鼠会报答曾经帮助过自己的其他老鼠”，直接契合本次试验中的老鼠心理“营救机器鼠以期待他日自己能被机器鼠营救”，同时暗中契合研究发现“老鼠更倾向于解救曾经救过自己的社交机器鼠”。\n\n【段落梳理】1. 第四段可借助各句时态线索划分意群：①②句为过去时态(trapped/gave/were), 介绍试验设置和发现；③④⑤句变为现在时态(suggests/says Quinn/she says), 援引研究者话语解释试验发现。2. 第四段③④⑤句以及第五段均引用研究者 Quinn 话语解释研究发现，可视为一体，This suggests that... The rats may have... This could lead to... Rats have been shown... 体现其间逻辑：总体解读试验结果——具体推理分析原因——援引已有发现佐证推理。3. 第四、五段所述研究发现“老鼠会解救与自己同游同玩儿的社交机器鼠”实则肯定回答了首段提出的问题：老鼠也能接收机器鼠发出的社交信号。"
+      },
+      {
+       "number": 23,
+       "score": 2,
+       "stem": "According to Quinn, the rats released the social robot because they .",
+       "options": {
+        "A": "tried to practice a means of escape.",
+        "B": "expected it to do the same in return.",
+        "C": "wanted to display their intelligence.",
+        "D": "considered that an interesting game."
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 23. According to Quinn, the rats released the social robot because they ____. | 23. 奎因指出，老鼠释放社交机器鼠是因为它们____。 |\n| --- | --- |\n| [A] tried to practice a means of escape | [A] 想实践一种脱困的方法 |\n| [B] expected it to do the same in return | [B] 希望机器鼠能报以同样的行为 |\n| [C] wanted to display their intelligence | [C] 想要展示自己的智力 |\n| [D] considered that an interesting game | [D] 认为这是个有趣的游戏 |\n\n[精准定位]第四段①②句指出，老鼠更倾向于解救社交机器鼠；③④⑤句分析指出，老鼠可能与社交机器鼠建立起了情感联结，希望将来自己被困时也能得到相应的回报，所以愿意施救，[B]正确。\n\n[命题解密]正确项[B]同义改写第四段末句 wanting the robot to return the favour when they get trapped。\n\n[A]将第四段①句 release them by pressing a lever 断章取义为老鼠想实践一种新的逃跑方法，但“按下控制杆”是老鼠帮助机器鼠脱困的方式，不是施救的原因。[C]将④句 displayed behaviours...（社交机器鼠曾表现出集体探险及游戏行为）曲解为“老鼠想要展示自己的智力”。[D]将④句 exploring and playing（老鼠先前曾与机器鼠共同游戏）曲解为“老鼠如今之所以营救机器鼠是因为认为这是个有趣的游戏”。\n\n[技巧总结]本题就“试验结果(老鼠解救社交机器鼠)原因分析”部分命题，要求考生理清因果关联。第四段③句 This suggests 开启分析，④⑤句 may/could 进行推理，因果关联词 because、lead to 串联起施救原因分析：先前社交机器鼠参与老鼠的集体活动→老鼠与其建立了更深的情感联结→现在老鼠更容易记起以前曾经解救过机器鼠，且寄希望于机器鼠将来报答自己(→于是愿意施救),[B]正确。其余各项均借原文个别表达主观臆断。\n\nVI ① The readiness of the rats to befriend the social robot was surprising given its minimal design. ② The robot was the same size as a regular rat but resembled a simple plastic box on wheels. ③ “We’d assumed we’d have to give it a moving head and tail, facial features, and put a scent on it to make it smell like a real rat, but that wasn’t necessary,” says Janet Wiles at the University of Queensland in Australia, who helped with the research.\n\nVII ① The finding shows how sensitive rats are to social cues, even when they come from basic robots. ② Similarly, children tend to treat robots as if they are fellow beings, even when they display only simple social signals. ③ “We humans seem to be fascinated by robots, and it turns out other animals are too,” says Wiles. [419 words]\n\n出人意料的是，这只社交机器鼠设计如此简陋，老鼠却仍愿意与它交朋友。机器鼠虽与普通老鼠大小相当，外形却像一个带轮子的简易塑料盒。“我们原以为必须给它加上活动的头和尾巴，面部特征和以假乱真的老鼠气味才行，但结果证明没有必要。”澳大利亚昆士兰大学的珍妮特·怀尔斯说道，她协助了此项研究。\n\n该发现表明老鼠对于社交信号非常敏感，即便这些信号来自简单的机器鼠。与之相似，儿童也往往将机器人视为同类，即便这些机器人只能发出简单的社交信号。“我们人类似乎被机器人深深吸引，事实证明其他动物也一样。”怀尔斯说道。\n\n**词汇注释与难句分析**\n\nreadiness n. 愿意\n\nregular a. 普通的\n\nassume v. 假定，设想\n\nsensitive a. 敏感的\n\nfascinate v. 使着迷\n\n**语篇分析**\n\n第六、七段进一步着眼机器鼠的“粗陋设计”，指出老鼠对机器鼠社交信号的敏感性超出研究者预期。\n\n第六段指出，老鼠愿意与设计如此粗陋的机器鼠交朋友令研究者感到吃惊。关键词：① minimal design(粗陋的设计);② surprising(出人意料的)。\n\n①句指出研究发现令研究者惊讶。The readiness of the rats to befriend the social robot(befriend 意为“与……交朋友”;readiness 强调“乐意、愿意”)回应第四段发现“老鼠与社交机器鼠建立起情感纽带并愿意去解救它”;surprising 强调这一发现“出人意料”,预示下文将提及研究者“原本预期”;given its minimal design(minimal design 复现第二段②句 quite minimalist)明确吃惊原因：机器鼠设计极其简陋(言下之意：机器鼠外形与真鼠相去甚远，但老鼠仍将其视为朋友，这确实令人意外)。\n\n②句介绍机器鼠粗陋设计，说明其与真鼠相去甚远。but 提示句内转折，语义重点在后：先让步承认机器鼠大小与老鼠相当（the same size as a regular rat），后回应首句 minimal design，强调机器鼠与老鼠差异巨大：只是一个带轮子的简易塑料盒（a simple plastic box on wheels）。\n\n③句援引 Wiles 话语说明研究者原本预期，并指出实际发现大大超出预期。We'd assumed we'd have to... but that wasn't necessary 凸显“研究者预期”与“实际发现”的对比。一连串详述 a moving head and tail... facial features... a scent to make it smell like a real rat 暗含与 a simple plastic box on wheels 的对比，说明研究者原本预期“机器鼠需更为仿真，老鼠才会接收其发出的社交信号”；that wasn't necessary 言简意赅，明确指出实际发现大大超出预期。\n\n第七段进而明确指出：老鼠对社交信号的敏感性达到了会将简易机器鼠视为同类的程度。关键词：①sensitive(敏感的);②fascinated by robots(被机器人吸引)。\n\n①句承上得出结论：研究发现表明老鼠对于社交信号非常敏感，哪怕这些信号来自简单的机器鼠。句子整体以 how sensitive... even when... 强调老鼠对社交信号极为敏感，且将语义重点置后：how sensitive rats are to social cues 复现首段 Rats... highly attuned to social signals; even when they come from basic robots 明确回答首段设问 whether rats can detect social signals from robotic rats。basic 呼应上文 minimal design,凸显老鼠对社交信号的高度敏感。\n\n②③句进一步类比人类，指出老鼠也会被机器人（鼠）吸引。\n\n②句指出儿童类似行为：能感知机器人的社交信号，将其视为同类。Similarly 提示引出类似现象；treat robots as if they are fellow beings 揭示儿童常见行为“将机器人视为同类”,呼应第四段老鼠行为“将机器鼠视为真正的社交动物(perceived the social robot as a genuine social being)”。even when 引导的让步状语从句复现上句结构，凸显老鼠与儿童行为的相似性；display only simple social signals 呼应 come from basic robots,进一步强调二者相似性：机器人/鼠的社交信号再简单，也不影响儿童/老鼠将其视为同类。\n\n③句作结：动物与人一样，也会被机器人吸引。We humans、other animals 分别是上句 children、rats 的上义词，提示对上句进行概括总结。fascinated by robots/too 则指出人与动物都被机器人吸引。\n\n【全文梳理】本文围绕一项旨在观察“老鼠能否接收机器鼠发出的社交信号”的研究展开说明，理解关键在于：1. 识别文中同义表达、明确文章主旨：highly attuned to social signals、identify friends to cooperate、detect social signals、reciprocal help and cooperation、direct reciprocity、befriend、sensitive... to social cues 共同指向“老鼠对社交信号的高度敏感性”；2. 辨别文中多个“对象”，厘清试验的来龙去脉：“真老鼠”相关表达有：rats、adult rats、living rats、a regular/real rat、a genuine social being；“机器鼠”相关表达有：non-living beings、(social/asocial) robotic rats、the robot、basic robots 等。"
+      },
+      {
+       "number": 24,
+       "score": 2,
+       "stem": "Janet Wiles notes that rats .",
+       "options": {
+        "A": "can remember other rats’ facial features.",
+        "B": "differentiate smells better than sizes.",
+        "C": "respond more to actions than to looks.",
+        "D": "can be scared by a plastic box on wheels."
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n| 24. Janet Wiles notes that rats ____. | 24. 珍妮特·怀尔斯指出老鼠____。 |\n| --- | --- |\n| [A] can remember other rats' facial features | [A] 可以记住其他老鼠的面部特征 |\n| [B] differentiate smells better than sizes | [B] 更善于区分气味而不是体型大小 |\n| [C] respond more to actions than to looks | [C] 对行动比对样貌的反应更大 |\n| [D] can be scared by a plastic box on wheels | [D] 会被带轮子的塑料盒吓到 |\n\n[精准定位]由题干人名关键词 Janet Wiles 定位至第六、七段。第六段③句指出，Wiles 原以为要给机器鼠加上各种仿真的外形设计（可活动的头、尾等），老鼠才会愿意与其交朋友，但结果证明这些根本没有必要，即：尽管机器鼠样貌不够逼真，但老鼠仍然会因其行动而亲近它，[C]正确。\n\n[命题解密]正确项是对第六段③句 We'd assumed... but that wasn't necessary 反映出的“对老鼠来说，机器鼠的样貌没那么重要（其行动更为重要）”的正确解读。\n\n[A]、[B]、[D]利用第六段②③句提及的 facial features、scent、smell、size、a plastic box on wheels 膝测出“老鼠对面部特征、气味、体型等这些外形特征的具体反应”，但原文意在说明“这些特征的缺失并不妨碍老鼠与机器鼠建立情感联结”（即：老鼠对这些特征并不在意/反应不大），选项与此相悖。从另一个角度看，文中论及的是老鼠对“机器鼠”的反应，并未提及对“其他老鼠”的反应，[A]偏离文意；文中并未提及老鼠对“味道”和“体型大小”的不同反应，[B]捏造比较；文中指出老鼠愿意与机器鼠（带轮子的塑料盒）做朋友，[D]违背文意。\n\n[技巧总结]本题考查某一研究人员对于研究对象的看法，要求考生正确理解人物观点。第六、七段均涉及 Wiles 观点，需整体理解。另外，理解过程中需结合其身份“研究者之一”,意识到正确项应顺应研究发现。第六段①②句指出研究发现尽管机器鼠外形简陋，老鼠仍然愿意与其交朋友，这令人惊讶；③句 Wiles 以虚拟语气指出“我们原以为必须给它加上……但(结果证明)没有必要”。第七段首句 Wiles 以让步结构强调“机器鼠对社交信号高度敏感，哪怕它来自外形设计简陋的机器鼠”。整体理解可知，Wiles 意在说明“机器鼠外形不重要，其行动(回应第三段内容)已足以引起老鼠的交友意愿”,[C]正确。"
+      },
+      {
+       "number": 25,
+       "score": 2,
+       "stem": "It can be learned from the text that rats .",
+       "options": {
+        "A": "appear to be adaptable to new surroundings",
+        "B": "are more socially active than other animals",
+        "C": "behave differently from children in socializing",
+        "D": "are more sensitive to social cues than expected"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| 25. It can be learned from the text that rats ____. | 25. 从本文中我们可以知道，老鼠____。 |\n| --- | --- |\n| [A] appear to be adaptable to new surroundings | [A] 似乎很容易适应新环境 |\n| [B] are more socially active than other animals | [B] 比其他动物更积极社交 |\n| [C] behave differently from children in socializing | [C] 在社交方面与儿童表现不同 |\n| [D] are more sensitive to social cues than expected | [D] 对社交信号的敏感度高于预期 |\n\n[精准定位]第六段①句指出，老鼠与设计简陋的机器鼠交朋友的行为出人意料；②③句解释：研究人员原以为要给机器鼠加上可活动的头和尾巴等，以使其更像老鼠，但事实证明没有必要。第七段得出结论：老鼠对社交信号非常敏感，即使这些信号来自简单的机器鼠。可见，老鼠对社交信号的敏感超出研究者预期，[D]正确。\n\n[命题解密][D]正确解读第六段 The readiness of the rats... was surprising... 及第七段 how sensitive... are to social cues, even when... 传达的研究人员的“惊讶之情”。\n\n[A]夸大其词：文中只提及“老鼠愿意与机器鼠交朋友”,由此无法推知“老鼠擅长适应新环境”。[B]捏造比较：文中只提及老鼠对社交信号高度敏感，并未涉及与其他动物的比较。[C]与第七段②句相悖：“老鼠与儿童均可察觉到机器人发出的社交信号”表明“老鼠与儿童在社交方面表现相同”。\n\n[技巧总结]根据题目位置(最后一题)及各选项内容(关于“老鼠”的论断)可知本题很可能考查研究结论。解题时需先把握核心发现，再确认具体细节：先从首尾段快速提取核心信息：老鼠对社交信号十分敏感，即便这些信号来自简单的机器鼠，大致确定[D]为正确项。随后确认细节：[D]涉及研究人员对研究的预期，可定位至第六段首句 surprising,并确认该项正确。而“老鼠适应新环境的能力”“老鼠社交能力与其他动物的比较”文中均未提及，可排除[A]、[B];[C]与第七段②句相悖，也排除。"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "passage": [
+      "It is true that CEO pay has gone up—top ones may make 300 times the pay of typical workers on average, and since the mid-1970s, CEO pay for large publicly traded American corporations has, by varying estimates, gone up by about 500%. The typical CEO of a top American corporation now makes about $18.9 million a year.",
+      "The best model for understanding the growth of CEO pay is that of limited CEO talent in a world where business opportunities for the top firms are growing rapidly. The efforts of America’ s highest-earning 1% have been one of the more dynamic elements of the global economy. It’s not popular to say. but one reason their pay has gone up so much is that CEOs really have upped their game relative to many other workers in the U.S. economy.",
+      "Today’ s CEO, at least for major American firms, must have many more skills than simply being able to “run the company.” CEOs must have a good sense of financial markets and maybe even how the company should trade in them .They also need better public relations skills than their predecessors, as the costs of even a minor slipup can be significant. Then there’s the fact that large American companies are much more globalized than ever before, with supply chains spread across a larger number of countries. To lead in that system requires knowledge that is fairly mind-boggling. Plus, virtually all major American companies are becoming tech companies, one way or another. Beyond this, major CEOs still have to do all the day-to-day work they have always done.",
+      "The common idea that high CEO pay is mainly about ripping people off doesn’t explain history very well. By most measures, corporate governance has become a lot tighter and more rigorous since the 1970s. Yet it is principally during this period of stronger governance that CEO pay has been high and rising.That suggests it is in the broader corporate interest to recruit top candidates for increasingly tough jobs.",
+      "Furthermore, the highest CEO salaries are paid to outside candidates, not to the cozy insider picks, another sign that high CEO pay is not some kind of depredation at the expense of the rest of the company. And the stock market reacts positively when companies tie CEO pay to, say, stock prices, a sign that those practices build up corporate value not just for the CEO."
+     ],
+     "questions": [
+      {
+       "number": 26,
+       "score": 2,
+       "stem": "Which of the following has contributed to CEO pay rise?",
+       "options": {
+        "A": "The growth in the number of corporations.",
+        "B": "The general pay rise with a better economy.",
+        "C": "Increased business opportunities for top firms.",
+        "D": "Close cooperation among leading economies."
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n| 26. Which of the following has contributed to CEO pay rise? | 26. 下列哪项是 CEO 薪酬上涨的原因之一？|\n| --- | --- |\n| [A] The growth in the number of corporations. | [A] 公司数量的增长。 |\n| [B] The general pay rise with a better economy. | [B] 经济好转，工资普遍上涨。 |\n| [C] Increased business opportunities for top firms. | [C] 顶级公司的商业机会增多。 |\n| [D] Close cooperation among leading economies. | [D] 主要经济体之间的密切合作。 |\n\n[精准定位] 第二段解释 CEO 薪酬上涨的原因(①句 The best model 及③句 one reason...): 全球顶级公司的商业机会在迅速增长，而 CEO 人才紧缺，可推知商业机会的增加扩大了顶级公司对 CEO 的需求，由此 CEO 薪酬上涨。故[C]正确。\n\n[命题解密] 题干+正确项[C]是对第二段①句的合理推断，其中 Increased 对应原文 are growing rapidly。\n\n[A]将①句中“迅速增长”的主体“顶级公司的商业机会”偷换为“公司数量”。[B]、[D]由①句“商业机会增多”及后几句 global economy、U.S. economy 等词捏造出原文并未提及的“经济好转（导致工资普遍上涨）”“经济体之间密切合作”。\n\n[技巧总结] 结合题文同序原则可把解题范围锁定集中论述 CEO pay rise 的前两段，解题关键是在两段中找寻因果表达。第二段③句显性因果词 one reason 将原因指向“CEO 的个人表现”, 但没有选项可匹配；再进一步分析发现①②句出现了隐性因果表达 The best model for understanding... (model 指“分析阐明事物的理论模型”)、dynamic elements(导致某情况或变化的动力), 两者分别指向“顶级企业商机暴增，CEO 稀缺(故涨薪)”“CEO 人少，却是推动全球经济的主力之一(故涨薪实至名归)”, 前者与 [C] 契合，后者与 [B] 似有交集，但偷换因果：文中经济情况为果，CEO 努力付出为因(从而说明其价值), 选项则将经济情况作为因，并捏造结果“社会总体薪酬上涨”, 且与段末“CEO 出类拔萃，好过其他工作者”以及第四段首句“人们认为 CEO 工资上涨是对普通员工的剥削”矛盾，故排除。\n\nⅢ ① Today's CEO, at least for major American firms, must have many more skills than simply being able to \"run the company.\" ② CEOs must have a good sense of financial markets and maybe even how the company should trade in them. ③ They also need better public relations skills than their predecessors, as the costs of even a minor slipup can be significant. ④ Then there's the fact that large American companies are much more globalized than ever before, with supply chains spread across a larger number of countries. ⑤ To lead in that system requires knowledge that is fairly mind-boggling. ⑥ Plus, virtually all major American companies are becoming tech companies, often with their own research and development. ⑦ And beyond this, major CEOs still have to do all the day-to-day work they have always done.\n\n如今的 CEO, 至少对于美国的大公司来说，必须拥有更多技能，而不仅仅是会“经营公司”而已。CEO 必须对金融市场有良好的判断力，甚至可能要熟知公司应该如何在这些市场中从事交易。相比前任们，他们还需要更厉害的公关能力，因为即使是一个小小的失误，也可能代价惨重。而且，美国大公司的全球化程度空前，供应链遍布更多的国家。要在这样的体系中发挥领导作用，必须有相当惊人的知识才行。此外，几乎所有的美国大公司都在向科技公司转变，这些公司通常都要自主研发。除此之外，大 CEO 仍然要做他们一直在做的所有日常工作。\n\n**词汇注释与难句分析**\n\nsense n. 判断力，理解力\n\npredecessor n. 前任；前辈\n\nslipup n. 失误，疏忽\n\nmind-boggling a. 难以置信的；十分惊人的\n\nplus ad. 外加地；另外\n\n**经典搭配**\n\never before(以前；以往任何时候)\n\nsupply chain(供应链)\n\n(in) one way or another(用某种方法；不管怎样)\n\nbeyond this(此外)\n\nvirtually ad. 几乎\n\nday-to-day work(日常工作)\n\n**语篇分析**\n\n第三段具体论述当今 CEO 远超常人的全能实力(间接说明 CEO 人才稀缺、薪酬飙升的原因)。关键词：①Today's CEO(当今的 CEO);②must have many more skills(必须具备更多技能)。\n\n①句总述：当今 CEO 不仅要会经营公司，还要具备更多技能。have many more skills than simply... 起引领作用，提示本段论述视角“CEO 的各项技能”。\n\n②至⑦句分述 CEO 须具备的各项技能和知识。各句借列举逻辑词 Also、Then、Plus、And beyond this 紧密衔接。\n\n②句分述 CEO 的金融知识。a good sense of(正确的判断力/理解力)后跟两个递进宾语 financial markets 和 how the company should trade in them(其中 them 回指金融市场), 展现 CEO 的金融市场知识：既要掌握金融市场运作模式，又要指导公司进行交易。\n\n③句分述 CEO 的公关技能。整句为“主句+as(原因状语)从句”结构。主句比较结构 better... than their predecessors 以群体对比 (CEOs vs predecessors) 暗含时期对比“如今 vs 过去”，强调如今商界环境对 CEO 能力要求更高。as 从句解释“今日 CEO 技能升级”的原因，其中 even a minor slipup vs significant (costs) 突出强调升级能力的必要性。\n\n④⑤句分述大公司全球化趋势下 CEO 的领导力。\n\n④句介绍美国大公司的全球化趋势。the fact 后接同位语从句解释事实内容，比较结构 much more... than ever before 以时期对比“如今 vs 以前”凸显如今美国大公司的新特点。逗号后以 with 复合结构 (with+名词或代词+过去分词) 补充解释主干信息，其中过去分词 spread 表被动义，源自主动短语 spread sth(把某物摊开/分散开)，across a larger number of countries 以介词 across(在……各处，遍及) 和数量词 a larger number of 强调供应链遍及全球许多国家，明晰了主干中 more globalized 的内涵。\n\n⑤句指出上述趋势对 CEO 的技能要求。主语 To lead in that system 指向 CEO 职责“领导上述全球化大公司”，knowledge 后接 that 引导的定语从句，其中复合形容词 mind-boggling（源自短语 sth boggles the mind“某事使人无法想象/难以接受”）辅以强调副词 fairly（颇，相当）极言 CEO 惊人的知识储备，常人难以企及。\n\n⑥句分述大公司科技化趋势下 CEO 需具备的领导力。本句表面只介绍美国大公司向科技公司转型的趋势，实际承上句继续强调 CEO 应对新形势的领导力。数量词 virtually all(几乎所有)说明性质多元的大公司逐渐趋同，以各自方式纷纷涌入科技转型大潮，也暗示新时代的 CEO 需储备大量科技知识才能应对科技转型大潮。\n\n⑦句补充大公司 CEO 还需履行传统日常职责。major CEOs(major 取“重要，重大”之义)呼应上文 major/large American companies, 指掌管大公司的 CEO。the day-to-day work 呼应①句引号内容 run the company, 指公司的日常经营管理工作；still have to 尽显 CEO 任务之艰：应对各种复杂的新挑战不说，原有工作也都不能少。"
+      },
+      {
+       "number": 27,
+       "score": 2,
+       "stem": "Compared with their predecessors, today’ s CEOs are required to .",
+       "options": {
+        "A": "foster a stronger sense of teamwork",
+        "B": "finance more research and development",
+        "C": "establish closer ties with tech companies",
+        "D": "operate more globalized companies"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 27. Compared with their predecessors, today's CEOs are required to ____. | 27. 相比前辈们，如今的 CEO 被要求____。 |\n| --- | --- |\n| [A] foster a stronger sense of teamwork | [A] 培养更强的团队意识 |\n| [B] finance more research and development | [B] 资助更多的研发工作 |\n| [C] establish closer ties with tech companies | [C] 与科技公司建立更紧密的联系 |\n| [D] operate more globalized companies | [D] 经营更加全球化的公司 |\n\n[精准定位]第三段首句总领整段：CEO 必须拥有更多的技能。随后各句以 CEOs must...、They also...、Then...、Plus...、Beyond this... 分述 CEO 所需的技能。其中④⑤句指出“美国大公司的全球化程度空前，胜任 CEO 需要异常广博的知识”, 由此可知，CEO 需要经营更加全球化的公司。[D]正确。\n\n[命题解密] [D] operate more globalized companies 对应⑤句 CEO 的职责之一 To lead in that system(其中 that system 指向④句信息“供应链遍布更多国家的全球化程度空前的大公司”)。\n\n[A]、[C]分别利用 have a good sense of、tech companies 设置干扰，[A]将原文“金融市场意识”曲解为“团队意识”，[C]将原文“大公司在向科技公司转变（暗示 CEO 需具备领导科技公司的技能）”曲解为“CEO 与科技公司建立更紧密的联系”。[B]由文中 financial（指向“金融市场”）捏造出动词 finance（给……提供资金），并与 research and development 杂糅，原文指“大公司在向科技公司转变，它们通常都要自主研发”，并未提到大公司资助研发工作。\n\n[技巧总结] 由题干关键词不难定位到第三段，借表列举的逻辑词 (also、Then、Plus、Beyond this) 以及相关近义表述(①句概述词 many more skills 引领后文 a good sense of...、better... skills、requires knowledge、have to do 等具体技能/知识)可推知该段呈总分结构。可将各项与②至⑦句分述的各项技能/职责逐一比对：原文未涉及“团队”“研发”,但出现了“科技公司”和“全球化公司”,故需理清 CEO 与两类公司的逻辑关系，[D]“(CEO)经营全球化公司”近义对应⑤句“(CEO)领导全球化公司”,故该项正确，而[C]暗示 CEO 领导的公司本身并非科技公司，与⑥句“CEO 领导的美国大公司正逐渐成为科技公司”相悖。\n\nIV ① The common idea that high CEO pay is mainly about ripping people off doesn't explain history very well. ② By most measures, corporate governance has become a lot tighter and more rigorous since the 1970s. ③ Yet it is principally during this period of stronger governance that CEO pay has been high and rising. ④ That suggests it is in the broader corporate interest to recruit top candidates for increasingly tough jobs.\n\n人们普遍认为 CEO 的高薪很大程度上是对员工的剥削，但这并不能很好地解释历史。从大多数方面来看，公司治理自上世纪 70 年代以来大幅度收紧趋严。然而，CEO 薪酬一直处于高位且持续上涨的趋势恰恰主要出现于强化治理的这段时期。这表明，招聘顶尖候选人从事日益艰难的工作符合公司的更广泛利益。\n\n**词汇注释与难句分析**\n\nrigorous a. 严格的；严厉的\n\nprincipally ad. 主要地\n\nrecruit v. 招募；聘用\n\n**经典搭配**\n\nrip sb off(剥削；欺诈；敲……竹杠)\n\nby most measures(从大多数方面来看；以多数标准衡量)\n\nin one's interest(符合……的利益；有助于)\n\nbe all/mainly about...（重要的[问题]是……）\n\n**语篇分析**\n\n第四、五段驳论：驳斥惯常认知“CEO 高薪是对公司的价值掠夺”以论证 CEO 高薪的合理性；有助于提升公司价值。\n\n第四段以事实一“公司治理趋严期间依然涨薪”说明 CEO 高薪符合公司利益。关键词：in the broader corporate interest(符合公司更广泛的利益)。\n\n②③句引出事实一：公司治理趋严期间依然给 CEO 高薪。两句由 Yet 衔接，构成让步转折逻辑。\n\n②句让步介绍近半世纪的背景：公司治理变严。句首 By most measures(根据多重衡量标准，从大多数方面来看)体现主干所述事实的可靠性，并非主观臆断；经济学术语 corporate governance 指公司所有者(主要指股东)对经营者(CEO 等职业经理人)的监督与制衡机制，故公司治理趋严意味着股东对 CEO 的监管更为严格。\n\n③句转折引出与背景看似矛盾的情况：CEO 高薪且持续上涨。句子以强调句式“it is+特定时期+that+发生的情形”(意为“正是在某时期发生了某情形”)凸显 CEO 薪酬上涨的特定背景“公司治理趋严”, 其中 this period of stronger governance 是对②句“70 年代以来所发生情形”的高度概括。结合公司治理内涵可理清②③句的让步转折逻辑“虽然股东对 CEO 的监管更为严格，但依然愿意给 CEO 涨薪”, 可见，给 CEO 涨薪符合公司股东利益。\n\n④句解读事实一的深层内涵：CEO 高薪符合公司更广泛的利益。句首 That 回指②③句所述事实，suggests(暗示，间接表明)引出对上述事实的深层解读，其宾语从句(省略 that)采用了特殊句式 it is... to do sth(it 作形式主语，真正主语为 to do sth)对状语 in the broader corporate interest 予以突出强调，既说明公司给 CEO 涨薪的缘由，也反向呼应①句 ripping people off,表明普遍看法的错误性。top candidates for increasingly tough jobs 实际呼应第三段“如今的 CEO(需具备更多技能和知识)”。"
+      },
+      {
+       "number": 28,
+       "score": 2,
+       "stem": "CEO pay has been rising since the 1970s despite . .",
+       "options": {
+        "A": "continual internal opposition",
+        "B": "strict corporate governance",
+        "C": "conservative business strategies",
+        "D": "repeated government warnings"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 28. CEO pay has been rising since the 1970s despite ____. | 28. 上世纪70年代以来 CEO 薪酬一直在上涨，尽管____。 |\n| --- | --- |\n| [A] continual internal opposition | [A] (公司)内部反对声音不断 |\n| [B] strict corporate governance | [B] 公司治理严格 |\n| [C] conservative business strategies | [C] (公司)商业战略较为保守 |\n| [D] repeated government warnings | [D] (公司)一再收到政府警告 |\n\n[精准定位]第四段②③句以让步转折逻辑指出：虽然上世纪70年代以来公司治理变得更为严格，但 CEO 高薪及上涨趋势恰恰出现于该强化治理时期，故[B]正确。\n\n[命题解密][B]是对②③句让步转折逻辑中让步信息 corporate governance has become a lot tighter and more rigorous 的合理概括。\n\n[A]由①句普遍看法“CEO 的高薪很大程度上是对员工的剥削”过度推断出原文未论及的信息“公司内部员工一直反对 CEO 拿高薪”。[C]源自商业常识“企业的商业战略往往影响薪酬水平：如果企业采取保守性战略，其薪酬水平通常也较保守”，但原文并未论及“商业战略”。[D]将②③句关键信息“公司治理力度不断强化（公司自我治理趋严）”曲解为“政府一再告诫公司强化治理（政府对公司的监管趋严）”。\n\n[技巧总结] 本题考查让步转折逻辑中的让步信息(由 despite 体现), 定位句②③句中，②句为让步信息，可初步定为答案来源，③句为转折信息(Yet), 可用于验证答案来源。具体来看，③句用强调句式 “it is+特定时期+that+发生的事件”凸显 CEO 薪酬上涨情形的特定时期背景 during this period of stronger governance, 其中 stronger governance 是对②句主干 corporate governance...tighter and more rigorous 的高度概括，由此提炼两句逻辑“正是在 70 年代以来公司治理趋严的这段时期 CEO 薪酬却在不断上涨”, 可确定答案[B]。\n\n本题还可借助段落主旨解题：首尾句提示段落主旨要义——驳斥惯常看法“CEO 高薪伤害普通员工利益/不合理”,认定其“保障总体利益/合理”,故②③句为论据，表面上介绍 CEO 涨薪的发生背景，实则以子之矛攻子之盾：既然 CEO 高薪不合理，则治理严时应“修正”;而事实却正相反。选项“内部反对”“战略保守”和“政府警告”与题干“CEO 薪酬上涨”虽能构成矛盾关系，但恰恰迎合了惯常看法，无益于佐证段落主旨。\n\nV ① Furthermore, the highest CEO salaries are paid to outside candidates, not to the cozy insider picks, another sign that high CEO pay is not some kind of depredation at the expense of the rest of the company. ② And the stock market reacts positively when companies tie CEO pay to, say, stock prices, a sign that those practices build up corporate value not just for the CEO. [399 words]\n\n此外，最高的 CEO 薪资是付给外部候选人的，而非付给那些安逸的内部人选，这也表明 CEO 高薪并不是某种以牺牲公司其他员工利益为代价的掠夺之举。当公司将 CEO 薪酬与股价等因素挂钩时，股市会做出积极反应，这表明这些举措逐步增加公司价值不仅仅是为了 CEO。\n\n**词汇注释与难句分析**\n\ndepredation n. 掠夺；劫掠\n\nsay v. 比方说；假设\n\nstock n. 股份；股票\n\n**经典搭配**\n\nconfirm v. 证明；巩固；加强（29题）\n\nat the expense of sb/sth(在牺牲……的情况下)\n\nmotive v. 使有动机，使产生动机；激起（行动）(29 题)\n\ntie sth to sth(使……紧密结合；使……连接)\n\nbuild up(逐渐增大，增强)\n\njustify v. 证明……正确(或正当、有理)\n\n**语篇分析**\n\n第五段以事实二“CEO 最高薪是付给外聘人才，而非内部安逸者”和事实三“CEO 薪酬激励提升了股价”说明 CEO 高薪有助于公司升值。关键词：①not some kind of depredation(不是某种掠夺)；②build up corporate value(增加公司价值)。\n\n①句论述事实二及其内涵。段首 Furthermore 提示本段引入其他事实反驳普遍看法。句子主干以取舍结构 the highest CEO salaries are paid to... not to... 介绍公司在薪酬定位上的偏好做法，其中 insider picks 辅以修饰词 cozy(舒适安逸，缺乏竞争意识)，反衬其对立面 outside candidates 的特点“具有较强竞争力的外部顶尖人才”。another sign that... 整体为主干的同位语（内含 that 引导的同位语从句解释 sign 的内容），补充由主干事实推断出的信息，其中 another sign(事实二的内涵) 呼应上段 That suggests(事实一的内涵)，some kind of depredation at the expense of the rest of the company(对公司的价值掠夺) 近义呼应上段大众普遍看法 ripping people off(剥削普通员工)。整句以公司实际做法(倾向于高薪外聘 CEO，而非内部提拔 CEO) 论证作者观点(CEO 高薪不是对公司的价值掠夺)。\n\n②句论述事实三及其内涵。从句引导词 when 表示“当(某种条件出现)时(会产生某种状况)”，暗含因果，companies tie CEO pay to stock prices 为企业对 CEO 薪酬采取的具体措施(副词 say 表举例)，实际指向“企业给 CEO 高薪”，主句说明这一举措的结果“股市上涨”，与同位语 a sign... 一暗一明，表明 CEO 高薪并不是为了满足高层利益而剥削普通员工，而是确实有助于公司升值。those practices 回指企业薪酬激励措施：将 CEO 薪酬与股价等因素挂钩相当于把 CEO 个人利益同公司利益相关联，从而激励 CEO 努力提升业绩以带动股价上涨，进而提升公司市值。"
+      },
+      {
+       "number": 29,
+       "score": 2,
+       "stem": "High CEO pay can be justified by the fact that it helps .",
+       "options": {
+        "A": "confirm the status of CEOs",
+        "B": "motive inside candidates",
+        "C": "boost the efficiency of CEOs",
+        "D": "increase corporate value"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 29. High CEO pay can be justified by the fact that it helps ____. | 29. CEO 的高薪有其合理性，因为它有助于____。 |\n| --- | --- |\n| [A] confirm the status of CEOs | [A] 巩固 CEO 的地位 |\n| [B] motive inside candidates | [B] 激励内部候选人 |\n| [C] boost the efficiency of CEOs | [C] 提高 CEO 的(工作)效率 |\n| [D] increase corporate value | [D] 增加公司价值 |\n\n[精准定位]第四段表明“CEO 高薪是企业严格治理下的举措，不是对普通员工的剥削，而是符合公司/全体员工的广泛利益（即 CEO 高薪有其合理性）”。第五段以另一理由解释 CEO 高薪的合理性：CEO 高薪制用于吸引外部顶尖人才而非内部安稳人士，故不会牺牲普通员工利益，反而有助于增加公司价值（具体逻辑链为：对 CEO 采取薪酬激励措施（如与股价挂钩）→促使 CEO 提升公司经营业绩→公司股价上涨，公司升值）。综合可知[D]正确。\n\n[命题解密][D]直接对应第五段末句给 CEO 带来高薪的薪酬激励措施的作用 build up corporate value(增加公司价值)。\n\n[A]蕴含逻辑为“薪酬与地位相匹配：高薪可巩固 CEO 的权威地位”，原文并未提及，且选项有意凸显“精英与平民地位有别”反而削减了 CEO 高薪的合理性。[B]与第五段①句信息“最高薪酬是为了吸引外部候选人（即激励外部候选人）而非安逸的内部人选”相悖。[C]结合第三段工作技能等信息将第五段①句“安逸的内部人选”曲解为“在任者安于现状，不思进取，效率低下”，进而臆断出“高薪可激励他们提高干劲”，而该句主旨实为“公司倾向于高薪外聘，而非内部提拔”。\n\n[技巧总结]本题难点一是解读题干信息：can be justified (justify 意为“证明……有道理；为……辩护”) 提示考查面“高薪的合理性/正当性”, it helps 进一步聚焦考查点“高薪的作用”, 根据题文同序原则及末两段论述角度(聚焦对 CEO 高薪的评价，如判断句式 it is in the broader corporate interest to...、high CEO pay is not some kind of depredation...) 可锁定末两段。难点二是分析定位处长难句：[B]、[D] 分别源自第五段的两个长句，对两个长句进行句法语义分析(详见“语篇分析”), 发现 [B] 混淆了第一句主干中的取舍项(倾向于高薪外聘 CEO, 而非内部提拔 CEO), 而 [D] 是对第二句中同位语信息的正确解读。"
+      },
+      {
+       "number": 30,
+       "score": 2,
+       "stem": "The most suitable title for this text would be .",
+       "options": {
+        "A": "CEOs Are Not Overpaid",
+        "B": "CEO Pay: Past and Present",
+        "C": "CEOs’ Challenges of Today",
+        "D": "CEO Traits: Not Easy to Define"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| 30. The most suitable title for this text would be ____. | 30. 本文最合适的标题是____。 |\n| --- | --- |\n| [A] CEOs Are Not Overpaid | [A] CEO 的薪酬并不过高 |\n| [B] CEO Pay: Past and Present | [B] CEO 薪酬：过去和现在 |\n| [C] CEOs' Challenges of Today | [C] CEO 今日面临的挑战 |\n| [D] CEO Traits: Not Easy to Define | [D] CEO 的特质：很难定义 |\n\n[精准定位]本文首段引入“CEO 高薪”现象，第二至末段论述该现象的合理性：其中第二、三段指出 CEO 高薪与其技能知识相匹配，第四、五段指出 CEO 高薪不是对公司的价值掠夺，反而能提升公司价值。综合可知，本文主要论述 CEO 高薪的合理性，[A]最贴合本文主旨。\n\n[命题解密][A]是基于各段主旨句/关键词(首段 CEO pay has gone up; 第二段 limited CEO talent in a world...、CEOs really have upped their game...; 第三段 Today's CEO... have many more skills...; 第四段 it is in the broader corporate interest to recruit top candidates...; 第五段 high CEO pay is not... depredation at the expense of the rest of the company, build up corporate value)的高度提炼与总结。\n\n[B]只涵盖文中陈述事实“CEO 薪酬近几十年来大幅上涨”，未触及文章写作意图（作者立场观点）“为 CEO 高薪作辩护”。[C]、[D]由第三段“如今 CEO 需具备更多技能和知识”分别臆断出“当今 CEO 面临更多挑战”“CEO 职责复杂，很难界定”，两项均未涉及文章关注点“CEO 的薪酬”。\n\n[技巧总结]文章主旨题的解题步骤大体为：1. 借开篇句群/段落（或第二段开头）确定文章话题；2. 借复现、近义、反义等语义手段以及并列、转折、总分等逻辑衔接词串联各段大意，梳理文章脉络结构，总结文章主旨；3. 带着文章话题主旨比对各项，要注意排除以偏概全、过于笼统、增添枝叶等含有原文部分内容的选项，确定与原文主旨最贴近的选项。具体看本题，由开篇段落可知文章话题为“CEO 高薪”，故可排除与薪酬无关的[C]、[D]，串联各段大意（见本题“精准定位”）可知本文立场“CEO 高薪有其合理性”，[B]仅涉及薪酬今昔变化，未表达任何论点，[A]以判断句式直陈论点，符合本文立意。"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "passage": [
+      "Madrid was hailed as a public health beacon last November when it rolled out ambitious restrictions on the most polluting cars. Seven months and one election day later, a new conservative city council suspended enforcement of the clean air zone, a first step toward its possible demise.",
+      "Mayor José Luis Martinez-Almeida made opposition to the zone a centrepiece of his election campaign, despite its success in improving air quality. A judge has now overruled the city’s decision to stop levying fines, ordering them reinstated. But with legal battles ahead, the zone’s future looks uncertain at best.",
+      "Among other weaknesses, the measures cities must employ when left to tackle dirty air on their own are politically contentious, and therefore vulnerable. That’s because they inevitably put the costs of cleaning the air on to individual drivers—who must pay fees or buy better vehicles—rather than on to the car manufacturers whose cheating is the real cause of our toxic pollution.",
+      "It’s not hard to imagine a similar reversal happening in London. The new ultra-low emission zone (Ulez) is likely to be a big issue in next year's mayoral election. And if Sadiq khan wins and extends it to the North and South Circular roads in 2021 as he intends, it is sure to spark intense opposition from the far larger number of motorists who will then be affected.",
+      "It's not that measures such as London’s Ulez are useless. Far from it. Local officials are using the levers that are available to them to safeguard residents’ health in the face of a serious threat. The zones do deliver some improvements to air quality, and the science tells us that means real health benefits—fewer heart attacks, strokes and premature births, less cancer, dementia and asthma. Fewer untimely deaths.",
+      "But mayors and councilors can only do so much about a problem that is far bigger than any one city or town. They are acting because national governments — Britain’s and others across Europe—have failed to do so.",
+      "Restrictions that keep highly polluting cars out of certain areas — city centres, “school streets”, even individual roads — are a response to the absence of a larger effort to properly enforce existing regulations and require auto companies to bring their vehicles into compliance. Wales has introduced special low speed limits to minimise pollution. We’re doing everything but insist that manufacturers clean up their cars."
+     ],
+     "questions": [
+      {
+       "number": 31,
+       "score": 2,
+       "stem": "Which of the following is true about Madrid’s clean air zone?",
+       "options": {
+        "A": "Its effects are questionable.",
+        "B": "It has been opposed by a judge.",
+        "C": "It needs tougher enforcement.",
+        "D": "Its fate is yet to be decided."
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 31. Which of the following is true about Madrid's clean air zone? | 31. 关于马德里“清洁空气区”,以下哪种说法正确？|\n| --- | --- |\n| [A] Its effects are questionable. | [A] 它的效果值得怀疑。 |\n| [B] It has been opposed by a judge. | [B] 它已遭到某位法官的反对。 |\n| [C] It needs tougher enforcement. | [C] 它需要更严厉的执行。 |\n| [D] Its fate is yet to be decided. | [D] 它的命运尚未确定。 |\n\n[精准定位] 首段末句明确指出：马德里“清洁空气区”的未来看起来很不明朗。也即，它的命运尚未确定。故 [D] 正确。\n\n[命题解密] 正确项[D] fate... yet to be decided 同义改写首段末句 future looks uncertain。\n\n[A]根据首段②句“市议会暂停实施”、③句“市长反对”捏造出反对理由“(实施)效果不确定”，但很明显与③句 despite 所引出的客观事实 its success in improving air quality“‘清洁空气区’在改善空气质量方面取得良好效果”相悖；[C]则根据②句“暂停实施”、③句客观事实“在改善空气质量方面取得良好效果”杂糅臆造出“‘清洁空气区’效果良好，市议会不应该暂停实施，理应得到更严厉的执行”，且由④句“市政府中止实施 vs 法官责令恢复”可知“马德里清洁空气区”面临的问题并非“执行不力”，而是“能否继续实施”。[B]将反对“清洁空气区”的主体由③句中的“市长”偷换为④句中的“法官”，而④句明确指出“法官推翻市议会决定，并责令恢复收取罚金（也即，支持“清洁空气区”）。\n\n[技巧总结] Which 型事实细节题的典型解题思路是“利用选项关键词回文对应——比对判别对错”。如本题，首先根据试题命制顺序按照文章由前至后原则以及题干关键词将范围限定至第一段，再根据选项关键词（核心名词/动词）将各选项回文定位：[A] effects 对应③句 its success in improving、[B] a judge 对应④句，[C] tougher enforcement 对应②句 suspended enforcement，[D] Its fate 对应⑤句 the zone's future。随后一一比对发现，[D]为原文同义转述。\n\nⅢ ① Among other weaknesses, the measures cities must employ when left to tackle dirty air on their own are politically controversial, and therefore vulnerable. ② That's because they inevitably put the costs of cleaning the air on to individual drivers—who must pay fees or buy better vehicles—rather than on to the car manufacturers whose cheating is the real cause of our toxic pollution. ③ It's not hard to imagine a similar reversal happening in London. ① The new ultra- low emission zone (Ulez) is likely to be a big issue in next year's mayoral election. ⑤ And if Sadiq Khan wins and extends it to the North and South Circular roads in 2021 as he intends, it is sure to spark intense opposition from the far larger number of motorists who will then be affected.\n\n各大城市独力承担污浊空气治理之责，其被迫不得已而采取的措施具有很多薄弱点，其中之一是：会引发政治争议，因而极易招致攻击。这是因为，这些措施不可避免地将清洁空气的成本加诸司机个人——司机必须为污染付费或者买更好的车——而不是加诸汽车生产商，生产商的舞弊行为才是造成有毒污染的真正原因。不难想象，相似的逆转将在伦敦上演。“超低排放新区（Ulez）”很可能是明年伦敦市长选举的重大议题。如果萨迪克·汗获胜，而且一如他所计划的那样于2021年将“超低排放新区”扩展至南北环路，那么一定会激起“届时将受影响的、数量大得多的汽车车主”的强烈反对。\n\n**词汇注释与难句分析**\n\nemploy v. 使用，采用\n\nvulnerable a. 易招致抨击的，易受攻击的\n\ninevitably ad. 必然发生地\n\ncheating n. 舞弊(指做违法乱纪之事)\n\ntoxic a. 有毒的\n\nreversal n. (过程、政策或趋势的)逆转\n\nultra- prefix. 极端/非常\n\nissue n. 议题\n\nextend v. 延伸，扩展\n\n**经典搭配**\n\nspark intense opposition from（引发……的激烈反抗）\n\nbe biased against(对……有偏见/不公的；32题)\n\n功能注释：本句主干为 That's because...。because 引导的表语从句引出空气净化费用的征收情况以解释 That(回指前句所谈市级措施的薄弱之处)来源，其中取舍结构 on to A rather than on to B 强调征费对象为 A 而非 B;who 引导的定语从句说明 A 必然面对的两难选择，whose 引导的定语从句引出 B 的恶劣行径及后果，说明 B 问题责任人的角色，综合凸显“无责者付费解决问题，全责者全身而退”的无比荒谬之处。\n\n**语篇分析**\n\n第三、四段聚焦伦敦的 Ulez 措施，阐述市级空气污染治理措施的局限性与作用。\n\n第三段首先介绍此类市级措施的薄弱点并预测其未来命运。关键词：①politically controversial(政治上存在争议性/引发政治争议);②put the costs of cleaning the air on to individual drivers rather than on to the car manufacturers(将清洁空气的成本加诸于司机个人而非汽车生产商);③a similar reversal(相似的逆转)。\n\n**①②句阐释薄弱点“引发政治争议，极易招致抨击，脆弱不堪。”**\n\n①句直陈薄弱点。Among other weaknesses(among other things“除了别的以外”)明确市级措施存在多项薄弱之处，此处仅介绍其中一项；politically controversial, and therefore vulnerable 进而明确该薄弱点具体所指，从而明确上文所述马德里“清洁空气区”为何在政府新旧更迭时命运跌宕起伏（因为其生命力取决于当权者的政治站位）；cities are left to(源自 leave sb to do sth“把某事（尤指令人不快或困难的事）留交/交托某人负责”）、on their own(on one's own“独自地”，their 代指 cities)在强调措施制定者为“城市自己”之余，实际暗藏责任不仅限于城市自己，有权力主体未能担当起其应该承担的责任。\n\n②句阐明薄弱点成因：因为这些措施将成本加诸车主个人而非汽车生产商。取舍结构 put the costs... on to A rather than on to B、两定语从句 who must... whose... is the real cause(who 先行词 A = individual drivers, whose 先行词 B= the car manufacturers)共同明确城市举措的方向性错误“汽车生产商(B)是造成空气污染的罪魁祸首，而车主个人(A)却被迫/不得不承担治污成本”;其中 inevitably 以“错误发生的必然性”暗示“城市力量有限，无法约束汽车生产商，只能约束市级范围内通行车辆”, cheating 以“弄虚作假，舞弊”暗示“汽车生产商未能遵循其本应遵守的规章制度”, toxic“有毒的，引起中毒的”暗示“当前空气污染的严重程度：对人体有毒害，造成公共卫生健康问题”,从而呼应文首句“严苛的管控措施出台被誉为公共卫生健康的指路明灯”。\n\n③—⑤句退而指出伦敦 Ulez 将面临相似于马德里“清洁空气区”的命运。\n\n③句概述：伦敦将面临相类似的政策反转。It's not hard to imagine 实际基于上文“政治立场不同，政策命运多舛”引出极具理据的肯定性推测；reversal(彻底转变)代指马德里清洁空气区政策反转“前任政府推出→现任政府中止、至今前途难卜”；similar、in London 表明作者意在借他国(西班牙)警示本国(英国)。\n\n④⑤句详释，明确政策所指“Ulez”及其可能被逆转的原因“若市长连任，将其进一步拓展，势必引发更大量汽车车主”的强烈反对”。\n\n④句借由 A is likely to be B 结构(A 很可能会是 B)明确伦敦 Ulez 极具争议性(big 与 issue 相连，在强调该议题的重大影响之外，亦暗藏该议题内在所蕴含的争议性);in next year's mayoral election 抛出 Ulez 命运攸关的关键时间节点“明年市长选举”,呼应上句 imagine 所蕴藏未来之意之余，再度暗示政策命运与执政人站位相关联。\n\n⑤句从句 if 推测导火索事件“萨迪克·汗获胜、扩展超低排放新区”，主句 it is sure to spark intense opposition 点明政策反转的直接原因“反对声音激烈”，from 则引出主要反对力量“汽车车主”（定语一 far larger number 反衬超低排放新区的扩展范围之广，亦暗示超低排放新区现已招致诸多反对；定语二 who will then be affected 呼应 put the costs... on to individual drivers，明确汽车车主反对 Ulez 的缘由“他们被迫承担治污成本”）。\n\n【段落梳理】一、段内。首两句以 the measures cities must employ... they... 回指衔接，therefore, That's because 因果关联词步步推进，揭示市级治污措施薄弱点“将治污成本加诸司机个人(而非汽车生产商)→具有政治争议性→脆弱易松动”; 后三句为“观点(③句)—详释(④⑤句)”逻辑：④⑤句呈现“马德里清洁空气区”与“伦敦超低排放新区”的种种相似特点：政策变化均缘起“市政府换届”(in next year's mayoral election, one election day later)、政策均有损“车主个人利益”(motorists... will then be affected, restrictions on... cars... levying fines), 且引发政治博弈“支持方 vs 反对方”(Sadiq Khan vs motorists, judge vs new city council/Martínez-Almeida); 结合首两句对市级治污政策的剖析“损害车主个人利益→引发政治争议→脆弱易松动”可得出③句推论：“伦敦超低排放新区”难逃“马德里清洁空气区”那般的命运：很可能会被中止(甚至终结)。二、段间。city-by-city approach, the measures cities must employ 同义衔接，以 Seven months and one election day later... suspended→vulnerable→politically controversial→put the costs... on to individual drivers 实现论述逻辑的层层深入“由现象到本质(推行仅七个月零一天就被中止→将治污成本加诸车主个人)”，从而明确首三段“抓典型个例，揭示本质规律”的写作手法。"
+      },
+      {
+       "number": 32,
+       "score": 2,
+       "stem": "Which is considered a weakness of the city-level measures to tackle dirty air?",
+       "options": {
+        "A": "They are biased against car manufacturers.",
+        "B": "They prove impractical for city councils.",
+        "C": "They are deemed too mild for politicians.",
+        "D": "They put too much burden on individual motorists."
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 32. Which is considered a weakness of the city-level measures to tackle dirty air? | 32. 以下哪项被认为是市级污浊空气治理措施的一个薄弱之处？|\n| --- | --- |\n| [A] They are biased against car manufacturers. | [A] 它们对汽车生产商有失公允。 |\n| [B] They prove impractical for city councils. | [B] 对市议会而言，它们不切实际。 |\n| [C] They are deemed too mild by politicians. | [C] 对政治家而言，它们治理力度过轻。 |\n| [D] They put the burden on individual motorists. | [D] 它们将责任加诸机动车车主个人。 |\n\n[精准定位] 第三段①句指出市级污浊空气治理措施的一个薄弱之处：引发政治争议，易招致抨击；②句阐释原因：市级措施将空气清洁成本加诸车主个人而非引发有毒污染的真正“凶手”汽车生产商。可见，车主个人被迫承担了本不属于自己而应属于汽车生产商的责任，故[D]正确。\n\n[命题解密] 题干 + [D] put too much burden on individual motorists 是对第三段段落主旨的 Among other weaknesses, the measures... are... That's because they put the costs... on to individual drivers... rather than on to the car manufacturers... 的高度概括。\n\n[A]将第三段②句取舍结构 put the costs... on to A... rather than on to B 中的 A、B 对调，将不公允对象由“车主个人”调换为“汽车生产商”（注：biased against...“对……有成见/不公允”与 biased for/towards/in favor of...“偏袒……”为反向关系）。[B]将第一段②句作者观点“马德里市议会（city council）中止实施‘清洁空气区’这一行为可能致使该措施走向失败（termination）”曲解为市议会观点“马德里清洁空气区可能失败、不切实际（impractical）”，并将其上升为各城市措施的薄弱之处。[C]源自第三段①句 politically controversial... vulnerable，错误有二：一将“引发政治争议（即，各派政治家们观点对立）”曲解为“观点一致：政治家们认为处罚力度不够”；二将“易招致抨击、脆弱不堪（即，措施可能被否决/推翻）”曲解为“治理力度不够、太轻”。\n\n[技巧总结] 常规思路：定位段围绕“市级措施的薄弱之处”展开论述，关键是理清其中论述逻辑、剥离次要信息、明确 weaknesses 所指。首先由①句从属结构 Among other weaknesses, the measures... are A 确定 A 为所举市级措施的薄弱处：引发政治争议。再由回指词 + 因果标志词结构 (That's because) 可知②句解释①句，而取舍结构 B rather than(而非)C 提示争议来源：将空气净化成本错误施加于车主个人而非汽车生产商。最终敲定 [D]。非常规思路：纵观选项发现各选项指向不同人物主体，其中 B、C 的 city councils、politicians 在段落中 (由 weakness 可定位至第三段) 并无明确提及，而 A 的 car manufacturers、individual motorists 则原词复现或同义复现②句原文，进而细读该句发现取舍结构 put... on to A rather than on to B, 最终锁定 [D] 为正确项。\n\nIV ① It's not that measures such as London's Ulez are useless. ② Far from it. ③ Local officials are using the levers that are available to them to safeguard residents' health in the face of a serious threat. ④ The zones do deliver some improvements to air quality, and the science tells us that means real health benefits.\n\n并不是说伦敦 Ulez 这类措施无用。恰恰相反。严重威胁当前，地方官员正在运用他们所能使用的手段来保障居民健康。这些区域确实大大改善了空气质量，而且科学表明，空气质量改善意味着切实的健康收益。\n\n**词汇注释与难句分析**\n\nlever n. (用作施加压力等的)手段，方法\n\ndeliver v. 递送(货物等),文中延伸为“带来(影响)”\n\n**经典搭配**\n\nbe available to(对……是可获取/利用的)\n\n**语篇分析**\n\n第四段进而肯定 Ulez 等市级措施的治理效果。关键词：① It's not... useless(并不是……无用); ② do deliver some improvements to air quality(的确大幅提升空气质量); ③ real health benefits(切实的健康收益)。\n\n①②句承接上文“马德里‘清洁空气区’被叫停、伦敦 Ulez 激发强烈反对将可能遭致相似逆转”，先行肯定此类市级措施的有效性。两句借由 It's not that...（表强调的否定词 not）、Far from it（表完全否定）实现语义递进“并不是……绝非……”（两个 it 都指向 measures... are useless），彻底否定“市级污染空气治理措施无用论”，着力凸显“市级措施确有效用”。\n\n③句退而指出地方政府官员(即各城市市长/市政府)为确保居民健康对这些措施的积极运用。进行时态 are using 暗含地方官员/市政府官员“积极主动作为”之意，to safeguard residents' health、in the face of a serious threat 更彰显地方政府“事不避难、施政为民”的责任与担当(由上文 clean air zone、ultra-low emission zone、dirty air 即可推知 a serious threat 指代严峻的空气污染问题); 但 available“可用的”却藏言外之意“地方官员只能借助此类超低排放新区的手段(限制排放的形式)来治理空气污染，更高权力机构理应做出效力高于地方政府的行动”。\n\n④句进而指出这些市级措施能够有效改善空气质量、给民众带来切实健康收益。两句先以 do deliver... improvements 强调(助动词 do 表强调)超低排放新区“确有实效”，随后立足科学(the science tells us)，以 real health benefits 进一步指出“空气质量提升于公众健康有益”。注：一、根据首两句强调结构 It's not that... Far from it. 可知此处 some 更意在强调“数目或数量相当大”，故翻译时做了相应处理，但借由 some 所渗透出的“部分，非全部”亦应把握此类举措也有其局限性，尚待更具效力举措的出台。二、The zones 指代类似于伦敦 Ulez 及马德里“清洁空气区”这类超低排放新区。\n\n【段落梳理】段落写作手法“先破后立”：①②句 It's not that... Far from... 否定由上文现象“超低排放新区遭抵制反对”得出的直接推论“超低排放新区等措施无用”；③④句提出相反观点“此类举措乃市政府有为之举，且确有实效”，其中 to safeguard residents' health... do deliver some improvements to air quality... that means real health benefits 表明“举措成效：空气质量改善→健康收益显现”契合“举措目标：保障居民健康”（即，举措切实有效）。"
+      },
+      {
+       "number": 33,
+       "score": 2,
+       "stem": "The author believes that the extension of London’s Ulez will .",
+       "options": {
+        "A": "arouse strong resistance",
+        "B": "ensure Khan’s electoral success",
+        "C": "improve the city’s traffic",
+        "D": "discourage car manufacturing"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n| 33. The author believes that the extension of London's Ulez will ____. | 33. 作者认为，扩展伦敦“超低排放新区(Ulez)”会____。 |\n| --- | --- |\n| [A] arouse strong resistance | [A] 招致强烈抵抗 |\n| [B] ensure Khan's electoral success | [B] 确保萨迪克·汗选举成功 |\n| [C] improve the city's traffic | [C] 改善城市交通 |\n| [D] discourage car manufacturing | [D] 阻碍汽车生产 |\n\n[精准定位] 第三段⑤句指出：如果 2021 年将超低排放新区扩展至南北环路，一定会激起众多即将受影响的汽车车主的强烈反对，故 [A] 正确。\n\n[命题解密] 正确项[A]arouse strong resistance 同义改写⑤句 spark intense opposition。\n\n[B]将第三段⑤句“萨迪克·汗选举成功将扩展 Ulez”颠倒为“扩展 Ulez 将使萨迪克·汗选举成功”。[C]将第四段③④句所述 Ulez 的作用“改善空气质量，保障居民健康”偷换为“改善交通状况”。[D]将第三段⑤句 Ulez 扩展的影响对象“汽车车主”偷换为“汽车生产商”，进而得出 Ulez 扩展阻碍汽车的生产制造。\n\n[技巧总结] 本题考查作者针对 Ulez 扩展后果/影响的看法。解题关键在利用关键词定位，再于定位句中借助观点表达、因果表达以锁定正确答案。如本题，可先借助题干中 extension、Ulez 定位到第三段⑤句，随后借助句内观点表达 it is sure to、因果表达 spark intense opposition 即可锁定正确答案[A]。\n\nV ① But mayors and councilors can only do so much about a problem that is far bigger than any one city or town. ② They are acting because national governments—Britain's and others across Europe—have failed to do so.\n\nⅥ ① Restrictions that keep highly polluting cars out of certain areas—city centres, “school streets”, even individual roads—are a response to the absence of a larger effort to properly enforce existing regulations and require auto companies to bring their vehicles into compliance. ② Wales has introduced special low speed limits to minimise pollution. ③ We’re doing everything but insist that manufacturers clean up their cars. [395 words]\n\n但是，针对这么一个影响范围远超一城一镇的（空气污染）问题，市长们、议员们所能做的也就仅此而已。他们之所以在行动，是因为各国政府——英国以及所有其他欧洲国家的政府——未能做出行动。\n\n此类“禁止高污染汽车进入特定区域（如市中心、学区街道、甚至个别特殊道路）”限制措施的出台是因为“缺乏更大规模的行动以严格执行现有法规并要求汽车公司生产合规机动车”。威尔士公国现已推行特定低速限制以最小化污染。我们正在竭尽一切所能，却唯独没有坚决要求制造商“清洁”其汽车。\n\n**词汇注释与难句分析**\n\ncouncilor n. 议员\n\neffort n. 有组织的活动，特别行动\n\nregulation n. 法规；条例\n\ncompliance n. 遵从，遵守\n\nintroduce v. 采用，推行\n\nsupervision n. 监督，管理(35题)\n\na response to(对……做出反应/响应)\n\nabsence of(缺乏……)\n\ndo everything but do(除了做……其他该做的都做了)\n\nclean up(治理[污染])\n\nfollow regulations 遵守法规(35 题)\n\n**经典搭配**\n\nRestrictions that keep highly polluting cars out of certain areas—city centres, “school streets”, even individual roads—are a response to the absence of a larger effort to properly enforce existing regulations and require auto companies to bring their vehicles into compliance.\n\n功能注释：句子主干为 Restrictions... are a response to the absence of a larger effort... to... and... 做 a larger effort 的后置定语，解释一项更大规模行动的两大目的；that 引导的定语从句说明 Restrictions 的具体内容，破折号引导的插入语做 certain areas 的同位语，细化限制条例实施的地域范围。\n\n第五、六段为综合点评部分，明确此类市级措施效力有限，呼吁国家政府采取强有力措施以约束汽车制造商。\n\n第五段总述：各市政府推出治理措施实乃因国家政府不作为。关键词：national governments have failed to do so(各国政府未能采取行动)。\n\n句明确市长/市议会无力单独解决空气污染问题。can only do so much 承接上段 some (improvements) 明确其暗藏之意“超低排放新区等措施的效果有限”; far bigger than any one city or town 界定空气污染问题的存在范围“远超一城一镇”, 借此暗示“治理污染非市镇能力之所及”。注：bigger 此处与 city、town 进行比较，可知其指向(污染空气问题延及的)范围。\n\n句说明市长/市议会勉力而为的原因：国家政府不作为。because 标示句内“结果—原因”逻辑：They are acting 借由 a problem...far bigger than any one city or town 展现市议会“无力治污，却勉强为之”; have failed 正面谴责各国政府“履责不力”(so“如此[指代刚提到的行为、情况等]”指向治污行为),亦明确治污首要责任在“国家政府”(破折号内 Britain's and others across Europe 将抨击对象“由英国一国扩展至整个欧洲”)。\n\n第六段分说：针对高排放汽车的市镇级政策积极推进，针对汽车制造商的国家级政策(根本性政策)却缺位空场。关键词：①absence of a larger effort(更大规模行动的缺位);②everything but insist(做了一切，却独独没有强力要求)。\n\n句指出市镇之所以推出市镇级举措的原因：国家政府缺位。本句实为上段末句的细化：Restrictions that... areas -... - 对应 They are acting,指向“市长/市议会们采取的行动：限制高排放汽车入特定区域”(注：individual 用以修饰 roads,意在表明这些道路的“与众不同，独特”);are a response to 对应 because,明确因果关联；the absence of a larger effort 对应 national governments... have failed to do so,即指“各国家政府未能出台更具效力的举措、做出更具影响力的行动”(注：effort 为熟词僻义，意表“(为达某一目的的)有组织的行动”);to properly enforce... and require... to...(and 表递进)由宏观“保证法规得以贯彻执行”(enforce 指 make sure that a law or a rule is obeyed)至微观“确保汽车企业生产合规车辆”(bring... into compliance 指“使……遵守[规则等]”)明确政府应尽之责。\n\n句退而补充威尔士公国的举措：特定低速限制措施。Wales 相较 city or town,属更高层级的行政区域“公国”,其政策“限速”比之市镇级限令“限行”更为和缓，但目的与市镇政府相同“力争污染最小化”,并未从根本上触及罪魁祸首“汽车生产商”。\n\n句总结全文：纵然地方政府积极作为，国家政府却失职失责(根本性举措依旧缺失)。doing everything but 一是肯定各市镇乃至公国的作为“采取限行、限速等各式措施治理污染”, 二是强调国家级政府政策的缺席“未能严令要求生产商推出清洁型汽车”, 至此收束全篇，呼吁各国政府不应再脱卸责任，将治理空气污染的一己之责加诸市镇政府。\n\n【段落梳理】表面上，末两段关注点依然落在“地方性举措（mayors and councilors... they... Restrictions... Wales...）”；实际上，两段借由因果表达 because/a response to 以及充满强调韵味的绝对表达 everything but 将重点落于“国家政府的缺位：未能强力要求汽车制造商遵纪守法、生产清洁型汽车”，从而明确空气污染问题的责任人及根本解决路径，回应前文所述“弄虚作假的汽车生产商才是造成有毒空气的罪魁祸首”。"
+      },
+      {
+       "number": 34,
+       "score": 2,
+       "stem": "Who does the author think should have addressed the problem?",
+       "options": {
+        "A": "Local residents.",
+        "B": "Mayors.",
+        "C": "Councilors.",
+        "D": "National governments."
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 34. Who does the author think should have addressed the problem? | 34. 作者认为本应由谁来解决这个问题？|\n| --- | --- |\n| [A] Local residents. | [A] 当地居民。 |\n| [B] Mayors. | [B] 市长。 |\n| [C] Councilors. | [C] 议员。 |\n| [D] National governments. | [D] 国家政府。 |\n\n[精准定位] 第五段②句指出：市长们、市议员们(They 的指代内容)之所以在采取行动(推出各种市级治理措施)是因为国家政府未能采取行动(so 指代内容)。可见，作者认为本该由国家政府解决问题，[D]正确。\n\n[命题解密] 正确项+题干是对 national governments... have failed to do so(failed 意为“没有做，未做(应做的事情)”)的正确解读。\n\n[A]将第四段③句中所涉人物主体 Local (officials)、residents 语义杂糅为 local residents，且将居民作为空气污染治理的受益对象偷换为问题解决者。[B][C]均截取第五段①句 mayors and councilors，但两者均为当前正在采取措施解决问题的主体，与题干所问“谁应该去解决问题却又没去解决”不符。\n\n[技巧总结] 常规思路：语义转折、取舍处与全文主旨息息相关，常作为命题焦点出现，所以必须重视 but/however/yet 等转折词后的内容，对于 not... but... / rather than/instead of 等取舍结构，则须重点明辨“取”的内容(“舍”常为干扰来源之一)。第五段①句以 But 与前文形成转折，强调作者否定态度：问题涉及范围过大而市长与市议员能力有限(only... so much),可推知真正主体应在能力上强大于市长、市议员，由此可初步选定[D]。②句主、从句 A are acting because B... have failed to do so 构成语义对比：“A=They=mayors and councils”正在采取行动 vs “B=national governments”本该采取行动却没采取行动，确认[D]正确。非常规思路：四个选项指向不同主体，但全文尤其第五段首句中 mayors and councilors 表示两个主体处于并列平行状态(两者行为态度大体一致),故可将与之相关的[B]、[C]两项同时排除，最后再在[A]、[D]中做抉择，无论是借由第五段首句“空气污染问题并非局域性问题而是全局性问题”还是借由文意关注核心“污浊空气治理政策”可舍指向区域性基层人民的[A]而取指向全国性国家政府层面的[D]。"
+      },
+      {
+       "number": 35,
+       "score": 2,
+       "stem": "It can be inferred from the last paragraph that auto companies .",
+       "options": {
+        "A": "will raise low-emission car production",
+        "B": "should be forced to follow regulations",
+        "C": "will upgrade the design of their vehicles",
+        "D": "should be put under public supervision"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| 35. It can be learned from the last paragraph that auto companies ____. | 35. 由末段可知，汽车公司____。 |\n| --- | --- |\n| [A] will raise low-emission car production | [A] 将增加低排放汽车的产量 |\n| [B] should be forced to follow regulations | [B] 应被强制要求遵守规章制度 |\n| [C] will upgrade the design of their vehicles | [C] 将升级其机动车设计 |\n| [D] should be put under public supervision | [D] 应被置于公众监督之下 |\n\n[精准定位]末段首句指出：目前缺乏更大规模的行动来确保现有管控措施的严格执行以要求汽车公司生产合规机动车；末句又指出：我们虽在竭尽一切所能却独独没有坚持要求汽车生产商清洁其汽车。言外之意即为，汽车生产商/汽车公司应该被强制要求遵守相关规章制度，故[B]正确。\n\n[命题解密] 正确项是末段首末句针对汽车公司所述内容的合理引申。\n\n[A][C]均只见①句 require auto companies to bring their vehicles into compliance 而臆测“汽车公司将积极转型、升级汽车”，而未见其前信息 absence“缺乏此类要求”，与第三段②句“汽车公司舞弊以致毒害空气”所隐藏文意“汽车公司无视法律，生产高污染汽车”的消极态度相悖。[D]利用末句 We're doing everything but insist that...望文生义出“我们（普通大众）正竭尽一切所能以坚持要求汽车公司……”，从而推断出“置于公众监督之下”，而句意实为“我们（政府官员们）正在做力所能及之事，却独独没有要求汽车公司……”。\n\n[技巧总结] 段落推理题通常可以按照“紧贴段落主旨”原则解题。可以先借助段落首末句、同义/近义复现所展示的相关语义场、特殊的句式等揣摩段落主旨，随后将选项与段落主旨比对，正确项通常不直接对应原文字句，而是段落主旨思想的转述或升华。如本题，末段首尾句分别借 the absence of a larger effort“缺乏更大规模的行动”、doing everything but insist“做了一切，却独独没有要求”两个隐形否定表达强调当前未能针对汽车公司做出严令要求，反向即可推断，应强制要求汽车公司遵纪守法，锁定正确项[B];再有，两句中 effort“特别的行动”、insist“坚决要求”指向“更为严格、更具针对性的要求或行动”, properly enforce、regulations、bring into compliance 指向“严格遵守规章制度”, auto companies、manufacturers 指向“汽车公司”,三者共同指向“需对汽车公司严加管控，强制其遵守规定”,最终敲定[B]正确。"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "passage": [
+      "Now that members of Generation Z are graduating college this spring—the most commonly-accepted definition says this generation was born after 1995, give or take a year—the attention has been rising steadily in recent weeks. Gen Zs are about to hit the streets looking for work in a labor market that’s tighter than it's been in decades. And employers are planning on hiring about 17 percent more new graduates for jobs in the U.S. this year than last, according to a survey conducted by the National Association of Colleges and Employers. Everybody wants to know how the people who will soon inhabit those empty office cubicles will differ from those who came before them.",
+      "If “entitled” is the most common adjective, fairly or not, applied to millennials (those born between 1981 and 1995), the catchwords for Generation Z are practical and cautious. According to the career counselors and experts who study them, Generation Zs are clear-eyed, economic pragmatists. Despite graduating into the best economy in the past 50 years, Gen Zs know what an economic train wreck looks like. They were impressionable kids during the crash of 2008, when many of their parents lost their jobs or their life savings or both. They aren't interested in taking any chances. The booming economy seems to have done little to assuage this underlying generational sense of anxious urgency, especially for those who have college debt. College loan balances in the U.S. now stand at a record $1.5 trillion, according to the Federal Reserve.",
+      "One survey from Accenture found that 88 percent of graduating seniors this year chose their major with a job in mind. In a 2019 survey of University of Georgia students, meanwhile, the career office found the most desirable trait in a future employer was the ability to offer secure employment (followed by professional development and training, and then inspiring purpose). Job security or stability was the second most important career goal(work-life balance was number one), followed by a sense of being dedicated to a cause or to feel good about serving the greater good.",
+      "That’s a big change from the previous generation. “Millennials wanted more flexibility in their lives,” notes Tanya Michelsen, Associate Director of YouthSight, a UK-based brand manager that conducts regular 60-day surveys of British youth, in findings that might just as well apply to American youth. “Generation Zs are looking for more certainty and stability, because of the rise of the gig economy. They have troubles seeing a financial future and they are quite risk averse.”"
+     ],
+     "questions": [
+      {
+       "number": 36,
+       "score": 2,
+       "stem": "Generation Zs graduating college this spring .",
+       "options": {
+        "A": "are recognized for their abilities",
+        "B": "are optimistic about the labor market",
+        "C": "are in favor of office job offers",
+        "D": "are drawing growing public attention"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| 36. Generation Zs graduating college this spring ____. | 36. 今春毕业的Z世代____。 |\n| --- | --- |\n| [A] are recognized for their abilities | [A] 能力受到认可 |\n| [B] are optimistic about the labor market | [B] 对劳动力市场感到乐观 |\n| [C] are in favor of office job offers | [C] 青睐办公室工作的机会 |\n| [D] are drawing growing public attention | [D] 得到公众越来越多的关注 |\n\n[精准定位]第一段首句指出，由于Z世代今年春天就要从大学毕业，近几周来对他们的关注也在日益增长。可知[D]正确。\n\n[命题解密]正确项[D]是对第一段第一句 the attention has been rising steadily in recent weeks 的复现。\n\n[A]根据③句“雇主增加应届毕业生招聘人数”主观想象出“Z世代能力受到认可”，但由②句“劳动力市场人才紧缺”可知雇主做法是大环境之下的自然之举，并不涉及对Z世代能力的认可。[B]将②句所述客观事实“今年的劳动力市场人才紧缺/值得乐观”歪曲为主观看法“Z世代对劳动力市场感到乐观”。[C]的干扰方式与[B]相似，将④句所述“Z世代将占据办公室空隔间/步入职场”的客观事实歪曲为“Z世代偏爱办公室工作”的主观喜好。\n\n[技巧总结]本题考查“今春毕业的Z世代”的相关事实，选项有明显的主/客观属性区别，因此解题的关键是认真对比选项和原文信息的主客观性质。具体来看：1.将选项分为“主观类（[B]对劳动力市场乐观、[C]喜欢办公室工作)”和“客观类（[A]能力受到认可、[D]受到公众关注）”两大类别；2.按关键词回文寻找对应信息，首先排除无原词/近义词复现的[A]，其次排除主观类的[B]和[C]（“劳动力市场”和“办公室工作”的原文相关信息均属客观事实），最后将[D]与①句仔细比对后锁定答案。\n\nⅡ ① If “entitled ” is the most common adjective, fairly or not, applied to millennials (those born between 1981 and 1995), the catchwords for Generation Z are practical and cautious. ② According to the career counselors and experts who study them, Generation Zs are clear-eyed, economic pragmatists. ③ Despite graduating into the best economy in the past 50 years, Gen Zs know what an economic train wreck looks like. ④ They were impressionable kids during the crash of 2008, when many of their parents lost their jobs or their life savings or both. ⑤ They aren’t interested in taking any chances. ⑥ The booming economy seems to have done little to assuage this underlying generational sense of anxious urgency, especially for those who have college debt. ⑦ College loan balances in the U.S. now stand at a record $1.5 trillion, according to the Federal Reserve.\n\n如果“有权享有”是最常用于形容千禧一代(出生于1981至1995年间)的词——无论恰当与否——那么描述Z世代的关键词就是“讲求实际”和“谨慎小心”。据职业顾问和研究Z世代的专家称，Z世代是头脑清醒的经济实用主义者。尽管毕业于五十年来最好的经济形势，但Z世代了解经济火车失事的惨状。2008年经济崩盘时他们正是敏感的孩子，当时许多父母丢掉了工作或毕生积蓄，甚或二者一并丧失。他们对冒险毫无兴趣。蓬勃发展的经济似乎并未减轻这一代人深刻的忧患意识，对于那些背负大学债务的人尤其如此。根据美联储的数据，美国大学贷款欠额已达创纪录的1.5万亿美元。\n\n**词汇注释与难句分析**\n\nentitle v. 使有权利，使有资格\n\nmillennial n. 千禧一代\n\ncatchword n. 关键词；代表性口号\n\npragmatist n. 实用主义者\n\nimpressionable a.（尤因年轻而）易受影响的\n\nassuage v. 缓和，减轻\n\nunderlying a. 根本的，潜在的\n\nbalance n. (债务的)余款，结欠\n\nfairly or not (无论是否恰当)\n\ncareer counselor（职业顾问）\n\n**经典搭配**\n\ntrain wreck（火车失事）\n\ntake a chance（冒险，碰运气）\n\n**语篇分析**\n\n第二段介绍 Z 世代的性格特征，并从“成长背景”角度分析这一性格特征的成因。关键词：practical and cautious（讲求实际、谨慎小心）。\n\n①②句为总述，概括指出Z世代的性格特征。\n\n①句概述 Z 世代的性格特征：讲求实际、谨慎小心。句内 If 的语用功能相当于 whereas, 引出千禧一代与 Z 世代的对比(呼应首段末句 how the people... will differ from those who came before them), 并将论述重点落在后者，紧扣文章主题。catchwords 相较 the most common adjective... fairly or not 更显客观明确，引出对 Z 世代基本特征的介绍；practical and cautious 高度概括 Z 世代的性格特征，即讲求实际、谨慎小心。(注：entitled 意为“有权利(享受、做……)的”, 指千禧一代家境富庶殷实、从小受到家长的鼓励式教育，性格方面积极进取，认为万事都任由自己决定、只要自己努力就能成功，与 Z 世代“谨慎小心”的性格特征形成鲜明对比。)②句借专家观点，进一步凸显 Z 世代的特征“在经济方面头脑清醒、讲究实用主义”。According to 引出专家研究结论，体现句间论证关系。economic pragmatists(经济方面的实用主义者)呼应首句中 practical,将 Z 世代“讲求实际”的特点进一步收窄至经济方面，暗示下文将从经济层面展开分析。\n\n③至⑤句从“成长背景”角度分析 Z 世代的性格成因：在经济危机的阴影下成长起来(因此在经济方面很务实，不愿冒险)。\n\n③句指出Z世代清楚经济崩溃的可怕后果。前半句 the best economy in the past 50 years 呼应上段②③句a labor market that's tighter than it's been in decades、hiring about 17 percent more new graduates，再次表明当下经济繁荣、就业市场火热，后半句转折（句首 Despite 含“让步——转折”逻辑），暗示繁荣的经济无助于扭转Z世代谨慎小心的性格特点。know what an economic train wreck looks like(economic 修饰 train wreck“火车失事”，除了在修辞方面生动传递出“经济犹如火车般前行”，同时暗示高速发展的经济一旦出现危机，后果不堪设想)在字面上陈述Z世代深知经济崩溃的惨状，实则表明“他们对潜在经济崩溃的恐惧远远大于对当下经济繁荣的乐观”。\n\n④句细述 Z 世代对 2008 年经济危机的切身经历。the crash of 2008 明确上句 an economic train wreck 所指，impressionable kids 指出 Z 世代在当时所处的人生阶段“敏感的孩子”, 解释了上句传递出的信息“Z 世代对经济崩溃的恐惧远远大于对经济繁荣的振奋”: 经济危机在童年时期留下的巨大阴影难以被当下的繁荣所消解。when 在形式上引出“经济危机时的情况”, 实则引出经济危机的惨烈后果：父母丢掉工作或积蓄，甚至两者一并丧失。\n\n⑤句紧承上文，总结幼时的经济危机对Z世代性格特征的影响：致其对冒险毫无兴趣。aren't interested in taking any chances 呼应①②句中的 practical and cautious、economic pragmatists，表明Z世代不愿冒任何风险。本句与上句暗含因果关系：经济危机时父母的遭遇给Z世代留下深刻阴影，使他们在经济方面非常务实和谨慎（拒绝一夜暴富的投机心态）。\n\n⑥⑦句进一步强化论证，指出纵使如今经济繁荣也无助于减轻Z世代深刻的忧患意识。the booming economy 近义复现③句 the best economy in the past 50 years,再次表明当前经济形势大好；this underlying generational sense of anxious urgency(这一代人深刻的忧患意识)是对上文Z世代性格特征(讲求实际、谨慎小心、不愿冒险)的总结和深化，其中 underlying、generational 凸显出Z世代内心的忧虑感根深蒂固、遍及每位成员，隐隐呼应③-⑤句关于Z世代童年负面经历的论述；have done little to assuage(assuage 意为 to make an unpleasant feeling less severe“缓和，减轻(不快)”)借 little 的否定含义再次凸显Z世代性格特征的根深蒂固：即使经济形势再好，仍无法减轻他们的忧患意识。句末 especially...引出Z世代的典型群体“背负大学贷款者”(美国70%大学生背负着助学贷款),呼应 generational,强调“讲求实际、谨慎小心”是整个Z世代普遍的性格特征。⑦句借Z世代背负的巨额贷款佐证他们所具备的深刻忧患意识。a record $1.5 trillion 借“创纪录的巨额欠款”一方面凸显 Z 世代大学生的经济负担之重，另一方面暗示 Z 世代背负助学贷款的人数之多，既解释了“经济繁荣无助于减轻 Z 世代的忧虑感”的原因，同时又解释了首句中提出的这一代人“讲求实际、谨慎小心”这一性格特征的成因。\n\n[段落整体解读]本段遵循“提出观点—分析原因”的论述逻辑，分析Z世代的性格特征，在将关注点锁定在经济方面(economic)之后，通过 the best economy、economic train wreck、the crash of 2008、The booming economy 等词构建的“经济”语义场，从“当下经济繁荣 vsZ 世代性格谨慎”这组看似矛盾的现象出发，深入分析促成Z世代谨慎性格的原因，从而部分回应了第一段确立的文章关注点“Z世代与职场前辈相比的独特之处”。由于本段对Z世代特点的论述未曾深入到职场层面，因此预测下文将针对“职场中的Z世代”展开论述。"
+      },
+      {
+       "number": 37,
+       "score": 2,
+       "stem": "Generation Zs are keenly aware .",
+       "options": {
+        "A": "what their parents expect of them",
+        "B": "how valuable a counselor’s advice is",
+        "C": "what a tough economic situation is like",
+        "D": "how they differ from past generations"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n| 37. Generation Zs are keenly aware ____. | 37. Z世代非常明白 ____。 |\n| --- | --- |\n| [A] what their parents expect of them | [A] 父母对他们的期待 |\n| [B] how valuable a counselor's advice is | [B] 顾问的建议有多宝贵 |\n| [C] what a tough economic situation is like | [C] 严酷的经济形势是什么样子 |\n| [D] how they differ from past generations | [D] 他们和前几代人的区别 |\n\n[精准定位]第二段③句首先指出，Z世代清楚经济火车失事的惨状。④句紧接着解释：Z世代在2008年经济危机到来之时正是敏感的孩子，当时他们许多人的父母失去了工作或毕生积蓄。由此可知，Z世代非常明白“严酷的经济形势是什么样子”，[C]正确。\n\n[命题解密]正确项[C]中(keenly aware) what a tough economic situation is like 是对③句(know) what an economic train wreck looks like 的同义转换。\n\n[A]对④⑤句强加因果，认为Z世代“对冒险不感兴趣”是迎合经济危机中“丢掉工作或毕生积蓄”的父母之“期待”的结果，但文中并未提及他们父母的期待。[B]将②句内容“职业顾问和专家认为Z世代是头脑清醒的经济实用主义者”歪曲为“Z世代认同并珍惜职业顾问的建议”。[D]将①句事实“Z世代与千禧一代不同”歪曲为“Z世代知道自己与前几代人的区别”。\n\n[技巧总结]本题继续围绕Z世代进行考查，涉及Z世代的主观感受，解题关键是结合题干和选项中的关键词回文定位，然后比对信息确定答案。具体来看：题干中 Generation Zs are keenly aware 同义替换原文③句中 Gen Zs know，因此正确答案应该是对原文 what an economic train wreck looks like 的同义改写，故可直接锁定[C]。其他三项均利用该段中涉及的其他对象进行干扰（[A]涉及“父母”、[B]涉及“顾问”、[D]涉及“千禧一代”），均不是Z世代的认识对象。"
+      },
+      {
+       "number": 38,
+       "score": 2,
+       "stem": "The word “assuage”(line 9, para. 2) is closest in meaning to .",
+       "options": {
+        "A": "deepen",
+        "B": "define",
+        "C": "maintain",
+        "D": "relieve"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| 38. The word “assuage” (Line 9, Para. 2) is closest in meaning to ____. | 38. “assuage”一词(第2段，第9行)的含义最接近____。 |\n| --- | --- |\n| [A] deepen | [A] 加深 |\n| [B] define | [B] 定义 |\n| [C] maintain | [C] 保持 |\n| [D] relieve | [D] 减轻 |\n\n[命题解密] 正确项 [D] 是根据 The booming economy 与 this underlying generational sense of anxious urgency 之间的对立关系、并结合上下文信息作出的合理推断。\n\n[B]看似符合“Z世代焦虑感的形成与当前经济形势无关”的事实，但无法体现局部信息重点“Z世代焦虑感难以改变”。[C]与其前后“经济蓬勃发展”“Z世代普遍具有焦虑感”两者之间的对立关系相悖。\n\n[技巧总结]词义推断题重在考查学生梳理上下文语义逻辑的能力，解题关键是把握所考词汇与上下文的“同向”“反向”关系。如本题，借助段内语义逻辑可知，上文指出Z世代具有“谨慎小心、不愿冒险”的保守性格，那么⑥句也应该为论证这一主旨服务，所考词之后 this underlying generational sense of anxious urgency 与上文所述Z世代的保守性格为“同向”,而该句主语“经济繁荣”与Z世代的保守性格为“反向”,即可快速确定谓语部分整体含义为“难以改变，无助于减轻”,从而锁定答案。\n\nⅢ ① One survey from Accenture found that 88 percent of graduating seniors this year chose their major with a job in mind. ② In a 2019 survey of University of Georgia students, meanwhile, the career office found the most desirable trait in a future employer was the ability to offer secure employment (followed by professional development and training, and then inspiring purpose). ③ Job security or stability was the second most important career goal (work-life balance was number one), followed by a sense of being dedicated to a cause or to feel good about serving the greater good.\n\n埃森哲咨询公司一项调查发现，今年毕业的大四学生中，88%在当初选择专业时已有心目中的工作。与此同时，佐治亚大学就业办公室在2019年一项针对该校学生的调查中发现，未来雇主最受欢迎的品质是提供稳定工作的能力（其后分别是职业发展及培训、激励人心的企业宗旨）。工作保障或稳定是第二重要的职业目标（最重要的是“工作与生活平衡”），随后是事业奉献感或服务于宏大高尚事业的满足感。\n\n**词汇注释与难句分析**\n\nsenior n. 毕业班学生\n\nsecure a. 稳定的，稳固的\n\ndedicated a. 有奉献精神的，满腔热忱的\n\n**经典搭配**\n\njob security/stability（工作保障/稳定）\n\nserve the greater good（服务于宏大的高尚事业）\n\n**语篇分析**\n\n第三段介绍 Z 世代“讲求实际、谨慎小心”的性格特点在职场的体现：很早便形成职业规划、渴求工作稳定性。关键词：secure employment/Job security or stability(工作稳定/保障)。\n\n①句借一项调查指出，绝大多数Z世代成员在选择专业时早有明确的职业规划。graduating seniors this year 再次锁定文章讨论对象：今年毕业的大学生；chose their major with a job in mind（注：chose 为过去时）说明他们早在上大学选专业时已有明确的职业规划，体现Z世代在职业方面“头脑清醒（clear-eyed）、谨慎小心（cautious）、不愿冒任何风险（aren't interested in taking any chances）”的特征。88 percent 以极高比例体现这种趋势之普遍、特征之明显。\n\n②③句借另一项调查指出，Z世代非常重视工作稳定性。meanwhile 实现句群间衔接。\n\n②句指出 Z 世代最看重的雇主品质：提供稳定工作。University... students 呼应上句 graduating seniors, 继续锁定“(即将步入职场的) Z 世代大学生”这一群体；the most desirable trait... secure employment 通过最高级形式强调 Z 世代最看重的雇主品质是“提供稳定工作”, 同时与括号中排在第二、三位的“职业发展与培训”“激励人心的职业目标”暗含对比，凸显 Z 世代在职场中“追求稳定，谨慎小心”的性格特征(相比职业稳定而言，职业发展和职业所服务的宗旨显得不那么重要，这正体现了他们“讲求实际、谨慎小心”的性格特征)。\n\n③句进一步强化主旨，指出 Z 世代非常看重工作保障或稳定。Job security or stability 同义复现上句 secure employment, 并通过 the second most important 凸显 Z 世代对“职业稳定”的高度重视；括号中 work-life balance was number one 看似作为次要信息补充说明他们最重视的方面，实则也与他们的职业态度有关：重视“工作—生活平衡”表明他们对待职业更加理性超然，而对个人生活却更加重视，这恰恰也是他们“讲求实际”的另一种体现。a sense...the greater good 与上句 inspiring purpose 有所重叠，均指向“崇高的事业奉献感、高尚的职业目标”，这一项被排在第三位，说明对 Z 世代而言，看似缥缈的崇高的职业奉献感并非他们优先考虑的事项，反向凸显 Z 世代在职场中的“讲求实际、谨慎小心”。\n\n[段落整体解读]一、段内由 a job in mind... trait in a future employer... secure employment... Job security or stability 构建出“工作/职场”的语义场，开启对 Z 世代在职场的特征论述；二、段内通过 meanwhile 并列介绍了两项与 Z 世代职业取向相关的调查结果：1. 在选择专业之前已有明确的职业规划；2. 非常重视职业稳定性。这两点正是 Z 世代“讲求实际、谨慎小心”的性格特征在职场的具体体现；三、本段针对 Z 世代单个群体的职场态度展开论述，这与文章关注点“Z 世代与职场前辈相比有何不同”并不完全贴合，预测下文将会通过对比手法进一步予以阐述。"
+      },
+      {
+       "number": 39,
+       "score": 2,
+       "stem": "It can be learned from Paragraph 3 that Generation Zs .",
+       "options": {
+        "A": "give top priority to professional training",
+        "B": "have a clear idea about their future job",
+        "C": "care little about their job performance",
+        "D": "think it hard to achieve work-life balance"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 39. It can be learned from Paragraph 3 that Generation Zs ____. | 39. 由第3段可知，Z世代____。 |\n| --- | --- |\n| [A] give top priority to professional training | [A] 最优先考虑职业培训 |\n| [B] have a clear idea about their future jobs | [B] 对自己未来工作有清晰的想法 |\n| [C] care little about their job performance | [C] 对自己的工作表现不以为意 |\n| [D] think it hard to achieve work-life balance | [D] 认为“工作与生活平衡”很难实现 |\n\n[精准定位] 第三段介绍了两项关于 Z 世代对工作看法的调查结果。其中①句指出，今年的毕业生有 88% 在当初选择专业时已有心目中的工作，而该群体正属于 Z 世代，故可知 Z 世代对自己将来要做什么工作有明确、清晰的想法，[B] 正确。\n\n[命题解密] 正确项[B]是对第三段①句 chose their major with a job in mind 的正确解读。\n\n[A]虽然复现②句词汇 professional... training, 但将职业培训的重要性从“次于工作稳定(secure employment... followed by professional... training)”窜改为“最优先”。[C]由②③句“Z世代看重工作稳定”过度推断出“Z世代不重视工作、对工作业绩不以为意”, 但原文只讨论他们在职业选择方面的取向，并未讨论他们的工作态度(是否重视工作)。[D]将③句内容“Z世代最重视工作—生活平衡”窜改为“Z世代认为工作—生活平衡很难实现”。\n\n[技巧总结]本题考查事实细节，题干中没有明确的段内定位线索，只是笼统地针对Z世代提问，因此快速解答本题的诀窍在于划分段内层次，概括Z世代的特点。具体而言，本段通过 meanwhile 并列介绍了两项与Z世代职业取向相关的调查：1. 在选择专业之前已有明确的职业规划；2. 非常重视职业稳定性。正确选项应该符合这两项结论中其中一项，对比选项确定[B]符合第一项调查结果，为正确答案。另外，本题也可以通过“逐项定位、比对原文”的传统方法解答（见命题解密）。\n\nIV ① That's a big change from the previous generation. ② \"Millennials wanted more flexibility in their lives,\" notes Tanya Michelsen, Associate Director of YouthSight, a UK-based brand manager that conducts regular 60-day surveys of British youth, in findings that might just as well apply to American youth. ③ \"Generation Zs are looking for more certainty and stability, because of the rise of the gig economy. ④ They have troubles seeing a financial future and they are quite risk averse.\" [423 words] YouthSight YouthSight\n\n**词汇注释与难句分析**\n\nflexibility n. 灵活性，弹性\n\n**经典搭配**\n\nassociate a. 副的；准的\n\nbrand manager（品牌经理）\n\nregular a. 定期的，有规律的\n\ngig economy（零工经济）\n\nfinancial a. 财务的；金融的\n\nrisk averse（不愿冒险的，风险规避）\n\n功能注释：本句主干为“Millennials wanted...”, notes Tanya Michelsen...。直接引语部分是 notes 的宾语从句，引用塔尼娅在调查中的发现；主语 Tanya Michelsen 由同位语 Associate Director of YouthSight 解释说明其身份；YouthSight 之后又有同位语 a UK-based brand manager..., 解释说明该公司的具体情况。\n\n**语篇分析**\n\n第四段承接上文，通过与千禧一代进行对比，重申 Z 世代的独特之处在于“追求稳定性”。关键词：①big change(巨大转变);②more certainty and stability(更多的确定性和稳定性)。\n\n①句综述：Z世代看重工作的稳定性，这与千禧一代相比是很大的转变。That 回指上段对Z世代职业取向的调查结论“看重工作稳定性”，the previous generation 与首段末句 those who came before them 遥相呼应，回归全文关注话题“Z世代与职场前辈的不同”。a big change 概述两个群体差异巨大，为下文具体阐述差异做好铺垫。\n\n②一④句援引调查结论，具体阐述千禧一代和 Z 世代的差异。句群内部借 Millennials wanted... Generation Zs are looking for... 分述两个群体的特点。\n\n②句指出千禧一代的特点“追求灵活性”。more flexibility 明确千禧一代的特点是“追求更多灵活性”，过去时 wanted 表明本句讲的是千禧一代初入职场时的特点，(文中将其与即将进入职场的 Z 世代进行比较)体现对比的有效性。调查机构及调查对象 UK-based、British youth 以及其后 findings... as well apply to American youth 表明，千禧一代和 Z 世代的特点与差异在英美两国一致。\n\n③④句指出 Z 世代的特点“追求稳定性”。③句中 more certainty and stability 呼应上段③句中 Job security or stability，重申 Z 世代的特点是“追求更多的确定性与稳定性”；because of 引出原因：零工经济崛起（注：零工经济利用互联网和移动技术快速匹配供需方，由工作量不多的自由职业者参与其中，缺乏稳定保障）。④句论证③句：在零工经济崛起的背景下，生活愈加缺乏保障，Z 世代看不到经济前景（have troubles seeing a financial future），导致他们普遍厌恶风险、追求稳定（risk averse），呼应第二段⑤句 aren't interested in taking any chances。\n\n[段落整体解读]一、本文主要通过“Z世代”与“职场前辈”的对比，阐述Z世代的鲜明特征。首段末句确立话题“Z世代与职场前辈相比的独特之处”，第二段首句概述Z世代与千禧一代的差异（千禧一代积极进取 vsZ 世代务实谨慎），末段重申两个群体的差异（千禧一代追求灵活性 vsZ 世代寻求确定性和稳定性），实际是对第二段所述差异的具体化。二、第二段解释了Z世代性格特征的塑造因素，包括成长背景、经济负担，本段③句从“当前职场形势（零工经济的崛起）”这一角度补充解释导致Z世代“谨慎小心、追求稳定”这一特征的另一个因素。"
+      },
+      {
+       "number": 40,
+       "score": 2,
+       "stem": "Michelsen thinks that compared with millennials, Generation Zs are .",
+       "options": {
+        "A": "less realistic",
+        "B": "less adventurous",
+        "C": "more diligent",
+        "D": "more generous"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 40. Michelsen thinks that compared with millennials, Generation Zs are ____. | 40. 米切尔森认为，比起千禧一代，Z世代___。 |\n| [A] less realistic | [A] 不那么现实 |\n| [B] less adventurous | [B] 不那么爱冒险 |\n| [C] more diligent | [C] 更勤勉 |\n| [D] more generous | [D] 更慷慨 |\n\n[精准定位] 根据题干人名 Michelsen 及关键词 Generations Zs 定位至第四段③④句。两句指出，Z 世代寻求确定性与稳定性、不愿冒风险，[B]是对这一性格特点的同义改写。\n\n[命题解密] 正确项[B]是对 looking for more certainty and stability, quite risk averse 的同义改写。\n\n[A]与Z世代“高度重视(工作)稳定性”所体现的“讲求现实(practical、pragmatist)”相悖。[C]、[D]将第三段个别词汇 inspiring purpose、a sense of being dedicated to a cause 体现的“崇高的职业目标、为崇高事业作贡献”分别歪曲为“Z世代辛勤工作”和“Z世代乐于帮助别人”，既不符合原文信息，原文中也未将Z世代与千禧一代在这两个方面的差异进行比较。\n\n[技巧总结] 本题考查两个群体之间的特征对比，可按照“分类整理各群体特征—与选项比对后确定答案”的思路解题，具体来看：1. Michelsen 针对千禧一代和 Z 世代分别给出“追求更多灵活性”和“追求更多确定性和稳定性、极力规避风险”的描述；2. 题干询问 Z 世代的特征，浏览各选项后可轻松锁定 [B]。\n\n| 40. Michelsen thinks that compared with millennials, Generation Zs are ____. | 人物观点：米切尔森认为Z世代与千禧一代相比有什么特点。 |\n| --- | --- |\n\n问题速览：快速抓取关键词 Generation Zs, 可知本文话题为“Z世代”, 可能涉及这一代人的具体情况、特点等。\n\n问题关联：①36、37、39 题题干均涉及 Z 世代的相关事实，可知文章大量涉及 Z 世代的描述性内容。②借助 36 题可知，Z 世代今春将从大学毕业、步入职场；若具备背景知识“千禧一代是 Z 世代之前的一代人、如今已是职场中坚力量”, 则可结合 40 题，大致推断出文章的一大重点是“Z 世代在职场上与千禧一代的区别”。\n\n问题总结：通过上述分析可知，本文以“Z世代”为话题对象，具备较多描述性信息，且涉及其“与千禧一代在职场中的区别”。\n\n**二.语篇分析及试题精解**\n\nI ① Now that members of Generation Z are graduating college this spring—the most commonly-accepted definition says this generation was born after 1995, give or take a year—the attention has been rising steadily in recent weeks.\n\n由于一些Z世代成员——对这代人最普遍接受的定义是出生于1995年之后(可有一年出入)——今春即将大学毕业，近几周对他们的关注也在不断增长。\n\n② Gen Zs are about to hit the streets looking for work in a labor market that's tighter than it's been in decades. ③ And employers are planning on hiring about 17 percent more new graduates for jobs in the U.S. this year than last, according to a survey conducted by the National Association of Colleges and Employers. ④ Everybody wants to know how the people who will soon inhabit those empty office cubicles will differ from those who came before them.\n\nZ世代即将涌入几十年来劳动力最为紧缺的职场，开启求职之旅。一项由美国大学和雇主协会开展的调查显示，在今年的美国，雇主计划比去年多雇佣约17%的应届毕业生。每个人都想知道，即将占据办公室空隔间的这些人与他们的前辈相比有何不同。\n\n**词汇注释与难句分析**\n\ninhabit v. 占据，留在\n\ncubicle n. 小房间，隔间\n\n**经典搭配**\n\ncommonly-accepted（[为人们]普遍接受的）\n\ngive or take（相差不到……，出入至多……）\n\nhit the streets ([商品]大量上市)\n\n**语篇分析**\n\n第一段引出文章话题：即将步入职场的 Z 世代的特点。关键词：①Generation Z (Gen Z) (Z 世代);②how the people... will differ(这些……人有何不同)。\n\n①至③句引出文章讨论对象“即将步入职场的 Z 世代”。\n\n①句概述：Z世代即将毕业，引起社会关注。members of Generation Z引出讨论对象，are graduating college this spring 交代该群体当前状态，attention has been rising steadily 表明该群体引发了强烈关注。前后半句通过 Now that 串起因果逻辑：Z世代即将毕业(are graduating college this spring)→引起人们日益关注(attention...rising steadily in recent weeks)，一方面通过时间状语 this spring 和 in recent weeks 体现话题之“新”，另一方面明确指出人们对该群体的关注是由于他们“即将毕业（步入职场）”引起的，从而锁定本文话题范围“即将步入职场的Z世代”。\n\n②③句补充介绍 Z 世代毕业生面临的就业形势：人才紧缺，就业无忧。\n\n②句指出整体就业形势“数十年来对劳动力需求最大”。hit the streets looking for work (hit the streets 原指“[商品]大量上市”，在此形象传递出“Z世代毕业生大量涌入职场、纷纷求职”的壮观景象)，呼应首句 are graduating college，再次明确讨论对象为“即将步入职场的Z世代”。a labor market that's tighter than it's been in decades 借比较级传递最高级之义，凸显当前就业形势宽松，为“近几十年最好”。（注：就业市场“紧俏”指劳动力供小于求，就业轻松。）\n\n③句援引数据论证②句，指出今年雇主对应届毕业生的需求比去年多。hiring... new graduates (new graduates 呼应前两句 are graduating college、hit the streets looking for work)依然将话题聚焦于“即将步入职场的 Z 世代毕业生”;17 percent more 这一数据直观体现今年新增就业职位之多，就业形势一片光明。according to a survey...体现句间论证关系，表明本句通过援引调查数据论证上文。\n\n④句总结上文，明确全文话题：(与职场前辈相比)Z世代大学毕业生有何特点。Everybody wants to know 呼应首句 the attention has been rising steadily,再次凸显 Z 世代引起了社会的广泛关注；the people who will soon inhabit those empty office cubicles 呼应上文 are graduating college、hit the streets looking for work、new graduates,依然将话题锁定在“即将步入职场的 Z 世代”;how...will differ from those who came before them 明确人们的关注点“与之前进军职场的人(主要是千禧一代)相比，Z 世代有何独特之处”。\n\n[段落整体解读]本段围绕“即将毕业并步入职场的Z世代”展开论述，通过 are graduating college、hit the streets looking for work、hiring...new graduates、will soon inhabit those empty office cubicles 构建“大学毕业生/职场新人”的语义场，保持话题一致性；末句 Everybody wants to know 与首句 the attention has been rising 遥相呼应，以人们对话题的广泛关注凸显本文现实意义的同时，顺势引出本文话题“Z世代（与职场前辈相比）的独特之处”。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part B",
+   "instructions": "Read the following text and answer the questions by choosing the most suitable subheading from the list A-G for each numbered paragraph (41-45). There are two extra subheadings which you do not need to use. Mark your answers on the ANSWER SHEET. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "heading_matching",
+     "options": {
+      "A": "Give compliments, just not too many",
+      "B": "Put on a good face, always",
+      "C": "Tailor your interactions",
+      "D": "Spend time with everyone",
+      "E": "Reveal, don’t hide, information",
+      "F": "Slow down and listen",
+      "G": "Put yourselves in others’ shoes"
+     },
+     "passage": [
+      "Five Ways to Win Over Everyone in the Office",
+      "Is it possible to like everyone in your office? Think about how tough it is to get together 15 people, much less 50, who all get along perfectly. But unlike in friendships, you need coworkers. You work with them every day, and you depend on them just as they depend on you. Here are some ways that you can get the whole office on your side.",
+      "{{41}}",
+      "If you have a bone to pick with someone in your workplace, you may try to stay tight-lipped around them. But you won’t be helping either one of you. A Harvard Business School study found that observers consistently rated those who were upfront about themselves more highly, while those who hid lost trustworthiness. The lesson is not that you should make your personal life an open book, but rather, when given the option to offer up details about yourself or studiously stash them away, you should just be honest.",
+      "{{42}}",
+      "Just as important as being honest about yourself is being receptive to others. We often feel the need to tell others how we feel, whether it's a concern about a project, a stray thought, or a compliment. Those are all valid, but you need to take time to hear out your coworkers, too. In fact, rushing to get your own ideas out there can cause colleagues to feel you don’t value their opinions. Do your best to engage coworkers in a genuine, back-and-forth conversation, rather than prioritizing your own thoughts.",
+      "{{43}}",
+      "It's common to have a “cubicle mate” or special confidant in a work setting. But in addition to those trusted coworkers, you should expand your horizons and find out about all the people around you. Use your lunch and coffee breaks to meet up with colleagues you don’t always see. Find out about their lives and interests beyond the job. It requires minimal effort and goes a long way. This will help to grow your internal network, in addition to being a nice break in the work day.",
+      "{{44}}",
+      "Positive feedback is important for anyone to hear. And you don’t have to be someone’s boss to tell them they did an exceptional job on a particular project. This will help engender good will in others. But don't overdo it or be fake about it. One study found that people responded best to comments that shifted from negative to positive, possibly because it suggested they had won somebody over.",
+      "{{45}}",
+      "This one may be a bit more difficult to pull off, but it can go a long way to achieving results. Remember in dealing with any coworker what they appreciate from an interaction. Watch out for how they verbalize with others. Some people like small talk in a meeting before digging into important matters, while others are more straightforward. Jokes that work on one person won’t necessarily land with another. So, adapt your style accordingly to type. Consider the person that you’re dealing with in advance and what will get you to your desired outcome."
+     ],
+     "questions": [
+      {
+       "number": 41,
+       "score": 2,
+       "answer": "E",
+       "explanation": "> **答案：** E\n\n41.[答案] E [精解] 第二段先借具体事例指出“在与同事相处时不要刻意隐瞒自己看法”，再说明理由“刻意隐瞒的人会失去他人信任，坦承自我的人会受到好评”，最后告诉读者如何坦诚：面对是“主动说出个人细节”还是“费力将其隐瞒”之时，选择坦诚。[E]“透露信息，不要隐瞒”符合本段主旨。"
+      },
+      {
+       "number": 42,
+       "score": 2,
+       "answer": "F",
+       "explanation": "> **答案：** F\n\n42.[答案] F [精解] 第三段先指出“乐于倾听他人”非常重要，再说明理由“不耐心倾听同事看法、急于表达自己观点会被认为不尊重他人”,最后重申耐心倾听的重要性、鼓励读者与同事进行平等互动的谈话，而不是自己想法优先。[F] “慢下来倾听”与本段主旨一致。\n\n[干扰项设置] [A] Give compliments, just not too many 虽复现段中 compliment, 但本段仅在列举读者想要表达的感觉时提及“赞美”(Whether it's a..., a... or a compliment), 且段中并未就赞美的“度”给出建议；[E] Reveal, don't hide, information 虽与本段 being honest, tell others how we feel 近义，但由 Just as important as being honest is...、We often feel the need to tell... but you need to... too 可知作者语义重点在于“倾听他人想法”的重要性，[E] 偏离本段重心。"
+      },
+      {
+       "number": 43,
+       "score": 2,
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n43. [答案] D [精解] 第四段先借职场常态“只与三两同事往来”引出建议“拓宽交友圈、了解周围所有人”，再介绍具体做法“利用休息时间结识不常见的同事”，最后说明这样做的好处“不仅能丰富休息时间、还能拓展内部人脉”。[D]“花时间与所有人相处”契合该段主旨。"
+      },
+      {
+       "number": 44,
+       "score": 2,
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n44. [答案] A [精解] 第五段先给出建议“对同事的工作给予积极反馈”，随后说明益处“引发他人的善意”并提醒误区“要适可而止，不要过头”，最后补充介绍人们最喜欢的评价形式“起初为负面、后转为赞赏”。[A]“给予他人赞美，但莫过多”与该段主旨相符。\n\n[干扰项设置] [E] Reveal, don't hide, information 与②句“不要因为你不是老板就不跟某人说某事”及④句 don't... be fake about it(不要作假)疑似吻合，但原文所强调的是具体的“既不要吝啬你的夸赞、也不要虚伪地夸赞”,而非泛泛的“不要掖藏信息”,且 information 侧指“客观事实”,与第五段关键词“(积极)反馈/评价”的主观意义不符。"
+      },
+      {
+       "number": 45,
+       "score": 2,
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n45. [答案] C [精解] 第六段建议读者留意所有同事喜欢的或惯用的沟通方式，并在与他们互动时相应地调整自己的说话风格，使之与对方的沟通喜好相契合。[C]“调整你的互动方式”与该段主旨一致。\n\n[干扰项设置][G] Put yourselves in others' shoes(站在他人的角度看问题)的干扰源自末句 Consider the person... in advance(预先考虑一下对方),但设身处地的目的在于“更好地理解他人为何采取某种行为、或持有某一立场等”(比如，对方为何采取某种沟通方式),与第六段考虑对方的目的“使自己的沟通风格与对方的风格相近”不符。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section III Translation",
+   "instructions": "Translate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)",
+   "score": 15,
+   "groups": [
+    {
+     "type": "translation_full",
+     "passage": [
+      "It's almost impossible to go through life without experiencing some kind of failure. But, the wonderful thing about failure is that it's entirely up to us to decide how to look at it.",
+      "We can choose to see failure as “the end of the world”. Or, we can look at failure as the incredible learning experience that it often is. Every time we fail at something, we can choose to look for the lesson we’re meant to learn. These lessons are very important; they’re how we grow, and how we keep from making that same mistake again. Failures stop us only if we let them.",
+      "Failure can also teach us things about ourselves that we would never have learned otherwise. For instance, failure can help you discover how strong a person you are. Failing at something can help you discover your truest friends, or help you find unexpected motivation to succeed."
+     ],
+     "questions": [
+      {
+       "number": 46,
+       "score": 15,
+       "answer": "人的一生几乎不可能不经受某些失败。但是，失败的奇妙之处在于，它完全取决于我们如何看待它。\n\n我们可以把失败看作“世界末日”。我们也可以将它视为极好的学习经历，它常常就是如此。每一次失败时，我们都可以从中找寻应该吸取的教训。这些教训非常重要；它们使我们成长，也使我们不再犯同样的错误。只有任由失败阻止我们，我们才会被它阻止。\n\n失败也能教给我们一些有关我们自己的事情，没有失败，这些事情我们永远不会了解。比如，失败可以帮你发现自己有多么坚强。失败可以帮你发现最真诚的朋友，或者帮你找到意想不到的成功动力。",
+       "explanation": "> **答案：** 参考译文见下文\n\n失败之于失败者的助益\n\n**一.文章总体分析**\n\n本文节选自职场建议类网站 MindTools 一篇题为 Overcoming Fear of Failure(克服对失败的恐惧)的文章。真题裁剪该文 The Definition of Failure 这一节中部分段落，意在呼吁大家正向看待失败、清楚掌握失败的积极意义。文章话题较为生活化，句子结构也比较简单，但有些词汇使用的并非其常见含义，翻译时需根据上下文注意词语的词义选择。\n\n**二.语篇分析**\n\nI ① It's almost impossible to go through life without experiencing some kind of failure. ② But, the wonderful thing about failure is that it's entirely up to us to decide how to look at it.\n\n人的一生几乎不可能不经受某些失败。但是，失败的奇妙之处在于，它完全取决于我们如何看待它。\n\n**词汇注释与难句分析**\n\n**经典搭配**\n\ngo through (经历；遭受)\n\nbe up to sb（由……决定；是……的职责[或责任]）\n\n**语篇分析**\n\n第一段概说失败的美妙之处：如何看待失败完全掌握在失败者自己手里。\n\n①句铺陈指出失败不可避免。双重否定 impossible... without 表示肯定，强调失败之于生活的必然性：go through(to endure something unpleasant or difficult) life 表明生活本身便充满艰辛、困难重重，暗示生活中遭受失败的普遍性；全句着力强调“失败乃兵家常事、家常便饭、不足为奇”。\n\n②句转折指出失败的美妙之处。wonderful(意为 extremely good, pleasant or enjoyable“精彩的，绝妙的，令人愉快的”)形似修饰 thing, 实际借由 thing 后置定语 about failure 推知它实际用以说明失败，也即，生活中家常便饭式的失败有一定的乐观成分、我们大可无需惧怕；entirely up to us 借由绝对词 entirely“完全地，彻底地”强调失败者主观能动性之于失败的重大意义，结合 wonderful 一词褒义色彩深层暗示正确的看待方式能反败为胜。\n\n【段落梳理】形式上，两句以转折词 But 相连，将语义重点落于后句，后句进一步借主系表 A is B 结构将语义重点落于 B,即，强调失败的美妙之处——看待失败的方式完全取决于我们自己。实际上，借由②句 wonderful 所传递褒义色彩更侧重强调“正向看待失败之于我们人生的重要性”。\n\nⅡ ① We can choose to see failure as “the end of the world.” ② Or, we can look at failure as the incredible learning experience that it often is. ③ Every time we fail at something, we can choose to look for the lesson we’re meant to learn. ④ These lessons are very important; they’re how we grow, and how we keep from making that same mistake again. ⑤ Failures stop us only if we let them.\n\n我们可以把失败看作“世界末日”。我们也可以将它视为极好的学习经历，它常常就是如此。每一次失败时，我们都可以从中找寻应该吸取的教训。这些教训非常重要；它们使我们成长，也使我们不再犯同样的错误。只有任由失败阻止我们，我们才会被它阻止。\n\n**词汇注释与难句分析**\n\nincredible a. 难以置信的；极好的\n\nlesson n. 经验，教训\n\nstop v. 击败；阻挡\n\n**经典搭配**\n\nbe meant to（应当或必须做某事）\n\nonly if (只有)\n\n**语篇分析**\n\n第二段继而介绍看待失败的两种不同方式。\n\n①句介绍第一种方式(消极):视为世界末日。the end of the world 既表明此种方式的消极，又暗示其毁灭性后果：天塌地陷。\n\n②③④句详述第二种方式(积极)。Or 实现与①句间关联；learning experience... the lesson... These lessons 实现句群内部关联。\n\n②句概说内容：视作学习机会。the incredible learning experience 一方面借 incredible（意为 extremely good“绝佳的”）表明此种方式的积极乐观，另一方面借 learning experience 所传递出的积极主观能动性暗示其良性后果“获取知识、技能，进一步强大自己，以减少失败”。定语从句 that it often is 在主句指出“将失败视作绝佳学习机会”的基础上，借由系动词 is 进一步强调“失败往往本身就是一种绝妙的学习过程”这种常见现实情况，暗示出“失败并非天塌地陷，而是有其重大教育意义”。\n\n③句细说方法：失败时吸取教训。Every time 强调普适性：任何失败，都可以从中吸取教训；the lesson 呼应上句 learning,明确学习的具体方式“通过教训总结失败经验”; be meant to“应当(或肯定)要做……”表明“吸取教训是失败时可采取的唯一办法，除此之外，别无他法”。\n\n④句明确意义：让我们成长、避免重复犯错。分号起解释说明作用，they're how... and how... (they 回指 These lessons)诠释 very important,其中 how 指向方式、方法，该部分字面义为“它们是……的方式，是……的方式”,但结合上下文可知该部分意在强调失败的经验教训之于失败者成长、避免再犯的重要性，所以将其灵活处理为“它们让……”。\n\n⑤句将两种方式结合，明确其不同结果：被失败击垮 vs 战胜失败。only if(只有……才……)明确“个人主观能动性”之于“后果”的双向因果关联：如果任由失败击垮我们(即，不做任何努力，放弃与失败作斗争，将失败视为世界末日),我们就将被击垮 vs 如果不任由失败击垮我们(即，积极从失败中吸取教训，将其视为学习经历),我们就能反败为胜；stop 为熟词僻义，意表“击垮，战败”,将“失败”喻为“对手”,明确失败与失败者之间的敌对关系。\n\nⅢ ① Failure can also teach us things about ourselves that we would never have learned otherwise. ② For instance, failure can help you discover how strong a person you are. ③ Failing at something can help you discover your truest friends, or help you find unexpected motivation to succeed. [151 words]\n\n失败也能教给我们一些有关我们自己的事情，没有失败，这些事情我们永远不会了解。比如，失败可以帮你发现自己有多么坚强。失败可以帮你发现最真诚的朋友，或者帮你找到意想不到的成功动力。\n\n**词汇注释与难句分析**\n\notherwise ad. 与此不同地，相反地\n\nstrong a. 坚强的，强大的\n\nunexpected a. 意外的，意想不到的\n\n**语篇分析**\n\n第三段最后介绍失败的益处：帮助了解自己、了解朋友、获取成功动力。For instance 明确首句与末两句间“总述一例证”逻辑。\n\n①句总述益处：帮助认识自己。teach 一词实际呼应上段 learning、lesson,表明本句接续上段末句进一步说明失败的重大意义；we would never have learned otherwise 以虚拟情景“不失败”引出其影响“永不能获知有关自己的一些未知信息”,反向凸显“失败有助认识自己”。\n\n②③句举例说明(For instance)失败如何帮助我们了解自己。can help you... can help you... or help you... 三连并列，分别从个人品质、外部关系、内在动力三方面(discover how strong、discover your truest friends、find unexpected motivation)说明失败如何帮助失败者了解自我。文末以 to succeed 将失败引向人们所熟知的“失败乃成功之母”，以此呼应文首双重否定 impossible... without experiencing... failure 所传递出的“失败乃生活常事”，由雾霾开端、以艳阳结尾，皆大欢喜。\n\n【段落梳理】第二段实际同第三段，指向失败的意义：段首句中 also teach 功能重大，一借 teach 呼应上段 learning、lesson，二借 also 暗示上段跟本段语义并列，第二段形式上是在客观分析两种不同看待方式，实际上却在强调第二种看待方式的积极有效意义，即重在强调失败之于失败者的意义（之一）“使自己得以成长、不再犯相同错误”，从而与第三段介绍失败之于失败者的重大意义（之二）“认识自己，了解自己，成就自己”相吻合。\n\n**三.难句分析**\n\n1. But, the wonderful thing about failure is that it's entirely up to us to decide how to look at it.\n\n本句涉及的难点：表语从句、固定短语、it 形式主语。\n\n[句法分析]\n\n[要点注释]\n\n① 主语 the wonderful thing about failure 的翻译：thing 取其本义“东西，事物，特征，事情”; 后置定语 about failure 可处理为汉语“的”字结构；最后整体处理为“失败的奇妙之处”。\n\n②系动词 is 的翻译：主句以 A is B 结构，信息焦点落于 B, 即重在解释“失败的奇妙之处”, 故可将系动词 is 译为更有强调意味的“在于”, 并以逗号隔开。\n\n③表语从句的翻译：可按字面意义将表语从句初步处理为“它完全取决于我们决定如何看待它(即失败)”; 尔后再鉴于 be up to(取决于……、由……决定)已表达“决定”之意，可将 decide 省译，将译文调整为“它完全取决于我们如何看待它”。\n\n2. Or, we can look at failure as the incredible learning experience that it often is.\n\n本句涉及的难点：固定搭配、定语从句、熟词僻义。\n\n主句：Or，we can look at failure as the incredible learning experience 定语从句修饰 incredible learning experience: that it often is.\n\n[要点注释]①incredible 本义为“难以置信的”，但稍偏中性，借由下文语义重点“失败的积极意义：从中吸取教训，从而成长”，可推断这里应该取其另一含义“极好的，绝佳的”以传递其正面色彩。\n\n②experience 取“经验”解时，指向“由实践获取的知识、技能”；取“经历，体验”讲时，指向“给人带来影响的事件、活动”；鉴于此处与 learning（学习是一个活动过程）相连，故而取后者更符合文意。\n\n③定语从句的翻译：从句修饰的核心名词为 learning experience,但鉴于全文论述核心为 failure,从句主语亦为 failure,而且从句着力补充说明失败的一个特性、一个消极看法持有者们未曾意识到的客观事实“失败往往就是失败者的一个学习经历”,因而应考虑将本从句译为短句以示强调，直接接在主句之后，即“它(失败)常常就是如此”(将该从句还原即为 Failure is often an incredible learning experience,字面义为“失败通常是一种极好的学习机会”)。\n\n3. Failures stop us only if we let them.\n\n本句涉及的难点：条件状语从句、熟词僻义、省略用法。\n\n[句法分析]\n\n**要点注释**\n\n①stop 的常见义为“阻止、阻挡”，根据上下文语境“失败令人天塌地陷 vs 失败助人成长”可知 stop 此处指向“对人们的毁灭性打击/影响”。\n\n② let them 补充完整即为 let them stop us, 即“任由失败阻止我们”, 强调“失败者屈服于失败，放弃与失败作斗争，失去积极主观能动性”。\n\n③only if 表示“只有……（才），只有在……时候，唯一的条件是……，除非……”的意思，此处鉴于句子意在强调“人的积极主观能动性（即，主动将失败视为学习经历）的重要性”，故可借助中文双重否定式强调表达“不能/无法……除非……”。\n\n**4. Failure can also teach us things about ourselves that we would never have learned otherwise.**\n\n本句涉及的难点：定语从句、虚拟语气。\n\n**句法分析**\n\n**要点注释**\n\n①teach us things about ourselves 字面义为“教给我们一些有关我们自己的事情”，由下文举例(For instance)可知，这里强调“失败能帮助认清自身优势等”。\n\n②that 定语从句难点在于 otherwise 与虚拟语气搭配使用。之所以使用虚拟语气，是因为 otherwise 在此处的含义为“在相反的情况下，与之不同地，相反地”，表达与前面提到的真实情况（失败）相反的一种假设情形（没有失败），还原即为 We would never have learned things about ourselves if it were not for failure（原文中 that 指代 things about ourselves）。翻译时可采取后译法，即，将之译在主句之后，并按照汉语习惯将条件状语提前。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section IV Writing — Part A",
+   "score": 10,
+   "groups": [
+    {
+     "type": "writing",
+     "questions": [
+      {
+       "number": 47,
+       "score": 10,
+       "stem": "Suppose you are planning a tour of a historical site for a group of international students. Write an email to\n1)tell them about the site, and\n2)give them some tips for the tour.\nPlease write your answer on the ANSWER SHEET.\nDo not use your own name, use “Li Ming” instead. (10 points)",
+       "answer": "Dear Friends,\n\nI'm so delighted that you trust me to arrange your trip. I'm writing to inform you of the historical attraction to visit—the Terracotta Army, one of the greatest archaeological discoveries of all time—and share some travel tips.\n\nLocated to the east of downtown Xi'an, the Terracotta Army is a massive collection of life-size clay warriors and horses buried in the tomb of China's First Emperor. It offers a fascinating glimpse into the country's glorious past. To get a better view of these breathtaking sculptures, you may consider avoiding public holidays in China or setting out early if you have to visit the museum on those days. In addition, it's also advisable to rent a multilingual audio guide at the ticket office, which will certainly make your trip informative.\n\nHope this trip suits your taste and that you all enjoy it.\n\nYours sincerely,\nLi Ming",
+       "explanation": "**一、审题谋篇**\n\n**1. 解析题目指令，确定行文要点**\n\n| | | | |\n| --- | --- | --- | --- |\n| 抓取指令关键词 | 梳理信息 | 归纳要点 | |\n| 情景&要求 | Suppose you are planning a tour of a historical site for a group of international students .Write them an email to 1) tell them about the site, and 2) give them some tips for the tour . | 1. 写作人身份：“你”,即大学生2. 写作对象：留学生3. 写作话题：某一历史古迹的游览计划4. 写作类型：书信5. 交际目的：介绍古迹并给出旅行建议 | 1. 格式：书信(“介绍+建议”信)。2. 语域：收信人为留学生，用语不必太正式，保持礼貌、亲切即可。3. 内容要点：1简单介绍古迹信息；2给出一些旅行建议。 |\n\n**2. 罗列关键词**\n\ntour/trip/travel 旅游；historical site/attraction/landmark 历史遗迹/名胜；archaeological discovery 考古发现；tip/advice/suggestion 建议\n\n**3. 行文思路**\n\n第一段：表明写作目的，引出古迹名称；第二段：简介古迹信息，给出旅行建议；\n\n第三段：表达期待与祝愿。\n\n**优秀范文**\n\nDear Friends, ①I'm so delighted that you trust me to arrange your trip. ② I'm writing to inform you of the historical attraction to visit—the Terracotta Army, one of the greatest archaeological discoveries of all time—and share some travel tips.\n\n① Located to the east of downtown Xi'an, the Terracotta Army is a massive collection of life-size clay warriors and horses buried in the tomb of China's First Emperor. ② It offers a fascinating glimpse into the country's glorious past. ③ To get a better view of these breathtaking sculptures, you may consider avoiding public holidays in China or setting out early if you have to visit the museum on those days. ④ In addition, it's also advisable to rent a multilingual audio guide at the ticket office, which will certainly make your trip informative.\n\n① Hope this trip suits your taste and that you all enjoy it.\n\nYours sincerely,\n\n**参考译文**\n\n亲爱 的朋友们：①很高兴你们信任我来安排旅行。②我写信是想告诉你们将要参观的历史名胜——有史以来最伟大的考古发现之一，兵马俑——并分享一些旅行建议。\n\n①兵马俑位于西安市区的东部，是中国首位皇帝陵墓中埋葬的一大批真人大小的陶制兵马。②它使人们得以心醉神迷地领略中国的辉煌历史。③想要获得更好的视角来欣赏这些令人叹为观止的雕像，你们可以考虑避开中国的公共假日，或者如果迫不得已要在公共假日去参观兵马俑博物馆，可以考虑提早出发。④此外，最好在售票处租一个多语言的语音向导，这无疑会使你们在旅行中增长见闻。\n\n①希望这次旅行符合你们的喜好，祝大家旅途愉快。\n\n诚挚的，\n\nLi Ming\n\n李明\n\n[必备表达]\n\n1. life-size [a.] 与真人/实物一样大小的\n\n2. warrior [n.] (尤指旧时的) 战士，勇士\n\n3. breathtaking [a.] 激动人心的；惊人的\n\n4. public holidays 公共假日\n\n5. informative [a.] 提供有用信息的；增长见闻的\n\n6. suit one's taste 符合某人的口味/爱好\n\n[活用外刊]\n\nGreek islands offer a glimpse into the culture, cuisine and lifestyle of the Greek people, and they also often provide amazing beaches and unparalleled scenic beauty. —\n\n译文：希腊群岛能让游客短暂体味希腊的文化、美食和当地人的生活方式，这些小岛上往往还有令人惊叹的海滩和举世无双的自然美景。\n\n点拨：glimpse 有“一眼、一瞥”之意，a glimpse into sth 可表达短暂感受、体会某事 (a short experience of sth that helps you to understand it), 常用以形容游览参观中了解当地历史文化的即时体验。\n\n[精彩句式]\n\nlife-size clay warriors and horses buried in the tomb of China's First Emperor.\n\n**句子成形步骤：**\n\n①写出简单句\n\nThe Terracotta Army is located to the east of downtown Xi'an.\n\nThe Terracotta Army has many clay warriors and horses.\n\nThe clay warriors and horses were buried in the tomb of China's First Emperor.\n\n**②利用关系代词将简单句整合**\n\nLocated to the east of downtown Xi'an, the Terracotta Army has many clay warriors and horses (which were) buried in the tomb of China's First Emperor.\n\n**③通过替换为高级表述、添加形容词以增加表达准确性、内容饱满度及美感**\n\nLocated to the east of downtown Xi'an, the Terracotta Army is a massive collection of life-size clay warriors and horses buried in the tomb of China's First Emperor.\n\n**篇章衔接**\n\n引言部分(2句):①句表达为对方安排旅游的喜悦之情；②句陈述写信目的，引出古迹名称。\n\n主体部分(4句):①②句介绍古迹信息，包括地理位置、主要构造、游览价值等(两句通过 It 回指衔接);③④句给出两点旅行建议：避开公共假日或提早出发，租用语音向导(两句通过 In addition 衔接)。\n\n结尾部分(1句):向对方的旅行表示期待和祝愿。\n\n**模板提炼**\n\n本模板由【优秀范文】提炼、改编而来，适用于撰写以介绍某事物（如景点、城市、活动等）为切入点的建议信（如游览建议、活动参与建议等）。\n\nDear ____,\n\nI'm writing to inform you of 要介绍的事物 and share some (tips/suggestions).\n\nThis (site/city/activity) is/involves 具体介绍. It offers a fascinating glimpse into ____. To 目的，you may consider 建议一 or 建议一的替代方案. In addition, it's also advisable to 建议二，which will certainly 建议带来的好处.\n\nHope this (trip/activity) suits your taste and that you can enjoy it.\n\nYours sincerely,\n\nLi Ming\n\n**三、写作储备**\n\n**建议信常用表达**\n\n**(1) 开篇段：说明写作目的**\n\n- I am writing this letter on behalf of... to make some suggestions with regard to...\n\n我代表……写这封信，提一些关于……的建议。\n\n- I am very delighted to share with you some of my thoughts on...\n\n我很高兴能就……和你分享一些我的看法。\n\n- I have received your letter saying that... Perhaps the following suggestions are helpful for you.\n\n我已收到你的来信，信上说……。以下这些建议可能对你有帮助。\n\n(2) 中间段：介绍详情，罗列建议\n\n- I hereby suggest that... Also,... might be useful. I am sure if..., you will...\n\n在此我建议……，并且……也许会有用。我相信如果……，你会……。\n\n- To begin with, it would be beneficial if... because... Besides, it is highly recommended that... Last but not least, I propose that... which will...\n\n首先，如果……将大有裨益，因为……。其次，强烈建议……。最后但同样重要的是，我建议……,这会……。\n\n- By the way, you can do some Internet research to find out the... that suits your particular needs most.\n\n顺带一提，你可以在网上查阅一下，以找到最能满足你个人需求的……。\n\n**(3) 结尾段：表达期待**\n\n- Hopefully my suggestions are constructive and please feel free to contact me if you require additional information.\n\n希望我的建议有所助益，如果你需要更多信息，请随时与我联系。\n\n- I hope you will find these proposals practical and wish you...\n\n希望这些建议对你实用，同时祝你……。\n\n**四、写作练习**\n\n请根据下列要求进行写作。\n\n**Directions:**\n\nYou are assigned to arrange a Chinese speech contest for the international students in your university. Write them an email to\n\n1) tell them about the contest, and\n\n2) make some suggestions about how to prepare for it.\n\nPlease write your answer on the ANSWER SHEET.\n\nDo not use your own name, use \"Li Ming\" instead. (10 points)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section IV Writing — Part B",
+   "score": 15,
+   "groups": [
+    {
+     "type": "writing",
+     "images": [
+      "assets/2020-2-q48.jpg"
+     ],
+     "questions": [
+      {
+       "number": 48,
+       "score": 15,
+       "stem": "Write an essay based on the chart below. In your writing, you should\n1) interpret the chart, and\n2) give your comments.\nYou should write about 150 words on the ANSWER SHEET. (15 points)",
+       "answer": "The figures in the pie chart are based on a survey on the purpose of mobile reading among students at a certain university. Over three quarters of respondents read on their cellphones for the sake of acquiring knowledge (59.5%) or obtaining information (17.0%), while roughly one fifth do so just for fun.\n\nThe chart indicates that mobile reading, once regarded merely as a way to kill time, has become an approach to improving oneself or expanding one's horizons. It is actually a predictable phenomenon, given the popularization of smartphones. They provide us with easy online access, thereby catering to our need for a variety of information. The increasingly intense competition in the job market has also played a part. In order to gain nothing more than a slight edge over other job applicants, we college students have to keep learning something new, mastering practical skills and receiving real-time information.\n\nIn conclusion, mobile reading is bound to rise in popularity. Richer content and a better reading experience will be the key to attracting users.",
+       "explanation": "**一、审题谋篇**\n\n**1. 分析图表数据，解读背后现象**\n\n| | | |\n| --- | --- | --- |\n| 图表信息 | 信息解析 | 推导寓意 |\n| 图表下方标题为“某高校学生手机阅读目的调查”。 | 学生手机阅读目的从高到低排列为“学习知识>消磨时间>获取信息>其他”;其中，学习知识与获取信息总占比超过75%,远高于消磨时间占比。 | 手机阅读正摆脱“消遣娱乐方式”的标签，成为当今大学生获取知识/信息的重要渠道。一方面，智能手机日益普及，其便携性使人们能随时随地联网获取资讯，由此满足人们对各类信息的需求；另一方面，大学生面临愈发激烈的就业竞争，迫切需要强化专业知识、拓宽知识面、掌握多种技能并了解各类信息。 |\n| 图表中各目的所占比例分别为：学习知识59.5%,消磨时间21.3%,获取信息17.0%,其他2.2%。 | | |\n\n**2. 罗列关键词**\n\n描写关键词：pie chart 饼状图；account for 占……(比例); illustrate (用例子或图表)阐明\n\n话题关键词：mobile reading/reading on mobile phones 手机阅读；gain/acquire knowledge 学习知识 (注：learn knowledge 为错误搭配); obtain information 获取信息；kill time 消磨时间\n\n**3. 行文思路**\n\n第一段：描述图表；第二段：明确图表反映的现象，分析原因；第三段：展望未来趋势。\n\n**二、优秀范文赏析**\n\n**优秀范文**\n\n①The figures in the pie chart are based on a survey on the purpose of mobile reading among students at a certain university. ②Over three quarters of respondents read on their cellphones for the sake of acquiring knowledge (59.5%) or obtaining information (17.0%), while roughly one fifth do so just for fun.\n\n①The chart indicates that mobile reading, once regarded merely as a way to kill time, has become an approach to improving oneself or expanding one's horizons. ②It is actually a predictable phenomenon, given the popularization of smartphones. ③They provide us with easy online access, thereby catering to our need for a variety of information. ④The increasingly intense competition in the job market has also played a part. ⑤In order to gain nothing more than a slight edge over other job applicants, we college students have to keep learning something new, mastering practical skills and receiving real-time information.\n\n① In conclusion, mobile reading is bound to rise in popularity. ② Richer content and a better reading experience will be the key to attracting users.\n\n[必备表达]①该图表显示，曾经仅用于消磨时间的手机阅读业已成为人们提升自我和拓宽眼界的方式。②鉴于智能手机的普及，这其实是可以预想到的现象。③智能手机便于我们联网，从而能满足我们对各类信息的需求。④日益激烈的就业竞争也起到了一定的作用。⑤哪怕只是为了比其他求职者略胜一筹，我们大学生也不得不时刻学习新东西、掌握实用技能并获取实时资讯。\n\n1. respondent [n.] 受访者，调查对象\n\n①总之，手机阅读必将越来越流行。②更丰富的内容和更优质的阅读体验将会是吸引用户的关键。\n\n2. expand one's horizons 拓宽眼界，开阔视野\n\n3. popularization [n.] 普及，推广\n\n4. intense [a.] 激烈的，剧烈的\n\n**参考译文**\n\n5. gain an edge over... 胜过……\n\n①饼图中的数据基于一项针对某所大学学生手机阅读目的的调查。②超过四分之三的受访者在手机上阅读是为了学习知识（59.5%）或获取信息（17.0%），而大约五分之一的受访者在手机上阅读仅为消遣。\n\n[活用外刊]\n\n6. applicant [n.] (求职或进入高校的)申请人\n\n7. be bound to 一定会，必然会\n\n8. rise/grow/gain/increase in popularity 变得更受欢迎\n\n1. The new supply will cater to a rapidly expanding market as demand for petrol-powered vehicles gradually recedes.\n\n——The Guardian\n\n译文：随着汽油动力汽车的需求逐渐衰退，新一批的供货会迎合一个快速扩张的(电动汽车)市场。\n\n点拨：cater to 意为“迎合、满足(需求)”，后可接某类人群/市场，也可接具体的需求，可替换常用的表示“满足(需求)”的 meet、satisfy 等，增加表达的多样性。\n\n2. This slowdown is partly owing to lower prices for Canada's resource exports, weak demand for its goods from Europe and a strong currency. But home-grown factors have also played a part.\n\n—The Economist\n\n译文：增速放缓的一部分原因在于加拿大资源出口价格降低、欧洲对其商品的需求疲软以及其货币强势。但加拿大国内的因素也起到了一定的作用。\n\n点拨：play a part/role 意为“扮演一定的角色、发挥一定的作用”，可用于引出造成某一情形的原因，加上 also 后可用于补充前述内容未提及的原因，其后可接 in（doing）sth 介绍具体作用范围。\n\n**精彩句式**\n\n**句子成形步骤：**\n\n①写出简单句\n\n76.5 percent of students read on their cellphones to get knowledge or information.\n\n21.3 percent of students read on their cellphones for fun.\n\n②利用连词等将简单句整合，重复部分利用副词替换或直接省略\n\n76.5 percent of students read on their cellphones to get knowledge or information, while 21.3 percent do so for fun.\n\n③通过添加介词或副词、替换名词或动词来增加表达精确性及内容饱满度，适当利用分数替换单一的百分数能使句子简洁又不失美感\n\nOver three quarters of respondents read on their cellphones for the sake of acquiring knowledge or obtaining information, while roughly one fifth do so just for fun.\n\n**篇章衔接**\n\n第一段(2句):描述图表。①句概述图表内容。②句介绍图表中值得关注的数据：为了获取知识、信息而用手机阅读的学生比例高于为了消磨时间的学生。\n\n第二段(5句):概述图表所反映的现象，并分析现象产生的原因。①句揭示图表反映的现象：手机阅读不再只是消遣娱乐，还可用于提升自我、拓宽眼界。②至⑤句说明原因，其中②③句介绍原因一(客观)“智能手机的普及能满足人们对各类信息的需求”,④⑤句介绍原因二(主观)“大学生面临就业压力，需要掌握大量知识和信息”。\n\n第三段(2句):预测未来趋势。①句说明未来发展趋势，②句点明发展的关键因素。\n\n[应用模板]该模板适用于“多因素同时比较”的饼状图，涉及“某群体做某事的目的（以正面为主）”，用于反映某种积极趋势。\n\nI ① The above chart provides answers as to what ____ for. ② Most striking of all, ____ % make this choice for the purpose of ____. ③ Another crucial factor is ____, according to ____ % of respondents. ④ There are also ____ % (and ____ % respectively) deciding to ____ so that they can ____ or ____. ① The survey indicates the trend of ____, which occurs as expected and will continue, considering that ____. ② It is noteworthy that some ____ have little intention of ____ but ____. ③ On top of that, ____ still matter(s) to a handful of them. ① All in all, it is a delight to see them _. ②Doing so not only results in direct benefits to themselves, but goes a long way to (doing) _. ①\n\n**三、写作储备**\n\n[话题表述补充] portable [a.] 便携的 mobile device 移动设备 digital reading 数字阅读 intellectual curiosity 求知欲\n\n**写作素材积累**\n\n- Mobile devices are the ideal platforms for people to read shorter, bite-sized essays quickly, and conveniently, from anywhere and at any time. And the best part is that shorter essays have been shown to increase reader engagement and content retention.\n\n移动设备对于人们快捷方便、随时随地阅读短小零碎的文章来说是理想的平台。并且最棒的地方在于，简短的文章已被证明能提升读者参与度并延长内容记忆。\n\n- It is not hyperbole to suggest that if every person on the planet understood that his or her mobile phone could be transformed—easily and cheaply—into a library brimming with books, access to text would cease to be such a daunting hurdle to literacy. This is important because literacy opens the door to life-changing opportunities and benefits.\n\n毫不夸张地说，如果地球上每个人都能明白自己的手机能既方便又省钱地转变成一座满是书的图书馆，那阅读文本的获取就不再是(提升)文化水平的巨大阻碍。这一点很重要，因为文化水平能带来改变人生的机会和益处。"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

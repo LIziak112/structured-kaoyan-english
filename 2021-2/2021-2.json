@@ -1,0 +1,713 @@
+{
+ "year": 2021,
+ "exam": "英语二",
+ "sections": [
+  {
+   "title": "Section I Use of English",
+   "instructions": "Read the following text.Choose the Best word(s) for each numbered blank and mark A,B,C or D on the ANSWER SHEET. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "cloze",
+     "passage": [
+      "It’s not difficult to set targets for staff. It is much harder, {{1}} , to understand their negative consequences. Most work-related behaviors have multiple components. {{2}} one and the others become distorted.",
+      "Travel on a London bus and you’ll {{3}} see how this works with drivers.Watch people get on and show their tickets.Are they carefully inspected? Never. Do people get on without paying? Of course! Are there inspectors to {{4}} that people have paid? Possibly, but very few.And people who run for the bus? They are {{5}} . How about jumping lights? Buses do so almost as frequently as cyclists.",
+      "Why? Because the target is {{6}} . People complained that buses were late and infrequent. {{7}} , the number of buses and bus lanes were increased,and drivers were {{8}} or punished according to the time they took. And drivers hit these targets. But they {{9}} hit cyclists. If the target was changed to {{10}} , you would have more inspectors and more sensitive pricing. If the criterion changed to safety, you would get more {{11}} drivers who obeyed traffic laws. But both these criteria would be at the expense of time.",
+      "There is another {{12}} : people became immensely inventive in hitting targets. Have you {{13}} that you can leave on a flight an hour late but still arrive on time? Tailwinds? Of course not! Airlines have simply changed the time a {{14}} is meant to take.A one-hour flight is now billed as a two-hour flight.",
+      "The {{15}} of the story is simple. Most jobs are multidimensional, with multiple criteria. Choose one criterion and you may well {{16}} others.Everything can be done faster and made cheaper, but there is a {{17}} . Setting targets can and does have unforeseen negative consequences.",
+      "This is not an argument against target-setting. But it is an argument for exploring consequences first.All good targets should have multiple criteria {{18}} critical factors such as time, money, quality and customer feedback.The trick is not only to {{19}} just one or even two dimensions of the objective, but also to understand how to help people better {{20}} the objective."
+     ],
+     "questions": [
+      {
+       "number": 1,
+       "score": 0.5,
+       "options": {
+        "A": "therefore",
+        "B": "however",
+        "C": "again",
+        "D": "moreover"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n\n\n> **答案：** B\n\n\n\n1. [A] therefore 因此；所以\n\n\n\n[B] however 然而；不过\n\n\n\n[C] again 再一次；返回原处\n\n\n\n[D] moreover 此外；而且\n\n\n\n[考点提炼] 上下文语义逻辑。\n\n\n\n[解题思路] 首句指出，设定目标并不难；空格句指出，____, 认识到这些目标的负面影响要难得多。可见，两句存在语义反差 (It's not difficult vs It is much harder), 空格词作为插入语应体现两句间的转折对比逻辑，[B] however 符合要求。\n\n\n\n[错项排除] [A] therefore 用于引出结果，[D] moreover 表示递进关系，用于引出补充或支撑前一论述的新信息，但“认识目标设定的负面影响较难”并非“目标设定不难”导致的结果，也非对其的进一步补充说明或论证。[C] again 用于表示“某事在发生之后再次发生”或“某事又回到过去的状态或地方”, 例：You'll soon feel well again. (你很快就会康复的。) 但①②句间不存在再次发生的事件或两个相同的状态/地点，故“再一次，返回原处”无从谈起。"
+      },
+      {
+       "number": 2,
+       "score": 0.5,
+       "options": {
+        "A": "Emphasize",
+        "B": "Identify",
+        "C": "Assess",
+        "D": "Explain"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n\n\n2. [A] Emphasize 强调；重视 [B] Identify 确认；找到\n\n\n\n[C] Assess 评定；估算 [D] Explain 解释；说明\n\n\n\n[考点提炼] 上下文语义+动词辨析。\n\n\n\n[解题思路] ③④句指出，与工作相关的行为含有多个要素，____其中一个，其他就会变得扭曲。此两句与①②句“目标设定会带来不良影响”之间不存在任何显性关联词，表明两者间存在顺承关系，③④句“____一个会扭曲其他”应意在解释说明①②句“目标设定的不良影响”,空格词应该与“目标设定(想要达到的标准)”相关，指向“关注，聚焦，以……为目标/重点”等意，[A] Emphasize 表示 to give special importance to sth“重视”,“重视一个要素”即“将之设立为目标”,故正确。\n\n\n\n[错项排除]总体而言，“确认/评估/解释某一个要素”与“其他要素被扭曲”不存在因果关联（and 暗藏因果关联），且其语义内涵与“目标设定”关系较远。具体来看，[B]identify 可表示“找到，找出”，例：First of all we must identify the problem areas.（首先我们必须找出问题所在。）但由上句可知，各个要素是“已知的、显现的”。[C]Assess 指的是对人/物的性质、质量而非构成成分进行评定。[D]Explain 侧重“介绍事物的细节或原因以使他人理解”，其解释的对象应该是“某种复杂难解的事物或行为等”，而 one 已经是“被分解的、不难理解的一个要素”。\n\n\n\n**词汇注释与难句分析**\n\n\n\nset target 设定目标\n\n\n\nmultiple a. 多部分的；多种多样的\n\n\n\nstaff n. 全体职员；员工\n\n\n\ncomponent n. 组成部分\n\n\n\nconsequence n. 结果；后果\n\n\n\ndistorted a. 扭曲的\n\n\n\n**语篇分析**\n\n\n\n首段引出主题：目标设定会带来消极影响(目标以外要素受到扭曲)。①②句以转折对比(however)直入主题：设定目标不难，但要认识到目标的负面影响很难。not difficult vs much harder 凸显人们对设定目标的负面影响认识不足，并将语义重心落于“理解目标的负面影响”,预示后文将着力说明。③④句具体解释设定目标带来的负面影响：工作要素有多个，重视其中之一/将其设为目标，势必影响其他。③句中 Most、multiple 强调普遍现象“工作要素多种多样，而非单一”;④句 Emphasize...and...become distorted 则很明确地展示了设定目标的不良影响(and 传递因果语义):其他要素受到扭曲/无法达成，顾此失彼是必然结局，工作成效大打折扣。\n\n\n\nⅡ ① Travel on a London bus and you'll \\_3\\_ see how this works with drivers. ② Watch people get on and show their tickets. ③ Are they carefully inspected? ④ Never. ⑤ Do people get on without paying? ⑥ Of course! ⑦ Are there inspectors to \\_4\\_ that people have paid? ⑧ Possibly, but very few. ⑨ And people who run for the bus? ⑩ They are \\_5\\_. ⑪ How about jumping lights? ⑫ Buses do so almost as frequently as cyclists.\n\n\n\nⅢ ① Why? ② Because the target is \\_6\\_. ③ People complained that buses were late and infrequent.\n\n\n\n④ \\_7\\_, the number of buses and bus lanes were increased, and drivers were \\_8\\_ or punished according to the time they took. ⑤ And drivers hit these targets.\n\n\n\n⑥ But they \\_9\\_ hit cyclists. ⑦ If the target was changed to \\_10\\_, you would have more inspectors and more sensitive pricing. ⑧ If the criterion changed to safety, you would get more \\_11\\_ drivers who obeyed traffic laws.\n\n\n\n⑨ But both these criteria would be at the expense of time.\n\n\n\n①乘坐伦敦公交车出行，很快就能明白这是如何发生在司机身上的。②看着人们上车并出示车票。③他们被仔细检查了吗？④从来没有。⑤有人没付钱就上车了吗？⑥当然！⑦有检票员核查人们是否购票吗？⑧可能有，但很少。⑨那么那些跑着追赶公交的人呢？⑩他们被视而不见了。⑪闯红灯的情况呢？⑫公交车闯红灯几乎和骑自行车的人一样频繁。\n\n\n\n①为什么呢？②因为目标是准时。③人们曾经抱怨公交车晚点而且班次少。④所以，公交车和公交车专用道的数量增加了，司机们也根据其行程所用时间获得奖励或受到惩罚。⑤司机们实现了这些目标。⑥但他们也撞倒了骑自行车的人。⑦如果目标变成了收益，就会有更多的检票员，定价也会更加灵活。⑧如果标准变成了安全，就会有更多谨慎的司机，他们会遵守交通法规。⑨但这两项标准都将以牺牲时间为代价。"
+      },
+      {
+       "number": 3,
+       "score": 0.5,
+       "options": {
+        "A": "nearly",
+        "B": "curiously",
+        "C": "eagerly",
+        "D": "quickly"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n\n\n> **答案：** D\n\n\n\n3. [A] nearly 几乎；将近\n\n\n\n[C] eagerly 热切地[B]curiously 好奇地[D]quickly 迅速地；很快地\n\n\n\n[解题思路] 空格句指出，乘坐伦敦的公交车出行，你就会____明白这(this 回指上段末句“目标设定的消极影响：扭曲目标以外的要素”)是如何发生在司机身上的；结合上文“要理解目标设定的负面影响很难”以及下文“公交司机频繁闯红灯”可知，空格句意在引出公交车司机频繁闯红灯的例子来形象展示“设定目标的危害”,空格词应重点传递这一示例作用的有效性，[D] quickly 与 see 结合表示“快速明白/理解”,故正确。\n\n\n\n[错项排除] [A] nearly 表程度，暗示“不能完全理解/明白”, 与事例“公交司机频繁闯灯(负面语义赫然纸上)”的服务目的“让大家理解目标设定的不良影响”不符。[B] curiously、[C] eagerly 均利用人物心理“人们在车上好奇/热切地看”捏造干扰，但此处 see 表示思维上的“理解/明白”, 而非行为上的“看/张望”, 故与“好奇地”“热切地”无法形成合理搭配。"
+      },
+      {
+       "number": 4,
+       "score": 0.5,
+       "options": {
+        "A": "claim",
+        "B": "prove",
+        "C": "check",
+        "D": "recall"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n\n\n4. [A] claim 宣称；要求；索要 [B] prove 证明；证实\n\n\n\n[C] check 检查；查明；核实 [D] recall 记起；使想起\n\n\n\n[考点提炼] 句内语义 + 动词辨析。\n\n\n\n[解题思路] 空格句提出问题，有检票员 ____ 人们已经付钱了吗？空格词的逻辑主语为 inspectors,宾语为具体的情况 that people have paid;故空格词应表示公交车上检票员的动作行为，结合常识不难判断空格词应表示“检查，核实，核查”等，[C] check 可表示 to find out if sth/sb is correct or true“查明，核实”,“核实人们是否购票”与检票员的职责对应，故正确。\n\n\n\n[错项排除] [A] claim 可表示“索取；索要”，后应接费用、利益等，如 claim unemployment benefit（申领失业救济金），而本句中空格词的宾语为“人们是否已经付款/买票”这一具体情况，语义上无法搭配。[B] prove 表示“(用证据、论据)证明某事属实”，[D] recall 后接宾语从句时表示“回想起某事”，但检票员的职责是“核实/确保”而非“证明/回想起”乘客已经付钱（应该是“乘客”而非“检票员”用证据证明自己已经付钱，也只有“乘客”自己才能想起自己已经付钱）。"
+      },
+      {
+       "number": 5,
+       "score": 0.5,
+       "options": {
+        "A": "threatened",
+        "B": "ignored",
+        "C": "mocked",
+        "D": "blamed"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n\n\n5. [A] threatened 威胁；恐吓\n\n\n\n[B] ignored 忽视；不予理睬\n\n\n\n[C] mocked 嘲笑；不尊重\n\n\n\n[D] blamed 责怪；指责\n\n\n\n[考点提炼] 上下文语义+动词辨析。\n\n\n\n[解题思路] 空格句前句提出问题：那些跑着追赶公交的人怎么样了？空格句作出回答：他们被____。结合空格上下文“公交车上无人查票，司机频繁闯红灯”可知本句应在讲述公交(司机)对待“追赶着想要赶上车的人”的态度，[B] ignored 有“佯装未见，不予理睬”之意，契合上下文语境“对乘客是否购票无视，对路上车辆行人/车上乘客安全无视”,故正确。结合第四段③句“人们抱怨车辆晚点”亦可佐证“司机为赶时间会忽略那些还在跑着追赶公交的人”。\n\n\n\n[错项排除] [A]、[C]、[D] 均利用常规思维“某些人(其他乘客、路人)会威胁/嘲笑/责怪那些跑着追赶公交车的人”设障，但都无法契合上下文“无人查票、频繁闯灯、人们抱怨晚点”所传递的“司机为争抢时间而无视收益、无视安全、无视乘客上车的需求”。"
+      },
+      {
+       "number": 6,
+       "score": 0.5,
+       "options": {
+        "A": "punctuality",
+        "B": "hospitality",
+        "C": "competition",
+        "D": "innovation"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n\n\n6. [A] punctuality 准时；守时\n\n\n\n[B] hospitality 殷勤好客；款待\n\n\n\n[C] competition 竞争；比赛\n\n\n\n[D] innovation 创新；新思想\n\n\n\n[考点提炼] 上下文语义+名词辨析。\n\n\n\n[解题思路] 空格句指出原因：因为目标是____。结合空格上文所述伦敦公交的状况“不查车票、不顾追赶公交的人、频繁闯红灯”以及下文“人们抱怨公交车晚点”“司机们根据其行程所用时间……或受到惩罚”可知，此目标应与“时间”有关，[A] punctuality 表示 the fact or quality of being on time, 符合上下文语义逻辑。\n\n\n\n[错项排除] [B] hospitality 强调“对他人友好、热情的态度”，与上段公交车对跑着追赶公交之人的态度“视而不见”正好相悖。[C] competition 强调的是“团队内部成员之间的争抢/争夺”，而上下文并未涉及到“司机之间的竞争”，故排除。[D] innovation 由“增加公交车和公交车专用道”捏造而来，但由人们的抱怨及司机受罚的原因可知，这些措施的目的是“保证公交车的速度和班次”，与“创新”无关。"
+      },
+      {
+       "number": 7,
+       "score": 0.5,
+       "options": {
+        "A": "Yet",
+        "B": "So",
+        "C": "Besides",
+        "D": "Still"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n\n\n7. [A] Yet 然而；已经；还 [B] So 所以；因此 [C] Besides 此外；而且 [D] Still 还；仍然；不过 [考点提炼] 上下文语义逻辑。\n\n\n\n[解题思路] 空格句前句介绍人们对公交车的抱怨“晚点、班次少”; 空格句介绍与公交车有关的措施“增加公交车和公交车道的数量，依据司机的行程时间对其……或惩罚”，可见这些措施是为了解决公交车“晚点、班次少”的问题，人们的抱怨是“因”，相关措施是“果”，空格词应体现因果关系，[B] So 正确。\n\n\n\n[错项排除] [A] Yet、[D] Still 置于句首时都有转折意味 (despite what has just been said), 表示“不过，可是(用在先前说过的内容之后，引出令人惊讶的事实或情况)”, 例：The weather was cold and wet. Still, we had a great time. (天气又冷又潮，不过我们仍旧玩得很开心。) 但相应整改措施 (增加公交车 (道) 的数量、依据行程时间惩罚) 于公众抱怨 (晚点、班次少) 而言并没有令人惊讶/转折之处。[C] Besides 作副词时，可表示“此外”, 常置于句尾，例：I'm capable of doing the work, and a lot more besides. (我有能力做这工作，除此之外，还可以干更多的事。) besides 还可表示“而且”, 用于补充一个想法或解释，例：I don't really want to go. Besides, it's too late now. (我并不真的想去，而且现在太晚了。) 上述两义项中 besides 呈递的是一种并列或递进关联，而“公交系统的应对措施”与“公众抱怨”并非并列/递进关系，而是因果关系。"
+      },
+      {
+       "number": 8,
+       "score": 0.5,
+       "options": {
+        "A": "hired",
+        "B": "trained",
+        "C": "rewarded",
+        "D": "grouped"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n\n\n8. [A] hired 雇用；聘用\n\n\n\n[B] trained 训练；教育\n\n\n\n[C] rewarded 奖励；奖赏\n\n\n\n[D] grouped(使)成群，成组\n\n\n\n[考点提炼] 句内语义+动词辨析。\n\n\n\n[解题思路] 空格句指出，司机们根据其行程所用时间____或受到惩罚(____ or punished)。由上句分析可知，这一措施有助于解决“公交车晚点”的问题，即“根据其行程所用时间对司机进行____或惩罚”有利于提高准点率，空格词应与 punished 语义相对或类似，[C]rewarded 表示“奖励，奖赏”,可有效激励司机提高准点率，故正确。\n\n\n\n[错项排除] [A]、[B]、[D]均无法与空格句中 or“(用以引出另一种可能性)或，或者，还是”所呈递出的“并列语义(即与受罚相并列的另一种可能性)”契合，故排除。"
+      },
+      {
+       "number": 9,
+       "score": 0.5,
+       "options": {
+        "A": "only",
+        "B": "rather",
+        "C": "once",
+        "D": "also"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n\n\n9. [A] only 只；仅；只不过\n\n\n\n[B] rather 有点儿，稍微；相反，反而\n\n\n\n[C] once 仅一次；曾经\n\n\n\n[D] also 而且；此外；也\n\n\n\n[考点提炼] 上下文语义逻辑。\n\n\n\n[解题思路] ⑤⑥句指出设定“准时”目标后的结果(⑤句 And 表结果): 司机们“击中/实现(hit)”了这些目标，但是他们 “击中/碰撞(hit)”了骑自行车的人。可见，空格词应传递“实现准时目标”与“撞到骑自行车的人”两者都是“设定准时目标的结果”, [D] also“也，除此之外”符合语境，故正确。\n\n\n\n[错项排除] [A] only 表示 no more important, interesting, serious, etc. than“只不过；仅……而已”，暗示“撞到骑自行车的人”并不重要，而这与上文“目标（此处指“准时”）带来负面影响”的语境不符。[B] rather 与动词连用时，表示“有几分，有点儿”，用于减弱语气，且所接动词大多为“心理活动动词”，如 think, hope, suspect 之类，例：I rather thought that was the case.（我倒认为情况就是那样。）而空格句强调的是实际后果，不蕴藏心理活动。[C] once 强调动作或行为曾经发生或发生过一次，但由上文“公交车闯红灯跟骑自行车的人一样频繁”可推断“撞倒骑自行车的人”属频繁现象，不止一次。"
+      },
+      {
+       "number": 10,
+       "score": 0.5,
+       "options": {
+        "A": "comfort",
+        "B": "revenue",
+        "C": "efficiency",
+        "D": "security"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n\n\n10. [A] comfort 舒适；安慰\n\n\n\n[B] revenue 收益；收入\n\n\n\n[C] efficiency 效率；功效\n\n\n\n[D] security 安全工作；保护措施\n\n\n\n[考点提炼] 条件关系+句内语义。\n\n\n\n[解题思路] 空格句指出，如果目标变成了____,就会有更多的检票员，定价也会更加灵活。“更多检票员”“更灵活的定价”均与公交收费有关，空格词应传递“票价、金钱、收益”等含义才可与之构成“条件—结果”关联，[B] revenue 可表示“(公司、组织或政府的)收入”,正确。\n\n\n\n[错项排除] [A], [C], [D]均利用常规思维“公共交通应舒适、高效、安全”设障，但均无法契合主句所示语境“公交费用”，无法与更多检票员、更灵活定价构成“条件—结果”关联。"
+      },
+      {
+       "number": 11,
+       "score": 0.5,
+       "options": {
+        "A": "friendly",
+        "B": "quiet",
+        "C": "cautious",
+        "D": "diligent"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n\n\n11. [A] friendly 友好的；亲切的\n\n\n\n[B] quiet 文静的；稳重的\n\n\n\n[C] cautious 小心的；谨慎的\n\n\n\n[D] diligent 勤勉的；刻苦的\n\n\n\n[考点提炼] 条件关系+句内语义。\n\n\n\n[解题思路] 空格句指出，如果标准变成了安全，就会有更多____司机，他们会遵守交通法规。_drivers 一方面是条件从句“标准变成了安全”带来的结果，另一方面应该与 drivers 的定语从句 who obeyed traffic laws 的语义指向一致，[C] cautious 表示 being careful about what you say or do, especially to avoid danger“小心谨慎的”，符合上述两项条件。\n\n\n\n[错项排除] [A]、[B]、[D]均利用常规思维“公交车司机友好、稳重、勤奋”设障，但均无法契合条件句所传递的语境“安全”，不能与“将安全作为标准”构成“条件—结果”关联。\n\n\n\n**词汇注释与难句分析**\n\n\n\ninspect v. 检查；查看\n\n\n\njump the red light 闯红灯\n\n\n\ncyclist n. 骑自行车的人\n\n\n\ninfrequent a. 不常发生的\n\n\n\nbus lane 公共汽车专用道\n\n\n\nhit v. 碰撞；击中\n\n\n\nsensitive a. 敏感的；灵敏的\n\n\n\nobey v. 服从；遵守\n\n\n\nat the expense of 以……为代价\n\n\n\n**语篇分析**\n\n\n\n第三段对伦敦公交运营状况作出原因解释。①②句“自问自答(Why? Because...)”解释原因：以准时为目标。③④句回溯背景：公众抱怨引发相关措施。So 提示因果逻辑：“乘客抱怨：晚点、班次少”→“伦敦公交系统措施：增加班次，提高速度，依据行程时间奖惩司机”,就此解释②句“准时被设定为公交运营的唯一目标”。⑤⑥句 And 与上文形成因果逻辑，引出“以时间为目标”带来的结果。转折词 But、一词多义的 hit 说明上述目标带来的截然相反的双重影响：“击中”准时这一目标，也“击倒”了骑自行车的人，由此论证“目标”如何对公交司机产生消极影响。also“除此之外，也，还”传递出“此结果出乎意料”的意味，侧面呼应首段“负面影响不好理解”。⑦⑧句以 If...you would...If...you would 假设不同目标场景：以收益为目标→更多检票员，更灵活的定价；以安全为目标→司机更谨慎，遵守交通法规。末句以 But both 转折引出上述目标的代价；at the expense of 提示“收益”“安全”与“时间”之间互相排斥，不可兼得，呼应首段“强调一个，扭曲其他”,实现“观点→例证”的圆合。\n\n\n\nIV ① There is another \\_12\\_: people became immensely inventive in hitting targets. ② Have you \\_13\\_ that you can leave on a flight an hour late but still arrive on time? ③ Tailwinds? ④ Of course not! ⑤ Airlines have simply changed the time a \\_14\\_ is meant to take. ⑥ A one-hour flight is now billed as a two-hour flight.\n\n\n\n①还有另外一个问题：人们在达成目标方面变得极其有创意。②你有没有注意到，你的航班延迟一小时起飞，却仍能准时到达？③顺风吗？④当然不是！⑤航空公司只是修改了一下旅程所需的时间。⑥一小时的航程现在被号称为两小时。"
+      },
+      {
+       "number": 12,
+       "score": 0.5,
+       "options": {
+        "A": "purpose",
+        "B": "problem",
+        "C": "prejudice",
+        "D": "policy"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n\n\n> **答案：** B\n\n\n\n12. [A] purpose 意图；目的；重要意义\n\n\n\n[C] prejudice 偏见；成见\n\n\n\n[B] problem 棘手的问题；困难\n\n\n\n[考点提炼] 段际逻辑+名词词义辨析。\n\n\n\n[D] policy 政策；原则；为人之道\n\n\n\n[解题思路] 空格句指出，还存在另一个____:人们在达成目标方面变得极其有创意。而上文伦敦公交示例“为了实现准时，对收益、对安全、对意欲乘车的顾客熟视无睹；而如若将目标设置为安全或收益，又无法做到准时”意在说明首段所提出的“设定目标的负面影响：使得目标以外的要素受到扭曲”，此处应接续介绍目标设定的另一负面影响(another ____），且由本段末句“一个小时的航程现在号称需要两小时”所传递出的贬义色彩也能感知此空格应表“问题，负面影响”等，[B] problem 正确。\n\n\n\n[错项排除] 从总体语义导向看，[A]、[D]均为中性（偏正面）语义，与段间并列逻辑矛盾。具体而言，[A] purpose 表示抽象的“意义”时指“人生或生活的意义/目的感”，例：Volunteer work gives her life (a sense of) purpose.（做志愿工作使她的生活有了意义。）[D] policy 可指“宏观政治或经济上的政策、方针”，也可指“某种行事的原则”，例：Honesty is the best policy.（诚实为上。）但空格后“人们（已经）变得极具创意”强调的是一种已然发生的事态变化，并非指向常态性的生活目标、行事原则，故均排除。[C] prejudice 虽为负面语义，但着力强调的是一种负面态度/看法，也无法与空格后所述事实“事态变化”相契合。"
+      },
+      {
+       "number": 13,
+       "score": 0.5,
+       "options": {
+        "A": "reported",
+        "B": "revealed",
+        "C": "admitted",
+        "D": "noticed"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n\n\n13. [A] reported 报告；报道；据说\n\n\n\n[B] revealed 揭示；透露；显示\n\n\n\n[C] admitted 承认；准许……进入 [D] noticed 注意到；意识到\n\n\n\n[考点提炼] 句内语义+动词辨析。\n\n\n\n[解题思路] 空格句提出问题：你有没有____“你的航班延误一小时起飞，却仍能准时到达”?空格词应传递出主语“以你/读者为代表的普通大众”与反常事件“乘坐的航班延误一个小时后还能按时到达”的关联，空格词应表“发现，注意，观察，体验，经历”等，[D] noticed 表示“注意到，察觉到”,符合语义逻辑。\n\n\n\n[错项排除] [A] reported 通常表示“告知上级或公众与某事有关的信息”，[B] revealed 侧重“使某人或公众得知某不为人知之事”，两者均涉及多个主体，而空格词前后显示的是“同一主体（you）”，故排除两项。[C] admitted 通常指“承认（自己做过的不好、不快、尴尬的事情）”，但“航班延迟一小时起飞，却仍能准时到达”的行为施动者是“航空公司”而非句子主语 you 所体现的“乘客”。"
+      },
+      {
+       "number": 14,
+       "score": 0.5,
+       "options": {
+        "A": "break",
+        "B": "trip",
+        "C": "departure",
+        "D": "transfer"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n\n\n14. [A] break 间歇；间断；暂停 [B] trip 旅行；出行\n\n\n\n[C] departure 起程；班次；违反 [D] transfer 中转；搬迁；调动\n\n\n\n[考点提炼] 上下文语义+名词辨析。\n\n\n\n[解题思路] 空格句指出，航空公司只是修改了一下____所需的时间。后一句具体介绍航空公司如何修改时间：一小时的航程被号称为两小时(one-hour flight→two-hour flight)。可见，航空公司修改的是“一趟航行/航程(flight)”所需的时间，空格词应与 flight 近义，[B] trip 表示“出行，旅行”,正确。\n\n\n\n[错项排除] [A]、[C]、[D]分别利用航班的“经停/起飞/中转”时间捏造干扰，但由 one-hour flight → two-hour flight 可知，航空公司修改的不是旅程中间某一阶段所花费的时间，而是整个旅程总共耗费的时间；另外，departure time 指航班起飞的时间点，与 is meant to take(时间段)无法搭配。\n\n\n\n**词汇注释与难句分析**\n\n\n\nimmensely ad. 极端地；非常\n\n\n\ntailwind n. 顺风\n\n\n\nbill v. 把(某人或事物)宣传为……\n\n\n\n**语篇分析**\n\n\n\n第四段(插入段)补充目标设定的另一负面影响“使人为达成目标而不择手段”。\n\n\n\n第四段指出目标设定会让人们为了完成目标而“挖空心思”。①句 another problem 提示与上文目标设定的负面影响“导致其他要素受到忽略”并列，引出目标设定的另一负面影响；immensely inventive 反话正说，以“极具创意”暗示“不择手段”，批判目标设定的消极影响。②③④句再次以“问一答”形式描绘场景，说明人们在达成目标方面的“创意/手段”。②句 leave... an hour late but still... on time“延迟一个小时起飞，却还能准时着陆”凸显这一现象之反常；③④以设问形式（明显荒谬的问题 Tailwinds? 加之带有强烈语气的否定回答 Of course not）暗示这一反常现象的背后必有深层原因。⑤句解释这一现象背后真正的原因：（航空公司）修改航程所需时间（以求达到准时的目标）；simply 以轻描淡写的语气凸显这一行为的简单易行以及业界对这一行为的习以为常，反向说明“目标使人不择手段”早已广泛渗透。⑥句具体解释如何修改航程时间：one-hour flight→two-hour flight；billed（宣传）凸显这一行为之公然。\n\n\n\nV ① The 15 of the story is simple. ② Most jobs are multidimensional, with multiple criteria. ③ Choose one criterion and you may well 16 others. ④ Everything can be done faster and made cheaper, but there is a 17. ⑤ Setting targets can and does have unforeseen negative consequences.\n\n\n\n①这个故事的寓意很简单。②大部分工作都有多个维度、多个标准。③选择一个标准，那么就很可能要牺牲其他标准。④所有事都能以更快的速度、更低的价格完成，但是需要付出代价。⑤设定目标可能而且确实会带来不可预见的负面影响。\n\n\n\nVI ① This is not an argument against target-setting. ② But it is an argument for exploring consequences first. ③ All good targets should have multiple criteria 18 critical factors such as time, money, quality and customer feedback. ④ The trick is not only to 19 just one or even two dimensions of the objective, but also to understand how to help people better 20 the objective. [353 words]\n\n\n\n①这并不是说要反对设立目标。②而是说要先探讨后果。③所有好的目标都应该有多个与时间、金钱、质量、顾客反馈等关键因素有关的标准。④窍门在于，不仅要指定目标的一个、甚至两个维度，还要了解如何帮助人们更好地实现目标。"
+      },
+      {
+       "number": 15,
+       "score": 0.5,
+       "options": {
+        "A": "moral",
+        "B": "background",
+        "C": "style",
+        "D": "form"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n\n\n> **答案：** A\n\n\n\n15. [A] moral\n\n[B] background\n\n[C] style\n\n[D] form\n\n\n\n[考点提炼] 上下文语义+名词辨析。\n\n\n\n[解题思路] 空格句指出：这个故事的____很简单。空格句下文指出：大部分工作都有多个维度、多个标准，选择一个标准，很可能就要……其他标准。两者之间为顺承关联(没有任何显性关联词出现), 可见，“工作有多个维度、多个标准，选择一个会令其他多个……”是上述事例“(航空、公交等系统)为达目标而不顾乘客安危、满意度、收益等，甚至采取延长实际所需用时的方式来达成准时的目的(详见语篇分析 the story 的指代)”所传递的深意，[A] moral 可表示 a practical lesson that a story, an event or an experience teaches you“寓意，教益”, 正确。\n\n\n\n[错项排除][B]、[C]、[D]均利用常规思维“故事背景、故事风格、故事类型”设障，但“故事的背景/风格/类型简单”预示后文应指向“背景、风格、类型”方面的内容，与空格句下文所呈递有关工作的规律性信息“工作有多个维度、多个标准”不符。"
+      },
+      {
+       "number": 16,
+       "score": 0.5,
+       "options": {
+        "A": "interpret",
+        "B": "criticize",
+        "C": "sacrifice",
+        "D": "tolerate"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n\n\n16. [A] interpret 诠释；领会；口译 [B] criticize 批评；批判\n\n\n\n[C] sacrifice 牺牲；舍弃 [D] tolerate 容许；忍受\n\n\n\n[考点提炼] 句内语义 + 动词辨析。\n\n\n\n[解题思路] 空格句指出：选择一个工作标准，那么就很可能____其他标准。就空格句内部而言，and you may well...传递的是 Choose one criterion 的结果，根据常识“选择一个意味着舍弃其他”可锁定[C]。就上文语境而言，首段指出“与工作相关的行为含有多个要素，重视一个，其他要素就会扭曲”,第二、三段列举公交车示例“当目标设定为准时时，收益、安全等就会被忽略；当目标设为安全或收益时，准时就无法保证”,整体语境表明空格词应表“损害，放弃，扭曲”等贬义词，[C] sacrifice 正确。\n\n\n\n[错项排除]总体而言，[A] interpret“领会”、[D] tolerate“容忍”均不符合空格词的贬义语义指向。具体来看，[A] interpret 表示“把……理解为……”或“以某种方式解读”，常用 interpret sth as sth 结构，[D]tolerate 暗示宾语为“不同意、不喜欢或难以接受之事”，但是“解读其他标准”“容忍其他标准”均无法与空格前 Choose one“选择一个标准”形成因果关联(and...may well 表结果/因果)。[B] criticize 虽为消极语义指向，但空格句中 Choose...and you may well 并不蕴藏“赞扬 vs 批评”的语意。"
+      },
+      {
+       "number": 17,
+       "score": 0.5,
+       "options": {
+        "A": "task",
+        "B": "secret",
+        "C": "product",
+        "D": "cost"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n\n\n17. [A] task 任务；工作\n\n\n\n[B] secret 秘密；诀窍\n\n\n\n[C] product 产品；产物\n\n\n\n[D] cost 代价；费用；成本\n\n\n\n[考点提炼] 上下文语义+句内语义+名词辨析。\n\n\n\n[解题思路] 空格句指出，所有事都能以更快的速度、更低的价格完成，但是有____。空格句内部而言，but 标示语义对比，空格词应指向与 faster、cheaper 相反的负面语义，锁定具有负面语义的[D]。"
+      },
+      {
+       "number": 18,
+       "score": 0.5,
+       "options": {
+        "A": "leading to",
+        "B": "calling for",
+        "C": "relating to",
+        "D": "accounting for"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n\n\n18. [A] leading to 导致；通往 [B] calling for 呼吁；需要；接(某人)\n\n\n\n上下文语境而言，上句指出“选择一个目标/标准(faster、cheaper)，就会以其他标准为代价”，故空格词应与 sacrifice、at the expense of 语义相近，[D] cost 表示 the loss or damage that is involved in order to achieve sth，符合这一语义逻辑。\n\n\n\n[错项排除] [A] task、[B] secret、[C] product 均无法契合空格前后 sacrifice、but、negative consequence 所渲染的负面语义色彩。\n\n\n\n[C] relating to 涉及；有关 [D] accounting for (数量、比例上) 占；解释；对……负责\n\n\n\n[考点提炼] 句内语义+动词词组辨析\n\n\n\n[解题思路] 空格句介绍好的目标的要求：应该要有多个标准 ____ 如时间、金钱、质量、顾客反馈等关键因素。根据上文公交车示例“以时间(标准)为目标时，金钱、顾客反馈、质量等(标准)会遭到忽视，以金钱、顾客反馈等(标准)为目标时，时间(标准)会受到忽略”可知空格词后“时间、金钱、质量、顾客反馈等关键因素”同空格词前“标准”语义指向一致，属上下义关联，[C] relating to 符合文意。\n\n\n\n[错项排除] [A] leading to 可用于表示结果，强调的是因果关联，[B] calling for 指向的是需求关联，[D] accounting for 可用于表示原因，同样传递因果关联，均与句内“指向一致，上下义关联”不符。"
+      },
+      {
+       "number": 19,
+       "score": 0.5,
+       "options": {
+        "A": "specify",
+        "B": "predict",
+        "C": "restore",
+        "D": "create"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n\n\n19. [A] specify\n\n[B] predict\n\n[C] restore\n\n[D] create\n\n\n\n[考点提炼] 上下文语义+动词辨析。\n\n\n\n[解题思路] 空格句介绍设立好的目标的窍门：不仅要 ____ 目标的一两个维度，还要了解如何帮助人们更好地……目标。结合上文“好的目标需要有多个标准集成”可知设定一个好的目标首先必须符合“多个标准集成/选择多个标准”这一先决条件，空格词应表“设定，指定，规定，选择，选取”等，[A] specify 表示 to state sth explicitly or in detail, 符合语义逻辑。\n\n\n\n[错项排除] [B] predict“预测”暗示“目标维度目前尚未出现”，[C] restore“恢复”暗示“目标维度已经遭到破坏”，[D] create 表示“创造”时强调“从无到有”，暗示“目标维度并不存在”，而上文已提及“大部分工作都有多个维度和标准”，且并未提及“目标维度遭受破坏”的相关信息，故此三项均不符合上下文语义逻辑。"
+      },
+      {
+       "number": 20,
+       "score": 0.5,
+       "options": {
+        "A": "modify",
+        "B": "review",
+        "C": "present",
+        "D": "achieve"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n\n\n20. [A] modify 调整；修改；缓和 [B] review 重新考虑；反思；评论；复习\n\n\n\n[C] present 颁发；展现；提出\n\n\n\n[D] achieve 达到；完成；实现\n\n\n\n[考点提炼] 句内语义+动词辨析。\n\n\n\n[解题思路] 空格句以 not only... but also 呈现递进关系：不仅要指定目标的一两个维度，还要了解如何帮助人们更好地 ____ 目标。空格词应体现对“设立目标”的递进，[D] achieve 表示“实现”, 从“确立目标”到“实现目标”不仅体现了 not only... but also... 的递进关系，也充分表现了 trick(a way of doing sth that works well)的内在含义。此外，结合本段首两句“探讨目标的后果”可知，本句应关注“目标的实现”。\n\n\n\n[错项排除] [A] modify、[B] review 均体现了对前述目标的“不赞同、不认可”，且动作发出者应该指向“目标设定者”，这与空格句中所示动作发出者 people“目标执行者”不符（文首句明确指出“企业设定目标，员工去实现目标”）。[C] present 表示 to show or describe sth/sb in a particular way“展现，表现”，但“设立目标”与“展现目标”之间并没有明显的语义递进，也无法体现 trick 的“智慧方法”之意。\n\n\n\n**词汇注释与难句分析**\n\n\n\ncriterion n. (pl. criteria) 标准；准则\n\n\n\nmay well 很可能；有充分理由\n\n\n\nunforeseen a. 未想到的；始料不及的\n\n\n\nagainst prep. 反对\n\n\n\nfeedback n. 反馈\n\n\n\ntrick n. 诀窍；窍门\n\n\n\n**语篇分析**\n\n\n\n第五段重申主题。①句承上启下，开启对上述事件背后寓意的阐述（【编者注】原文第四段末尾还有两句话：It's the same with rail journeys. They now take twice as long as they did 20 or even 40 years ago. 就此可判断 the story 指向的是上文第二至四段“（航空、公交、铁路等交通系统）为达目标而不顾乘客安危、乘客满意度、系统收益等，甚至采取修改行程时间的方式来达成准时的目的”这种情况）。②至⑤句点明寓意。②句 Most jobs are... 说明与“工作”相关的普遍情况，multidimensional, with multiple criteria 呼应首段 multiple components, 再次强调工作的多维度、多标准。③句 Choose... and you may well... 介绍一般规律，and 提示因果逻辑“选择一个标准→牺牲其他标准”, 呼应首段末句“强调一个→扭曲其他”。④句以句内转折 but 进一步明确③句所述规律：实现某项标准(速度、价格)要付出代价。cost 近义复现上句 sacrifice、第三段 at the expense of, 凸显各项标准/目标之间的互相排斥。⑤句总结指出这一故事的终极寓意：设定目标会带来消极影响。can and does 从“推测”到“确信”, 凸显负面后果的必然性；Setting targets、negative consequences 复现首段内容，回归主旨。\n\n\n\n末段给出“如何设定并达成目标”的建议。①②句以 This is not... But it is... 对比说明写作目的：可以设立目标，但要先考虑“目标”的后果。against(反对) vs for(支持) 对比凸显作者态度。③句指出好的目标的要求。其中 (targets) multiple criteria 呼应前文对工作的描述 multiple components、multidimensional、with multiple criteria, 明确因果：工作是多维度、多标准的→目标也应是多标准的；relating to 说明标准的范围：与关键因素有关。④句以 not only... but also... 递进说明如何设定目标并实现目标：指定目标的一两个维度→了解如何更好地实现目标。specify... objective 到 achieve the objective 实现“设定目标→实现目标”的升华，better achieve 呼应本段②句 exploring consequences, 明确问题关键在于“如何更好地实现目标，避免产生消极后果”, 至此全文形成“提出问题—论述问题—解决问题”的层层呼应。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part A",
+   "instructions": "Read the following four texts. Answer the questions below each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points)",
+   "score": 40,
+   "groups": [
+    {
+     "title": "Text 1",
+     "type": "reading",
+     "passage": [
+      "“Reskilling” is something that sounds like a buzzword but is actually a requirement if we plan to have a future where a lot of would-be workers do not get left behind. We know we are moving into a period where the jobs in demand will change rapidly, as will the requirements of the jobs that remain.Research by the World Economic Forum finds that on average 42 per cent of the“core skills”within job roles will change by 2022.That is a very short timeline.",
+      "The question of who should pay for reskilling is a thorny one.For individual companies, the temptation is always to let go of workers whose skills are no longer in demand and replace them with those whose skills are.That does not always happen. AT&T is often given as the gold standard of a company who decided to do a massive reskilling program rather than go with a fire-and-hire strategy.Other companies including Amazon and Disney had also pledged to create their own plans.When the skills mismatch is in the broader economy though, the focus usually turns to government to handle.Efforts in Canada and elsewhere have been arguably languid at best, and have given us a situation where we frequently hear of employers begging for workers, even at times and in regions where unemployment is high.",
+      "With the pandemic, unemployment is very high indeed. In February,at 3.5 per cent and 5.5 per cent respectively, unemployment rates in Canada and the United States were at generational lows and worker shortages were everywhere.As of May, those rates had spiked up to 13.3 per cent and 13.7 per cent,and although many worker shortages had disappeared, not all had done so.In the medical field, to take an obvious example, the pandemic meant that there were still clear shortages of doctors, nurses and other medical personnel.",
+      "Of course, it is not like you can take an unemployed waiter and train him to be a doctor in a few weeks, no matter who pays for it.But even if you cannot close that gap, maybe you can close others, and doing so would be to the benefit of all concerned.That seems to be the case in Sweden: When forced to furlough 90 per cent of their cabin staff, Scandinavian Airlines decided to start up a short retraining program that reskilled the laid-off workers to support hospital staff.The effort was a collective one and involved other companies as well as a Swedish university."
+     ],
+     "questions": [
+      {
+       "number": 21,
+       "score": 2,
+       "stem": "Research by the World Economic Forum suggests .",
+       "options": {
+        "A": "an increase in full-time employment",
+        "B": "an urgent demand for new job skills",
+        "C": "a steady growth of job opportunities",
+        "D": "a controversy about the “core skills”"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n\n\n| 21. Research by the World Economic Forum suggests ____. | 21. 世界经济论坛的研究表明____。 |\n\n| --- | --- |\n\n| [A] an increase in full-time employment | [A] 全职就业岗位增加 |\n\n| [B] an urgent demand for new job skills | [B] 对新工作技能的需求迫切 |\n\n| [C] a steady growth of job opportunities | [C] 就业机会稳步增长 |\n\n| [D] a controversy about the “core skills” | [D] “核心技能”存在争议 |\n\n\n\n[精准定位]根据题干关键词 Research by the World Economic Forum 定位至首段③句，该句介绍世界经济论坛的研究发现：到2022年，各类职业中平均 42% 的“核心技能”将发生变化。这一研究发现支撑了②句“工作岗位的技能需求将迅速发生变化”这一时代趋势。结合末句“到2022年是非常短的时间”可知，未来的工作岗位迫切需要新的工作技能，[B]正确。\n\n\n\n[命题解密] 正确项[B]中 demand for new job skills 是对③句“core skills” within job roles will change 和②句 the jobs in demand will change rapidly 的同义转述，urgent 对应末句 a very short timeline。\n\n\n\n[A]利用首段①句 a lot of would-be workers 设置干扰，将我们对未来的期望“潜在劳动力不被大量抛弃”误解为“全职就业岗位将增多”，但原文并未涉及“全职工作”这一话题。[C]利用②句 the jobs in demand will change rapidly 设置干扰，但文中 the jobs in demand 实指“社会所需的工作(技能)”而非“社会提供的工作机会”，且“迅速变化”不意味着“稳步增长”。[D]由③句“平均 42% 的核心技能将发生变化”主观臆断出“核心技能存在争议”，但文中并未提及人们对核心技能的不同看法。\n\n\n\n[技巧总结] 本题为事实细节题，解题关键在于准确锁定关键词。如本题，根据题干可定位至首段③句，其内容是“到2022年，各类职业中42%的核心技能将发生变化”, 关键词是 core skills 和 change。“工作的核心技能发生变化”也即“需要新的工作技能”, 浏览四个选项可轻松锁定[B]。而[A]、[C]并未涉及“工作技能”, [D]虽触及“工作(核心)技能”, 但“争议”在文中并未提及。\n\n\n\nII ① The question of who should pay for reskilling is a thorny one. ② For individual companies, the temptation is always to let go of workers whose skills are no longer in demand and replace them with those whose skills are. ③ That does not always happen. ④ AT&T is often given as the gold standard of a company who decided to do a massive reskilling program rather than go with a“ fire-and-hire strategy. ⑤ Other companies including Amazon and Disney had also pledged to create their own plans. ⑥ When the skills mismatch is in the broader economy though, the focus usually turns to government to handle. ⑦ Efforts in Canada and elsewhere have been arguably languid at best, and have given us a situation where we frequently hear of employers begging for workers, even at times and in regions where unemployment is high.\n\n\n\n**词汇注释与难句分析**\n\n\n\nthorny a. 棘手的\n\n\n\ntemptation n. 诱惑；诱惑人的东西\n\n\n\nmassive a. 庞大的；大规模的\n\n\n\npledge v. 承诺；发誓\n\n\n\nmismatch n. 不匹配；错配\n\n\n\narguably ad. 可论证地；可以说\n\n\n\nlanguid a. 慢悠悠的；迟缓无力的\n\n\n\n**经典搭配**\n\n\n\nlet go of sth 放弃……\n\n\n\ngold standard 在同类事物中作为尺规的好事物\n\n\n\ngo with sth 接受(看法或计划)\n\n\n\nat best 充其量；至多\n\n\n\n功能注释：分句1提出对加拿大政府政策的批评，分句2给出批评的理由。分句2中第一个 where 引导的定语从句用以说明加拿大政府政策迟缓无力所造成的矛盾局面。其中时间及地点状语 even at times and in regions 凸显了“高用人需求(employers begging for workers)”与“高失业率(unemployment is high)”之间的矛盾关系。\n\n\n\n**语篇分析**\n\n\n\n第二段探讨谁该为再培训付费，也即谁该承担再培训这一重任。关键词：who should pay for reskilling(谁该为再培训付费)。\n\n\n\n①句提出本段论述的问题“谁该承担再培训这一重任”。thorny“棘手的”奠定本段基调：这一问题不好解决；who should pay for reskilling 不仅仅指向“谁该为再培训付费”，而是更广义地提出“谁该承担再培训这一重任”。\n\n\n\n②至⑤句从“企业的角度”分析该如何解决公司内新技能需求的问题。\n\n\n\n②句指出大多数企业的惯常做法。For individual companies 锁定企业视角；the temptation is always to... 引出企业面对“员工无法跟上技能迭代”这一问题的惯常做法：解雇技能过时的员工，聘用掌握紧缺技能的人来代替；其中 temptation“诱惑”反映出该做法对于企业来说经济成本低、管理压力小，看似是个有吸引力的好办法，但实际上侵害劳工权益，是不负责任的做法。\n\n\n\n③句隐含转折，指出并非所有企业都采取②句所述的做法。That 回指②句“解雇技能过时的员工，聘用掌握紧缺技能的人来代替”的做法；does not always 为不完全否定，一方面反映了上述侵害劳工的做法已近乎是所有企业的选择（always），暗含作者苛责的语气，另一方面隐含转折，指出还有一些企业拒绝了上述不负责任的做法，而选择了更有效益且负责的做法，暗含作者赞赏的态度。\n\n\n\n④句引用 AT&T 的例子说明企业能够采取的其他做法：大规模的技能再培训方案。fire-and-hire strategy 回指②句中的常规做法 let go of workers... and replace them with...; rather than 体现出 AT&T 与常规做法的不同；the gold standard(金本位，引申为供参照的标准、完美范例)以生动形象的比喻表明 AT&T 的再培训方案具有可操作性，值得效法；动词短语 decided to vs go with 对比表明 AT&T 并非不加思考地顺从“先裁后聘”策略，而是慎重抉择后采取“再培训”方案。\n\n\n\n⑤句补充指出其他公司也承诺制定技能再培训方案。Other companies... also... 列举 Amazon 和 Disney 等行业内具有影响力的大公司，表明技能再培训已成为一种趋势。\n\n\n\n⑥至⑦句从“政府的角度”分析该如何解决宏观经济层面上的技能不匹配问题。\n\n\n\n⑥句将视角转向政府，指出宏观经济层面的技能不匹配问题须由政府来解决。broader 呼应②句的 individual，表明本句开始切换角度，从更宏观的层面来讨论这一问题；the focus... turns to government 点明面对宏观经济层面的技能不匹配问题，政府应该发挥主要作用。\n\n\n\n⑦句批判加拿大政府的措施不力。languid“迟缓无力的”一词直接批判加拿大政府的措施不力；随后 have given us a situation... 引出措施不力造成的矛盾局面，并通过 even 前后的对比强化了这一矛盾：即使在高失业率时期和地区，雇主还是招聘不到（技能匹配的）员工。\n\n\n\n【段落梳理】第二段整体为“提出问题(①句)—分析解决办法(②至末句)”的逻辑。具体分析解决办法时，作者分述了两个角度，分别为企业的微观角度以及政府的宏观角度。在阅读过程中，根据一些明显的话语标记可以快速区分论述层次：②句 For individual companies 提示接下来的论述将从企业角度出发，⑥句 When... in the broader economy though 提示接下来的论述将从宏观经济层面出发。在具体的分述过程中，作者通常采用举例、对比、比喻等论证手法，本段落④⑤⑦句均采用了举例论证的手法。"
+      },
+      {
+       "number": 22,
+       "score": 2,
+       "stem": "AT&T is cited to show .",
+       "options": {
+        "A": "an alternative to the fire-and-hire strategy",
+        "B": "an immediate need for government support",
+        "C": "the importance of staff appraisal standards",
+        "D": "the characteristics of reskilling programs"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n\n\n| 22. AT&T is cited to show ____. | 22. 文中引用美国电话电报公司是为了说明____。 |\n\n| --- | --- |\n\n| [A] an alternative to the fire-and-hire strategy | [A] “先裁后聘”策略的替代方案 |\n\n| [B] an immediate need for government support | [B] 当前亟需政府支持 |\n\n| [C] the importance of staff appraisal standards | [C] 工作人员考核标准的重要性 |\n\n| [D] the characteristics of reskilling programs | [D] 再培训方案的特点 |\n\n\n\n[精准定位] 第二段②句指出，面对技能需求问题，大多数公司的做法是解雇技能过时的员工，用掌握紧缺技能的人取而代之，即“先裁后聘”策略。③句转而指出，情况并非总是如此，并以④句 AT&T 的做法为例予以说明：AT&T 选择了大规模的技能再培训方案而非“先裁后聘”策略，为反其道而行之提供了一个完美范例。故引用 AT&T 旨在说明再培训方案能够很好地替代“先裁后聘”策略，[A]正确。\n\n\n\n[命题解密] 正确项[A]是对④句 decided to do a massive reskilling program rather than go with a fire-and-hire strategy 的准确概括。\n\n\n\n[B]利用⑥句 the focus usually turns to government to handle 干扰，但“让政府出手”是“宏观经济层面”的解决方案，而“AT&T 的反常规做法”是“公司层面”的解决方案，两者角度不同。[C]由④句对 AT&T 的评价 a gold standard“完美范例/黄金标准”和②句大多数公司的做法 let go of workers whose skills are no longer in demand“解雇技能过时的员工”杂糅捏造而来，文中并未讨论“员工的考核标准”。[D]中 reskilling programs 虽提到了④句 AT&T 的方案，但 characteristics 偏离文意，作者引用 AT&T 意在说明“再培训”方案可以替代常规的“先裁后聘”策略，而非介绍前者的具体特点。\n\n\n\n[技巧总结] 本题为写作目的题，解题关键在于区分论点和论据，并理解举例的目的是为了支撑观点。具体看本题：第二段②句先指出大多数公司在面对技能不匹配问题时倾向于先裁后聘，随后③句转而提出“这种做法并非必然”的论点，接着④句引用 AT&T予以例证：AT&T没有采用常规的“先裁后聘”策略，而是对员工进行了大规模的技能再培训。该例子旨在论证③句，也即与传统“先裁后聘”策略不同的其他方案，故[A]正确。"
+      },
+      {
+       "number": 23,
+       "score": 2,
+       "stem": "Efforts to resolve the skills mismatch in Canada .",
+       "options": {
+        "A": "have driven up labour costs",
+        "B": "have proved to be inconsistent",
+        "C": "have met with fierce opposition",
+        "D": "have appeared to be insufficient"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n\n\n| 23. Efforts to resolve the skills mismatch in Canada ____. | 23. 为解决技能不匹配问题，加拿大所作的努力____。 |\n\n| --- | --- |\n\n| [A] have driven up labour costs | [A] 推高了劳动力成本 |\n\n| [B] have proved to be inconsistent | [B] 已证明是自相矛盾的 |\n\n| [C] have met with fierce opposition | [C] 遭到了强烈反对 |\n\n| [D] have appeared to be insufficient | [D] 似乎仍然不够 |\n\n\n\n[精准定位] 第二段末句指出，加拿大及其他地方所作的努力充其量只能说是迟缓无力的，这导致即便在高失业率的时期和地区，雇主也常急缺雇员。可见，加拿大为解决技能不匹配问题所作的努力仍然不够，[D]正确。\n\n\n\n[命题解密] 正确项[D]是对第二段末句 Efforts in Canada and elsewhere have been arguably languid at best 的同义改写。languid 一词虽超纲，但结合上下文可知，“失业率高的时候雇主还是急缺雇员”实际描述的是上句“技能不匹配(skills mismatch)”的现象，即低技能员工大量失业、高技能员工极其紧缺。上句还提及“人们希望政府来解决这一问题(government to handle)”，但加拿大政府付出了努力却没有解决问题，可见其努力“仍然不够”。\n\n\n\n[A]根据加拿大努力不够导致的局面“雇主急缺雇员”主观臆断出“劳动力成本上升”，文中并未明确提出劳工成本问题。[B]将“即便是在高失业率时期，雇主也常常急缺雇员”这一矛盾局面（即加拿大努力不够导致的结果），偷换成“加拿大所作的努力本身是自相矛盾的”。[C]由文意“人们希望政府来解决，但政府所作努力不够有力”主观臆测出“加拿大所作的努力遭到了强烈的反对”，而文中并未提及公众的不满。\n\n\n\n[技巧总结] 本题定位比较容易，但难点在于定位处关键信息 languid 一词可能陌生。解题时可先看选项，[A]、[C]指向努力导致的“结果”,[B]、[D]指向对努力本身的“评价”。简单分类后，再看定位句 have given us a situation where... 对应“结果”,have been arguably languid at best 对应“评价”。最后将各项与原文比对，比对信息时切忌主观臆断(如[A]、[C]项)以及偷换逻辑(如[B]项)。\n\n\n\nⅢ ① With the pandemic, unemployment is very high indeed. ② In February, at 3.5 per cent and 5.5 per cent respectively, unemployment rates in Canada and the United States were at generational lows and worker shortages were everywhere. ③ As of May, those rates had spiked up to 13.3 per cent and 13.7 per cent, and although many worker shortages had disappeared, not all had done so. ④ In the medical field, to take an obvious example, the pandemic meant that there were still clear shortages of doctors, nurses and other medical personnel.\n\n\n\n由于疫情，失业率的确居高不下。二月份，加拿大和美国的失业率分别为3.5%和5.5%,处于近二三十年低点，员工短缺问题遍布各地。到了五月，两国的失业率飙升至13.3%和13.7%。尽管许多员工短缺问题已不复存在，但并非都是如此。举个显而易见的例子，在医疗领域，疫情表明医生、护士以及其他医务人员仍然处于明显短缺状态。\n\n\n\n**词汇注释与难句分析**\n\n\n\npandemic n. (全国或全球性) 流行病\n\n\n\nrespectively ad. 分别；各自\n\n\n\ngenerational a. 一代的\n\n\n\nspike v. 猛增；急升\n\n\n\npersonnel n. 全体人员，职员\n\n\n\n**经典搭配**\n\n\n\nunemployment rates 失业率\n\n\n\nworker shortages 员工短缺\n\n\n\nas of 直至；在……时\n\n\n\ntake an example 举个例子\n\n\n\n第三段进一步解释上段末所述“失业率走高与劳动力紧缺并存(即技能不匹配)”的矛盾局面。关键词：①unemployment is very high(失业率居高不下);②clear shortages of...medical personnel(医务人员明显短缺)。\n\n\n\n句概述失业率高涨的状况。With...结构既表时间上的伴随，呼应上段末 at times，将论述范围限定在疫情期间；也表逻辑上的因果，明确失业率居高不下是受疫情影响。副词 indeed“真正地（用于加强语气）”修饰 very high，突出强调失业率高涨情况属实、毫不夸张。\n\n\n\n句详述失业率飙升的趋势，并指出员工短缺的问题依旧存在。两句首先借具体数据 In February, at 3.5 per cent and 5.5 per cent... vs As of May... 13.3 per cent and 13.7 per cent 形成鲜明对比，以时间之短、涨幅之高形象描绘出失业率直线上升的走向；at generational lows（“近二三十年低点”，generational 指一代人的，即二三十年时间）与 spike up to（“迅速上升，达到高点”，spike 意为 to rise quickly and reach a high value）以疫情前后失业率的巨大反差，凸显疫情对经济和就业形势的严峻打击；两句进而借 worker shortages were everywhere→(although) many worker shortages had disappeared 反映疫情对用工需求的影响（二月至五月疫情加剧→用人单位用工需求下降→许多员工短缺问题不复存在），而 not all had done so 则转折引出特殊行业的特殊情况“一些员工短缺的问题依旧存在”。\n\n\n\n句借医务人员短缺予以例证。obvious example 与 clear shortages 两相呼应，表明医务人员缺口庞大，因而紧缺程度明显。doctors, nurses and other medical personnel 罗列详尽，表明上至医生和护士、下至医院其他工作人员都处于短缺状态。\n\n\n\n【段落梳理】从段际逻辑来看，本段一方面承接上段末，具体解释宏观经济层面技能不匹配的现象：低技能员工大量失业，同时高技能人才十分紧缺，即失业率升高与劳动力短缺并存。另一方面以当前疫情之下的经济局面，影射首段关于未来情形的描述：“再培训”的需求其实距离我们并不遥远，倘若不对其加以重视并采取行动，今日“失业率呈直线飙升、劳动力被大量抛弃”的境况就是明日的真实写照，疫情的到来不过是凸显了“再培训”需求的必要性与紧迫性。"
+      },
+      {
+       "number": 24,
+       "score": 2,
+       "stem": "We can learn from Paragraph 3 that there was .",
+       "options": {
+        "A": "a call for policy adjustment",
+        "B": "a change in hiring practices",
+        "C": "a lack of medical workers",
+        "D": "a sign of economic recovery"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n\n\n> **答案：** C\n\n\n\n| 24. We can learn from Paragraph 3 that there was ____. | 24. 从第三段我们得知，____是存在的。 |\n\n| --- | --- |\n\n| [A] a call for policy adjustment | [A] 调整政策的呼声 |\n\n| [B] a change in hiring practices | [B] 雇佣惯例的变化 |\n\n| [C] a lack of medical workers | [C] 医务人员的短缺 |\n\n| [D] a sign of economic recovery | [D] 经济复苏的迹象 |\n\n\n\n[精准定位]第三段①句指出，疫情期间失业率居高不下。随后，②③句以具体数据说明疫情导致失业率大幅走高（潜在逻辑：疫情加剧 → 用人单位用工需求下降 → 失业率大幅走高），然后转折指出员工短缺的问题依然存在。④句进而以医疗领域员工短缺的现象为例予以佐证。由此可见，[C]正确。\n\n\n\n[命题解密]题干+正确项[C]是对第三段④句 there were still clear shortages of doctors, nurses and other medical personnel 的同义改写。\n\n\n\n[A]根据该段所述客观现象“失业率走高、医护人员短缺”主观臆断出“人民不满政府的作为，呼吁调整政策”，但文中并未提及人们对政府政策的诉求。[B]将②③句“二月（疫情初期）员工短缺问题普遍存在→五月（疫情高峰期）员工短缺问题大多不复存在”所体现的“用工需求发生变化”窜改为“用工制度/雇佣惯例发生变化”。[D]与②③句所述现象“失业率由低到高、经济走向低迷”相悖。\n\n\n\n[技巧总结] 让步转折处常常引出信息重点，也是命题人的关注点。本题对应的第三段中③句后半句 although many...not all...形成让步转折，并将语义重点落在“员工短缺问题依然存在(not all had done so)”上；随后④句以“医务人员短缺”进行例证。掌握信息关键点后，很容易就能锁定正确项[C]。\n\n\n\n| | | | |\n\n| --- | --- | --- | --- |\n\n| That | seems to be | the case | in Sweden: |\n\n\n\n而干扰项大多基于文中信息进行臆断或窜改，具体见命题解密。\n\n\n\nIV ① Of course, it is not like you can take an unemployed waiter and train him to be a doctor in a few weeks, no matter who pays for it. ② But even if you cannot close that gap, maybe you can close others, and doing so would be to the benefit of all concerned. ③ That seems to be the case in Sweden: When forced to furlough 90 per cent of their cabin staff, Scandinavian Airlines decided to start up a short retraining program that reskilled the laid-off workers to support hospital staff. ④ The effort was a collective one and involved other companies as well as a Swedish university. [420 words]\n\n\n\n**词汇注释与难句分析**\n\n\n\nfurlough v. 使被迫休假；使暂时下岗\n\n\n\nlaid-off a. 被解雇的\n\n\n\neffort n. 有组织的活动\n\n\n\n**经典搭配**\n\n\n\nclose a gap 弥合缺口\n\n\n\nall concerned 有关各方\n\n\n\ncabin staff 空乘人员\n\n\n\nstart up(使)启动，开始\n\n\n\n功能注释：分句 1 引出瑞典(北欧航空公司)的例子，分句 2 具体阐述该事例。分句 2 中的时间状语从句说明北欧航空公司启动再培训方案的背景，由于该从句主语与主句主语一致，故省略，从句的完整形式为 When Scandinavian Airlines was forced to...; that 引导的定语从句进一步阐释该方案的内容及目的。\n\n\n\n**语篇分析**\n\n\n\n第四段以北欧航空公司的做法为例，证明“技能再培训”能有效缓解上述局面。关键词：to the benefit of all concerned(对相关各方都有利)。\n\n\n\n①句首先承认技能再培训的局限：并不能把一个门外汉快速培训成高技能内行人。Of course, it is not like... (like 在此为副词，[sb] be like... 表示“某人说……”, 用于陈述看法) 先行引发让步，waiter (低技能失业人员的代表) → doctor (高技能紧缺人才的范例) 以行业差别/技能悬殊之大，外加 in a few weeks 培训时间之短，体现再培训方案的局限。no matter who pays for it 再次引发让步，呼应第二段①句 The question of who should pay for reskilling is a thorny one, 重述再培训方案的难题“谁来为此付费”。\n\n\n\n②句转而指出技能再培训的意义：即便弥补不了高技能人才缺口，也能弥补其他缺口。But 标示转折，继上句的局限/困难，转而明确仍然要实施再培训方案的重大意义；其中 that gap 即指上句“专业医生的缺口”,others 实际关联上段末句 shortages of...other medical personnel“其他医务人员的缺口”。to the benefit of all concerned 则点明通过再培训填补其他缺口的好处“对所有相关人员都有利”。\n\n\n\n③④句借北欧航空公司“下岗员工再培训”方案证明②句。\n\n\n\n③句介绍北欧航空公司“下岗员工再培训”方案的具体内容。When 引导的时间状语从句介绍北欧航空公司开展再培训项目的背景，forced to furlough(furlough 意指“被迫休假，暂时下岗”)体现疫情期间员工被迫下岗的无奈，90 per cent 强调下岗员工比例之高。主句引出该公司的应对之策，a short retraining program、reskilled the laid-off workers、to support hospital staff 分别给出该公司再培训计划的时长、内容和目的，以“短短时间内既解决了内部员工失业问题，又填补了医务人员短缺问题”有力说明再培训方案的好处。\n\n\n\n④句补充北欧航空公司“下岗员工再培训”方案的其他参与者。The effort was a collective one 补充说明该项目是个集体行动（此处 effort 取其僻义“[为达某一目的进行的]有组织的行动”）；other companies、a Swedish university 列举实际参与者以具化 collective。至此，以“瑞典社会的通力合作”回应第二段末两句“北美政府的无力付出”，体现作者对瑞典做法肯定的同时，也表明再培训方案可以有效应对宏观经济层面技能不匹配的问题。\n\n\n\n【段落梳理】本段所列举的北欧航空公司实际与第二段 AT&T 的例子并列，AT&T 是“单个公司 (For individual companies)”实施再培训方案的典范，而以北欧航空公司为代表的瑞典则是“整个国家/更宏观的经济层面(in the broader economy)”实施再培训方案的榜样。此外，北欧航空公司的再培训方案看似是单个公司之举，然而其参与者实际是整个社会，校企合作以及背后的政府支持均发挥了巨大作用，作者旨在以此为例向北美政府提供借鉴。"
+      },
+      {
+       "number": 25,
+       "score": 2,
+       "stem": "Scandinavian Airlines decided to .",
+       "options": {
+        "A": "create job vacancies for the unemployed",
+        "B": "prepare their laid-off workers for other jobs",
+        "C": "retrain their cabin staff for better services",
+        "D": "finance their staff’s college education"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n\n\n**真题精解**\n\n\n\n| | |\n\n| --- | --- |\n\n| 25. Scandinavian Airlines decided to ____. | 25. 北欧航空公司决定____。 |\n\n| [A] create job vacancies for the unemployed | [A] 为失业人员创造空缺职位 |\n\n| [B] prepare their laid-off workers for other jobs | [B] 为其下岗员工从事其他工作提供培训 |\n\n| [C] retrain their cabin staff for better services | [C] 重新培训空乘人员以提升服务 |\n\n| [D] finance their staff's college education | [D] 为其员工的大学教育提供资金 |\n\n\n\n[精准定位]由题干关键词 Scandinavian Airlines 快速定位至末段③句。该句指出，北欧航空公司决定重新培训其下岗员工，以期让他们支援医护人员。[B]与此意相符。\n\n\n\n[命题解密] 正确项 [B] 中 prepare... for...（给某人进行预备教育或训练）对应末段③句 retraining/reskilled, other jobs 即指末段③句 to support hospital staff。\n\n\n\n[A]将北欧航空公司的方案“培训内部失业人员支援外部紧缺人员”曲解为“在公司内部为失业人员创造更多空缺职位”。[C]窜改原文信息：首先将培训对象“下岗空乘人员”扩大为“(所有)空乘人员”，其次将培训目的“支援医护人员”窜改为“提升航空服务”。[D]利用末段末句a Swedish university 设置干扰，原文实指“一所瑞典大学也参与了北欧航空公司的下岗员工再培训方案”，而非“北欧航空公司决定资助所有员工接受大学教育”。\n\n\n\n[技巧总结] 本题容易定位且定位内容只有一句，除了常规的“将原文定位内容与选项一一对比”这种解题方法，还可以从选项出发。首先纵观各项涉及的对象：[A] the unemployed 泛指“所有失业人员”，[B] their laid-off workers 特指“该公司下岗员工”，[C] their cabin staff 和 [D] their staff 指向“该公司所有（空乘）员工”。而定位句 forced to furlough... their cabin staff、the laid-off workers 针对的是“该公司下岗（空乘）员工”，与此相符的只有 [B] 项。然后将该项进一步与定位句对比，发现 prepare... for other jobs 对应原文 reskilled... to support hospital staff，从而敲定 [B] 为正确项。\n\n\n\n| 25. Scandinavian Airlines decided to ____. | 事实细节：Scandinavian Airlines 的决定。 |\n\n| --- | --- |\n\n\n\n问题速览：由关键词 resolve the skills mismatch 推知全文围绕“如何解决技能不匹配的问题”展开。\n\n\n\n问题关联：五个题干只有23题透露了文章话题，21、22、23、25题涉及研究或个例，由此推测全文可能首先通过 World Economic Forum 的研究引入“工作技能不匹配”的话题，尔后借由 AT&T、加拿大、Scandinavian Airlines 等公司/国家采取的措施正向或反向说明“解决技能不匹配”的方法。\n\n\n\n问题总结：本文论及“工作中的技能不匹配问题”,引用了研究并列举了大量实例说明解决办法。\n\n\n\n**二、语篇分析及试题精解**\n\n\n\nI ①“Reskilling ” is something that sounds like a buzzword but is actually a requirement if we plan to have a future where a lot of would-be workers do not get left behind. ② We know we are moving into a period where the jobs in demand will change rapidly, as will the requirements of the jobs that remain. ③ Research by the World Economic Forum finds that on average 42 per cent of the “core skills” within job roles will change by 2022. ④ That is a very short timeline.\n\n\n\n“再培训”虽然听上去像个时髦词，但实际上，如果我们希望未来的劳动力不被大量抛弃，那它就是一件必须要做的事情。众所周知，我们正步入这样一个时期：（社会）所需的工作岗位将迅速变化，而剩余工作岗位的要求也将迅速变化。世界经济论坛的研究发现，到2022年，各类职业中平均42%的“核心技能”将发生变化。这是非常短的时间。\n\n\n\n**词汇注释与难句分析**\n\n\n\nreskilling n. 再培训\n\n\n\nbuzzword n. 时髦用语；流行术语\n\n\n\nrequirement n. 要求；必要条件\n\n\n\nwould-be a. 想要成为……的；未来的\n\n\n\nforum n. 论坛\n\n\n\ntimeline n. 时间期限\n\n\n\n**经典搭配**\n\n\n\nget left behind 落伍；被时代淘汰\n\n\n\nin demand 很需要的\n\n\n\n\"Reskilling\" is something that sounds like a buzzword but is actually a requirement if we plan to have a future where a lot of would-be workers do not get left behind.\n\n\n\n功能注释：分句 1 指出“再培训”可能听起来像个时髦词，分句 2 转折引出文章论点“技能再培训十分必要”。if 引导的条件状语从句实际引出“再培训”的目的：为实现我们所期待的未来。where 引导的定语从句修饰 a future, 具体解释我们所期待的未来：劳动力不被大量淘汰。\n\n\n\n**语篇分析**\n\n\n\n首段引出全文话题：我们正步入工作技能快速迭代的时期，“技能再培训”日益成为迫切之事。关键词：“Reskilling”...is actually a requirement(“再培训”是一件必须要做的事)。\n\n\n\n①句开门见山，提出观点：若想未来的劳动力不被大量淘汰，“再培训”就势在必行。开篇直接锁定话题 Reskilling,并通过...is something that sounds like...but is actually...先抑后扬，强调“再培训”势在必行。其中，sounds like“听上去像”常隐含反驳，暗示真实情况可能并非如此，即“再培训”并非只是个 buzzword(抓人眼球的流行术语或内容空洞的口号);requirement 与 buzzword 对比强调“再培训”的必要性；条件状语从句 if we plan to have a future where...字面上在说对未来的期待，实际上在警示不采取再培训方案的后果；a lot of would-be workers...get left behind 点明后果“大量劳动力被时代淘汰”。\n\n\n\n②至④句详细解释①句“再培训”势在必行的原因：社会所需的工作技能变化迅速，对新技能的需求十分紧迫。\n\n\n\n②句介绍当前工作技能迅速变化的时代趋势。该句以 we are moving into a period 引出时代特点，change rapidly 体现职场技能需求变化之快，the jobs in demand... 与... the jobs that remain 分述两种情况，前者言及社会所需的工作岗位将发生变化，后者补充（即便岗位不变）岗位所需的技能也将变化，两者共同体现职场需求变化之全面彻底，凸显大量劳动力面临被时代淘汰的威胁，从而证明“再培训”势在必行。\n\n\n\n③④句引用世界经济论坛的研究发现论证上述时代趋势。③句引用具体数字42 per cent of the “core skills”...will change by 2022体现职场技能变化的范围之大(42%)、程度之深(core skills)、速度之快(by 2022)。④句对③句中 by 2022进行重点评述(a very short timeline)，再次强调“职场技能需求变化非常迅速”，凸显职业“再培训”的必要性和紧迫性。\n\n\n\n【段落梳理】本文采用观点论述型文章的典型开篇方式。文章首句开门见山，提出全文论点：如果我们希望未来的劳动力不被大量抛弃，那“再培训”就是一件必须要做的事。随后②③④句围绕该论点提出论据：②句先介绍了当前的时代趋势“社会所需的工作技能将迅速变化，大量技能不匹配的劳动力或将被时代淘汰”；接着③④句引用研究发现佐证该时代趋势，并指出此变化步步紧逼，“再培训”刻不容缓。"
+      }
+     ]
+    },
+    {
+     "title": "Text 2",
+     "type": "reading",
+     "passage": [
+      "With the global population predicted to hit close to 10 billion by 2050, and forecasts that agricultural production in some regions will need to nearly double to keep pace, food security is increasingly making headlines.In the UK, it has become a big talking point recently too, for a rather particular reason: Brexit.",
+      "Brexit is seen by some as an opportunity to reverse a recent trend towards the UK importing food. The country produces only about 60 per cent of the food it eats, down from almost three-quarters in the late 1980s.A move back to self-sufficiency ， the argument goes, would boost the farming industry, political sovereignty and even the nation’s health.Sounds great — but how feasible is this vision?",
+      "According to a report on UK food production from the University of Leeds,UK, 85 per cent of the country’s total land area is associated with meat and dairy production.That supplies 80 per cent of what is consumed, so even covering the whole country in livestock farms wouldn’t allow us to cover all our meat and dairy needs.",
+      "There are many caveats to those figures,but they are still grave.To become much more self-sufficient, the UK would need to drastically reduce its consumption of animal foods, and probably also farm more intensively — meaning fewer green fields and more factory-style production.",
+      "But switching to a mainly plant-based diet wouldn’t help.There is a good reason why the UK is dominated by animal husbandry: most of its terrain doesn’t have the right soil or climate to grow crops on a commercial basis.Just 25 per cent of the country’s land is suitable for crop-growing, most of which is already occupied by arable fields.Even if we converted all the suitable land to fields of fruit and veg — which would involve taking out all the nature reserves and removing thousands of people from their homes — we would achieve only a 30 per cent boost in crop production.",
+      "Just 23 per cent of the fruit and vegetables consumed in the UK are currently home-grown, so even with the most extreme measures we could meet only 30 per cent of our fresh produce needs.That is before we look for the space to grow the grains, sugars, seeds and oils that provide us with the vast bulk of our current calorie intake."
+     ],
+     "questions": [
+      {
+       "number": 26,
+       "score": 2,
+       "stem": "Some people argue that food self-sufficiency in the UK would .",
+       "options": {
+        "A": "be hindered by its population growth",
+        "B": "contribute to the nation’s well-being",
+        "C": "become a priority of the government",
+        "D": "pose a challenge to its farming industry"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n\n\n> **答案：** B\n\n\n\n| 26. Some people argue that food self-sufficiency in the UK would ____. | 26. 有些人提出，英国粮食的自给自足将会____。 |\n\n| --- | --- |\n\n| [A] be hindered by its population growth | [A] 被人口增长阻碍 |\n\n| [B] contribute to the nation's well-being | [B] 有助于国民的福祉 |\n\n| [C] become a priority of the government | [C] 成为政府的优先事项 |\n\n| [D] pose a challenge to its farming industry | [D] 对其农业形成挑战 |\n\n\n\n[精准定位]根据题干的观点持有者 Some people 及关注对象 food self-sufficiency in the UK 定位到第二段。该段①③句指出：一些人将脱欧视为扭转“英国粮食进口”的契机；认为恢复自给自足将会促进农业发展、加强政治主权，甚至提升国民健康，[B]正确。\n\n\n\n[命题解密]“题干+[B]”同义改写第二段③句：food self-sufficiency 与 A move back to self-sufficiency 同指；contribute to the nation's well-being 与 boost the nation's health 同义。\n\n\n\n[A]利用首段①句 the global population predicted to hit close to 10 billion...捏造关联，文中关系实为“全球人口增长加重世界粮食危机”，无关英国情形。[C]利用第二段③句 political sovereignty 干扰，将“英国粮食自给自足的益处：加强政治主权”曲解为“英国粮食自给自足的落实：政府的优先事项”。[D]利用第二段③句 the farming industry 干扰，将“英国粮食自给自足的益处：促进农业发展”曲解为“英国粮食自给自足的弊端：对农业构成挑战”。\n\n\n\n[技巧总结] 本题针对人物观点命制事实细节题，解题难点在于精准定位人物观点：需要认识到③句 the argument goes 实则回指①句 Brexit is seen by some as...，从而锁定①③句为正确项来源。同时，本题实则考查人物观点中的因果逻辑，需要正确把握多个事物之间的关系，谨防捏造关联(A)、曲解文意(C、D)、颠倒关系等，最终确定符合文中人物所述因果逻辑的选项(往往会进行概括或同义改写)为正确项(B)。\n\n\n\nⅢ ① According to a report on UK food production from the University of Leeds, UK, 85 per cent of the country's total land area is associated with meat and dairy production. ② That supplies 80 per cent of what is consumed, so even covering the whole country in livestock farms wouldn't allow us to cover all our meat and dairy needs.\n\n\n\n英国利兹大学关于“英国粮食生产”的报告中指出，英国土地总面积的85%与肉类及奶制品的生产相关联。这供应了英国所消费食物的80%，所以即便让畜牧场覆盖全国，也无法满足我们全部的肉类及奶制品需求。\n\n\n\n**词汇注释与难句分析**\n\n\n\ncover v. 足以负担；足以满足\n\n\n\n**经典搭配**\n\n\n\ncover...in...用……遮盖；把……铺在……上\n\n\n\nbe associated with...与……相关的；相联系的\n\n\n\nlivestock farm 畜牧场\n\n\n\n**语篇分析**\n\n\n\n第三、四段为第一轮论证，借报告发现指出英国若想大幅提高自给率，必须急剧减少食用动物性食品且提升农业集约化程度。\n\n\n\n第三段指出英国的肉类及奶制品的需求超过了其全部土地的承载量(即根本无法实现自给自足)。关键词：wouldn't allow us to cover all our meat and dairy needs(无法满足我们全部的肉类及奶制品需求)。\n\n\n\n①句引用报告说明目前英国土地的使用情况：85%用于肉类及奶制品生产。According to a report on... from...明确数据来源；85 per cent of the country's total land area 强调英国已将绝大多数土地用于肉类及奶制品生产。\n\n\n\n②句作者进一步分析指出：即便让畜牧场覆盖全国，也无法满足英国的肉类及奶制品需求。句子以 so 体现因果论证；前半句承上指出：85%的土地(that 回指上句)提供了英国人所消费肉类及奶制品的80%;后半句进而推导：以此计算，即便让畜牧场覆盖全国，也无法满足我们全部的肉类及奶制品需求(涉及关系为：假定生产全部肉类及奶制品需要土地为 x,则 80%: 85% = 100%: x。解得 x=1.06 >100%,即超出了英国土地总和)。注：此处两个 cover 含义不同：第一个为常规含义“覆盖，盖住”,第二个用法为引申义，cover one's needs 意为“满足某人需求”。\n\n\n\n【段落梳理】第三段以 According to a report... That... so... 体现段内逻辑“引用报告数据——得出分析结论”。作者在结论论证中用 even... wouldn't allow us...（就算……也不能让我们……）强调极端情形，凸显自身观点“英国人若以肉类及奶制品为主，根本不可能实现自给自足”。\n\n\n\nIV ① There are many caveats to those figures, but they are still grave. ② To become much more self-sufficient, the UK would need to drastically reduce its consumption of animal foods, and probably also farm more intensively —meaning fewer green fields and more factory-style production.\n\n\n\n虽然有许多就这些数据局限性的提醒，但它们所反映的形势仍旧严峻。英国若想大幅提高自给率，就要急剧减少食用动物性食品，并且或许还需要更集约地从事农业活动——这意味着绿色原野减少、工厂式生产增加。\n\n\n\n⑤intensively ad. 集约型地；集中地\n\n\n\n**语篇分析**\n\n\n\n第四段明确指出若要大幅提高自给率，需急剧减少动物性食品并转向集约型农业。关键词：To become much more self-sufficient(若要大幅提高自给率)。\n\n\n\n①句指出上述报告数据表明现实情形严峻。句子以 but、still 形成让步转折，语义重点在后；those figures 回指上段报告数据；caveat（意为 a warning of a specific limitation of something such as information or an agreement“警告；提醒”），说明上述数据具有局限性、可能存在偏差；still grave 为本句关键词，强调数据反映出英国粮食形势严峻，令人担忧。\n\n\n\n②句提出英国人增强自给率的途径以及需要为此付出的代价。To become... the UK would need to... and probably also... 体现“目的/目标——努力方向”关系。drastically reduce its consumption of animal foods 紧承上段结论，指出英国为提高自给率，不得不做出的努力：大幅减少使用动物性食品（animal foods 与 meat and dairy 同指）。and probably also farm more intensively (farm 用作动词，意为“耕种，养殖，从事农业活动”；intensively 意为“集中地，集约地，密集使用地”）补充另一努力方向：更集约地从事农业活动。破折号后补充集约农业（密集型，高产出）的隐含代价：必然会更大程度地利用土地（绿色原野减少），必然要更大程度地采用工厂式生产（小型农场、家庭生产等减少），暗示人们的生活及英国的生态等都会被迫改变。\n\n\n\n【段落梳理】本段承接上段结论“英国的动物性食品需求超过其畜牧业的承载量”，指出大幅提高自给率的两大努力方向：急剧减少食用动物性食品，同时更集约地进行农业活动。但需注意破折号后强调集约农业的代价，隐含作者的惋惜、不情愿，暗示集约农业也并非良方，下文或许要另寻他法。"
+      },
+      {
+       "number": 27,
+       "score": 2,
+       "stem": "The report by the University of Leeds shows that in the UK .",
+       "options": {
+        "A": "farmland has been inefficiently utilized",
+        "B": "factory-style production needs reforming",
+        "C": "most land is used for meat and dairy production",
+        "D": "more green fields will be converted for farming"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n\n\n> **答案：** C\n\n\n\n| 27. The report by the University of Leeds shows that in the UK ____. | 27. 利兹大学的报告显示，在英国____。 |\n\n| --- | --- |\n\n| [A] farmland has been inefficiently utilized | [A] 农田的利用效率低下 |\n\n| [B] factory-style production needs reforming | [B] 工厂式生产需要改革 |\n\n| [C] most land is used for meat and dairy production | [C] 大部分土地被用于肉类和奶制品生产 |\n\n| [D] more green fields will be converted for farming | [D] 将有更多绿色原野被转为耕作用地 |\n\n\n\n[精准定位]根据题干关键词 The report by the University of Leeds 定位到第三段①句：英国利兹大学发表了一份关于“英国粮食生产”的报告，该报告指出英国土地总面积的 85% 与肉类及奶制品的生产相关联，[C]正确。\n\n\n\n[命题解密]“题干+[C]”是对第三段①句的概括，其中 most land is used for meat and dairy production 对应 85 per cent of the country's total land area is associated with meat and dairy production。\n\n\n\n[A]、[B]、[D]的干扰均源于第四段②句，分别来自句中 farm more intensively、more factory-style production 以及 fewer green fields。但该句并非陈述报告展示的实际情形，而是作者基于报告数据，就“英国提高自给率”做出的设想（若要大幅提高自给率，英国将需要……），均不合题干要求。更何况[A]推导错误：由“农业需要更集约化”错误推导出“目前农田的利用效率低下”；[B]曲解信息：将“工厂式生产需要增加”理解为“工厂式生产需要改革”。\n\n\n\n[技巧总结]本题就“报告内容”命制事实细节题，解答关键在于精准定位，辨别“报告内容”与“作者基于报告所做设想”：第四段②句中 To become much more self-sufficient, the UK would need to 表明这里已经超越报告内容，作者开始就“英国如何才可能提升自给率”进行设想，因此不管是曲解作者设想的[A]、[B]，还是符合其内容的[D]，都需排除。合理概括第三段①句报告内容陈述（According to a report...）的[C]才是正确项。\n\n\n\nV ① But switching to a mainly plant-based diet wouldn't help. ② There is a good reason why the UK is dominated by animal husbandry: most of its terrain doesn't have the right soil or climate to grow crops on a commercial basis. ③ Just 25 per cent of the country's land is suitable for crop-growing, most of which is already occupied by arable fields. ④ Even if we converted all the suitable land to fields of fruit and veg—which would involve taking out all the nature reserves and removing thousands of people from their homes—we would achieve only a 30 per cent boost in crop production.\n\n\n\n但转向以植物为主的饮食也不会有太大意义。英国畜牧业占大头是有充分理由的：它的大部分地带都不具备适宜商业化种植的土壤和气候。全国只有25%的土地适合作物栽培，而且其中大部分都已经成为耕地了。就算我们把所有条件适宜的土地都变成果蔬园地——这会牵扯到取消所有的自然保护区以及让成千上万的人们搬离家园——我们能实现的粮食产量增长也只有30%而已。\n\n\n\n**词汇注释与难句分析**\n\n\n\nswitch v. 转变；转向\n\n\n\ndominate v. 占据统计地位\n\n\n\nhusbandry n. 农牧业\n\n\n\nterrain n. 地形；地势；地带\n\n\n\ncrop n. 农作物；庄稼\n\n\n\narable a. 适于耕种的\n\n\n\nconvert v. 转变；改变\n\n\n\nboost n. 增加\n\n\n\n**经典搭配**\n\n\n\nanimal husbandry 畜牧业\n\n\n\non a commercial basis 商业性地\n\n\n\nnature reserve 自然保护区\n\n\n\ncrop production 作物产量\n\n\n\n功能注释：Even if 引导的让步状语从句假设极端情形/条件“把所有条件适宜的土地都变成果蔬园地”。破折号之间为 which 引导的非限制性定语从句，说明其暗含的巨大代价。主句则以该条件下仍旧极低的粮食增长再次凸显自给自足的不可行。\n\n\n\n**语篇分析**\n\n\n\n第五、六段为第二轮论证，指出就算转向植物性饮食也无法让英国实现自给自足。\n\n\n\n第五段明确原因：英国缺乏适宜商业化种植的土壤和气候。关键词：doesn't have the right soil or climate(不具备适宜的土壤和气候)。\n\n\n\n①句总述：转向以植物为主的饮食也没有太大意义。本句转承上段末(减少动物饮食，转向植物饮食),再次否定“转向植物饮食”的可行性；wouldn't help 奠定全段基调：植物饮食也不会让英国实现粮食自给自足。\n\n\n\n②③④句说明原因。\n\n\n\n②句概述原因。There is a good reason why 和之后的冒号体现因果关系：英国之所以畜牧业占大头，是受其自然条件所限，terrain（used to refer to an area of land when you are mentioning its natural features“地形；地势；地带”）、soil、climate 将问题聚焦于难以更改的“自然条件”。on a commercial basis 回应第四段 farm more intensively、more factory-style production，说明就算要集约化耕作，现有的自然条件也不允许。\n\n\n\n③句进一步说明英国已经几乎没有扩大果蔬种植的空间。主句先以 Just 25 per cent 指出原有可用耕地就极少，从句中 most of which is already occupied 进一步强调这极少的土地中，大部分也早已用于耕种（几乎没有进一步扩大种植的可能）。\n\n\n\n④句进而明确指出，即便将适宜的土地全部用于耕作，也解决不了问题。本句以 Even if... we would achieve only... 强调凸显极端做法，并结合 all the suitable land、only a 30 per cent boost 形成的对比，凸显这一极端做法不可行：即便竭尽资源来种植果蔬，也不过是杯水车薪，无法满足需求；破折号内则补充说明其巨大代价，进一步凸显不可行性。\n\n\n\n【段落梳理】本段呈“总述(①句)—阐释(②③④句)”逻辑：①句点明植物性饮食不可行(wouldn't help),②③④句解释原因，各句以与“自然环境”相关的 terrain、soil or climate、land、arable fields,表“适宜”的 right、suitable 以及具体数据(25%、30%)的使用，指向不可行的原因“适宜种植的土地太少”。"
+      },
+      {
+       "number": 28,
+       "score": 2,
+       "stem": "Crop-growing in the UK is restricted due to .",
+       "options": {
+        "A": "its farming technology",
+        "B": "its dietary tradition",
+        "C": "its natural conditions",
+        "D": "its commercial interests"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n\n\n> **答案：** C\n\n\n\n| 28. Crop-growing in the UK is restricted due to ____. | 28.英国的作物种植因___而受限。 |\n\n| --- | --- |\n\n| [A] its farming technology | [A] 其耕作技术 |\n\n| [B] its dietary tradition | [B] 其饮食传统 |\n\n| [C] its natural conditions | [C] 其自然条件 |\n\n| [D] its commercial interests | [D] 其商业利益 |\n\n\n\n[精准定位]第五段首句指出转向以植物为主的饮食也不会有太大意义，随后各句具体解释原因。其中②句指出英国大部分地带都不具备适宜商业化种植的土壤和气候，可知限制作物种植的因素是自然条件，[C]正确。\n\n\n\n[命题解密][C]中 natural conditions 是对原文 the right soil or climate 的正确概括。\n\n\n\n[A]由第四段②句 more factory-style production 臆断而来，但“工厂式生产增加”是集约农业的特点，并不等同于耕作技术的高低，更非作物种植受限的原因。[B]颠倒因果，将第五段②句“作物种植受限，所以农业以畜牧业为主（饮食以动物性食品为主）”颠倒为“饮食传统限制了作物种植”。[D]利用 on a commercial basis 捏造干扰，将文中“受自然条件限制，英国大部分地带不适合商业化/大规模种植”曲解为“商业利益限制了作物种植”。\n\n\n\n[技巧总结]本题考查英国作物种植受限的原因，解题关键在于锁定因果关系，并准确概括原因，警惕颠倒因果、强加关联的选项。第五段②句 There is a good reason why 及随后的冒号提示该处存在因果逻辑，梳理可知关系为“土壤、气候等自然条件不适宜→作物种植受限→畜牧业占大头”,故[C]正确。[A]、[D]均以碎片信息捏造干扰，[B]则颠倒因果。\n\n\n\nVI ① Just 23 per cent of the fruit and vegetables consumed in the UK are currently home-grown, so even with the most extreme measures we could meet only 30 per cent of our fresh produce needs. ② That is before we look for the space to grow the grains, sugars, seeds and oils that provide us with the vast bulk of our current calorie intake. [389 words]\n\n\n\n如今英国人食用的果蔬中仅有23%产自本国，所以，哪怕采用最极端的手段，我们也只能满足鲜果蔬需求的30%。而在此之后，我们还得再找地方来种植谷物、糖类、籽类、油类等，它们提供了我们当前摄入的大部分卡路里。\n\n\n\n**词汇注释与难句分析**\n\n\n\nhome-grown a. 本国产的\n\n\n\nextreme a. 极端的\n\n\n\ngrain n. 谷物\n\n\n\nbulk n. 大部分\n\n\n\ncalorie n. 卡路里(食物热量单位)\n\n\n\nintake n. 摄取量；摄入量\n\n\n\n**经典搭配**\n\n\n\nfresh produce 新鲜农产品\n\n\n\nthe bulk of 大部分\n\n\n\ncalorie intake 卡路里摄入量\n\n\n\n**语篇分析**\n\n\n\n第六段进而明确指出，英国若想靠转向植物饮食实现自给自足完全不可行。关键词：only 30 per cent of our fresh produce needs(鲜果蔬需求的 30%)。\n\n\n\n①句利用数据明确指出果蔬自给自足的目标不可能实现。句子以 so 体现因果推导。前半句以 Just 23 per cent of 强调英国人目前食用的果蔬中只有一小部分产自本国；后半句基于上段推导出结论：即便采用最极端的手段（指上段“取消所有的自然保护区，让成千上万人搬离家园，将适宜的土地全部用于耕作”），也只能满足 30% 的果蔬需求/仅提升 7%。注：其中涉及关系 23% × (1 + 30%) ≈ 30%.②句进一步指出，而且这得基于一个几乎无法实现的前提：找到其他地方来种植必需的谷物等。That is before we 起到“雪上加霜、突出不可行性”的功用：就算我们采用极端手段能够满足果蔬需求，但还得解决另一问题(找到地方来种植英国人必需的谷物等)。随后的 that 从句进一步凸显谷物等的重要性“提供我们摄入的绝大部分卡路里”,侧面暗示将所有土地用于种植果蔬不可行，整体说明想靠转向植物饮食实现自给自足完全不可行。\n\n\n\n【全文梳理】本文是一篇典型的驳论文，第一、二段引出他人观点：英国应借脱欧扭转粮食进口趋势，努力实现自给自足。第三、四段则指出自给自足意味着急剧减少动物性食品（转向植物性食品），第五、六段进一步明确指出靠植物性食品根本无法实现自给自足。理解全文的关键在于把握作者“以退为进，层层否定”的行文脉络，以及对极端假设（如第三、五段末句）和数据比较（遍布全篇）的运用。"
+      },
+      {
+       "number": 29,
+       "score": 2,
+       "stem": "It can be learned from the last paragraph that British people .",
+       "options": {
+        "A": "rely largely on imports for fresh produce",
+        "B": "enjoy a steady rise in fruit consumption",
+        "C": "are seeking effective ways to cut calorie intake",
+        "D": "are trying to grow new varieties of grains"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n\n\n> **答案：** A\n\n\n\n| 29. It can be learned from the last paragraph that British people ____. | 29. 从未段可知，英国人____。 |\n\n| --- | --- |\n\n| [A] rely largely on imports for fresh produce | [A] 主要依靠进口新鲜农产品 |\n\n| [B] enjoy a steady rise in fruit consumption | [B] 水果食用量稳步上升 |\n\n| [C] are seeking effective ways to cut calorie intake | [C] 正寻求有效措施来减少卡路里摄入 |\n\n| [D] are trying to grow new varieties of grains | [D] 正试图种植新的谷物类型 |\n\n\n\n[精准定位]末段①句指出“如今英国人食用的果蔬中仅有23%产自本国”，可知其余77%/大部分都依靠进口，[A]正确。\n\n\n\n[命题解密][A]中 rely largely on imports 是对①句 Just 23 per cent... are currently home-grown 的正确计算和合理推断。\n\n\n\n[B]错误理解段中 23% 和 30% 两个数据的含义，这里是在指出“产自本国的果蔬占果蔬总食用量的 23%，采用最极端手段可以达到 30% ”，并非“果蔬食用量上升”。[C]、[D]分别将②句“英国人若采用极端手段尽力满足果蔬需求，则需要另找地方种植提供大部分卡路里摄入的谷物等（look for...the grains, sugars, seeds...the vast bulk of our current calorie intake）”曲解为“英国人正寻求减少卡路里摄入”和“英国人正努力培育新的谷物类型”。\n\n\n\n[技巧总结]题目就末段考查事实细节，需要将各项核心关键词回文比对，进行合理引申推断，关键在于理清数据关系(①句 23%，30%)，辨别信息虚实(②句是在以假定情形说明采用极端手段种植果蔬不可行):分别利用选项关键名词[A] fresh produce、[B] fruit consumption、[C] calorie intake [D] grains 定位原文，然后进行比对，发现[B]、[C]、[D]其余部分 enjoy a steady rise、are seeking effective ways to cut、are trying to grow new varieties 歪曲了文中信息，可排除；而[A] rely largely on imports 是对 Just 23 per cent of the fruit and vegetables... are currently home-grown 的正确推算，故为正确项。"
+      },
+      {
+       "number": 30,
+       "score": 2,
+       "stem": "The author’s attitude to food self-sufficiency in the UK is .",
+       "options": {
+        "A": "defensive",
+        "B": "doubtful",
+        "C": "tolerant",
+        "D": "optimistic"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n\n\n| 30. The author's attitude to food self-sufficiency in the UK is ____. | 30. 作者对英国粮食自给自足的态度是____。 |\n\n| --- | --- |\n\n| [A] defensive | [A] 为之辩护的 |\n\n| [B] doubtful | [B] 充满怀疑的 |\n\n| [C] tolerant | [C] 有所容忍的 |\n\n| [D] optimistic | [D] 积极乐观的 |\n\n\n\n[精准定位]本文整体脉络为：引出话题“英国粮食自给自足是否可行”（第二段末）——分析问题，先指出就算采用极端手段，也无法满足英国人对动物性食品的需求，唯一可能就是减少动物性饮食，转向植物性饮食（第三、四段），然后进一步指出转向植物性饮食同样不可行，就算采用极端手段，可用土地也无法满足人们的总体需求（第五、六段），可见作者对英国实现自给自足持怀疑态度，[B]正确。\n\n\n\n[命题解密] [B] doubtful 准确概括了第二段末 Sounds great—but how feasible is this vision? 第三段末 even covering... wouldn't allow us、第五段末 Even if... we would achieve only... 第六段末 That is before we look for... 等传递出的作者态度。\n\n\n\n[A]错误理解文章总体脉络，将文章“提出一种观点——指出这种美好愿景很难实现”理解为“提出一种观点，为之进行辩护”。[C]将第三段末、第五段末的让步表达（就算……，……）曲解为作者对计划的容忍，但作者实际是以极度夸张的提议来强调计划的不合理。[D]将第二段的“其他人的观点（作者认为很难实现）”当成作者的观点。\n\n\n\n[技巧总结]本题考查作者态度，应注意区分作者观点和他人观点，同时注意理解特殊表达传达的作者态度。如第五段末句“就算把所有条件适宜的土地都变成果蔬园地，取消所有的自然保护区，让成千上万的人们搬离家园——我们能实现的粮食产量增长也只有 30% 而已”并非说明作者真的认为“可以考虑把所有土地变成果蔬园地”，而是要凸显“就算如此，仍不能解决问题，更何况这本身实行起来会造成巨大代价”。"
+      }
+     ]
+    },
+    {
+     "title": "Text 3",
+     "type": "reading",
+     "passage": [
+      "When Microsoft bought task management app Wunderlist and mobile calendar Sunrise in 2015,it picked two newcomers that were attracting considerable buzz in Silicon Valley.Microsoft’s own Office dominates the market for “productivity” software, but the start-ups represented a new wave of technology designed from the ground up for the smartphone world.",
+      "Both apps, however, were later scrapped, after Microsoft said it had used their best features in its own products.Their teams of engineers stayed on,making them two of the many “ acqui-hires”that the biggest companies have used to feed their great hunger for tech talent.",
+      "To Microsoft’s critics,the fates of Wunderlist and Sunrise are examples of a remorseless drive by Big Tech to chew up any innovative companies that lie in their path. “They bought the seedlings and closed them down,” complained Paul Arnold, a partner at San Francisco-based Switch Ventures, putting an end to businesses that might one day turn into competitors.Microsoft declined to comment.",
+      "Like other start-up investors, Mr. Arnold’s own business often depends on selling start-ups to larger tech companies, though he admits to mixed feelings about the result: “I think these things are good for me, if I put my selfish hat on.But are they good for the American economy?I don’t know.”",
+      "The US Federal Trade Commission says it wants to find the answer to that question.This week, it asked the five most valuable US tech companies for information about their many small acquisitions over the past decade.Although only a research project at this stage, the request has raised the prospect of regulators wading into early-stage tech markets that until now have been beyond their reach.",
+      "Given their combined market value of more than $5.5 trillion, rifling through such small deals—many of them much less prominent than Wunderlist and Sunrise— might seem beside the point.Between them, the five biggest tech companies have spent an average of only $3.4 billion a year on sub- $ 1 billion acquisitions over the past five years—a drop in the ocean compared with their massive financial reserves, and the more than $130 billion of venture capital that was invested in the US last year.",
+      "However, critics say the big companies use such deals to buy their most threatening potential competitors before their businesses have a chance to gain momentum, in some cases as part of a“ buy and kill”tactic to simply close them down."
+     ],
+     "questions": [
+      {
+       "number": 31,
+       "score": 2,
+       "stem": "What is true about Wunderlist and Sunrise after their acquisitions?",
+       "options": {
+        "A": "Their engineers were retained.",
+        "B": "Their market values declined.",
+        "C": "Their tech features improved.",
+        "D": "Their products were re-priced."
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n\n\n> **答案：** A\n\n\n\n| 31. What is true about Wunderlist and Sunrise after their acquisitions? | 31. Wunderlist 和 Sunrise 被收购后的真实情况如何？|\n\n| --- | --- |\n\n| [A] Their engineers were retained. | [A] 他们的工程师被留用。 |\n\n| [B] Their market values declined. | [B] 他们的市场价值下降。 |\n\n| [C] Their tech features improved. | [C] 他们的科技性能得到提升。 |\n\n| [D] Their products were re-priced. | [D] 他们的产品被重新定价。 |\n\n\n\n[精准定位] 由 after their acquisitions 定位至第二段首句中 later。该段指出 Wunderlist、Sunrise 被收购后的情况：软件被下架(①句), 工程师被留用(②句), 故[A]正确。\n\n\n\n[命题解密] [A] Their engineers were retained 同义改写第二段②句 Their...engineers stayed on。\n\n\n\n[B]源于第六段①句 their...market value, 但此处谈论的是“五大科技巨头的市场价值巨大”而非“Wunderlist 与 Sunrise 的市场价值下滑”。[C]张冠李戴：由第二段①句“微软将它们的最佳性能融入自身产品”, 可知科技性能得到提升的对象为微软自家产品而非被收购的两款应用。[D]利用首段①句“微软收购两款软件”与常识“换东家后会重新定价”捏造，但“重新定价”所含的信息“仍在市场上销售”与第二段①句所含的信息“被下架”相悖。\n\n\n\n[技巧总结] 四个选项的指向性很明确、辨识度也很高，对于此类事实细节题按照“回文定位法”最为合适。根据题干 Wunderlist and Sunrise after their acquisitions 直接定位至第二段，该段两句成段，第一句指向“软件的命运（下架）”，第二句指向“软件工程师的命运（留用）”，与之相匹配的唯有 [A]，其余各选项要么捏造，要么偷换概念。\n\n\n\nIII ① To Microsoft's critics, the fates of Wunderlist and Sunrise are examples of a remorseless drive by Big Tech to chew up any innovative companies that lie in their path. ② “They bought the seedlings and closed them down,” complained Paul Arnold, a partner at San Francisco-based Switch Ventures, putting an end to businesses that might one day turn into competitors. ③ Microsoft declined to comment.\n\n\n\n在微软的批评者看来，Wunderlist 和 Sunrise 的命运表明：科技巨头会无情地蚕食一切阻碍其发展的创新公司。总部位于旧金山的 Switch 风险投资公司合伙人保罗·阿诺德抱怨道，“他们买下这些初创企业然后将其关闭”，将那些有朝一日可能会成长为竞争对手的企业扼杀于摇篮。微软拒绝对此置评。\n\n\n\n**词汇注释与难句分析**\n\n\n\nfate n. 命中注定的事(尤指坏事)\n\n\n\nremorseless a. 残酷的；无情的\n\n\n\ndrive n. (为达到某目的的)有组织的努力\n\n\n\nseedling n. 幼苗\n\n\n\ncomplain v. 抱怨；埋怨；发牢骚\n\n\n\ndecline v. 谢绝；婉言拒绝\n\n\n\nbusiness n. 企业；公司\n\n\n\ncomment v. 表达意见\n\n\n\npartner n. 合伙人\n\n\n\n**经典搭配**\n\n\n\nventure n. 风险项目；投机活动\n\n\n\nchew up 嚼碎；毁坏\n\n\n\nin one's path 挡某人的道\n\n\n\n\"They bought the seedlings and closed them down,\" complained Paul Arnold, a partner at San Francisco-based Switch Ventures, putting an end to businesses that might one day turn into competitors.\n\n\n\n功能注释：本句主句为 complained Paul Arnold, a partner at San Francisco-based Switch Ventures, 其中 a partner at San Francisco-based Switch Ventures 为主语 Paul Arnold 的同位语，解释说明其身份。\n\n\n\ncomplained 的宾语由从句充当，引号隔开的直接引语部分 They bought... and closed... down 点明 Arnold 所抱怨的行为；间接引语部分 putting an end to... competitors 补充说明被抱怨行为的实施目的。\n\n\n\n**语篇分析**\n\n\n\n第三、四段借批评者口吻对事件作出评述：以微软为代表的科技巨头吞并初创企业无益于美国经济的良性发展。\n\n\n\n第三段先将微软事例升华为普遍现象。关键词：① chew up(吞并)；② lie in their path(阻碍其发展)。\n\n\n\n①句直陈普遍现象：科技巨头吞并阻碍他们发展的公司。句子以 To Microsoft's critics 与 are examples of... 提示第一、二段与第三段之间“由述转评、由特殊到一般”的段群关联，并以 A chew up any B 结构 (chew up 本义为“咀嚼后完全吞下”) 勾勒科技巨头“地毯式搜寻所有有潜力的初创企业并将其完全消灭”的做法，以 innovative、lie in their path 阐明科技巨头这么做的原因：初创企业极富创新且有碍科技巨头的发展。其中 remorseless(残酷的；无情的)、fates(命中注定的事[尤指坏事]) 强调科技巨头维持自身独大的市场生态的作法极其野蛮、恶劣，初创企业难逃厄运。\n\n\n\n②句细述普遍现象：科技巨头抢在初创公司壮大为竞争对手前将其消灭。bought the seedlings and closed them down、putting an end to businesses that might one day...承上继续强调科技巨头吞并初创公司的野蛮性与彻底性：只要初创公司有可能壮大(不管是否真能壮大),哪怕其尚处“襁褓”之中，手无缚鸡之力，也要将其掐死，充分彰显了科技巨头收购初创小企业背后的真实意图：防患于未然，避免有实力的初创企业壮大为竞争对手，维持自己当前一家独大的市场生态。\n\n\n\n③句补充科技巨头对此类说法的反应：拒绝置评。Microsoft 实以点带面，点明整个科技巨头群体的态度。declined to comment 表面在说科技巨头对自己所受的批评不发表看法，实际也暗示科技巨头面对批评仍拒绝改变自身做法，暗示政府介入的必要性。\n\n\n\n【段落梳理】段落借助 critics/complained、remorseless/chew up/closed them down/putting an end、innovative companies that lie in their path/businesses that might one day turn into competitors 所组建的语义场强调“以微软为代表的科技巨头对于有可能成为其公司绊脚石的初创企业实施了残忍的‘杀绝’策略，这种绝杀方式招致了社会的广泛批评”，同时又借 declined to comment 说明科技巨头对社会指责不予置评，依然我行我素，深层暗示政府介入的必要性。"
+      },
+      {
+       "number": 32,
+       "score": 2,
+       "stem": "Microsoft’s critics believe that the big tech companies tend to .",
+       "options": {
+        "A": "exaggerate their product quality",
+        "B": "eliminate their potential competitors",
+        "C": "treat new tech talent unfairly",
+        "D": "ignore public opinions"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n\n\n> **答案：** B\n\n\n\n| 32. Microsoft's critics believe that the big tech companies tend to ____. | 32. 微软的批评者认为，大型科技公司往往会____。 |\n\n| --- | --- |\n\n| [A] exaggerate their product quality | [A] 夸大他们的产品质量 |\n\n| [B] eliminate their potential competitors | [B] 消灭他们的潜在竞争对手 |\n\n| [C] treat new tech talent unfairly | [C] 不公正地对待新技术人才 |\n\n| [D] ignore public opinions | [D] 忽视公众的意见 |\n\n\n\n[精准定位] 由题干 Microsoft's critics、big tech companies 直接定位至第三段。该段①句点明批评者的总观点：科技巨头会蚕食挡道的创新公司。②句具体阐释①句：他们（科技巨头）将那些有朝一日可能会成长为竞争对手的企业扼杀于摇篮。可见[B]正确。\n\n\n\n[命题解密] [B] eliminate their potential competitors 同义概述了第三段②句的 putting an end to businesses that might one day turn into competitors, 阐明了①句中 chew up any innovative companies that lie in their path 的内涵。\n\n\n\n[A]对第二段①句 said...best features in its own products 断章取义，将文意“表示自家产品借鉴了被购软件的最佳性能”曲解为“夸耀自家产品最佳，夸大产品质量”,且将微软个体的行为泛化为所有大型科技公司的行为。[C]歪曲第二段②句中大型科技公司对科技人才的态度：将原文的“求贤若渴(their great hunger for tech talent)”反向窜改为“不公正对待人才(treat...unfairly)”。[D]将第三段末句 declined to comment 所暗藏的“礼貌拒绝置评 (decline: refuse politely to do sth)”窜改为“忽略 (ignore: pay no attention to sth)”。此外，[A][C][D]均为作者陈述的事实，并非题干所问的“批评者的观点”。\n\n\n\n[技巧总结] 本题考查人物观点，解答关键是锁定人物观点表达句。首先根据 Microsoft's critics 直接锁定第三段①句，该句中 a remorseless drive by Big Tech to chew up any innovative companies that lie in their path 明确表达科技巨头的倾向性行为(蚕食将阻碍其发展的任何创新公司),与之相匹配的唯有[B]。\n\n\n\nIV ① Like other start-up investors, Mr. Arnold's own business often depends on selling start-ups to larger tech companies, though he admits to mixed feelings about the result: “② I think these things are good for me, if I put my selfish hat on. ③ But are they good for the American economy? ④ I don't know.”\n\n\n\n和其他初创企业投资者一样，阿诺德的公司也常常依赖于将初创企业出售给大型科技公司，不过对于收购结局他内心五味杂陈：“自私一点说，我认为这些收购对我有利。但它们对美国经济有利吗？我不知道。”\n\n\n\n**词汇注释与难句分析**\n\n\n\nadmit v. 承认（不好、不快或尴尬的事实）\n\n\n\n**语篇分析**\n\n\n\n第四段进而明确上述普遍现象的潜在危害。关键词：good for the American economy?（可能危害美国经济）。\n\n\n\n①句以间接引语形式(admits)总述初创企业投资者(批评者代表群体)对此类收购行为的态度：内心五味杂陈。though(不过，然而)语用功能为“引出一个事实或观点，使主句所述内容变得不那么重要”,凸显常理“既然这样的出售是主要获利项目(often depends on),那投资者理应完全支持、万分高兴”与现实“心情复杂，喜忧参半(mixed feelings)”的对立；Like other start-up investors 则强调持此类心情的初创企业投资者人数众多。两者共同衬托出这种出售行为实质暗藏巨大杀伤力，弊大于利。\n\n\n\n②③④句以直接引语形式对①句作出说明。其中②句先让步承认此类收购行为有利于初创企业投资者。me 以 Arnold 代表所有同类个体，指出“科技巨头收购初创企业”对初创企业投资者的积极影响：可从中牟取暴利。贬义词 selfish 则对此种正面影响作出负面批判：只考虑小我，并未考虑大我。\n\n\n\n③④句转而强调此类收购行为可能危害美国经济的整体发展。But 承上将 me 与 the American economy 对立，good for...? 与 I don't know 以疑问与不确定语气暗递深切担忧：科技巨头收购初创企业的最终结果可能是个体受益而国家经济受损。\n\n\n\n【段落梳理】段落借助 mixed feelings...good for me...good for the American economy? 形成“先总后分(利 vs 弊)”的论述结构，表面上似乎在客观评论事件的利弊，实际上含强调韵味的 though 与 But 表明两个句群均将语义重点落于“潜在的弊端”,意在批评科技巨头吞并初创企业或危害美国经济。"
+      },
+      {
+       "number": 33,
+       "score": 2,
+       "stem": "Paul Arnold is concerned that small acquisitions might .",
+       "options": {
+        "A": "weaken big tech companies",
+        "B": "worsen market competition",
+        "C": "harm the national economy",
+        "D": "discourage start-up investors"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n\n\n> **答案：** C\n\n\n\n| 33. Paul Arnold is concerned that small acquisitions might ____. | 33. 保罗·阿诺德担忧，小额收购可能会____。 |\n\n| --- | --- |\n\n| [A] weaken big tech companies | [A] 削弱大型科技公司 |\n\n| [B] worsen market competition | [B] 加剧市场竞争 |\n\n| [C] harm the national economy | [C] 损害国家经济 |\n\n| [D] discourage start-up investors | [D] 挫伤初创企业投资者的信心 |\n\n\n\n[精准定位] 首先由题干中 Paul Arnold 定位至第三、四段，再由试题命制顺序（上题已针对第三段设题）可进一步定位至第四段。该段首先指出，对于“科技巨头收购初创企业”，阿诺德内心五味杂陈。\n\n\n\n随后点明其担忧的原因：这种小额收购可能会危害美国经济。可见，[C] 正确。\n\n\n\n[命题解密] 题干 + [C] 是对第四段③句疑问句式 But are they good for the American economy? 的正确解读，harm 体现了阿诺德的质疑态度：这类收购可能不利于美国经济。\n\n\n\n[A][B]均与第三段②句阿诺德的观点“科技巨头在初创企业发展为竞争者之前将其消灭”的言外之意相悖：这些小额收购不是削弱而是巩固大型科技公司现有的地位；不是加剧市场竞争，而是阻碍新竞争对手产生、保持市场竞争的现状。[D]与第四段②句阿诺德的观点“这些小额收购有利于我（阿诺德代表初创企业投资者）”所体现的积极意义相悖。\n\n\n\n[技巧总结]本题依然考查人物观点，但解答关键更在于利用人物站位排除部分干扰项，然后再借助其核心观点句锁定正确选项。首先，文中 Paul Arnold 作为微软批评者的代表人物出现，对微软所代表的做法“科技巨头在初创企业成长为竞争对手前将其收购（巩固科技巨头的垄断地位，杜绝新的市场竞争产生）”持反对态度，应首先排除[A][B]。接着，根据题干中 concerned 所传递出的“疑虑，担忧”锁定到第四段中情感表达词 mixed feelings 以及疑问句式 are they good for the American economy?所传递出的“对美国经济的担忧”，从而锁定正确答案为[C]。\n\n\n\nV ① The US Federal Trade Commission says it wants to find the answer to that question. ② This week, it asked the five most valuable US tech companies for information about their many small acquisitions over the past decade. ③ Although only a research project at this stage, the request has raised the prospect of regulators wading into early-stage tech markets that until now have been beyond their reach.\n\n\n\n美国联邦贸易委员会表示希望找到这个问题的答案。本周，委员会要求美国市值最高的五家科技公司提供过去十年内进行的诸多小型收购的相关信息。尽管在现阶段这项要求只是一个研究项目，却让人们燃起了希望：监管机构开始介入此前不曾涉足的早期科技市场。\n\n\n\n**词汇注释与难句分析**\n\n\n\nacquisition n. 收购；购置\n\n\n\nstage n. (发展/进展的)时期，阶段\n\n\n\nprospect n. 前景；展望\n\n\n\nregulator n. 监管者/机构\n\n\n\n**经典搭配**\n\n\n\nwade into sth 介入；插手\n\n\n\nbeyond one's reach 鞭长莫及；力所不能及\n\n\n\n**语篇分析**\n\n\n\n第五至七段阐述政府的干预措施：介入审查科技巨头的“买了即杀”策略。\n\n\n\n第五段介绍政府审查行为并予以简评。关键词：① asked... for information(要求提供信息); ② raised the prospect(燃起了希望)。\n\n\n\n①句(过渡句)引出政府/FTC 的介入行为。that question 回指上段问句 are they good for the American economy; the answer 表明介入行为意在“明确此种收购对美国经济是否危害巨大”。\n\n\n\n②句介绍 FTC 的行动：要求提供收购信息。asked 取僻义“要求(得到)”, 蕴藏命令之意，彰显 FTC 的权威。small acquisitions 实质回指上文提到的科技巨头对初创企业的收购行为(含首段事例“微软收购 Wunderlist 和 Sunrise”及第三段的普遍现象“科技巨头收购初创企业”)。many、over the past decade 则强调 FTC 调查的覆盖面之大，暗示其找到问题答案的决心之强。\n\n\n\n③句予以简评：上述行动让人燃起了希望。Although only 在让步承认政府当前的行动（只是进行研究）还有失于力度之余，将句子的语意重点落于主句“has raised the prospect”，以“政府干预仍在起步阶段就已经让人们燃起了希望”凸显外界对政府能够有所作为期盼已久，也同时侧面说明科技巨头收购初创企业招致很多批判。wading into（强行插入，介入）、until now... beyond their reach（此前不在其影响力/管辖范围之内）点明此次政府干预的强力性，更是凸显科技巨头收购初创企业为世人所诟病之严重。注：reach 此处作名词，取“(手、足等)伸出距离”的比喻义，表示“影响范围”。\n\n\n\n【知识补充】1976年美国国会通过了 Hart-Scott-Rodino 法案（HSR 法案），对若干反托拉斯法进行了增补和修正，其中受影响最大的是1914年的 Clayton 法案。修正后的 Clayton 法案第7A条规定了收购交易额超过多少时即应向联邦贸易委员会上报，等待审查核准。所以，这些大科技公司进行的小额收购并没有报给 FTC，因而也缺乏有力的监管。2020年2月11日，FTC 援引 HSR 法案第6(b)款之规定（允许 FTC 进行“无特别执法目的的、大范围的研究”），要求五家公司提供2010年1月1日至2019年12月31日内他们所完成的收购的相关信息和文件，以继续保持科技市场的开放性和竞争性，维护消费者的利益。所以，文章才会将 FTC 此举称为“研究项目”，且该市场 FTC 之前都“无权踏足”。"
+      },
+      {
+       "number": 34,
+       "score": 2,
+       "stem": "The US Federal Trade Commission intends to .",
+       "options": {
+        "A": "limit Big Tech’s expansion",
+        "B": "encourage research collaboration",
+        "C": "examine small acquisitions",
+        "D": "supervise start-ups’ operation"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n\n\n> **答案：** C\n\n\n\n| 34. The US Federal Trade Commission intends to ____. | 34. 美国联邦贸易委员会想要____。 |\n\n| --- | --- |\n\n| [A] limit Big Tech's expansion | [A] 限制科技巨头的扩张 |\n\n| [B] encourage research collaboration | [B] 鼓励研究合作 |\n\n| [C] examine small acquisitions | [C] 审查小额收购 |\n\n| [D] supervise start-ups' operation | [D] 监督初创企业的运营 |\n\n\n\n[精准定位] 根据题干关键词 Federal Trade Commission 定位至第五段。该段①②句指出，FTC 为了找到“科技巨头收购初创企业是否对美国经济不利”的答案，要求“五大科技公司提供其过去十年所进行的所有小额收购的相关信息”。可见，FTC 意欲审查科技巨头小额收购行为，以防对美国经济不利，[C] 正确。\n\n\n\n[命题解密] [C] 是对②句中 asked... for information about their many small acquisitions 的同义转述。\n\n\n\n[A]由②③句中“要求提供”和“插手干预”等信息过度推导得来，文中无据可依。[B]对③句 only a research project（只是一个研究项目）断章取义，但句中实际指向“FTC 目前尚处研究调查阶段，尚未上升到政策措施等高度”，并未提及“政府要鼓励合作式研究”。[D]将③句“干预早期科技市场”错误理解为监管初创企业，句中实际指向“监督科技巨头对初创企业的收购”。\n\n\n\n[技巧总结] 本题考查 FTC 的行为目的，可搜寻文内有关目的的表达词，找到答案信息，即根据第五段①句中 wants to 可锁定其后 find the answer to that question, 而追溯前文发现 that question 指向上段末句 are they good for the American economy (they 指向 these things/selling start-ups to larger tech companies, 进而可知 small acquisitions), 进而可知 FTC 意在调查“小额收购对美国经济的影响”, 与之相匹配的唯有 [C], 且由目标句 (①句) 后的解释说明句 (②句) “FTC 开始要求五大科技巨头提供其过去十年来的小额收购信息”可进一步佐证。\n\n\n\nVI ① Given their combined market value of more than $5.5 trillion, rifling through such small deals — many of them much less prominent than Wunderlist and Sunrise— might seem beside the point. ② Between them, the five biggest tech companies have spent an average of only 3.4 billion a year on sub-1 billion acquisitions over the past five years—a drop in the ocean compared with their massive financial reserves, and the more than $130 billion of venture capital that was invested in the US last year.\n\n\n\n鉴于这五家科技公司的总市值超过5.5万亿美元，匆忙审查这些小额收购（其中许多远没有 Wunderlist、Sunrise 收购案引人注目）似乎有些避重就轻的味道。过去的五年中，这五大科技公司加起来平均每年只花34亿美元用于10亿美元以下的收购。这个数额同他们庞大的资金储备以及去年在美国完成的1300多亿美元的风险投资相比，无异于沧海一粟。\n\n\n\n**真题精解**\n\n\n\n**经典搭配**\n\n\n\n③venture capital 风险资本\n\n\n\n① beside the point 不是重点；无关紧要\n\n\n\n**语篇分析**\n\n\n\n第六段提出相关质疑：政府是否抓错了重点？关键词：①such small deals(小额交易);②a drop in the ocean(沧海一粟)。\n\n\n\n①句总述质疑之声：科技巨头体量巨大，单看小额收购似乎有些避重就轻。Given(考虑到)提示“条件—结论”的句内逻辑。句子先借“$5.5 trillion vs small deals”凸显大小对比，再借“more than vs such/much less”的对比进一步拉大两个数额间的差距，最后以 beside the point 指出结论“政府的调查不切要害，不抓大头反揪细枝末节”,但 might seem 暗示作者实际并不赞同“政府的调查避重就轻”这一批判，为下段正面肯定政府的调查留下余地。\n\n\n\n②句说明原因：收购金额同储备资金和风险投资总额相比微不足道。Between them 此处意为 shared by (two or more people or things),表示下述用于收购的 34 亿美元是五家公司(而非单家公司)的总平均额；a drop in the ocean 用了比喻修辞，其中 drop 喻指科技巨头用于收购初创企业的资金数额，ocean 喻指这些科技巨头的巨大资金储备与上千亿的风投资金，“一滴水 vs 汪洋大海”凸显了两个数额之悬殊。本句以“only 3.4 billion vs more than 130 billion”的实际数额对比、“drop vs ocean”的常见实物对比，形象地展现首句所述的差距，以更为直观的方式佐证首句结论“政府调查小额交易似乎错失重点”。"
+      },
+      {
+       "number": 35,
+       "score": 2,
+       "stem": "For the five biggest tech companies, their small acquisitions have .",
+       "options": {
+        "A": "brought little financial pressure",
+        "B": "raised few management challenges",
+        "C": "set an example for future deals",
+        "D": "generated considerable profits"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n\n\n| 35. For the five biggest tech companies, their small acquisitions have ____. | 35. 对五家最大的科技公司而言，他们的小额收购____。 |\n\n| --- | --- |\n\n| [A] brought little financial pressure | [A] 没有带来多少财务压力 |\n\n| [B] raised few management challenges | [B] 没有带来多少管理问题 |\n\n| [C] set an example for future deals | [C] 为后来的交易树立了榜样 |\n\n| [D] generated considerable profits | [D] 带来了丰厚的利润 |\n\n\n\n[精准定位]根据题目关键词 the five biggest tech companies 可定位至第六段②句。该句表明，五大公司加起来每年用于小额收购的资金仅有 34 亿美元，同它们的金融储备相比，这笔钱无异于沧海一粟。再加上具体数字(3.4 billion vs 130 billion)的对比可知，五大公司财力雄厚，这些小额收购并未对公司财政造成多少压力，故[A]正确。\n\n\n\n[命题解密] [A]是对第六段②句中 only $3.4 billion a year、a drop in the ocean compared with their massive financial reserves 的合理推断。\n\n\n\n[B]由常识“公司并购之后带来的人员增长将会是一个管理问题”捏造，但文中并未提到任何“管理问题”。[C]由第三段②句中 examples、in their path 望文生义，但该句实质指向“微软收购 Wunderlist/Sunrise 是科技巨头收购初创企业的众多案例中的两例”而非“为这类收购树立了榜样”。[D]则将五大公司的巨额利润归功于他们所进行的小额收购，而文中并没有出现相应的因果联系。\n\n\n\nVII ① However, critics say the big companies use such deals to buy their most threatening potential competitors before their businesses have a chance to gain momentum, in some cases as part of a “buy and kill” tactic to simply close them down. [404 words]\n\n\n\n但批评人士认为，这些大公司利用这样的交易，在最具危险性的潜在竞争对手有机会形成势头之前将他们买下，有些时候就是“买了即杀”策略中的一步，就是要让他们关门。\n\n\n\n**词汇注释与难句分析**\n\n\n\nmomentum n. 动力；势头\n\n\n\ntactic n. 策略；手段\n\n\n\nHowever, critics say the big companies use such deals to buy their most threatening potential competitors before their businesses have a chance to gain momentum, in some cases as part of a “buy and kill” tactic to simply close them down.\n\n\n\n功能注释：本句主句为 However, critics say, 剩余部分均为其宾语从句。宾语从句讲述了批评者批评的具体内容，其主干为 the big companies use such deals。目的状语 to buy... competitors 表示 use 的目的“买下潜在的竞争对手”; 时间状语从句 before... 暗示收购的直接目的“避免他们形成势头”; 补语 in some cases as... 则进一步解释收购目的：先收购再让其关门。\n\n\n\n**语篇分析**\n\n\n\n第七段正面抨击科技巨头做法实为“买了即杀”策略的一部分，侧面肯定政府的调查作为。关键词：buy and kill(买了即杀)。\n\n\n\nuse A to B 明确“此类小额收购行为(A)”背后的真实意图“将最具危险性的、有潜力的、尚未有机会形成势头的竞争对手收归己有，铲平路上的绊脚石(B)”，其中 most threatening potential competitors、chance to gain momentum 充分体现了大公司收购行为的快准狠。buy and kill 以直白的语言揭示了这部分收购行为的真实目的，即买下有潜力的初创企业，在他们能与自己竞争之前消灭他们；将这一层含义同 use A to B 联系起来，可看出作者并不反对收购小型公司，而是反对用来预防潜在竞争的恶意收购，体现了作者对政府调查此番收购的支持态度(in some cases 作为限定成分，为批评人士的指控增加了一定的客观性)。\n\n\n\n【段落梳理】段群写作手法：自问自答。第六段①句以 might seem 暗设疑问：政府调查“科技巨头收购初创企业”这类小额收购是否错失重点？第七段以 However, critics say 予以果断否定：科技巨头此类小额收购不给有潜力的初创企业成长为竞争对手的任何机会，使新的竞争力量难以形成，而研究此类小额收购恰恰符合政府调查的目的(调查其是否会危害美国经济)与群众期盼(希望政府介入早期科技市场),已准确抓住重点。"
+      }
+     ]
+    },
+    {
+     "title": "Text 4",
+     "type": "reading",
+     "passage": [
+      "We’re fairly good at judging people based on first impressions, thin slices of experience ranging from a glimpse of a photo to five-minute interaction, and deliberation can be not only extraneous but intrusive.In one study of the ability she called“thin slicing,” the late psychologist Nalini Ambady asked participants to watch silent 10-second video clips of professors and to rate the instructor’s overall effectiveness.Their ratings correlated strongly with students’ end-of-semester ratings. Another set of participants had to count backward from 1,000 by nines as they watched the clips, occupying their conscious working memory.Their ratings were just as accurate, demonstrating the intuitive nature of the social processing.",
+      "Critically, another group was asked to spend a minute writing down reasons for their judgment, before giving the rating.Accuracy dropped dramatically. Ambady suspected that deliberation focused them on vivid but misleading cues, such as certain gestures or utterances, rather than letting the complex interplay of subtle signals form a holistic impression.She found similar interference when participants watched 15-second clips of pairs of people and judged whether they were strangers, friends, or dating partners.",
+      "Other research shows we’re better at detecting deception from thin slices when we rely on intuition instead of reflection. “It’s as if you’re driving a stick shift,” says Judith Hall, a psychologist at Northeastern University, “and if you start thinking about it too much, you can’t remember what you’re doing. But if you go on automatic pilot,you’re fine.Much of our social life is like that.”",
+      "Thinking too much can also harm our ability to form preferences.College students’ ratings of strawberry jams and college courses aligned better with experts’ opinions when the students weren’t asked to analyze their rationale.And people made car-buying decisions that were both objectively better and more personally satisfying when asked to focus on their feelings rather than on details, but only if the decision was complex—when they had a lot of information to process.",
+      "Intuition’s special powers are unleashed only in certain circumstances.In one study,participants completed a battery of eight tasks, including four that tapped reflective thinking (discerning rules, comprehending vocabulary) and four that tapped intuition and creativity (generating new products or figures of speech).Then they rated the degree to which they had used intuition (“gut feelings,” “ hunches,” “my heart”).Use of their gut hurt their performance on the first four tasks, as expected, and helped them on the rest. Sometimes the heart is smarter than the head."
+     ],
+     "questions": [
+      {
+       "number": 36,
+       "score": 2,
+       "stem": "Nalini Ambady’ s study deals with .",
+       "options": {
+        "A": "the power of people’s memory",
+        "B": "the reliability of first impressions",
+        "C": "Instructor-student interaction",
+        "D": "people’s ability to influence others"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n\n\n> **答案：** B\n\n\n\n| 36. Nalini Ambady's study deals with ____. | 36. 纳里尼·安巴迪的研究涉及____。 |\n\n| --- | --- |\n\n| [A] the power of people's memory | [A] 人们记忆的力量 |\n\n| [B] the reliability of first impressions | [B] 第一印象的可靠性 |\n\n| [C] instructor-student interaction | [C] 教师与学生的互动 |\n\n| [D] people's ability to influence others | [D] 人们影响他人的能力 |\n\n\n\n[精准定位]由题干中的 Nalini Ambady's study 定位至第一、二段安巴迪的“行为薄片撷取”能力研究。第一段①句指出人们擅长通过第一印象即 thin slices of experience 评判他人，②句顺而指出安巴迪就 thin slicing 这一能力进行了研究，说明安巴迪的研究与人们的第一印象有关。再结合第一段③⑤句、第二段②句所指出的“安巴迪将参与者和学生对教师的评分进行对比，评估参与者对教师的第一印象的准确性”，可知安巴迪的研究涉及“第一印象的可靠性”，故[B]正确。\n\n\n\n[命题解密] 正确项[B]是对第一、二段中安巴迪的研究内容的正确概述，其中 first impressions 对应主题词 first impressions、thin slices of experience, reliability 是对 correlated strongly、just as accurate、Accuracy dropped dramatically 的高度概括。\n\n\n\n[A]将第一段④句中对参与者的干扰 occupying their conscious working memory 断章取义为安巴迪的研究涉及人们的记忆，但原文并未提及记忆的力量。[C]对第一段②③句中的关键信息 professors、instructor、students 强加关联，捏造出安巴迪的研究涉及“教师与学生的互动”。[D]将第二段①②句中“参与者被要求写下评分理由，导致他们的评分准确性大幅下降”这一研究发现错误解读为“研究人员影响了参与者的判断”，而原文的真实含义是“写出评分理由”这一思考行为降低了评分的准确性。\n\n\n\n[技巧总结] 本题考察对细节信息进行整合概括的能力，解题时需要厘清段内、段际逻辑关系。\n\n\n\n1. 从段内逻辑来看，第一段①句指出第一印象即“经验薄片(thin slices of experience)”, ②句直接说明安巴迪的研究关乎“行为薄片撷取(thin slicing)”, 从两者的重合内容 thin slice 可推断安巴迪的研究关乎“第一印象”。另外，第一段②③句和④⑤句呈现相似的句间关系：先说明参与者在不同条件下根据第一印象对教师评分，后描述该评分的准确性。这也说明安巴迪的研究重点是“第一印象的准确性”, 由此锁定答案[B]。\n\n\n\n2. 从段际逻辑来看，第一、二段都涉及安巴迪的研究，但两段之间构成对比关系：第一段的前两组参与者情况表明，当参与者根据第一印象评分时，评分结果往往非常准确；而第二段的第三组参与者 (①②句) 和另一项研究 (④句) 表明，过多思考反而会干扰我们判断的准确性。将两段逻辑串联可知，这两段的两项研究都在论证首段首句：我们很擅长运用第一印象来评判他人，此时深思不仅没有必要，而且会造成干扰。由此，进一步锁定答案 [B]。[A][C][D] 均运用各项研究对参与者的不同要求捏造干扰，可排除。\n\n\n\nⅡ ① Critically, another group was asked to spend a minute writing down reasons for their judgment, before giving the rating. ② Accuracy dropped dramatically. ③ Ambady suspected that deliberation focused them on vivid but misleading cues, such as certain gestures or utterances, rather than letting the complex interplay of subtle signals form a holistic impression. ④ She found similar interference when participants watched 15-second clips of pairs of people and judged whether they were strangers, friends, or dating partners.\n\n\n\n极为关键的是，另一组参与者被要求在评分之前花一分钟写下他们做出判断的原因。此时，评分的准确性大幅下降。安巴迪推测，深思使参与者将精力集中于那些生动但具有误导性的信号(比如特定的手势或说话方式),而未能让微妙信号间的复杂关系形成整体印象。她发现，参与者在观看15秒的双人视频片段，然后判断两者是陌生人、朋友还是约会对象时，也会受到类似的干扰。\n\n\n\n**词汇注释与难句分析**\n\n\n\ncritically ad. 极为重要地；很大程度上\n\n\n\ndramatically ad. 突然地；明显地\n\n\n\ninterplay n. 相互影响(或作用)\n\n\n\nholistic a. 整体的；全面的\n\n\n\nutterance n. 说话方式\n\n\n\nAmbady suspected that deliberation focused them on vivid but misleading cues, such as certain gestures or utterances, rather than letting the complex interplay of subtle signals form a holistic impression.\n\n\n\n功能注释：本句主干为 Ambady suspected that...。that 引导的宾语从句用于说明安巴迪推测的具体内容；其中 such as... utterances 作插入语，用以举例说明“生动但有误导性的信号”。介词短语 rather than letting... impression 在宾语从句中作状语，逻辑主语为 deliberation,说明思考未能让微妙信号间的复杂关系形成整体印象。\n\n\n\n功能注释：句子主干为 She found similar interference。when 引导的时间状语从句中包含两个并列的谓语 watched 和 judged,说明参与者要完成的任务：观看视频并判断人物关系。whether 引导的宾语从句用以说明几种可能出现的人物关系：陌生人、朋友，或约会对象。\n\n\n\n**语篇分析**\n\n\n\n第二段继续介绍安巴迪的研究，并得出研究结论二“在社会信息处理中，深思不仅没有必要，甚至会干扰判断”。关键词：①deliberation(深思)；②Accuracy dropped dramatically(准确性大幅下降)。\n\n\n\n①②句介绍第三组研究参与者的情况：做出判断前，先花一分钟写出原因(即先深思，再判断),此时评分准确性大幅度下降。Critically 用以强调第三组的情况极为重要，同时暗含与前两组参与者的对比。writing down reasons for their judgment 是对该组参与者的独特要求，实际上要求他们做出判断前首先进行深思。Accuracy dropped dramatically 与前两组参与者的表现(correlated strongly...just as accurate)形成鲜明对比，凸显“深思”对判断准确性的巨大影响。\n\n\n\n③句介绍安巴迪对研究结果的分析：深思扰乱了参与者的直觉，影响了判断准确性。deliberation 回指首句中 writing down reasons for their judgment, 句内通过 rather than 使 focused... on vivid but misleading cues 与 form a holistic impression 构成鲜明对比，直指深思的缺陷“容易让人集中于那些有误导性的细节，不利于形成整体印象，也即深思干扰了人们对事物的整体印象，影响了判断的准确性”。其中，vivid but misleading、complex、subtle、interplay(本义为“相互影响”, 文中指人们综合理解各种微妙信号的复杂关系，进而形成整体印象的过程)集中体现社会信息复杂、微妙的特点，这显然是关注细节的“深思”难以应付的，从而体现深思的不足。\n\n\n\n④句借其他研究发现证明“深思干扰判断准确性”大量存在。similar interference 体现研究结论的相似性，证明深思会干扰判断并非个例；participants watched 15-second clips... and judged... 与首段 participants to watch... 10-second clips and to rate... 呈现类似结构，说明参与者在观看其他类型的视频片段，并对不同信息做出评判时，判断的准确性也会受到影响。\n\n\n\n【段落梳理】段内：本段呈现“现象—分析—论证”逻辑，先介绍研究发现，然后援引研究者观点对研究发现进行分析阐释，最后引用其他研究的相似结论说明该现象的普遍性。段中通过 writing down reasons for their judgment、deliberation(都涉及“深思”)和 Accuracy dropped dramatically、similar interference(都是深思的结果“降低了判断准确性，干扰了判断”)串联起本段主旨：(在处理社会信息时)深思不仅没有必要，甚至可能干扰判断”。\n\n\n\n段际：首段介绍前两组研究参与者的情况(asked participants to... Another set of participants had to...)论证了首段首句提出的观点一“我们运用第一印象做出的决定非常准确”。本段则通过 Critically, another group was asked to...与上文衔接并形成对比，通过介绍第三组参与者的情况，论证了首段首句提出的观点二“(在处理社会信息时)深思不仅没有必要，甚至可能干扰判断”。"
+      },
+      {
+       "number": 37,
+       "score": 2,
+       "stem": "In Ambady’s study, rating accuracy dropped when participants .",
+       "options": {
+        "A": "focused on specific details",
+        "B": "gave the rating in limited time",
+        "C": "watched shorter video clips",
+        "D": "discussed with one another"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n\n\n| 37. In Ambady's study, rating accuracy dropped when participants ____. | 37. 在安巴迪的研究中，当参与者___时，评分的准确率下降。 |\n\n| --- | --- |\n\n| [A] focused on specific details | [A] 关注具体细节 |\n\n| [B] gave the rating in limited time | [B] 在限定时间内进行评分 |\n\n| [C] watched shorter video clips | [C] 观看更短的视频片段 |\n\n| [D] discussed with one another | [D] 相互讨论 |\n\n\n\n[精准定位] 根据题干关键词 Ambady's study 和 rating accuracy dropped 定位至第二段②句。梳理上下文逻辑可知，①句指出导致评分准确率下降的直接原因是“参与者需写下评分原因”，③句中安巴迪推测出现这一结果是因为“deliberation focused them on vivid but misleading cues（深思使他们将精力集中于那些生动但具有误导性的信号）”，其中 focused them on vivid but misleading cues 表明参与者将注意力放在了具体细节上，对应[A]选项中 focused on specific details，因此[A]正确。\n\n\n\n[命题解密] 正确项[A]是对第二段③句安巴迪对实验结果的解读 deliberation focused them on vivid...cues 的同义改写。\n\n\n\n[B]将第二段①句中的 spend a minute writing down their reasons 误当作对评分时间的限制，实际上这是对参与者写下评分理由的时间限制，且该限制也并非评分准确性下降的原因。[C]根据第一段②句中的 10-second video clips 和第二段④句中的 15-second clips 膈断出视频的时长影响了评分的准确性，实际上视频的时长并非研究重点。[D]由第一段④句的 Another set 和第二段①句的 another group 错误推断出 one another,在此基础上捏造出“参与者需相互讨论，给出评分”,原文并未涉及相关描述。\n\n\n\n[技巧总结] 因果细节题主要考查对上下文因果逻辑的把握，需要正确梳理句间逻辑。如本题，第二段①句描述评分条件：参与者需要写出评分理由；②句描述评分结果：此时评分准确性下降；③句介绍安巴迪分析的原因：参与者为写出理由而进行了深思(deliberation),深思时只关注生动的细节信息，忽略了整体印象。浏览选项后可锁定[A]选项为对评分下降原因的正确描述，其他三个选项均属主观臆断，可排除。\n\n\n\nⅢ ① Other research shows we're better at detecting deception from thin slices when we rely on intuition instead of reflection. ② “It's as if you're driving stick shift,” says Judith Hall, a psychologist at Northeastern University, “and if you start thinking about it too much, you can't remember what you're doing. ③ But if you go on automatic pilot, you're fine. ④ Much of our social life is like that.”\n\n\n\n其他研究表明，我们在依靠直觉而非深思时，更能从“行为薄片”中察觉出欺骗。“这就像你在开手动挡汽车，”东北大学心理学家朱迪斯·霍尔说，“如果你开始反复思考如何挂挡，你就会忘记自己本来是要做什么。但如果你不假思索地按照习惯操作，就不会遇到什么问题。我们的社交生活也多半如此。”\n\n\n\n**词汇注释与难句分析**\n\n\n\ndetect v. 发现；查明\n\n\n\ndeception n. 欺骗；蒙骗\n\n\n\n**经典搭配**\n\n\n\nstick shift 换挡杆；手动变速车\n\n\n\non automatic pilot 习惯性地，机械地\n\n\n\n**语篇分析**\n\n\n\n第三段引述另一项研究发现，指出直觉的另一项优势“能使人们更容易从行为薄片中发现欺骗”,并以驾驶手动挡汽车为喻加以阐释。关键词：better at detecting deception... when we rely on intuition(依靠直觉时……更能察觉欺骗)。\n\n\n\n首句直陈研究发现：依靠直觉而非深思更能从行为薄片中察觉欺骗。Other research 体现段际衔接，表明本段开始关注其他研究发现。when 体现句内因果逻辑：依靠直觉而非深思→更能从行为薄片中觉察到欺骗。intuition instead of reflection 呼应首段首句中 first impressions 和 deliberation,继续锁定本文两个核心话题“直觉 vs 深思”。better at detecting deception 指出直觉的优势。\n\n\n\n②③④句引述朱迪斯·霍尔的言论对首句研究发现作进一步解释。\n\n\n\n②③句通过“驾驶手动挡汽车”的类比分析“依靠直觉更能发现欺骗”的原因：深思会分散注意力，降低所作判断的可靠性。It's as if 提示此处引入类比，解释上文观点(it 回指上句研究结论“依靠直觉而非深思进行判断更容易察觉欺骗”)。stick shift 原指“换挡杆”，此处引申为“手动变速车”。两句间通过转折词 but 以及结构相似的两个 if 条件句(if you...，you... But if you...，you...)对比依靠“深思”和“直觉”的结果“thinking about it too much(深思)...can't remember what you're doing(忘记了自己要做什么)”vs“go on automatic pilot(直觉)...fine(平稳驾驶)”，从而明确“依靠直觉更能发现欺骗”的原因“深思会分散我们的注意力，干扰判断，而依靠直觉判断则干扰较少，往往更加可靠”。\n\n\n\n④句推而广之，指出这一道理适用于我们的大部分社交生活。that 回指②③句所隐含的信息“反复思考会干扰行动，依靠直觉往往更加有效”。\n\n\n\n【段落梳理】本段整体遵循“介绍研究发现—运用类比进行形象化阐释”的论述逻辑，首句介绍研究发现(Other research shows...),②③句引述类比予以形象化阐释(It's as if...),末句将这一现象所体现的道理推广至大部分社交生活(Much of our social life is like that)。段内通过 reflection... thinking about it too much(都表示“深思”)、intuition... go on automatic pilot(都表示“直觉”)以及 can't remember what you're doing...you're fine(都涉及“依靠深思或直觉的后果”)等表述清晰阐述观点“社交生活中，依靠直觉所得出的判断比依靠深思更准确”。由此观之，本段所要论证的观点实际上与前两段高度一致。"
+      },
+      {
+       "number": 38,
+       "score": 2,
+       "stem": "Judith Hall mentions driving to show that .",
+       "options": {
+        "A": "reflection can be distracting",
+        "B": "memory may be selective",
+        "C": "social skills must be cultivated",
+        "D": "deception is difficult to detect"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n\n\n| 38. Judith Hall mentions driving to show that ____. | 38. 朱迪斯·霍尔提及驾驶是为了表明____。 |\n\n| --- | --- |\n\n| [A] reflection can be distracting | [A] 深思熟虑有时反会让人分心 |\n\n| [B] memory may be selective | [B] 记忆可能具有选择性 |\n\n| [C] social skills must be cultivated | [C] 社交技能须经培养才能获得 |\n\n| [D] deception is difficult to detect | [D] 欺骗行为难以察觉 |\n\n\n\n[精准定位]由题干中的人名 Judith Hall 与关键词 driving 定位至第三段②③句。朱迪斯·霍尔称，若一个人开着手动挡车，如果他反复思考如何挂挡，就会导致他忘记本来是要做什么。如果他只是不假思索地按照习惯操作，就会开得很顺利。两种情形的对比表明，依靠直觉往往比较顺利，而深思熟虑可能反而会导致注意力分散，从而影响判断。另外，朱迪斯·霍尔的观点以 It's as if... 开始，表明该观点是为支撑上文观点服务的，因此我们也可以借助首句内容解题。首句指出，当我们依靠直觉而非深思时，更能从“行为薄片”中觉察到欺骗；言外之意即直觉比深思更可靠。[A]符合题意。\n\n\n\n[命题解密] 正确项[A]是对朱迪斯·霍尔比较手动挡汽车驾驶员的两种心态之目的的正确解读。\n\n\n\n[B]对②句 you can't remember what you're doing 断章取义。该句意在说明“深入思考会将注意力导向其他事物，忘记原本所要做的事”，而非“记忆具有选择性”。[C]由末句碎片信息“社交生活”捏造而来，本文并未论及获得社交技能的途径。[D]由首句中 we're better at detecting deception 逆向推导而来，但该句意在指出依靠直觉作出的判断比依靠深思更准确。\n\n\n\n[技巧总结]人物观点+写作目的题。解答此类题时，除直接从人物观点本身推断出答案外，亦可借助论据（人物观点）与论点（作者观点）的关系进行判断：若论据是为支撑论点，此时两者意思相近；若提出论据的目的在于树靶驳斥，则两者意思相反。就本题而言，要判断作者引用朱迪斯·霍尔之观点的目的在于批驳还是引证，须先了解第三段与前两段的逻辑关系。首先，由于第三段首句中没有表转折的词，可初步推断本段与前两段为顺承关系。仔细分析也可得知，前两段作者通过引述研究的结果证明“处理社交类信息时依靠直觉做出的判断更准确，深思反而会对判断造成干扰(interference)”，而进入第三段，作者先在首句中通过引述其他研究发现再次证明“社会生活中直觉判断比深思更准确”，随后又在②③④句中引述朱迪斯·霍尔“驾驶手动挡汽车”的类比进一步阐释该观点。由此可知，朱迪斯·霍尔的言论是作为支撑性论据受到引用，其论点与首句作者观点相似。因此，朱迪斯·霍尔提及驾驶是为了表明(处理社交信息时)深思熟虑反会让人分心。\n\n\n\nIV ① Thinking too much can also harm our ability to form preferences. ② College students' ratings of strawberry jams and college courses aligned better with experts' opinions when the students weren't asked to analyze their rationale. ③ And people made car-buying decisions that were both objectively better and more personally satisfying when asked to focus on their feelings rather than on details, but only if the decision was complex —when they had a lot of information to process.\n\n\n\n考虑得过多也会损害我们形成偏好的能力。在不要求大学生细察其依据的情况下，他们对草莓果酱和大学课程的评估与专家的意见更一致。而在人们被要求关注感受而非细节时，做出的购车决定会在客观上更合适，而且更令自己满意，但也只有在这一决定很复杂的情况下方才如此——（因为）此时人们有很多信息需要处理。\n\n\n\n**词汇注释与难句分析**\n\n\n\npreference n. 偏爱的事物\n\n\n\njam n. 果酱\n\n\n\nalign v. 使一致\n\n\n\nrationale n. 全部理由；逻辑依据\n\n\n\nobjectively ad. 客观(地)\n\n\n\ncomplex a. 复杂的\n\n\n\nAnd people made car-buying decisions that were both objectively better and more personally satisfying when asked to focus on their feelings rather than on details, but only if the decision was complex—when they had a lot of information to process.\n\n\n\n功能注释：本句主干是 people made car-buying decisions, 其后 that 引导的定语从句修饰 decisions, 说明购车决定的特点；when 引导的时间状语从句(省略了 people were)说明何种情况下做出的购车决定才又好又快令人满意；(only) if 引导的条件状语从句说明关注感觉时做出的购车决定更好这一情况成立的条件，破折号后 when 引导的时间状语从句则对条件句作进一步解释说明。\n\n\n\n**语篇分析**\n\n\n\n第四段指出反复思考的另一危害：削弱在复杂情形下形成偏好的能力。关键词：① Thinking too much(考虑太多);② harm our ability to form preferences(损害我们形成偏好的能力)\n\n\n\n①句明确观点：考虑过多会损害我们形成偏好的能力。Thinking too much 呼应上段 reflection、thinking about it too much,体现“反复思考、深思”之义，also 体现段际递进逻辑，harm our ability to form preferences 指出深思的又一害处“损害我们形成偏好的能力”,同时反向暗示“直觉有助于形成偏好”。\n\n\n\n②③句举例论证首句。\n\n\n\n②句举大学生评估草莓果酱与大学课程之例，说明在无需细察依据时(即无需深思)所做的判断更准确。ratings 呼应首句 preferences，“评估/分”体现的即是量化的“偏好”。analyze their rationale 呼应首句 Thinking too much，意指“分析评估的理由”，即出判断前进行深思。aligned better with experts' opinions 指出不分析评估理由时(即依靠直觉)做出的判断与专家意见更一致。when 体现因果逻辑：不要求细察评估的依据(即无需深思)→评估结果更准确。\n\n\n\n③句举购车之例，说明基于直觉而非深思做出的购车决定更合理。focus on their feelings rather than on details(“关注感觉而非细节”)体现对比“依靠直觉 vs 依靠深思”, both objectively better and more personally satisfying 说明结果“客观上更合理，而且更令自己满意”,表明直觉比深思更具优势(直觉有助于偏好的形成，而深思会损害我们形成偏好的能力)。but only if...补充强调上述观点成立的条件，即只有在决定很复杂，有很多信息要处理的情况下，上述观点才成立。\n\n\n\n【段落梳理】本段遵循“提出观点—举例说明”的论述逻辑，首句提出观点“深思会损害形成偏好的能力”，②③句举例对该观点加以说明。句间通过 Thinking too much（指向“深思”）、harm our ability to form preferences（指向深思的结果“损害形成偏好的能力”）、weren't asked to analyze their rationale 与 focus on their feelings rather than details（共同指向“依靠直觉”）、aligned better with experts' opinions 与 decisions that were both objectively better and more personally satisfying（共同指向依靠直觉的结果“判断更准确/决定更合理”）串起清晰的逻辑链，共同论证观点“深思会损害形成偏好的能力，依靠直觉会使判断更准确”。"
+      },
+      {
+       "number": 39,
+       "score": 2,
+       "stem": "When you are making complex decisions, it is advisable to .",
+       "options": {
+        "A": "collect enough data",
+        "B": "list your preferences",
+        "C": "seek expert advice",
+        "D": "follow your feelings"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n\n\n> **答案：** D\n\n\n\n| 39. When you are making complex decisions, it is advisable to ____. | 39. 当你在做复杂的决定时，明智的做法是____。 |\n\n| --- | --- |\n\n| [A] collect enough data | [A] 搜集足够的数据 |\n\n| [B] list your preferences | [B] 列出你的偏好 |\n\n| [C] seek expert advice | [C] 寻求专家建议 |\n\n| [D] follow your feelings | [D] 遵从你的感觉 |\n\n\n\n[精准定位] 根据题干关键词 complex decisions 定位到第四段末句。该句指出，当人们被要求关注感觉而非细节时，他们做出的购车决定既合理又令自己满意，但只有在这一决定很复杂的情况下方才如此。由此可知，在做复杂决定时，明智的做法是“遵从你的感觉”，故[D]正确。同时排除[A]。\n\n\n\n[命题解密] 题干+正确项[D]是对第四段末句的正确解读。\n\n\n\n[B]项由首句过度推断而来：如果说“考虑得太多会损害我们形成偏好的能力”,那么“(事先)列出偏好”就可以帮助我们做决定。但此种理解误解了首句的语义重心：作者想强调的并非偏好的形成，而是想得太多对形成偏好/做决定这一能力的损害。[C]由②句碎片信息 experts' opinions 捏造而来。该句实指在不需要深思时，人们对事物的评估与专家意见更一致，也即“(在某些情况下)直觉判断更准确”。\n\n\n\n[技巧总结] 事实细节题。解答此类题目的关键在于精准定位。对于那些关键词未落在定位句范围内的选项，多数情况下可被认定为干扰项。就本题而言，根据题目关键词 complex decisions 可定位至第四段末句。细察本句，可发现题干 When you are making complex decisions 同义改写 only if the decision was complex，由此可知题干主句 it is advisable to + 正确项应复现 if 条件句的主句 people made...details。而又因为 [D] follow your feelings 同义复现 focus on their feelings，“明智的 (advisable)”概括关注感觉的结果，即“人们做出的购车决定既合理又令自己满意（people made...satisfying）”，因此 [D] 正确。题干 + [A] 所反映之意为“关注细节是明智的”，与作者意思恰恰相反。而 [B] 项 preferences、[C] 项 expert advice 分别源自①②句，不在本题考查的信息范围内，因此排除。\n\n\n\nV ① Intuition's special powers are unleashed only in certain circumstances. ② In one study, participants completed a battery of eight tasks, including four that tapped reflective thinking (discerning rules, comprehending vocabulary) and four that tapped intuition and creativity (generating new products or figures of speech). ③ Then they rated the degree to which they had used intuition (\"gut feelings,\" \"hunches,\" \"my heart\"). ④ Use of their gut hurt their performance on the first four tasks, as expected, and helped them on the rest. ⑤ Sometimes the heart is smarter than the head. [414 words]\n\n\n\n直觉的特殊能力只有在特定的情境下才会发挥出来。在一项研究中，参与者完成了一组八项任务，其中四项运用了深度思索能力（辨识规则、理解词汇），另外四项运用了直觉与创造力（创造新产品或修辞格）。而后，他们对自己使用直觉（“本能”“预感”“内心”）的程度给出了评分。不出所料，使用直觉损害了他们在前四项任务中的表现，而对其余的任务则有所帮助。有时候，心比脑更聪明。\n\n\n\n**词汇注释与难句分析**\n\n\n\nunleash v. 突然释放；使爆发\n\n\n\ncircumstance n. 条件；环境\n\n\n\nbattery n. 一组；一系列\n\n\n\ntap v. 利用(已有的资源、知识等)\n\n\n\ndiscern v. 识别；了解\n\n\n\ncomprehend v. 理解\n\n\n\ngenerate v. 产生\n\n\n\ngut n. 内心；直觉\n\n\n\nhunch n. 预感；直觉\n\n\n\n**经典搭配**\n\n\n\nfigure of speech 修辞格；修辞手段\n\n\n\n**语篇分析**\n\n\n\n第五段介绍直觉在何种情境下才能发挥其特殊能力。关键词：Intuition's special powers are unleashed only in certain circumstances(直觉的特殊能力只有在特定情境才能发挥出来)。\n\n\n\n首句明确段落主题：只有在特定情境中，直觉的特殊能力才能发挥出来。Intuition's special powers 的所指涵盖前四段介绍的直觉的三种特殊能力：1. 处理社交信息准确；2. 有助于发现欺骗；3. 有助于形成偏好。unleashed(词义为 to suddenly let a strong force have an effect “突然释放”)程度远较一般表示“释放”之义的 release 等词强，此处与 only in certain circumstances 搭配使用，体现“直觉能力虽然强大，但仍有其局限”之意。\n\n\n\n②③④句引用研究发现具体说明直觉可发挥作用的情境。\n\n\n\n②③句介绍实验中参与者需要完成的两项工作。\n\n\n\n②句介绍第一项工作：分别完成四项运用深度思索能力和四项运用直觉与创造力的任务。battery 意为“一套，一组”,与 series 等常规表达该意思的词相比还隐含有“种类繁多，但各有联系”之义，用于此处凸显参与者完成的八项任务既有差别又有联系。including four... and four... 表明八项任务虽表面上各不相同，但其中四项之间又存在共同点，而此种共同点又通过两个 that 引导的定语从句分别得以展现。reflective thinking“深度思索能力”与 intuition and creativity“直觉和创造力”两者差异明显，预示着参与者的表现也将随着任务要求的不同而有所差异，因此研究关注的重心也将落在此种差异上。\n\n\n\n③句介绍第二项工作：给自身使用直觉的程度打分。rated the degree...used intuition 明确研究者意图将“参与者使用直觉的程度”与“其在两大类不同任务中的表现”相比照，从而能更直观地看出直觉在哪些任务中扮演了积极作用，又妨碍了哪些任务的完成，由此可确定直觉发挥作用的场合。\n\n\n\n④句介绍研究结果：使用直觉损害了参与者在需要深思能力的任务中的表现，而对需要直觉与创造力的任务则有所帮助。gut 本义为“内脏”,此处引申为“直觉”。the first four tasks 回指②句“四项运用深度思索能力的任务”,the rest 回指②句“四项运用直觉与创造力的任务”,hurt their performance on...vs helped them on...明确直觉妨碍思考性工作，而能助力直觉性与创新性工作。as expected 表明“直觉妨碍思考性工作”这一结论已在意料之中(因为直觉一定有助于运用直觉力的后四项任务)。\n\n\n\n⑤句作出总结：心有时比脑更聪明。Sometimes 呼应首句 in certain circumstances,具体则指向“需要直觉与创造力的时候/情况”; heart 指“内心”, 此处代指“直觉(力)”, 呼应上文 gut、intuition; head 指“头脑”, 此处代指“思维能力”, 呼应②句 reflective thinking; smarter 明确“直觉比深思更有助于人们完成创新性任务”。\n\n\n\n【段落梳理】本段遵循“提出观点—引用研究发现加以说明”的论述逻辑。首句明确观点“只有在特定情境中，直觉的特殊能力才能被发挥出来”，②③④句引入研究发现对这一观点做进一步说明，末句做出总结，呼应首句。②③④句以 In one study, participants completed... Then they rated... Use of their gut hurt their performance... and helped them on... 体现“介绍研究过程—说明研究结果”的逻辑。介绍研究过程及结果时，作者通过一系列表示“直觉”的词汇(intuition、gut feelings、hunches、my heart)、表示“思考、深思”的词汇(reflective thinking、head)以及表示“影响表现”的表述(hurt their performance、helped)阐述“直觉有助于创新性工作，但会妨碍思考性工作”的观点。"
+      },
+      {
+       "number": 40,
+       "score": 2,
+       "stem": "What can we learn from the last paragraph?",
+       "options": {
+        "A": "Generating new products takes time.",
+        "B": "Intuition may affect reflective tasks.",
+        "C": "Vocabulary comprehension needs creativity.",
+        "D": "Objective thinking may boost intuitiveness."
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n\n\n> **答案：** B\n\n\n\n| 40. What can we learn from the last paragraph? | 40. 从最后一段我们可以得知什么？|\n\n| --- | --- |\n\n| [A] Generating new products takes time. | [A] 创造新产品需要时间。 |\n\n| [B] Intuition may affect reflective tasks. | [B] 直觉可能会影响思考性工作。 |\n\n| [C] Vocabulary comprehension needs creativity. | [C] 理解词汇需要创造力。 |\n\n| [D] Objective thinking may boost intuitiveness. | [D] 客观思维可提升直觉力。 |\n\n\n\n[精准定位]末段首句指出，直觉的特殊能力只有在特定情形下才能发挥出来。②③④句引用研究发现进一步说明：在一项研究中，参与者要完成四项运用深度思索能力、四项运用直觉与创造力的任务，并为其使用直觉的程度打分。结果发现，使用直觉损害了他们在前四项任务中的表现，而对后四项任务则有所帮助。由此可知，直觉会降低思考性工作的成效，故[B]正确。\n\n\n\n[命题解密] 正确项[B]是对末段引述的研究发现(④句)的合理解读。\n\n\n\n[A]利用②句碎片信息 generating new products 捏造而来，文中并未涉及创造新产品所消耗时间的多少。[C]张冠李戴。②句明确指出，理解词汇需要运用的是深度思索能力，而创造新产品或修辞格需要的才是创造力。[D]利用第四段③句 objectively 捏造而来，文中并未论及提升直觉力的方法。\n\n\n\n[技巧总结] 段落推理题。末段主体部分关注一项研究，结合各选项内容可知本题考查对研究结果的推理和引申。解题时需先确定引入该研究的语境，再在此基础上对研究结果进行解读。具体而言，由于首句指出“直觉的特殊能力只有在特定情形下才能发挥出来”，因此可确定下述研究应就论证“在何种情形下直觉的能力才能发挥出来”而展开。再细看研究本身可知，直觉在需要运用直觉与创造力的任务中发挥了积极作用，而对需要运用深度思索能力的任务的完成产生了负面影响。由此可知[B]正确。另外，本题的提问方式（根据某段可以得知什么？）也很有特点，这种问题实际上考查的是段落主旨或者在主旨基础上的合理推断。以本段为例，本段首句为段落主旨，指出直觉的特殊能力只有在特定情境下才会发挥出来。言外之意，直觉也不是“万能灵药”，有的情况并不适合运用直觉行事。[B]选项符合这一逻辑推理。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part B",
+   "instructions": "Read the following text and answer the questions by choosing the most suitable subheading from the list A-G for each numbered paragraph(41-45). There are two extra subheadings which you do not need to use. Mark your answers on the ANSWER SHEET. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "heading_matching",
+     "options": {
+      "A": "Stay calm.",
+      "B": "Stay humble.",
+      "C": "Decide whether to wait.",
+      "D": "Be realistic about the risks.",
+      "E": "Don’t make judgements.",
+      "F": "Identify a shared goal.",
+      "G": "Ask permission to disagree."
+     },
+     "passage": [
+      "How to disagree with someone more powerful than you",
+      "Your boss proposes a new initiative you think won’t work. Your senior colleague outlines a project timeline you believe is unrealistic. What do you say when you disagree with someone who has more power than you do? How do you decide whether it’s worth speaking up? And if you do, what exactly should you say? Here's how to disagree with someone more powerful than you.",
+      "{{41}}",
+      "You may decide it’s best to hold off on voicing your opinion. Maybe you haven’t finished thinking the problem through, or you want to get a clearer sense of what the group thinks.If you think other people are going to disagree, too, you might want to gather your army first. People can contribute experience or information to your thinking—all the things that would make the disagreement stronger or more valid. It’s also a good idea to delay the conversation if you are in a meeting or other public space. Discussing the issue in private will make the powerful person feel less threatened.",
+      "{{42}}",
+      "Before you share your thoughts, think about what the powerful person cares about—it may be the credibility of their team or getting a project done on time.You’re more likely to be heard if you can connect your disagreement to a higher purpose. When you do speak up, don’t assume the link will be clear. You’ll want to state it overtly, contextualizing your statements so that you’re seen not as a disagreeable subordinate but as a colleague who’s trying to advance a common objective. The discussion will then become more like a chess game than a boxing match.",
+      "{{43}}",
+      "This step may sound overly deferential, but it’s a smart way to give the powerful person psychological safety and control. You can say something like, “I know we seem to be moving toward a first-quarter commitment here.I have reasons to think that won’t work.I’d like to lay out my reasoning. Would that be OK?” This gives the person a choice, allowing him to verbally opt in. And, assuming he says yes, it will make you feel more confident about voicing your disagreement.",
+      "{{44}}",
+      "You might feel your heart racing or your face turning red, but do whatever you can to remain neutral in both your words and actions. When your body language communicates reluctance or anxiety, it undercuts the message.It sends a mixed message,and your counterpart gets to choose what signals to read. Deep breaths can help,as can speaking more slowly and deliberately. When we feel panicky, we tend to talk louder and faster. Simply slowing the pace and talking in an even tone helps the other person cool down and does the same for you. It also makes you seem confident, even if you aren’t.",
+      "{{45}}",
+      "Emphasize that you’re only offering your opinion, not gospel truth.It may be a well-informed, well-researched opinion, but it’s still an opinion, so talk tentatively and slightly understate your confidence. Instead of saying: “If we set an end-of-quarter deadline, we will never make it,” say, “ This is just my opinion, but I don’t see how we will make that deadline.” Having asserted your opinion (as a position, not as a fact),demonstrate equal curiosity about other views. Remind the person that this is your point of view, and then invite critique. Be open to hearing other opinions."
+     ],
+     "questions": [
+      {
+       "number": 41,
+       "score": 2,
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n\n\n41. [答案] C [精解] 第二段指出，如果还未充分考虑与上司产生争议的这一问题，或想要先了解同事的看法，或正身处会议室等公共场合，那么最好暂缓提反对意见，即要等待提异议的合适时机或场合，C 项“决定是否再等等”与该段主旨相符，其中 Decide 原词复现首句 (You may) decide, wait 近义复现首句 hold off on 和⑤句 delay。\n\n\n\n[干扰项设置] B 项 Stay humble 虽能解释暂缓提异议的第二条原因(⑤⑥句)“避免让上司感觉受到威胁”，但由全段内容可知，之所以要暂缓异议，仅仅是因为客观时机或场合不对，而不是为了主观表现谦恭态度，且“保持谦卑”并未体现于第一条原因(②至④句)，故可排除 B。D 项“务实对待风险”按常理来说很可能为“向上司进言”的第一步，且似乎也能说明暂缓异议的原因“有让上司感觉受威胁的风险”，但实际上第二段并未全面、务实地评估向上司表达不同意见的风险，而更侧重介绍具体做法，故 D 错误。F 项 shared goal 虽能体现③④句“众人为共同目标（向上司传达异议）齐心协力、建言献策”之意，但段落其余各句均重在谈论“何时需暂缓表达异议及其原因”，选项无法概括全段，故排除。"
+      },
+      {
+       "number": 42,
+       "score": 2,
+       "answer": "F",
+       "explanation": "> **答案：** F\n\n\n\n42. [答案] F [精解] 第三段针对进言之前的准备工作、进言之时的谈吐提建议，指出需要先了解上司关注的目标，后将这一目标与个人异议相结合，并在进言之时直白地挑明这两者的关联，以向上司证明你是一个努力推进共同目标的同事，F项“确定共同目标”契合本段主旨。"
+      },
+      {
+       "number": 43,
+       "score": 2,
+       "answer": "G",
+       "explanation": "> **答案：** G\n\n\n\n43. [答案] G [精解] 第四段先评价“这一做法(This step)”: 看似过于顺从，实则是卸下上司心理防卫的明智之举。后举例说明“这一做法”: 向上司请求表达异议的许可。最后指出该做法的作用：让上司更可能听取反对意见。综合可见，G 项“请求允许表达异议”与该段主旨一致，其中 Ask permission 与⑤句 Would that be OK 的请求之意相符。\n\n\n\n[干扰项设置] B 项 humble 虽近义复现段首 deferential, 也与④⑤句 would like to、Would that be OK 体现的谦恭态度相符，但由②至⑤句可知，恭顺是为征得表达异议的许可这一目标服务，⑥⑦句也均围绕 “上司许可与否(opt in、says yes)” 展开，[B] Stay humble 仅契合段落首句，无法概括余下内容，故排除。"
+      },
+      {
+       "number": 44,
+       "score": 2,
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n\n\n44. [答案] A [精解] 第五段先指出向上司提异议时要尽力保持不动声色，随后说明紧张等情绪对沟通效果的负面影响，并提出两条抚平情绪的建议：深呼吸、更缓慢更谨慎地讲话。可见本段主要建议读者保持镇静，避免负面情绪影响进言的成败，A 项“保持冷静”契合本段主旨。"
+      },
+      {
+       "number": 45,
+       "score": 2,
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n\n\n45. [答案] B [精解] 第六段先建议读者向上司强调自己仅是在提供“个人观点”而非“绝对真理”，后又提出要采用试探性的表达、收敛自信，最后指出要耐心倾听对方的意见甚至批评。B项“保持谦逊（不要自视甚高）”是对这些建议的准确概括，Stay humble 近义复现②句 understate your confidence。\n\n\n\n[干扰项设置] E 项“不要下评判”虽然看似与第六段强调的“不要将自己的观点视作真理（而对他人意见大加挞伐）”一致，但角度与原文不同。段落只强调要谦恭陈述自己的观点，同时耐心倾听对方的意见，而 E 项侧重指如何对待他人的意见。此外，第六段给出的建议 talk tentatively、understate your confidence、invite critique 均指向要乐于接受他人观点，与“评判他人观点”没有直接关联。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section III Translation",
+   "instructions": "Translate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)",
+   "score": 15,
+   "groups": [
+    {
+     "type": "translation_full",
+     "passage": [
+      "We tend to think that friends and family members are our biggest sources of connection,laughter, and warmth. While that may well be true, researchers have also recently found that interacting with strangers actually brings a boost in mood and feelings of belonging that we didn’t expect.",
+      "In one series of studies, researchers instructed Chicago-area commuters using public transportation to strike up a conversation with someone near them. On average, participants who followed this instruction felt better than those who had been told to stand or sit in silence. The researchers also argued that when we shy away from casual interactions with strangers, it is often due to a misplaced anxiety that they might not want to talk to us. Much of the time,however, this belief is false.As it turns out, many people are actually perfectly willing to talk — and may even be flattered to receive your attention."
+     ],
+     "questions": [
+      {
+       "number": 46,
+       "score": 15,
+       "answer": "我们往往认为，朋友和家人是我们获得情感归属、欢乐和温暖的最主要来源。虽然这很有可能正确，但是，研究人员最近也发现，与陌生人交流实际上会给我们带来意想不到的好心情以及归属感。\n\n在一系列的研究中，研究人员让芝加哥地区乘坐公共交通的通勤者与身旁的人搭讪。平均而言，遵照这一指示的参与者比那些被要求安静地站着或坐着的参与者感觉更好。研究人员还认为，我们之所以避而不与陌生人闲聊，通常是由于不必要的忧虑，担心他们可能不想和我们说话。但是，在大多数时候，这种想法是错误的。正如研究结果所示，许多人其实非常愿意交谈——甚至可能会因为受到你的关注而格外高兴。",
+       "explanation": "> **答案：** 参考译文见下文\n\n\n\n**为何要与陌生人交谈**\n\n\n\n**一、文章总体分析**\n\n\n\n本文节选自《今日心理学》旗下网站 Psychology Today 2016 年 4 月 21 日一篇题为 Why You Should Talk to Strangers(为何要与陌生人交谈)的文章。文中介绍了一项新的研究成果：与陌生人交流会带来好心情和归属感。因此研究者呼吁人们克服焦虑，大胆地与陌生人建立社交联系。本文话题贴近生活，难词少，但句子结构比较复杂，翻译时需划分清楚句子结构，根据汉语表达调整语序。\n\n\n\n**二、语篇分析**\n\n\n\nI ① We tend to think that friends and family members are our biggest sources of connection, laughter, and warmth. ② While that may well be true, researchers have also recently found that interacting with strangers actually brings a boost in mood and feelings of belonging that we didn't expect.\n\n\n\n我们往往认为，朋友和家人是我们获得情感归属、欢乐和温暖的最主要来源。虽然这很有可能正确，但是，研究人员最近也发现，与陌生人交流实际上会给我们带来意想不到的好心情以及归属感。\n\n\n\n**词汇注释与难句分析**\n\n\n\nconnection n. 联系；关联\n\n\n\ninteract v. 交流；沟通\n\n\n\nboost n. 增长；提高\n\n\n\n**经典搭配**\n\n\n\ntend to 倾向；趋于\n\n\n\nfeeling of belonging 归属感\n\n\n\n**语篇分析**\n\n\n\n第一段概述最新研究发现：与陌生人交流会带来意料之外的好心情和归属感。\n\n\n\n①句铺陈人们的常规看法：家人和朋友(而非陌生人)是情感归属、欢乐和温暖的最主要来源。tend to think“往往/易于认为”表明这是一种自然而然、甚至想当然、但不一定正确的看法，预示后文可能即将引出与之不同、极具新意、却得到科学证实的另一种看法；biggest 以最高级形式强调人们对熟人社交的过分倚重，深层暗示人们低估甚至未曾关注陌生人社交的裨益，为下文出人意料的研究成果做铺垫。\n\n\n\n②句引出最新发现/新观点：与陌生人交流也能带来情感归属以及好心情。句内而言，may well“很有理由（作出某种反应、提出某个问题或产生某种情绪）”强调常规看法（that 所指内容）理据充分，错误性低；actually“实际上”则强调新的研究发现属客观事实，不容置疑。两者借由让步转折词 While（语用功能为 used to introduce a statement that makes your main statement seem surprising or unlikely)相连，传递出如下语用效果：“常规看法理据充足，错误性低”实质彰显了“新研究发现/新看法出人意料，令人讶异”，突出强调了“与陌生人社交助益心情、助益情感归属”这一新发现/新认知的轰动性。句间而言，a boost in mood and feelings of belonging 实质与 connection, laughter, and warmth 同义，表明新旧观点都是关乎情感关联、良好心情的来源；而 that we didn’t expect 则呼应 tend to think，直接明确“人们并未认识到与陌生人交流也能带来好心情、带来情感归属”，就此推翻了常规看法的主观预设，突出强调了与陌生人交流也能带来意想不到的不亚于熟人社交的裨益。\n\n\n\n【段落梳理】形式上，本段借逻辑关联词(While)以及两组对比(also...actually vs may well be、didn't expect vs tend to think)彰显了新旧观点的差异。语义上，本段以最新研究发现影射人们常规看法的漏洞，强调与陌生人社交同样可以带来意想不到的好心情与情感归属，从而实现了以旧“焕”新的语篇目的。\n\n\n\nⅡ ① In one series of studies, researchers instructed Chicago-area commuters using public transportation to strike up a conversation with someone near them. ② On average, participants who followed this instruction felt better than those who had been told to stand or sit in silence. ③ The researchers also argued that when we shy away from casual interactions with strangers, it is often due to a misplaced anxiety that they might not want to talk to us. ① Much of the time, however, this belief is false. ⑤ As it turns out, many people are actually perfectly willing to talk—and may even be flattered to receive your attention. [151 words]\n\n\n\n在一系列的研究中，研究人员让芝加哥地区乘坐公共交通的通勤者与身旁的人搭讪。平均而言，遵照这一指示的参与者比那些被要求安静地站着或坐着的参与者感觉更好。研究人员还认为，我们之所以避而不与陌生人闲聊，通常是由于不必要的忧虑，担心他们可能不想和我们说话。但是，在大多数时候，这种想法是错误的。正如研究结果所示，许多人其实非常愿意交谈——甚至可能会因为受到你的关注而格外高兴。\n\n\n\n**词汇注释与难句分析**\n\n\n\ninstruct v. 指示；通知\n\n\n\ncommuter n. 上下班往返的人\n\n\n\nparticipant n. 参与者\n\n\n\ncasual a. 漫不经心的；随便的\n\n\n\ninteraction n. 交流；沟通\n\n\n\nmisplaced a. 不合时宜的；给错对象的\n\n\n\n**经典搭配**\n\n\n\nstrike up 交谈起来；建立友谊\n\n\n\nshy away from 回避；逃避\n\n\n\nturn out 结果是；证明是\n\n\n\nbe flattered 被奉承得高兴；感到荣幸\n\n\n\n**语篇分析**\n\n\n\n第二段详述研究的相关情况。\n\n\n\n①句介绍研究对象“芝加哥地区乘坐公共交通的通勤者”及研究内容“让其与身旁人搭讪”。strike up a conversation with sb“和某人交谈起来”、someone near them“身旁的某个人”明确交谈对象“陌生人”及谈话内容的随意性，侧面暗示该行为的简单易行。\n\n\n\n②句点明研究结果：与陌生人交谈比沉默自处感觉更好。participants who followed this instruction (this instruction 回指 instructed... to strike up... near them)、those who had been told to... in silence 指向两组采取不同行为的研究对象“与人搭讪者 vs 沉默自处者”; 比较级 felt better than 明确两组对象采取不同行为后的情绪状况。On average 反映与陌生人交流可助益心情的普遍性，从而与文首句人们常规看法“往往只看见亲人朋友而未看见陌生人对心情的裨益”形成对比。\n\n\n\n③④⑤句分析研究结果。\n\n\n\n③句(以研究者口吻)指出人们怯于与陌生人聊天是出于多虑心理。when...，it is often due to...形似说明某个具体情境的原因，实则将该情形上升至普遍现象并说明其原因；其中 shy away 形象刻画了人们由于害怕/担忧/恐惧而有意回避，从而躲在心理舒适区的谨慎姿态；misplaced 强调这种焦虑的不必要和多余；might not...表明这种担心陌生人不愿和自己说话的忧虑是人们的主观预设，并非实际事实。\n\n\n\n④句(继续以研究者口吻)明确指出这种多虑大多数情况下是错误的。however 笔锋一转，借由 Much of the time、false 强调这种忧虑(this belief 回指③句 a misplaced anxiety)的高频错误性，同时也体现研究人员用词严谨“个别情况下陌生人的确不想和我们交谈”。\n\n\n\n⑤句进而以实验事实/结果予以支撑，指出很多人非常愿意与陌生人交流（从而佐证研究者观点）。As it turns out、actually 与上文 misplaced anxiety/this belief、might 形成对照，明确实际事实和惯性认知的差异；many people、perfectly willing、even be flattered 强调大多数被搭讪者不但不拒绝，相反非常情愿，甚至倍感荣幸，进而证实上文担心被拒的主观预设实属多余。\n\n\n\n【段落梳理】形式上，本段以 researchers instructed、the researchers also argued、As it turns out 串联起“介绍研究相关内容——说明研究者观点——明确研究所示事实”的行文思路。语义上，本段实际更意在以最新研究发现引出人们对陌生人社交所存在的心理障碍：高估潜在的风险和伤害，忽视潜在的巨大收益；本段由此呼吁人们走出心理舒适区，主动与陌生人建立社交关系，在偏倚熟人社交之余，亦可开创陌生人社交，以期收获一份来自陌生人的友好和温暖。\n\n\n\n**三、难句分析**\n\n\n\n1. While that may well be true, researchers have also recently found that interacting with strangers actually brings a boost in mood and feelings of belonging that we didn't expect.\n\n\n\n本句涉及难点：让步状语从句、定语从句。\n\n\n\n[句法分析]\n\n\n\n②may well 语用功能为 used to say that there is a good reason for a reaction, question, or feeling “很有理由(作出某种反应、提出某个问题或产生某种情绪)”, 此处用以强调人们的常规看法理据充分、错误的可能性低、正确的可能性高，可译为“很可能”, 以突出程度。\n\n\n\n③a boost in mood 与后文的 feelings of belonging 并列，同时充当 bring 的宾语，因此不宜将 a boost in mood 译为动词短语“改善心情”; 但若译为名词短语“心情的改善”, 与后文的“归属感”不搭，且上下文语境强调主动与陌生人交谈所带来的意想不到的巨大好处，故可灵活地译为“好心情”, 强化其褒义的感情色彩。\n\n\n\n④定语从句 that we didn't expect 的修饰对象及翻译处理：结合 tend to think、have also recently found 所反映出的新旧对比可知，新发现中 a boost in mood、feelings of belonging 分别对应常规看法中的 laughter/warmth、connection, 换言之，“振奋心情、获得归属感”都是与陌生人交谈带来的意想不到的、有别于常规看法的积极影响，故整个定语从句修饰的是两个并列名词短语 a boost in mood and feelings of belonging, 且该定语从句较短，故可前置翻译，处理为偏正结构，即“我们意想不到的……”。\n\n\n\n2. In one series of studies, researchers instructed Chicago-area commuters using public transportation to strike up a conversation with someone near them.\n\n\n\n本句涉及的难点：现在分词作后置定语。\n\n\n\n[句法分析]\n\n\n\n[要点注释]①instruct 若简单地译为“指示”或“命令”，则语气过于生硬，可灵活译为“让……”。\n\n\n\n②现在分词 using public transportation 作 commuters 的后置定语，和前置定语 Chicago-area 一起限定此次研究对象的条件：一、在芝加哥地区；二、乘坐公共交通工具。故前置翻译，处理为偏正结构。\n\n\n\n③strike up a conversation 在文中强调找个话头主动与陌生人闲聊，因此可译为“搭讪”，突出其聊天内容的随意性。\n\n\n\n3. On average, participants who followed this instruction felt better than those who had been told to stand or sit in silence.\n\n\n\n本句涉及的难点：熟词僻义、定语从句、比较结构。\n\n\n\n[句法分析]\n\n\n\n[要点注释]①tell 常见语义为“告知；告诉”，这里实质是前半句 instructed/instruction 的同义表达，故取其僻意“命令；指示；吩咐”更契合。同样，为了避免语气过于强硬，可弱化为“要求”。\n\n\n\n②两个 who 引导的定语从句分别限制两组实验对象的不同实验行为，其中第一个定语从句中 this instruction 回指前句“与身边人搭讪”这一实验要求，followed this instruction 即表示“遵照了这一指示”。第二个定语从句中含有被动语态 had been told，可以直接顺译为“被要求”。两个定语从句都很简短，故可前置翻译为偏正结构，同时也可强调两组实验对象的行为对比：遵照“与旁人搭讪”这一指示的参与者 vs 被要求安静地站着或坐着的参与者。\n\n\n\n4. The researchers also argued that when we shy away from casual interactions with strangers, it is often due to a misplaced anxiety that they might not want to talk to us.\n\n\n\n主句：The researchers also argued 宾语从句：that it is often due to a misplaced anxiety\n\n\n\n[要点注释]①misplaced 原意是“不合时宜的；给错对象的”，上下文语境强调人们对于陌生人交流的担忧只是一种主观臆测，没有得到研究证实，甚至与研究结果截然相反。由此可知，这种担心是多余的、不必要的，故可灵活地译为“不必要的”。\n\n\n\n② when 引导时间状语从句，本译作“当……的时候”,而根据其后主句 it is often due to(其中 it 指代 when 从句所述情境)可知句子更意在解释说明从句所示情况出现的原因，故可将看似表时间的 when 从句处理为更契合语境的因果句：之所以……是因为……。\n\n\n\n③shy 常用作形容词，表示“羞怯的；腼腆的”，用作动词通常和 away from 搭配，表示“(因缺乏信心、担心或紧张而)回避，避开”，结合后文 anxiety 可知这里传递的是一种因害怕/担忧/忧虑而避开与陌生人聊天的心理，故可处理为“避而不……”。\n\n\n\n④that 引导的同位语从句点明 anxiety 的具体所指：担心别人可能不想与我们交流。将其放在被修饰词前面，以“这一，这种”等词相连未为不可，但整体显得失衡。故可将其置于被修饰词之后，并以逗号隔开，从而使译文更加平衡、顺畅。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section IV Writing — Part A",
+   "score": 10,
+   "groups": [
+    {
+     "type": "writing",
+     "questions": [
+      {
+       "number": 47,
+       "score": 10,
+       "stem": "Suppose you are organizing an online meeting. Write an email to Jack, an international student, to\n1) invite him to participate, and\n2) tell him the details.\nYou should write about 100 words on the ANSWER SHEET.\nDo not use your own name. Use “Li Ming” instead.(10 points)",
+       "answer": "Dear Jack,\n\nAs an organizer of our monthly reading session, I am writing to invite you to our online meeting scheduled for next Friday from 2 p.m. to 4 p.m. via Zoom.\n\nWith the theme of A Famous Writer from Your Country, this meeting aims to expose our participants to writers and works from a wide variety of cultures. Attendees from diverse cultural backgrounds will gather to engage in cross-cultural exchanges and enhance their understanding of literature. As a literary enthusiast, you are very welcome to share your insights into the differences between English and Chinese literature.\n\nOur meeting arrangements are attached for your reference. We will be very pleased if you could accept our invitation.\n\nYours sincerely,\nLi Ming",
+       "explanation": "**一、审题谋篇**\n\n\n\n**1. 解析题目指令，确定行文要点**\n\n\n\n| | | | |\n\n| --- | --- | --- | --- |\n\n| 抓取指令关键词 | 梳理信息 | 归纳要点 | |\n\n| 情景&要求 | Suppose you are organizing an online meeting . Write an email to Jack, an international student , to1)invite him to participate, and 2)tell him the details . | 1. 写作人身份：“你”,即大学生2. 写作话题：线上会议3. 写作类型：电子邮件4. 写作对象：留学生5. 交际目的：邀请参加线上会议并告知相关事宜 | 1. 格式：书信(邀请信)。2. 语域：给线上会议参与者、国际学生的信件属于公务信函，应使用正式语体。但因面向同辈，语言不必过于拘谨，应礼貌亲切。3. 内容要点：1邀请收信人参加线上会议；2说明举办线上会议的相关事宜。 |\n\n\n\n**2. 罗列关键词**\n\n\n\nmeeting/gathering/conference/session 会议；participate in/join/attend a meeting 参加会议；participant/attendee 参会者；meeting agenda/schedule/arrangement 会议议程/安排\n\n\n\n**3. 行文思路**\n\n\n\n第一段：表明写作目的，邀请收信人参加线上会议，并简要介绍活动；第二段：介绍活动的具体内容；第三段：表达期待。\n\n\n\n**二、优秀范文赏析**\n\n\n\n**优秀范文**\n\n\n\nDear Jack, ① As an organizer of our monthly reading session, I am writing to invite you to our online meeting scheduled for next Friday from 2 p.m. to 4 p.m. via Zoom.\n\n\n\n① With the theme of A Famous Writer from Your Country, this meeting aims to expose our participants to writers and works from a wide variety of cultures. ② Attendees from diverse cultural backgrounds will gather to engage in cross-cultural exchanges and enhance their understanding of literature. ③ As a literary enthusiast, you are very welcome to share your insights into the differences between English and Chinese literature.\n\n\n\n① Our meeting arrangements are attached for your reference. ② We will be very pleased if you could accept our invitation.\n\n\n\nYours sincerely,\n\n\n\nLi Ming\n\n\n\n**参考译文**\n\n\n\n亲爱的杰克：①作为月度读书会的组织者，我写这封信是为了邀请你参加我们的在线会议，会议定于下周五下午2点至4点通过 Zoom 召开。\n\n\n\n①本次读书会以“介绍本国一位著名作家”为主题，旨在让参会者接触到不同文化的作家和作品。②来自不同文化背景的参会者将齐聚一堂进行跨文化交流，增进对文学的了解。③我们非常欢迎作为文学爱好者的你向大家分享你对英汉文学差异的见解。\n\n\n\n①随信附上我们的会议安排以供参考。②如果你能接受我们的邀请，我们将非常高兴。\n\n\n\n诚挚的，\n\n\n\n李明\n\n\n\n**必备表达**\n\n\n\n1. be scheduled for 把……安排在；预定\n\n\n\n6. enthusiast [n.] 热衷于……的人；爱好者\n\n\n\n2. with the theme of 以……为主题\n\n\n\n3. aim to 目的是；旨在\n\n\n\n7. be welcome to do sth (用于邀请) 欢迎某人做……\n\n\n\n4. a wide variety of 种种；多种多样的\n\n\n\n8. insight [n.] 了解；见解\n\n\n\n5. engage in (使)从事，参加\n\n\n\n9. for one's reference 供……参考\n\n\n\n**活用外刊**\n\n\n\nAs much as one can expose children to cultures outside of their own through classes or travel, and be intentional about it, racial tolerance and acceptance don't just happen. —The Huffington Post\n\n\n\n译文：尽管人们可以通过上课或旅行有意识地让孩子们尽可能多地接触到自己以外的文化，但对(不同)种族的容忍和接纳不会随便产生。\n\n\n\n点拨：expose sb to sth 意为“使(某人)接触；使体验(某事)”,可替换常用表达 throw in/bring into contact with sth。\n\n\n\n**精彩句式**\n\n\n\nWith the theme of A Famous Writer from Your Country, this meeting aims to expose our participants to writers and works from a wide variety of cultures.\n\n\n\n**句子成形步骤：**\n\n\n\n①写出简单句\n\n\n\nThe theme of this meeting is A Famous Writer from Your Country.\n\n\n\nThis meeting aims to let our participants know about writers and works.\n\n\n\nWriters and works are from different cultures.\n\n\n\n**②利用介词将简单句整合**\n\n\n\nWith the theme of A Famous Writer from Your Country, this meeting aims to let our participants know about writers and works from different cultures.\n\n\n\n**③替换动词短语和修饰语以丰富用语，增加表达美感**\n\n\n\nWith the theme of A Famous Writer from Your Country, this meeting aims to expose our participants to writers and works from a wide variety of cultures.\n\n\n\n**篇章衔接**\n\n\n\n第一段(1句):表明写信目的，邀请收信人参加线上读书会，并说明参会时间与方式。\n\n\n\n第二段(3句):①句介绍线上读书会的主题与目的；②句介绍参会者身份，概述会议内容；③句提出对收信人的期待，指出收信人对活动的意义，使邀请理由更充分。\n\n\n\n第三段(2句):①句指出随信附有会议安排，方便对方了解流程；②句期待被邀请人出席。\n\n\n\n**模板提炼**\n\n\n\n本模板由【优秀范文】提炼、改编而来，适用于会议、论坛、典礼等活动的邀请信。\n\n\n\nDear\n\n\n\nAs 邀请人身份，I am writing to invite you to 活动名称 scheduled for 时间、地点、举办方式。\n\n\n\nWith the theme of 活动主题，this 活动类型 aims to 活动目的. Attendees from 参会者身份 will gather to 活动内容. As a 指出受邀人与活动契合的身份，you are very welcome to 期待对方做的事.\n\n\n\nOur 活动类型 arrangements are attached for your reference. We will be very pleased if you could accept our invitation.\n\n\n\n**三、写作储备**\n\n\n\n**邀请信常用表达**\n\n\n\n(1) 开篇段：说明写作目的\n\n\n\n- On behalf of... I am writing this letter to extend to you an official invitation to...\n\n\n\n我谨代表……写信正式邀请您参加……\n\n\n\n- We sincerely/cordially invite you to attend...located at (place) on (date).\n\n\n\n我们诚挚地邀请您出席于……(时间和地点)举办的……(2) 中间段：具体说明活动内容及安排\n\n\n\n- Hosted by... this meeting/event/ceremony is aimed at...\n\n\n\n由……主办，此次会议/活动/典礼旨在……\n\n\n\n- During this meeting/seminar, participants/attendees will...\n\n\n\n在此次会议/研讨会上，参会者将……(3) 结尾段：表达期待\n\n\n\n- We will be greatly honored if you could attend our meeting/event/ceremony.\n\n\n\n如您能出席我们的会议/活动/典礼，我们将倍感荣幸。\n\n\n\n- An early reply to our invitation would be much appreciated. We look forward to your attendance.\n\n\n\n如能早日答复我们的邀请，将不胜感激。我们期待您的出席。\n\n\n\n**四、写作练习**\n\n\n\n请按照下列要求进行写作。\n\n\n\n**Directions:**\n\n\n\nSuppose you are serving as a volunteer for the organizing committee for the 80th anniversary celebration of the founding of your university. Write an email to Mr. Williams, an ambassador who graduated from your university, to\n\n\n\n1) invite him to attend, and\n\n\n\n2) tell him the details.\n\n\n\nYou should write about 100 words on the ANSWER SHEET.\n\n\n\nDo not use your own name. Use \"ABC University\" instead. (10 points)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section IV Writing — Part B",
+   "score": 15,
+   "groups": [
+    {
+     "type": "writing",
+     "images": [
+      "assets/2021-2-q48.jpg"
+     ],
+     "questions": [
+      {
+       "number": 48,
+       "score": 15,
+       "stem": "Write an essay based on the chart below. In your writing, you should\n1) interpret the chart, and\n2) give your comments.\nYou should write about 150 words on the ANSWER SHEET.(15 points)",
+       "answer": "According to the chart, over half of the respondents get physical exercise by themselves, while 47.7% do so with friends and 23.9% with family members. By comparison, no more than 16% of those questioned play team sports.\n\nPeople prefer to take exercise alone rather than with someone else primarily on account of flexibility and convenience. In this way, they can, for example, go jogging anytime they want, without the need to make a plan with friends in advance. Furthermore, a wide range of fitness videos, apps and games have boosted the popularity of doing workouts alone at home. Another conclusion from the data is that people are much more likely to work out with friends than with family members. That may be because exercise is not a part of the whole family's daily routine, or simply because they live apart from their family.\n\nTaking exercise alone will be a growing trend in today's busy society where most people's schedules do not match. But it is advisable, if possible, to find a workout partner to keep you motivated.",
+       "explanation": "**一、审题谋篇**\n\n\n\n1. 分析图表数据，解读背后现象\n\n\n\n| | | |\n\n| --- | --- | --- |\n\n| 图表信息 | 信息解析 | 推导寓意 |\n\n| 图表上方标题为“某市居民锻炼方式调查”。 | 居民锻炼方式占比从高到低排列为“独自锻炼>和朋友一起>和家人一起>团体活动”。“独自锻炼”与“和朋友一起锻炼”的受欢迎程度明显高于其他两项，其中“独自锻炼”更受欢迎。 | 人们更倾向于独自锻炼而非结伴锻炼，且较少参加团体活动，主要原因在于独自锻炼的便利性(不受时间和地点限制，如无需与他人事先约定时间，健身视频和便携健身器材等的普及使得一人在家锻炼成为可能)。人们结伴锻炼时主要和朋友而非家人一起，可能包含多种原因，如家人没有锻炼的习惯，不与家人同住，家人的年龄和体质存在差异等。 |\n\n| 图表中各锻炼方式所占比例分别为：独自锻炼54.3%,和朋友一起47.7%,和家人一起23.3%,团体活动15.8%。 | | |\n\n\n\n**2. 罗列关键词**\n\n\n\n描写关键词：bar chart/graph 柱状图；account for 占……(比例); illustrate (用例子或图表) 阐明\n\n\n\n话题关键词：do/get/take physical exercise 参加体育锻炼；work out 锻炼；do sth alone/by oneself 独自做某事；friend 朋友；family (member) 家人；team sports 团队运动\n\n\n\n**3. 行文思路**\n\n\n\n第一段：描述图表；第二段：明确图表反映的现象，分析原因；第三段：结合图表所示现象给出预测和建议。\n\n\n\n**二、优秀范文赏析**\n\n\n\n**优秀范文**\n\n\n\n① According to the chart, over half of the respondents get physical exercise by themselves, while 47.7% do so with friends and 23.9% with family members. ② By comparison, no more than 16% of those questioned play team sports.\n\n\n\n① People prefer to take exercise alone rather than with someone else primarily on account of flexibility and convenience. ② In this way, they can, for example, go jogging anytime they want, without the need to make a plan with friends in advance. ③ Furthermore, a wide range of fitness videos, apps and games have boosted the popularity of doing workouts alone at home. ④ Another conclusion from the data is that people are much more likely to work out with friends than with family members. ⑤ That may be because exercise is not a part of the whole family's daily routine, or simply because they live apart from their family.\n\n\n\n① Taking exercise alone will be a growing trend in today's busy society where most people's schedules do not match. ② But it is advisable, if possible, to find a workout partner to keep you motivated.\n\n\n\n[必备表达]\n\n\n\n1. respondent [n.] 被调查人\n\n\n\n2. on account of 由于；因为\n\n\n\n4. convenience [n.] 方便；便利\n\n\n\n3. flexibility [n.] 灵活性；弹性\n\n\n\n5. jog [v.] 慢跑\n\n\n\n6. in advance 预先；事先\n\n\n\n[活用外刊]①在如今这个大多数人日程安排不一致的忙碌社会中，独自锻炼将会日渐盛行，成为趋势。②但若可能的话，建议找一位健身搭档以使自己保持动力。\n\n\n\n①人们更喜欢独自锻炼而非和他人一起锻炼，主要是因为灵活方便。②比如，这样一来，他们就可以随时去慢跑，不需要与朋友提前规划。③此外，各种各样的健身视频、应用和游戏使得在家独自锻炼更加流行。④从数据中还可以得出一个结论：人们和朋友一起锻炼的可能性比和家人一起的可能性要高得多。⑤这可能是因为锻炼并非全家人日常生活的一部分，也可能只是因为他们不和家人住在一起。\n\n\n\n**参考译文**\n\n\n\n①由图表可知，过半数的受访者独自锻炼，47.7%和朋友一起，23.9%和家人一起。②相较之下，只有不到16%的受访者参加团队运动。\n\n\n\n7. a wide range of 各种各样的\n\n\n\n8. workout [n.] 锻炼\n\n\n\n9. daily routine 日常惯例；日常生活\n\n\n\n10. apart [ad.] 不在一起；分离\n\n\n\n11. advisable [a.] 明智的；可取的\n\n\n\n12. motivated [a.] 有积极性的\n\n\n\n1. The coronavirus pandemic has the potential to permanently boost the popularity of telecommuting, say workplace experts—a societal shift that would have a profound impact on U.S. climate emissions.\n\n\n\n——Scientific American\n\n\n\n译文：职场专家表示，新冠疫情有可能永久性地推动远程办公的普及，这种社会转变将对美国的碳排放产生深远影响。\n\n\n\n点拨：boost the popularity of... 表示“推动……的普及或流行”，可用于说明某事物的流行及其背后的推动因素，boost 可替换为 drive。\n\n\n\n2. The world of leisure travel has brought a growing trend to light: Shopping Tourism.\n\n\n\n—Forbes\n\n\n\n译文：休闲游领域让人们看到了一个越发流行的趋势：购物游。\n\n\n\n点拨：a growing trend 表示“越发流行的趋势”, 用于描述向某种趋势发展的情形，growing 可替换为 rising 或 increasing, trend 可替换为 tendency, 且该短语后接介词 towards 可用于引出“所指的具体趋势”, 如 a growing trend towards globalization(日益全球化的趋势)。\n\n\n\n[精彩句式]主语 系动词\n\n\n\nThat may be 表语从句1: because exercise is not a part of the whole family's daily routine, or simply 表语从句2: because they live apart from their family.\n\n\n\n句子成形步骤：①写出简单句\n\n\n\nThere may be two reasons for that.\n\n\n\nTheir family members do not have the habit of taking exercise.\n\n\n\nThey do not live with their family.\n\n\n\n②利用连词将简单句整合，并相应调整主句表述\n\n\n\nThat may be because their family members do not have the habit of taking exercise, or because they do not live with their family.\n\n\n\n③替换表述以丰富用语并提升美感，添加形容词以增加表达的准确性，添加副词以增强语气\n\n\n\nThat may be because exercise is not a part of the whole family's daily routine, or simply because they live apart from their family.\n\n\n\n[篇章衔接]第一段(2句): 描述图表。①句按占比从高到低介绍图表数据，并提及图表主题“体育锻炼”。②句单独介绍占比最低的数据。\n\n\n\n第二段(5句):概述图表所反映的现象，分析现象产生的原因。①句总结图表反映的现象一“人们更喜欢独自锻炼而非和他人一起锻炼”并概括主要原因“方便”。②③句具体阐述“方便”的表现：随时可锻炼，在家可锻炼。④句总结图表反映的现象二“人们更可能和朋友而非家人一起锻炼”。⑤句介绍可能的原因：家人没有锻炼的习惯，与家人不住在一起。\n\n\n\n第三段(2句):预测趋势，给出建议。①句结合现实背景预测未来发展趋势。②句给出相关建议。\n\n\n\n[应用模板]该模板适用于基于多项选择的调查数据制成的“多因素同时比较”的柱状图，涉及“某群体做某件事的多种选择”。\n\n\n\nI ①The bar chart clearly illustrates the multiple options ____ have of (doing) ____. ②The majority of them (____%) ____, whereas ____ is the least popular choice, only accounting for ____%. ③Other ways to ____ include ____ and ____, at ____% and ____% respectively, followed by ____, at ____%.\n\n\n\n①该柱状图清晰展现了(某群体)拥有的多种(做某事)的选择。②他们中的大多数(____%)会(占比最高的一项),而(占比最低的一项)是最不受欢迎的选择，仅占____%。③其他(做某事)的方式包括(占比第二高的一项)和(占比第三高的一项),分别占____%和____%,然后是(占比第四高的一项),占____%。\n\n\n\nII ① The data indicates people's inclination to ____. ② It may seem a matter of personal preference, but in fact several factors play a part. ③ For one thing, ____ gives them a sense of happiness and satisfaction. ④ To put it another way, they do so in pursuit of a higher quality of life. ⑤ For another, the advent/popularization of ____ is an essential precondition for this. ⑥ Moreover, those who ____ have set this trend to some extent.\n\n\n\nⅢ ① In conclusion, given (that) ____, we can expect to see an increasing number of people ____. ② This will contribute to greater diversity in ____.\n\n\n\n①数据体现出人们倾向于(占比较高项)。②这或许看上去是个人喜好问题，但实际上有几个因素起着作用。③一方面，(占比较高项)给予他们一种幸福感和满足感。④换句话说，他们这么做是在追求更高的生活质量。⑤另一方面，_的出现/普及是必要的前提条件。⑥此外，那些_的人在某种程度上引领了这一趋势。\n\n\n\n①总之，鉴于____，我们可能看到越来越多的人____。②这会增进____的多样性。\n\n\n\n模板注释：该模板第一段①句介绍图表主题，②句对比介绍占比最高和最低的数据，③句按占比从高到低的顺序罗列其他数据。第二段①句点明图表反映的趋势，②句过渡引出原因分析，③至⑥句具体阐述原因，其中③④句分析主观原因，⑤句提及客观必要条件，⑥句补充不可忽视的推动因素。第三段展望发展趋势并提及积极影响。\n\n\n\n**三、写作储备**\n\n\n\n[话题表述补充]\n\n\n\nhit the gym 去健身房\n\n\n\nfitness center 健身中心\n\n\n\nfitness equipment 健身器材\n\n\n\nyoga mat 瑜伽垫\n\n\n\ndumbbell [n.] 哑铃 treadmill [n.] 跑步机\n\n\n\npush-up [n.] 俯卧撑\n\n\n\naerobics [n.] 有氧运动\n\n\n\nage difference 年龄差异\n\n\n\nphysical fitness 身体素质\n\n\n\n- It is exercise alone that supports the spirits and keeps the mind in vigour. (Marcus Cicero)\n\n\n\n[写作素材积累]只有运动才能为精神提供支持，才能保持头脑的活力。（马库斯·西塞罗）\n\n\n\n- Exercising alone gives you a sense of intrinsic reward: the feeling you get when you are motivated by your internal satisfaction instead of a compliment or accolade from another.\n\n\n\n独自锻炼会给予你一种内在的回报感。当你被自己内心的满足感而非他人的夸奖或赞誉所激励时，你就会有这种感觉。\n\n\n\n- Workouts with others improve consistency because they involve a commitment. ‘No shows’ and cancellations get noticed by others and positive peer pressure can help curtail the urges to skip a workout or quit.\n\n\n\n与他人一起锻炼可以助人坚持到底，因为这涉及到一种承诺。“不露面”和取消锻炼会被其他人注意到，积极的同伴压力有助于减少逃避一次锻炼或半途而废的冲动。\n\n\n\n- Some people feel self-conscious in front of others and are more relaxed when exercising alone; for example, because of their physical appearance or level of skill. For them, a video workout in the comfort of their own home or a less competitive type of exercise like walking can be a good fit.\n\n\n\n有些人在他人面前会感到难为情(比如因为外形或技术水平),独自锻炼时会更放松。对于他们来说，在自家舒适的环境下跟着视频锻炼，或者选择散步等竞争性较小的锻炼方式就很合适。\n\n\n\n- Group exercise is a good match for people who are outgoing or looking to meet new people, who find solo exercise boring or who have difficulty maintaining motivation by themselves. Solo exercise, on the other hand, is a good match for self-starters or people who are shy, busy, or highly motivated.\n\n\n\n集体锻炼适合性格外向或希望结识新朋友的人，适合觉得独自锻炼枯燥乏味的人，适合自己难以保持动力的人。另一方面，独自锻炼则适合做事主动的人，或那些害羞、忙碌，或积极性高的人。\n\n\n\n- Plenty of people stop showing up to group exercise programs because their friends dropped out. To keep yourself accountable, consider exercise a standard part of your routine—not an optional add-on—just like brushing your teeth and showering. And make it easy on yourself: Keep your gym bag packed and commit to a time and place that is most convenient for you.\n\n\n\n许多人因朋友退出而不再参加集体锻炼项目。为了让你对自己负责，要将锻炼视为日常生活的常规部分（就像刷牙和洗澡一样），而非可有可无的附加项。而且要让自己方便上手。把你的健身包收拾好，并坚持在对你来说最方便的时间和地点进行锻炼。"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

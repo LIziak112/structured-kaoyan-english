@@ -1,0 +1,660 @@
+{
+ "year": 2012,
+ "exam": "英语二",
+ "sections": [
+  {
+   "title": "Section I Use of English",
+   "instructions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on ANSWER SHEET 1.",
+   "score": 10,
+   "groups": [
+    {
+     "type": "cloze",
+     "passage": [
+      "Millions of Americans and foreigners see G.I. Joe as a mindless war toy, the symbol of American military adventurism, but that’s not how it used to be. To the men and women who {{1}} in World War Ⅱ and the people they liberated, the G.I. was the {{2}} man grown into hero, the poor farm kid torn away from his home, the guy who {{3}} all the burdens of battle, who slept in cold foxholes, who went without the {{4}} of food and shelter, who stuck it out and drove back the Nazi reign of murder. This was not a volunteer soldier, not someone well paid, {{5}} an average guy, up {{6}} the best trained, best equipped, fiercest, most brutal enemies seen in centuries.",
+      "His name isn’t much. G.I. is just a military abbreviation {{7}} Government Issue, and it was on all of the articles {{8}} to soldiers. And Joe? A common name for a guy who never {{9}} it to the top. Joe Blow, Joe Palooka, Joe Magrac...a working class name. The United States has {{10}} had a president or vice-president or secretary of state Joe.",
+      "G.I. Joe had a {{11}} career fighting German, Japanese, and Korean troops. He appears as a character, or a {{12}} of American personalities, in the 1945 movie The Story of G.I. Joe, based on the last days of war correspondent Ernie Pyle. Some of the soldiers Pyle {{13}} portrayed themselves in the film. Pyle was famous for covering the {{14}} side of the war, writing about the dirt-snow-and-mud soldiers, not how many miles were {{15}} or what towns were captured or liberated. His reports {{16}} the “Willie” cartoons of famed Stars and Stripes artist Bill Maulden. Boh men {{17}} the dirt and exhaustion of war, the {{18}} of civilization that the soldiers shared with each other and the civilians: coffee, tobacco, whiskey, shelter, sleep. {{19}} Egypt, France, and a dozen more countries, G.I. Joe was any American soldier, {{20}} the most important person in their lives."
+     ],
+     "questions": [
+      {
+       "number": 1,
+       "options": {
+        "A": "served",
+        "B": "performed",
+        "C": "rebelled",
+        "D": "betrayed"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A) served\n\n1. [A] served 服役，服务\n\n[B] performed 执行，表现\n\n[C] rebelled 反叛，反抗\n\n[D] betrayed 背叛，出卖\n\n[试题精解] 本题考查句内语义+动词熟词僻义。空格前的 who 与后方的 they 均指前面的 the men and women，而这些人在二战中……，并能带给人们解放。由此可推知，这些人应是在二战中参战（服役）的士兵，而不是在战争中表演、反叛或背叛的人。[A] serve 可指“在军队中服役”，符合文意。"
+      },
+      {
+       "number": 2,
+       "options": {
+        "A": "actual",
+        "B": "common",
+        "C": "special",
+        "D": "normal"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B) common\n\n2. [A] actual 真实的，实际的\n\n[B] common 普通的，一般的\n\n[C] special 特别的，专门的\n\n[D] normal 正常的，标准的\n\n[试题精解] 本题考查上下文语义+形容词辨析。空格所在部分说明，在士兵及被解放的人们眼中，G. I. 是一个成长为英雄的……人，the poor farm kid... 及 the guy... 两个并列的同位语阐述了这类人的成长历程：从一个普通的贫困农家子弟逐渐成长为击退纳粹统治的战争英雄。[B] 正确。"
+      },
+      {
+       "number": 3,
+       "options": {
+        "A": "loaded",
+        "B": "eased",
+        "C": "removed",
+        "D": "bore"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D) bore\n\n3. [A] loaded 给(某人)过重的负担 [B] eased 减轻，缓解\n\n[C] removed 清除，去掉 [D] bore 承受，忍受\n\n[试题精解] 本题考查句内语义+动词辨析。空格处填入动词与 burdens of battle 构成动宾搭配。士兵在战争中应是经受磨难、承受负担，而不是减轻或清除负担，排除 [B] [C]。注意 [A] 是表示“使某人承重”，常用～sb with sth，在文中要用被动态 be loaded with the burdens of battle，因此也排除。[D] bore 是 bear(v. 承受，支撑) 的过去分词，代入文中即“承受负担”，符合文意。"
+      },
+      {
+       "number": 4,
+       "options": {
+        "A": "necessities",
+        "B": "facilities",
+        "C": "commodities",
+        "D": "properties"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) necessities\n\n4. [A] necessities 必需品\n\n[B] facilities 设备\n\n[C] commodities 商品\n\n[D] properties 财产\n\n[试题精解] 本题考查句内语义+名词辨析。空格处结构为 ____ of food and shelter。空格处填入名词以 of 短语做后置定语，而食物和庇护所都是生存所需的必需品，是战时缺乏的必需品，而非设备、商品或财产。[A]代入表示战士没有食品和庇护所等必需品的供应，符合文意，同时排除[B][C][D]。"
+      },
+      {
+       "number": 5,
+       "options": {
+        "A": "and",
+        "B": "nor",
+        "C": "but",
+        "D": "hence"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) but\n\n5. [A] and 和，而且\n\n[B] nor 也不，也不是\n\n[C] but 但是，而是\n\n[D] hence 因此，所以\n\n[试题精解] 本题考查句内逻辑关系。上文已经指出 G. I. 是成长为英雄的普通人。空格所在句再次说明“他不是志愿兵，没有高收入，……一个普通人(average guy)”，空格前后内容转折，[C]代入，not...but 结构表示“不是……而是”，符合文意。"
+      },
+      {
+       "number": 6,
+       "options": {
+        "A": "for",
+        "B": "into",
+        "C": "from",
+        "D": "against"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D) against\n\n6. [A] for 为了，对于\n\n[B] into 到……里\n\n[C] from 来自，从\n\n[D] against 面对，对抗\n\n[试题精解] 本题考查固定搭配 + 上下文语义。空格处结构为 up... the (best trained, best equipped, fiercest, most brutal) enemies。[D]代入，up against 为固定搭配，表示“必须面对某人/某事”, 代入原文指 G. I. 是对抗敌人的普通士兵，符合文意。\n\nⅡ ① His name isn't much. ② G. I. is just a military abbreviation 7 Government Issue, and it was on all of the articles 8 to soldiers. ③ And Joe? ④ A common name for a guy who never 9 it to the top. ⑤ Joe Blow, Joe Palooka, Joe Magrac... a working class name. ⑥ The United States has 10 had a president or vice-president or secretary of state Joe.\n\n①他的名字没那么重要。②G.I. 只是一个军事缩写，表示“政府发给”，分发给士兵的所有物品上都印有这个符号。③而 Joe 呢？④也只是从未成功攀上最重要职位的普通人的常用名。⑤可能是 Joe Blow, Joe Palooka 抑或 Joe Magra 等，一个工人阶层的名字。⑥在美国从来没有过名为 Joe 的总统、副总统或国务卿。\n\n**词汇注释与难句分析**\n\nabbreviation n. 缩写词，缩写形式\n\nworking class 工人阶级，劳动阶级\n\narticle n. 物件，物品\n\nsecretary of state (美国) 国务卿，(英国) 部长\n\n**语篇分析**\n\n文章第二段从分析 G. I. Joe 的名字入手，讨论了其普通的一面。段首句总说，指出 G. I. Joe 这个名字绝不响亮。②句分析了 G. I. 含义的普通性，只是一个军事缩写。③句至段末分析了 Joe 的普通性：③④句以设问的形式指出 Joe 只是个从未攀上重要职位的普通人的常用名，⑤⑥句给出了例证。"
+      },
+      {
+       "number": 7,
+       "options": {
+        "A": "implying",
+        "B": "meaning",
+        "C": "symbolizing",
+        "D": "claiming"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B) meaning\n\n7. [A] implying 表明，暗示\n\n[B] meaning 意思是，表示……的意思\n\n[C] symbolizing 用符号代表，象征\n\n[D] claiming 要求，声称\n\n[试题精解] 本题考查句内语义+动词词义辨析。空格句的大意是“G. I. 只是一个军事缩写，……Government Issue”，即，G. I. 只是 Government Issue 的一个缩写，而没有特别的暗指含义，排除 [A]；而 G. I. 也不是什么“符号”，排除 [C]；[D] 用于表明观点，也不符合文意。[B] 代入表示 G. I. 就是“政府发给”(Government Issue) 的意思，符合文意，为正确选项。"
+      },
+      {
+       "number": 8,
+       "options": {
+        "A": "handed out",
+        "B": "turned over",
+        "C": "brought back",
+        "D": "passed down"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) handed out\n\n8. [A] handed out 分发，发给\n\n[B] turned over 移交，交托\n\n[C] brought back 拿回，使恢复\n\n[D] passed down 继承，遗传\n\n[试题精解] 本题考查动词短语+句内语义。空格处过去分词短语作 articles(物品)的定语，表示物品与士兵的关系。而这些物品是“政府发给(Government Issue)”,那自然是发放给士兵。[A]正确。"
+      },
+      {
+       "number": 9,
+       "options": {
+        "A": "pushed",
+        "B": "got",
+        "C": "made",
+        "D": "managed"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) made\n\n9. [A] pushed 推，逼迫\n\n[B] got 得到，明白\n\n[C] made (it) 成功，使圆满\n\n[D] managed 完成(困难的事),勉力完成\n\n[试题精解] 本题考查固定搭配+上下文语义。根据文意，Joe 是个常用名，叫这个名字的都是工人阶层的普通人，从未爬上最高职位。[C] make it 为固定搭配，表示“获得成功”，代入表示 Joe 从未成功爬上最高职位，符合文意。例句如：He never really made it as an actor. 他从来就不是一个成功的演员。"
+      },
+      {
+       "number": 10,
+       "options": {
+        "A": "ever",
+        "B": "never",
+        "C": "either",
+        "D": "neither"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B) never\n\n10. [A] ever 曾经\n\n[B] never 从未\n\n[C] either 两者之中任一的\n\n[D] neither 两者都不\n\n[试题精解] 本题考查上下文语义+副词用法。上文已说明 Joe 从未成功攀上最高职位，空格所在句进一步例证：美国……有过名为 Joe 的总统、副总统或国务卿。[B]代入表示美国从未有过名为 Joe 的高层领导，与上文的 never made it to the top 相呼应，为正确选项。\n\nⅢ ① G. I. Joe had a \\_11\\_ career fighting German, Japanese, and Korean troops. ② He appears as a character or a \\_12\\_ of American personalities, in the 1945 movie The Story of G. I. Joe, based on the last days of war correspondent Ernie Pyle. ③ Some of the soldiers Pyle \\_13\\_ portrayed themselves in the film. ④ Pyle was famous for covering the \\_14\\_ side of the war, writing about the dirt-snow-and-mud soldiers, not how many miles were \\_15\\_ or what towns were captured or liberated. ⑤ His reports \\_16\\_ the “Willie” cartoons of famed Stars and Stripes artist Bill Maulden. ⑥ Both men \\_17\\_ the dirt and exhaustion of war, the \\_18\\_ of civilization that the soldiers shared with each other and the civilians: coffee, tobacco, whiskey, shelter, sleep. ⑦ \\_19\\_ Egypt, France, and a dozen more countries, G. I. Joe was any American soldier, \\_20\\_ the most important person in their lives. [341 words]\n\n①G. I. Joe(美国兵)与德国、日本及朝鲜军队作战时，军旅生涯卓越。②在一部1945年根据战地记者厄尼·派尔（Ernie Pyle）生命最后时光的记录而拍成的电影《美国大兵乔的故事》中，G. I. Joe 体现了美国人的个性，确切地说，集合了美国人身上的总体性格特点。③一些派尔采访的士兵在影片中本色出演。④派尔因报道战争人性化的一面而著称，他报道那些满身污垢、积雪和泥土的士兵，而不是关注行军多少英里抑或占领或解放了哪些城镇。⑤他的报道与《星条报》著名画家比尔·莫尔登的《威利》系列漫画相似。⑥两人都强调战争的丑陋和损耗，以及士兵相互之间以及与平民之间分享的文明碎片：咖啡、烟草、威士忌、庇护所以及睡眠。⑦对埃及、法国以及更多的国家而言，G. I. Joe 是任何一名美国士兵，那个时候G. I. Joe 是他们生活中最重要的人。\n\n**词汇注释与难句分析**\n\ncareer n. 生涯，履历\n\npersonality n. 性格，个性\n\ncorrespondent n. 记者，通讯员\n\nportray v. 扮演(某角色)\n\ncover v. 报道，电视报道\n\ncapture v. 用武力夺取，攻占\n\ncartoon n. （报刊中与政治和时事有关的）\n\n漫画，讽刺画\n\nexhaustion n. 筋疲力尽，耗尽\n\ncivilization n. 文明，社会文明\n\n**语篇分析**\n\n本段由上文“G. I. Joe 的普通性”，转到论述其不普通的一面。首句总说，指出 G. I. Joe 战绩卓越。②③句介绍 G. I. Joe 的人物来源：其原型来自于战地记者厄尼·派尔所记录的二战中的美国普通士兵，G. I. Joe 是这些普通士兵的典型代表。④至⑥句补充介绍厄尼·派尔的报道风格：④句主要论说派尔报道风格的人性化，⑤句以风格类似的漫画家比尔·莫尔登的漫画作类比，⑥句总结了二人的共同点（Both men）：都善于从士兵角度出发对战争进行人性化评判。末句回到文章主题，总结指出 G. I. Joe 在二战中曾接受美国援助的国家的人民心中的形象：是他们心目中最重要的人。至此，首尾衔接，“最重要的人”呼应首段“平民英雄”，树立了 G. I. Joe 的正面形象。"
+      },
+      {
+       "number": 11,
+       "options": {
+        "A": "disguised",
+        "B": "disturbed",
+        "C": "disputed",
+        "D": "distinguished"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D) distinguished\n\n11. [A] disguised 伪装的，掩饰的\n\n[B] disturbed 坎坷的，不幸的\n\n[C] disputed 争论的，有争议的\n\n[D] distinguished 卓越的，杰出的\n\n[试题精解] 本题考查上下文语义。空格词用于形容美国兵与其他军队作战时的军旅生涯，[A] [C]明显不合文意，首先排除。而上文指出美国兵是由普通人成长而来的英雄，经受住战争的痛苦，击退纳粹，解放人民。基调均为正面的，强调其成就与卓越性。[B]项偏离文章主题，[D]正确。"
+      },
+      {
+       "number": 12,
+       "options": {
+        "A": "company",
+        "B": "community",
+        "C": "collection",
+        "D": "colony"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) collection\n\n12. [A] company 陪伴，同伴 [B] community 团体，社区 [C] collection 收集，聚集 [D] colony 殖民地，群体[试题精解] 本题考查句内语义+名词辨析。空格处填入名词与 character 并列，由 or 连接。空格处结构可拆分为 a character of American personalities 与 a...of American personalities，根据文意，两部分所表达的意思应大致相同，即“G.I. Joe 体现了美国人的个性，(或者说)……”。[C] 项代入表示他身上集合了美国人身上的性格特点，符合文意，为正确选项。"
+      },
+      {
+       "number": 13,
+       "options": {
+        "A": "employed",
+        "B": "appointed",
+        "C": "interviewed",
+        "D": "questioned"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) interviewed\n\n13. [A] employed 雇佣的，受聘的 [B] appointed 任命的，指定的\n\n[C] interviewed 采访的，会见的 [D] questioned 询问的，质疑的\n\n[试题精解] 本题考查上下文语义。根据上文，派尔是一名战地记者，因此，应为派尔采访的一些士兵，而非雇佣、任命或质疑的一些士兵。[C] 正确，排除 [A] [B] [D]。"
+      },
+      {
+       "number": 14,
+       "options": {
+        "A": "human",
+        "B": "military",
+        "C": "political",
+        "D": "ethical"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) human\n\n14. [A] human 人的，有人情味的 [B] military 军事的，军人的\n\n[C] political 政治的，党派的 [D] ethical 伦理的，道德的\n\n[试题精解] 本题考查上下文语义。空格处含义为“派尔因报道战争……的一面而著称”，后文予以解释，他的报道关注满身污垢、积雪和泥土的士兵，而不是占领或解放了哪些城镇等。由此可知派尔关注更多的是士兵的境遇和状况，而非战绩或战争胜败等。因此其报道风格应是人性化的。[A]正确。"
+      },
+      {
+       "number": 15,
+       "options": {
+        "A": "ruined",
+        "B": "commuted",
+        "C": "patrolled",
+        "D": "gained"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D) gained\n\n15. [A] ruined 毁灭，荒废\n\n[B] commuted 上下班往返，经常往返（于两地）\n\n[C] patrolled 巡逻，巡查\n\n[D] gained 赢得，获得\n\n[试题精解] 本题考查句内语义+动词用法。空格处含义为：派尔不关注多少英里被……, 抑或占领或解放了哪些城镇。选项中只有[D]代入，表示多少英里被(士兵们)赢得(征服), 即行军多少英里，符合文意以及战争争夺的本质。其他项均无法说通。"
+      },
+      {
+       "number": 16,
+       "options": {
+        "A": "paralleled",
+        "B": "counteracted",
+        "C": "duplicated",
+        "D": "contradicted"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) paralleled\n\n16. [A] paralleled 与……相似，与……并行 [B] counteracted 抵消，中和\n\n[C] duplicated 复制，重复 [D] contradicted 反驳，相矛盾\n\n[试题精解] 本题考查上下文语义。空格词用于表示派尔的报道与《星条报》画家比尔·莫尔登漫画的关系。后文 Both men(两人都)……指出派尔报道与比尔·莫尔登漫画的相似之处。因此选[A]。"
+      },
+      {
+       "number": 17,
+       "options": {
+        "A": "neglected",
+        "B": "emphasized",
+        "C": "avoided",
+        "D": "admired"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B) emphasized\n\n17. [A] neglected 忽略，疏忽\n\n[B] emphasized 强调，着重\n\n[C] avoided 避免，回避\n\n[D] admired 钦佩，赞赏\n\n[试题精解] 本题考查上下文语义。上文指出派尔的报道关注战争人性化的一面，且与比尔·莫尔登的漫画相似；空格所在句进一步点明两者的共同之处：两者都……战争的丑陋和损耗（这是从士兵角度出发对战争的一种人性化评判）等。因此，这里的文意应是“着重表现战争不好的一面”。[B]正确。"
+      },
+      {
+       "number": 18,
+       "options": {
+        "A": "stages",
+        "B": "illusions",
+        "C": "fragments",
+        "D": "advances"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) fragments\n\n18. [A] stages 舞台，阶段\n\n[B] illusions 幻想，幻觉\n\n[C] fragments 片段，碎片\n\n[D] advances 前进，进展\n\n[试题精解] 本题考查句内语义。空格所在句指出两人都强调战争的丑陋和损耗，强调士兵相互之间以及与平民之间分享的对文明的……：咖啡、烟草、威士忌、庇护所以及睡眠。其中咖啡、烟草、威士忌、庇护所、睡眠是不连贯的画面及场景，只有“文明碎片”才是对它们最合适的概括，因此[C]正确。"
+      },
+      {
+       "number": 19,
+       "options": {
+        "A": "With",
+        "B": "To",
+        "C": "Among",
+        "D": "Beyond"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B) To\n\n19. [A] With 与……一起\n\n[B] To 对，对于\n\n[C] Among 在……之中\n\n[D] Beyond 超出……的范围\n\n[试题精解] 本题考查对文章脉络的把握+上下文语义。空格所在句为过去时态(was)。文章开篇提及在许多美国人和其他国家人们的眼中，G.I. Joe 是怎样的，紧接着转而指出“但在过去并非如此”。后文一直围绕 G.I. Joe 过去在人们眼中的形象展开。最后一句作结，指出“(在过去)G.I. Joe 于埃及、法国以及更多的国家而言代表着任何一名美国士兵，……”。[B]项正确。"
+      },
+      {
+       "number": 20,
+       "options": {
+        "A": "on the contrary",
+        "B": "by this means",
+        "C": "from the outset",
+        "D": "at that point"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D) at that point\n\n20. [A] on the contrary 相反，反之 [B] by this means 用这种方法，以这种方式\n\n[C] from the outset 从开始时 [D] at that point 那个时候\n\n[试题精解] 本题考查对文章脉络的把握+介词短语。由19题分析可知，空格所在句论述的是G.I. Joe 过去的形象。[D]在此表示“那个时候”，代入为“那个时候（即在过去）G.I. Joe 是他们生活中最重要的人”与上文的过去时态，以及首句的 used to be 相呼应。其他项在语法和语义上均说不通。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part A",
+   "instructions": "Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on ANSWER SHEET 1.",
+   "score": 40,
+   "groups": [
+    {
+     "title": "Text 1",
+     "type": "reading",
+     "passage": [
+      "Homework has never been terribly popular with students and even many parents, but in recent years it has been particularly scorned. School districts across the country, most recently Los Angeles Unified, are revising their thinking on this educational ritual. Unfortunately, L.A. Unified has produced an inflexible policy which mandates that with the exception of some advanced courses, homework may no longer count for more than 10% of a student’s academic grade.",
+      "This rule is meant to address the difficulty that students from impoverished or chaotic homes might have in completing their homework. But the policy is unclear and contradictory. Certainly, no homework should be assigned that students cannot complete on their own or that they cannot do without expensive equipment. But if the district is essentially giving a pass to students who do not do their homework because of complicated family lives, it is going riskily close to the implication that standards need to be lowered for poor children.",
+      "District administrators say that homework will still be a part of schooling; teachers are allowed to assign as much of it as they want. But with homework counting for no more than 10% of their grades, students can easily skip half their homework and see very little difference on their report cards. Some students might do well on state tests without completing their homework, but what about the students who performed well on the tests and did their homework? It is quite possible that the homework helped. Yet rather than empowering teachers to find what works best for their students, the policy imposes a flat, across-the-board rule.",
+      "At the same time, the policy addresses none of the truly thorny questions about homework. If the district finds homework to be unimportant to its students’ academic achievement, it should move to reduce or eliminate the assignments, not make them count for almost nothing. Conversely, if homework matters, it should account for a significant portion of the grade. Meanwhile, this policy does nothing to ensure that the homework students receive is meaningful or appropriate to their age and the subject, or that teachers are not assigning more than they are willing to review and correct.",
+      "The homework rules should be put on hold while the school board, which is responsible for setting educational policy, looks into the matter and conducts public hearings. It is not too late for L.A. Unified to do homework right."
+     ],
+     "questions": [
+      {
+       "number": 21,
+       "stem": "It is implied in Paragraph 1 that nowadays homework .",
+       "options": {
+        "A": "is receiving more criticism",
+        "B": "is gaining more preferences",
+        "C": "is no longer an educational ritual",
+        "D": "is not required for advanced courses"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| 21. It is implied in Paragraph 1 that nowadays homework ____. | 21. 第一段暗示现在家庭作业____。 |\n| --- | --- |\n| [A] is receiving more criticism | [A] 正在遭受更多批评 |\n| [B] is gaining more preferences | [B] 正在得到更多青睐 |\n| [C] is no longer an educational ritual | [C] 不再是一种教育惯例 |\n| [D] is not required for advanced courses | [D] 不再为高级课程所需要 |\n\n[精准定位] 根据题干 nowadays, homework 定位至第一段首句(homework, in recent years)。该句指出，家庭作业从未真正受欢迎，近几年来更是饱受批评。即家庭作业正遭受更多批评，[A] 正确。\n\n[命题解密] 本题考查考生对首段具体细节信息的理解。题干+正确项[A]概括改写第一段首句，其中 nowadays 和 receiving more criticism 分别对应原文 in recent years 和 been particularly scorned。\n\n[B]、[C]均利用第一段②句设置干扰。[C]将“改变家庭作业的思路”改为“家庭作业已不再是教育惯例”，产生巨大偏差。[B]则主观推导出“家庭作业改革后，正日益受到青睐”，脱离原文。[D]曲解第一段③句“洛杉矶联合学区新政规定，除了一些高级课程外，家庭作业在学生学业成绩中所占比例不得超过 10% ”，从中无法推知高级课程不需要家庭作业，相反很可能对家庭作业要求更严格。\n\nII ① This rule is meant to address the difficulty that students from impoverished or chaotic homes might have in completing their homework. ② But the policy is unclear and contradictory. ③ Certainly, no homework should be assigned that students cannot complete on their own or that they cannot do without expensive equipment. ④ But if the district is essentially giving a pass to students who do not do their homework because of complicated family lives, it is going riskily close to the implication that standards need to be lowered for poor children.\n\n此规定旨在解决贫困或混乱家庭学生在完成家庭作业方面可能存有的困难。但政策内容不明且自相矛盾。当然，不应给学生布置他们无法独立完成或者需要贵重设备才能完成的家庭作业。但如果学区本质上是在给那些因家庭复杂而不做作业的学生以通行证，则近于冒险暗示应降低对贫困孩子的标准。\n\n**词汇注释与难句分析**\n\nchaotic a. 混乱的\n\ncontradictory a. 矛盾的\n\nessentially ad. 本质上，根本上\n\npass n. 通行证\n\n功能注释：if 引导的条件状语引出假定情形“学区意在给不做作业的穷困学生放行”, who 引导的定语从句修饰 students。主句则指出学区如此放行会造成的结果，that 引导的同位语从句解释 implication。\n\n**语篇分析**\n\n第二至四段多角度展开对洛杉矶联合学区新政的批评。第二段质疑新政“初衷”。关键词为：unclear and contradictory。\n\n本段借“树靶(①句)—打靶(②句)—有针对性进行批驳(③④句)”的逻辑结构对新政初衷进行了强烈质疑。... But... Certainly... But... 体现了这一论证逻辑。\n\n①句树靶，指出新政目的：解决贫困学生因家庭原因而在完成家庭作业方面存在的困难。This rule 指代洛杉矶联合学区新政；is meant to(旨在……)引出新政初衷；address the difficulty... (address 此处意为 to face up to and deal with a problem“(着手)解决，处理(问题)”) 说明新政初衷“帮助因家庭原因很难完成作业的学生”，其中 students from impoverished or chaotic homes 明确新政主要帮助对象。\n\n②句打靶，作者转而(But)表明观点：新政目的不明且矛盾。句中 the policy 即指 This rule: unclear and contradictory (contradictory 意为“矛盾的，抵触的”)以其鲜明的否定色彩凸显作者对新政目的的强烈质疑。\n\n③④句进一步展开批驳，具体说明作者为何断言新政目的模糊且矛盾。Certainly... but 表明两句间为“让步一转折”关系、且转折之后为重点内容。\n\n③句让步指出，假若新政规定意在“要求学校不得布置需要借助他人帮助或需要贵重设备才能完成的家庭作业”，则无可厚非（既回归家庭作业“让学生巩固自己所学知识”的目的，又体现了教育对贫困孩子的公平性）。句中 Certainly, no homework should... 体现作者对这一假设的完全赞同。cannot complete on their own 和 expensive equipment 指向当前问题“老师往往会布置学生需要他人帮助或需要昂贵设备才能完成的作业，这对学生和家长、尤其是贫困孩子形成了困扰”。\n\n④句 But 引发转折：但若新政本质上“为不做作业的贫困学生放行”,则无异于冒险降低对贫困孩子的教育标准(既对其他孩子不公，也对贫困孩子不公——致其难以摆脱贫穷出身，造成贫困恶性循环)。\n\nif 从句表面引出与③句相反的假定情形，实际直指①句所述新政初衷——从根本上给因家庭复杂而不做作业的学生放行。the district 指洛杉矶联合学区；give a pass to(给……通行证，为……放行)指“降低对贫困孩子的作业要求”;essentially 起强调功能，凸显新政初衷与③句情形的本质差异：不是禁止学校布置需他人帮助或贵重设备才能完成的家庭作业，而是从根本上降低对贫困孩子的作业要求。\n\n主句表明作者批驳态度：这无异于是在冒险降低对贫困孩子的教育标准。riskily 一词集中体现作者态度：允许家庭复杂的孩子不做家庭作业≈降低对这些孩子的要求=一种非常危险的做法。\n\n**词汇注释与难句分析**\n\nskip v. 不做(本来应做或常做的事)\n\nreport card 成绩单\n\nempower v. 授权(某人或某组织做某事)\n\nflat a. 固定的\n\nacross-the-board a. 一刀切的\n\n**经典搭配**\n\nbe allowed to do sth(被允许做某事)\n\nno more than(仅仅，只有)\n\n**语篇分析**\n\n第三段批评新政“一刀切”的做法。关键词为：a flat, across-the-board rule。\n\n**真题精解**\n\n②句批驳，转而(But)表明作者不同看法：虽然新政并未限制“作业量”，但规定其在学业成绩中“比例甚微”，这使逃避作业几乎不影响学业成绩，故老师布置再多作业也是枉然。can easily skip 与 see very little difference 凸显逃作业之易、受惩罚之轻；report cards 以成绩单代指学业成绩，和 grades 同指。\n\n③④句进一步借“问答”表明作者观点“家庭作业对不同的学生作用不同”，且侧重强调家庭作业总体上有助于提高学业成绩。\n\n③句 but 之前退步承认“不做作业但考试能取得好成绩”的情况确实存在，后半句转而反问：但那些考试取得好成绩并且也做作业的学生呢？言外之意：对于这些学生，“做作业”和“好成绩”之间存有关联。注：state test(州考)：指各州中小学生必须参加的全州统考，其结果将决定学生是否能升级。\n\n④句回答上句设问，明确作者观点：很可能是家庭作业帮助这些学生提高了学业成绩。\n\n整体看③④句可知作者观点：做家庭作业对某些学生的学业成绩可能影响不大，但却很可能会帮助另一些学生提高成绩。注：作者这一看法顺应了教育界目前普遍观点“家庭作业对不同年龄的孩子影响不同(对小学低年级学生影响不大，对小学高年级和中学生则有明显作用)、对不同科目作用不同”。\n\n⑤句在前文论述基础上对洛杉矶联合学区新政予以强烈批评。句子以 rather than... the policy... 结构明确新政根本错误：不是授权教师找出合适的方式，而是颁布一项呆板的、一刀切的规定。empowering teachers to find... 明确作者认为的正确方式：授权教师针对学生和学科特点，找到最合适的方法：a flat, across-the-board rule(flat 意为“统一的，固定的”; across-the-board 意为“全盘的”) 指向洛杉矶联合学区新规完全相反的做法“要求无论年级、科目，家庭作业在学业成绩中所占比例一律不得超过 10%”, 表明作者的强烈批评。"
+      },
+      {
+       "number": 22,
+       "stem": "L.A. Unified has made the rule about homework mainly because poor students .",
+       "options": {
+        "A": "tend to have moderate expectations for their education",
+        "B": "have asked for a different educational standard",
+        "C": "may have problems finishing their homework",
+        "D": "have voiced their complaints about homework"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| | |\n| --- | --- |\n| 22. L. A. Unified has made the rule about homework mainly because poor students ____. | 22. 洛杉矶联合学区之所以制定关于家庭作业的规定，主要是因为贫困学生____。 |\n| [A] tend to have moderate expectations for their education | [A] 对教育的期望值普遍不高 |\n| [B] have asked for a different educational standard | [B] 要求实施不同的教育标准 |\n| [C] may have problems finishing their homework | [C] 在完成家庭作业上可能存有困难 |\n| [D] have voiced their complaints about homework | [D] 对家庭作业大发抱怨 |\n\n[精准定位] 根据题干 poor students 与原文词汇 impoverished、poor children 的对应关系定位到第二段。该段首句指出，此规定（洛杉矶联合学区有关家庭作业的新规定）旨在解决贫困或混乱家庭学生在完成家庭作业方面可能的困难。可见[C]体现了洛杉矶联合学区新政主要目的，为正确项。\n\n[命题解密] 本题考查考生对文中具体因果细节的把握，解题关键在于理解第二段首句 This rule 的指代内容“洛杉矶联合学区针对家庭作业的新政策”, 并体味到 is meant to 所蕴含的因果逻辑关系。\n\n[A]、[B]是对第二段末句的曲解。原文意在指出，洛杉矶联合学区新政趋向于为贫困学生不做作业放行，而这近似于冒险降低对这些孩子的教育标准。由此无法推知贫困孩子“对自己的教育期望较低”或“要求实施不同的教育标准”，故排除。[D]利用第二段暗含事实“老师往往会布置一些贫困孩子难以完成的作业”干扰，但文中并未指出贫困孩子的不满是引发洛杉矶学区新政的主要原因，故排除。\n\nⅢ ① District administrators say that homework will still be a part of schooling; teachers are allowed to assign as much of it as they want. ② But with homework counting for no more than 10% of their grades, students can easily skip half their homework and see very little difference on their report cards. ③ Some students might do well on state tests without completing their homework, but what about the students who performed well on the tests and did their homework? ④ It is quite possible that the homework helped. ⑤ Yet rather than empowering teachers to find what works best for their students, the policy imposes a flat, across-the-board rule.\n\n学区管理者表示，家庭作业仍将是学校教育的一部分；教师可以自主安排作业量。但在家庭作业仅占学业成绩的10%的情形下，学生大可逃掉一半的作业而成绩单却几乎不会有变化。有些学生可能没做家庭作业也会在州考中表现良好，但那些做了家庭作业且在州考中表现良好的学生又该怎么解释呢？很有可能家庭作业起到了助益作用。然而该政策不是授权教师去探索什么样的方式最适合学生，而是强制颁布一项呆板的、一刀切的规定。\n\n| 22. L. A. Unified has made the rule about homework mainly because poor students ____. | 洛杉矶联合学区之所以制定关于家庭作业的法规，主要是因为贫困学生中存在什么情形。 |\n| --- | --- |\n| 23. According to Paragraph 3, one problem with the policy is that it may ____. | 根据第三段可知政策存有的问题。 |\n| 24. As mentioned in Paragraph 4, a key question unanswered about homework is whether ____. | 根据第四段可知关于家庭作业未能解决的核心问题。 |\n| 25. A suitable title for this text could be ____. | 以“文章标题”的形式考查全文主旨。 |\n\n问题速览：快速浏览各题干，抓取关键信息 homework、the rule about homework、one problem with the policy、a key question unanswered about homework,可推知本文话题关乎“一项针对家庭作业的政策”。\n\n问题解读：①由第21题可知，第一段阐述了如今“家庭作业”面临的情形；②第22题告诉我们，文中指出洛杉矶联合学区制定了关于“家庭作业”的法规、说明了制定这一规定的原因，且指出其主要原因与“贫困学生”相关；③由第23题可知，第三段提及了政策(联系第22题可知极有可能为洛杉矶规定)存在的问题；④第24题告诉我们，第四段指出了关于家庭作业尚未解决的关键问题；⑤第25题以“文章标题”的形式考查考生对文章主旨的把握。\n\n问题总结：通过洞悉题干可知，本文围绕“一项针对家庭作业的政策”展开论述，涉及当前家庭作业面临的情形、制定此项政策的原因、政策存有的问题、以及其未能解决的问题等。\n\n**二、语篇分析及试题精解**\n\nI ① Homework has never been terribly popular with students and even many parents, but in recent years it has been particularly scorned. ② School districts across the country, most recently Los Angeles Unified, are revising their thinking on this educational ritual. ③ Unfortunately, L. A. Unified has produced an inflexible policy which mandates that with the exception of some advanced courses, homework may no longer count for more than 10% of a student's academic grade.\n\n**词汇注释与难句分析**\n\nscorn v. 蔑视，鄙视\n\nrevise v. 改变，修正\n\n**经典搭配**\n\nritual n. 惯例，老规矩，例行公事\n\nbe popular with(受……欢迎)\n\ninflexible a. 僵化的，缺乏弹性的\n\nacross the country(全国)\n\nmandate v. 命令，指示\n\nwith the exception of(除……之外)\n\nacademic grade(学业成绩)\n\nUnfortunately, L. A. Unified has produced an inflexible policy which mandates that with the exception of some advanced courses, homework may no longer count for more than 10% of a student's academic grade. 结构切分：\n\n功能注释：本句主干为 L. A. Unified has produced an inflexible policy...，指出洛杉矶联合学区制定了一项(关于家庭作业的)新政策；which 引导的定语从句修饰 an inflexible policy，具体说明新政策内容；Unfortunately 奠定本句感情基调，说明作者对该政策的不认同态度。\n\n**语篇分析**\n\n第一段引出全文讨论对象：洛杉矶联合学区针对家庭作业的新政策。关键词为：①homework;②an inflexible policy。\n\n①句开篇提出文章关键词 homework，并指出“问题情形”——近年来家庭作业饱受诟病。句子前后两分句借 but 形成转折递进以凸显问题。\n\nbut 前分句以现在完成时的完全否定结构 has never been terribly popular (terribly 此处意为 highly, greatly“很，非常”) 强调家庭作业很长时间以来从未真正受到欢迎；介词引导的递进结构 with students and even many parents 强调“家庭作业不仅不被学生欢迎，甚至也不被父母欢迎”; 二者一起通过唤起疑惑(天性爱玩儿的孩子不喜欢家庭作业很容易理解，但望子成龙的父母为什么也不喜欢家庭作业？) 凸显问题：“家庭作业”领域问题颇多，不仅成了孩子的负担，也令许多父母不满。\n\nbut 后分句转折递进、升级问题：近年来家庭作业尤其饱受诟病。has been particularly scorned (scorn 意为 to strongly criticize someone or something because you think they do not deserve respect“抨击、嗤之以鼻”) 在 has never been terribly popular 基础上进一步凸显问题“近几年家庭作业备受抨击”。\n\n②句顺而指出“全国各学区正致力于解决问题”，并将读者关注点引至“洛杉矶联合学区的举措”。\n\n句子主干说明全美各学区都在致力于修改关于家庭作业的思路，证实教育管理者们已经意识到问题的存在。句中 this educational ritual (ritual 意为 something that you do regularly and in the same way each time “惯例，老规矩，例行公事”) 指代“家庭作业”且凸显这已是多年来教育不可或缺的环节。插入语以 most recently 将读者关注点引至“最近洛杉矶联合学区针对家庭作业的思路修改”。\n\n③句正式提出全文话题——洛杉矶联合学区关于家庭作业的新政策。\n\nUnfortunately 置于句首，浅层表明②③句转折逻辑，深层体现全段结构：①句说明问题情形存在—②句指出解决方式出现—③句转而指出方式不尽人意。作者以 an inflexible policy(一项僵硬的政策)定性洛杉矶联合学区新政，奠定全文对该新政的批评基调。宾语从句 that... 具体说明新政内容：责令除某些高级课程之外，家庭作业在学生学业成绩中所占比例不得超过 10%。mandate(意为 to tell someone that they must do a particular thing“命令”) 和 may no longer (不得再……) 凸显政策“强制性”。整句以 Unfortunately... an inflexible policy 传达作者态度：改变家庭作业思路颇有必要，但“强制家庭作业在学业成绩中所占比例上限、且规定所有科目(除某些高级课程)都要遵守这一比例”的一刀切做法不可取。\n\n段落信息提炼：一、本段采用了“渐进式主题导出法”:①句背景铺垫—②句在①句基础上递进，主题呼之欲出—③句正式提出文章主题；二、①句 never terribly popular 和 particularly scorned,③句 Unfortunately 和 inflexible 都带有明显的主观态度，分别表明“人们”和“作者”的相关态度。\n\n[背景补充] 美国的学区：美国学区一般指中学和小学。学区有较大自主权，有权民选教育委员会以负责制定本地区的教育政策、有权征税、决定课程设置等。洛杉矶联合学区是美国第二大学区。"
+      },
+      {
+       "number": 23,
+       "stem": "According to Paragraph 3, one problem with the policy is that it may .",
+       "options": {
+        "A": "result in students’ indifference to their reportcards",
+        "B": "undermine the authority of state tests",
+        "C": "restrict teachers’ power in education",
+        "D": "discourage students from doing homework"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 23. According to Paragraph 3, one problem with the policy is that it may ____. | 23. 根据第三段可知，政策存有的一个问题是它可能____。 |\n| --- | --- |\n| [A] result in students' indifference to their report cards | [A] 导致学生对成绩单漠不关心 |\n| [B] undermine the authority of state tests | [B] 削弱州考的权威性 |\n| [C] restrict teachers' power in education | [C] 限制教师在教育中的权力 |\n| [D] discourage students from doing homework | [D] 打击学生做作业的积极性 |\n\n[精准定位] 第三段②句指出，由于家庭作业不得超过学业成绩的 10%,学生大可逃掉一半作业而成绩却不会有明显变化，即：学生会因逃避作业对成绩几无影响而降低做作业的积极性，[D]正确。\n\n[命题解密] 本题考查学生对第三段细节信息进行推理判断的能力，新政内容“规定家庭作业在学业成绩中所占比重不得超过 10% ”为推理的主要依据。[D]选项是以此为据对第三段②句的合理推理。\n\n[A]用 indifference to their report cards 与原文 very little difference on their report cards 的“形似”干扰，但二者内涵大为不同：原文是“学生因不做作业对成绩单几乎没影响而降低做作业的积极性”，学生不关心的是“家庭作业”，对“成绩单”的关心一如既往。[B]用③句词汇 state tests 干扰，但原文并未提到“州考的权威性”。[C]用④句 rather than empowering teachers... 干扰，但选项夸大其辞：将新政策“限制了老师对待家庭作业的权力”夸大为“限制了老师在教育中的权力”。\n\nIV ① At the same time, the policy addresses none of the truly thorny questions about homework. ② If the district finds homework to be unimportant to its students' academic achievement, it should move to reduce or eliminate the assignments, not make them count for almost nothing. ③ Conversely, if homework matters, it should account for a significant portion of the grade. ④ Meanwhile, this policy does nothing to ensure that the homework students receive is meaningful or appropriate to their age and the subject, or that teachers are not assigning more than they are willing to review and correct.\n\n与此同时，该政策并未解决任何关于家庭作业的真正棘手问题。如果学区认为家庭作业对学生的学业成绩并不重要，就应该减少甚至取消作业，而不是让它在成绩中几乎不占分。相反，如果家庭作业确实重要，就应该让它在成绩中占据相当大的比重。同时，这项政策既无法确保学生收到的作业对其年龄和学科而言有意义且适当，也不能确保教师布置的作业量不超过自己愿意审阅和批改的范围。\n\n**词汇注释与难句分析**\n\nthorny a. 棘手的\n\nconversely ad. 相反地，另一方面\n\nportion n. (某物的)一部分\n\nat the same time(与此同时)\n\nthorny questions(棘手的问题)\n\n**经典搭配**\n\nacademic achievement(学业成绩)\n\na significant portion of(……的很大一部分)\n\nMeanwhile, this policy does nothing to ensure that the homework students receive is meaningful or appropriate to their age and the subject, or that teachers are not assigning more than they are willing to review and correct.\n\n功能注释：本句主干为 this policy does nothing to ensure that... or that...;两个 that 引导的宾语从句具体说明新政策未能解决的问题。其中 students receive 为省略了 that 的定语从句，修饰 homework。\n\n**语篇分析**\n\n第四段进一步指出新政并未解决真正棘手的问题。关键词为：truly thorny questions。\n\n①句总领全段：新政并未解决关于家庭作业真正棘手的问题。At the same time 表明本段与前段为并列关系，皆为评论新政存在的问题；address none of the truly thorny questions(并未解决任何真正棘手的问题)直指新政策的重大缺陷“避重就轻、作用甚微”。\n\n②③句说明新政回避的真正棘手问题之一：家庭作业对学生的学业成绩到底是否重要？Conversely 连接的相同句型 If...it should..., Conversely, if...it should...以假设情形暗示新规定“既未承认家庭作业重要，也未表明家庭作业不重要”,即：“比例不超 10%”这一规定不尴不尬，未能触及问题根本。\n\n②句 If 条件句假设情形“学区发现家庭作业对学业成绩并不重要”，主句说明就此情形应采取的措施：取舍结构 it should move to... not... 给出作者认为的正确方式“减少甚至撤销家庭作业（reduce or eliminate）”，否定学区新政“让家庭作业在学业成绩中比重甚微”(count for almost nothing)。\n\n③句 If 条件句假设②句相反情形“学区发现家庭作业非常重要”，Conversely 用于引出相反情形；matters（要紧，重要）与②句 be unimportant 对立，展现相反情形。主句说明这一情形下的正确应对方式，作者建议“让家庭作业在学业成绩中占有重要比例”，再次将新政排除在合理做法之外。\n\n④句说明新政所回避的真正棘手问题之二：未能确保家庭作业符合学生年龄及学科特点，也未能保证老师布置的作业未超出他们愿意批改的量。Meanwhile 表明本句与②③句的并列关系；this policy does nothing to ensure 引出新政无所作为的另一方面；并列宾语从句 that... or that... 具体说明新政未能解决的问题，同时回应开篇、揭示“家庭作业”当前存在的问题：老师布置的家庭作业不一定有意义(meaningful)、不一定符合学生年龄和课程内容；作业量大且老师不一定会给出反馈（assigning more than they are willing to review and correct）。另外，本句再次反驳第三段首句所述学区管理者观点：虽然新政允许教师布置任意量的作业，但如果教师只布置作业却不修改，则作业再多也无益。"
+      },
+      {
+       "number": 24,
+       "stem": "As mentioned in Paragraph 4, a key question unanswered about homework is whether .",
+       "options": {
+        "A": "it should be eliminated",
+        "B": "it counts much in schooling",
+        "C": "it places extra burdens on teachers",
+        "D": "it is important for grades"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 24. As mentioned in Paragraph 4, a key question unanswered about homework is whether ____. | 24. 第四段提到，关于家庭作业一个未解决的核心问题是____。 |\n| --- | --- |\n| [A] it should be eliminated | [A] 它是否应该被废除 |\n| [B] it counts much in schooling | [B] 它是否对教育重要 |\n| [C] it places extra burdens on teachers | [C] 它是否对教师造成额外负担 |\n| [D] it is important for grades | [D] 它是否对成绩重要 |\n\n[精准定位] 第四段首句指出新政策并未解决关于家庭作业真正棘手的问题，接下来指出：如果认为家庭作业对学业不重要，那就应该减少甚至撤销家庭作业；如果认为家庭作业重要，那就应该让其在成绩中占重要比例。即：新政策当前做法未明确回答“家庭作业在教育中的重要性”,[B]正确。\n\n[命题解密] 本题考查对第四段中重要信息的理解能力，解题时必须抓住①句和②③句间的“总分”关系。题干 a key question unanswered about homework 与原文 addresses none of the truly thorny questions about homework 对应，[B] (whether) it counts much in schooling 则是对②③句 If... it should... Conversely, if... it should 所表明信息“新政并未明确‘家庭作业对学校教育是否重要’这一问题”的概括。\n\n[A]利用②句 eliminate the assignments 干扰，但这代表的只是一种假定可能性，并未体现问题的核心。[C]将④句信息“新政不能确保教师布置的作业量并未超过他们愿意批改的量”曲解为“新政未能回答‘家庭作业是否对教师造成额外负担’这一问题”。[D]干扰性最强，因为文中确实提及“家庭作业在成绩(grade)中所占比例”。但要体味到，“成绩”作为外在表现形式，只是学校衡量教育(schooling)的一种手段，本身并非关注点。②③句传达的根本信息是“家庭作业对学生学业的重要性”。\n\nV ① The homework rules should be put on hold while the school board, which is responsible for setting educational policy, looks into the matter and conducts public hearings. ② It is not too late for L. A. Unified to do homework right. [400 words]\n\n有关家庭作业的规定应暂缓实施，而负责制定教育政策的校董事会应深入调查并举行公众听证会。洛杉矶联合学区要正确对待家庭作业，现在还为时不晚。\n\n**词汇注释与难句分析**\n\nput on hold 搁置，暂缓实施\n\nhearing n. 听证会，审讯，聆讯\n\n**经典搭配**\n\nschool board(校董事会)\n\nbe responsible for(负责)\n\nlook into(调查)\n\nconduct public hearings(举行公众听众会)\n\nit is not too late for sb. to do sth. (为时不晚)\n\n**语篇分析**\n\n第五段做出结论：应暂缓实施新规，继续深入调查、聆听公众意见。关键词为：should be put on hold。\n\n①句在第二、三、四段细致论述新政各种弊端之后，提出作者的建议：暂缓实施新规，继续深入调查，聆听公众意见。\n\nwhile 之前的第一分句明确作者结论“新政应暂缓实施”。The homework rules 是洛杉矶学区新政的另一称谓；should be put on hold (be put on hold 意为 be done or dealt with at a later date rather than now“推迟，搁置”)，以简洁的语言有力明确作者结论。\n\nwhile 引导的第二分句补充指出“教育政策制定者应继续深入调查并举行公众听证会”，即：家庭作业确需改革，但当前政策并不合理，需要通过深入调查、聆听公众意见制定出更合理、更有效的政策。\n\n②句为本文作结：洛杉矶联合学区要正确对待家庭作业现在还为时不晚。It is not too late to do homework right (right 此处为副词“正确地，恰当地”)传达“亡羊补牢，为时未晚”之意，在通篇批评洛杉矶联合学区新政之后，给予政策制定者以鼓励，同时也给予读者以希望。"
+      },
+      {
+       "number": 25,
+       "stem": "A suitable title for this text could be .",
+       "options": {
+        "A": "A Faulty Approach toHomework",
+        "B": "A Welcomed Policy for Poor Students",
+        "C": "Thorny Questions about Homework",
+        "D": "Wrong Interpretations of an Educational Policy"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| 25. A suitable title for this text could be ____. | 25. 适合本文的标题是____。 |\n| --- | --- |\n| [A] A Faulty Approach to Homework | [A] 对家庭作业的错误处理方法 |\n| [B] A Welcomed Policy for Poor Students | [B] 为贫困学生所欢迎的政策 |\n| [C] Thorny Questions about Homework | [C] 关于家庭作业的一些棘手问题 |\n| [D] Wrong Interpretations of an Educational Policy | [D] 对教育政策的错误解读 |\n\n[精准定位]解答文章主旨题需要纵览全文。本文第一段引出话题，洛杉矶联合学区就家庭作业制定了新政策；第二至四段多角度说明新政存有的问题；第五段做出结论“应暂缓实施新规”。可见全文围绕“家庭作业新政策”展开，着重分析了新政的各种弊端，[A]是对全文内容的恰当概括。\n\n[命题解密] 标题即为全文内容的集中体现，正确的标题应能统领全篇、不含糊其辞；不偏离文章内容、不过大或过窄。[A] 提纲挈领，是对全文内容的恰当概括：Approach to Homework 体现文章讨论主题“洛杉矶联合学区针对家庭作业的新政策”, faulty 体现作者对新政的批评态度。\n\n[B]过窄，政策针对的不仅仅是贫困学生，且文中并未提到贫困学生对新政的欢迎。[C]仅能概括第四段内容，无力涵盖全篇。[D]将原文信息“政策本身模糊不清且自相矛盾”窜改为“人们对政策的误读”。"
+      }
+     ]
+    },
+    {
+     "title": "Text 2",
+     "type": "reading",
+     "passage": [
+      "Pretty in pink: adult women do not remember being so obsessed with the colour, yet it is pervasive in our young girls’ lives. It is not that pink is intrinsically bad, but it is such a tiny slice of the rainbow and, though it may celebrate girlhood in one way, it also repeatedly and firmly fuses girls’ identity to appearance. Then it presents that connection, even among two-year-olds, between girls as not only innocent but as evidence of innocence. Looking around, I despaired at the singular lack of imagination about girls’ lives and interests.",
+      "Girls’ attraction to pink may seem unavoidable, somehow encoded in their DNA, but according to Jo Paoletti, an associate professor of American Studies, it is not. Children were not colour-coded at all until the early 20th century: in the era before domestic washing machines all babies wore white as a practical matter, since the only way of getting clothes clean was to boil them. What’s more, both boys and girls wore what were thought of as gender-neutral dresses. When nursery colours were introduced, pink was actually considered the more masculine colour, a pastel version of red, which was associated with strength. Blue, with its intimations of the Virgin Mary, constancy and faithfulness, symbolised femininity. It was not until the mid-1980s, when amplifying age and sex differences became a dominant children’s marketing strategy, that pink fully came into its own, when it began to seem inherently attractive to girls, part of what defined them as female, at least for the first few critical years.",
+      "I had not realised how profoundly marketing trends dictated our perception of what is natural to kids, including our core beliefs about their psychological development. Take the toddler. I assumed that phase was something experts developed after years of research into children’s behaviour: wrong. Turns out, according to Daniel Cook, a historian of childhood consumerism, it was popularised as a marketing trick by clothing manufacturers in the 1930s.",
+      "Trade publications counselled department stores that, in order to increase sales, they should create a “third stepping stone” between infant wear and older kids’ clothes. It was only after “toddler” became a common shoppers’ term that it evolved into a broadly accepted developmental stage. Splitting kids, or adults, into ever-tinier categories has proved a sure-fire way to boost profits. And one of the easiest ways to segment a market is to magnify gender differences – or invent them where they did not previously exist."
+     ],
+     "questions": [
+      {
+       "number": 26,
+       "stem": "By saying “it is…the rainbow” (Line 3, Para. 1), the author means pink _____.",
+       "options": {
+        "A": "cannot explain girls’ lack of imagination",
+        "B": "should not be associated with girls’ innocence",
+        "C": "should not be the sole representation of girlhood",
+        "D": "cannot influence girls’ lives and interests"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| 26. By saying “it is... the rainbow” (Line 3, Para. 1), the author means pink ____. | 26. 作者讲“它仅仅是彩虹中的一丝颜色”(第一段第三行),是指粉色____。 |\n| --- | --- |\n| [A] cannot explain girls' lack of imagination | [A] 无法成为女孩缺乏想象力的理由 |\n| [B] should not be associated with girls' innocence | [B] 不应该与女孩的纯真相联系 |\n| [C] should not be the sole representation of girlhood | [C] 不应该成为女性的唯一代表颜色 |\n| [D] cannot influence girls' lives and interests | [D] 不能影响女孩的生活和喜好 |\n\n[精准定位] 根据题干定位至首段②句，句意推断题应从其上下文寻找答题线索，考生应该从 but 前内容“倒不是说粉色本身有什么不好”和 and 后内容“粉色在某种程度上能够烘托女孩特质”着手，结合句意“粉色仅仅是彩虹颜色中的一小部分”可推知，粉色并不能烘托出女孩的所有特质，它与女孩之间的联系被强化了，女孩特质应该有除粉色之外的其他代表，她们真正的生活是多姿多彩的，[C]最贴近文意。\n\n[命题解密] 本题考查考生根据上下文理解字里行间含义的能力。正确项[C]与文意为同义改写，representation of girlhood 对应 celebrate girlhood, sole 对应 in one way。\n\n[A]干扰源自段中④句 the singular lack of imagination about girls' lives and interests, 而该句文意实为“关于女孩的生活和爱好，人们只想得到粉色，在色彩上失去了想象力”, 而并非“女孩缺乏想象力”。[B]利用段中③句 as not only innocent but as evidence of innocence 干扰，而该句只是在描述现状时提到粉色不仅将女孩与纯真联系起来，还被当成是纯真的证明，作者不满的是对粉色过度渲染的现状，并未全盘否定粉色与纯真之间的关联。[D]反向干扰，段中①句明确指出女孩的生活中充斥着粉色，女孩的生活和兴趣不受粉色的干扰是不太可能的。\n\nⅡ ① Girls' attraction to pink may seem unavoidable, somehow encoded in their DNA, but according to Jo Paoletti, an associate professor of American Studies, it is not. ② Children were not colour-coded at all until the early 20th century: in the era before domestic washing machines all babies wore white as a practical matter, since the only way of getting clothes clean was to boil them. ③ What's more, both boys and girls wore what were thought of as gender-neutral dresses. ④ When nursery colours were introduced, pink was actually considered the more masculine colour, a pastel version of red, which was associated with strength. ⑤ Blue, with its intimations of the Virgin Mary, constancy and faithfulness, symbolised femininity. ⑥ It was not until the mid-1980s, when amplifying age and sex differences became a dominant children's marketing strategy, that pink fully came into its own, when it began to seem inherently attractive to girls, part of what defined them as female, at least for the first few critical years.\n\n女孩对粉色的青睐看起来似乎是无法避免的，似乎在某种程度上被编码进了她们的 DNA。不过，根据美国研究副教授乔·帕雷提的说法，情况不是这样的。20世纪初以前，儿童根本没有颜色编码：在家用洗衣机问世之前的年代里，出于实用角度，所有婴儿都穿白色衣服，因为将衣服洗干净的唯一方法是将衣服煮沸。而且，男孩、女孩都穿着被认为是中性的衣服。当育儿颜色引入之时，粉色实际上被认为是更具男性特征的颜色，是红色的清淡柔和版，与力量相关。而蓝色象征着女性特征，令人联想到圣母玛利亚，代表着坚贞与忠诚。直到20世纪80年代中期，随着强化年龄和性别差异成为儿童市场主要营销策略时，粉色才盛行起来，开始对女孩产生一种看似固有的吸引力，这让粉色成为定义女性特质的一部分，至少在最初关键的几年里是如此。\n\n**词汇注释与难句分析**\n\nencode v. 编码，加密\n\nassociate a. 副的\n\nassociate professor(副教授)\n\nnursery n. 育儿室，托儿所\n\ndomestic washing machine(家用洗衣机)\n\npastel a. (色彩)淡的，柔和的\n\nas a practical matter(出于实用角度)\n\namplify v. 扩大，增强\n\ngender-neutral dress(中性衣服)\n\nmarketing strategy(市场策略)\n\n**经典搭配**\n\ncome into its own(显示出用处)\n\nencoded in one's DNA(编码至某人 DNA)\n\n功能注释：句子主干为强调句型 It was not until the mid-1980s that pink fully came into its own part。when...strategy 为定语从句修饰 the mid-1980s; when...girls 既补充说明了 the mid-1980s,同时也解释了 fully came into its own 的时间；at least for...years 补充说明 fully came into its own 的时间。\n\n**语篇分析**\n\n第二段分析现象产生的原因：(女孩痴迷粉色)与其 DNA 无关，而与儿童市场营销策略有关。关键词为：a dominant children's marketing strategy。\n\n①句(段落主旨句)借用专家之言反驳人们惯常看法，指出女孩痴迷粉色与其 DNA 无关。\n\nbut 前分句指出人们对女孩痴迷粉色的惯常看法：似乎由女孩基因决定、无法避免。somehow encoded in their DNA 补充说明 may seem unavoidable:“痴迷粉色”似乎以某种方式蕴藏在女孩的 DNA 中，所以不可避免。需注意作者通过 may(或许)、seem(看起来似乎是)两词“暗留余地”,暗示该看法很可能会被推翻。but 后分句转而引出专家对上述观点的否认：事实并非如此。It is not 以省略句式断然否定上述“女孩痴迷粉色先天论”,其完整形式为 It (Girls' attraction to pink) is not unavoidable...。\n\n②至⑥句追古溯今，解释说明①句，并最终引出女孩痴迷粉色的真正原因：儿童市场营销策略所致。(not)until the early 20th century... When nursery colours were introduced... not until the mid-1980s... 展现本段以时间为轴的论述逻辑。\n\n②③句回溯至20世纪初之前(not...until the early 20th century)情形，说明当时情形和如今情形有天壤之别，有力驳斥“女孩痴迷粉色先天论”。What's more 体现两句间语意递进逻辑关联。\n\n②句指出儿童并无任何颜色编码：并未与“某种颜色”有特殊关联，而仅出于实用考虑穿白色衣服。\n\n冒号前 not colour-coded at all 直接还击①句 somehow encoded in their DNA，明确指出女孩痴迷粉色与 DNA 无关；not... until the early 20th century 在否定二十世纪初之前儿童并无颜色编码的同时，反向暗示自此之后逐渐有了颜色编码。\n\n冒号后补充指出当时孩子们都穿白色衣服，并以 as a practical matter(as a matter of sth 意为“处于某一方面的考虑”），since... 形成的因果链指出：这无关“对某种颜色（白色）的偏好”，而仅仅是“出于实用角度的考虑”（当时的“水煮”清洗衣物方式更适用于白色衣物）。\n\n③句进一步指出，男孩女孩所穿的白色衣服被看做是“中性色彩”，即：并不强调男女性别差异。gender-neutral 强调当时“色彩没有性别含义”的情形，和当今情形“提到女孩便想到粉色”大相径庭。\n\n④⑤句将时间拉近至“育儿颜色引入之时”的情形(When nursery colours were introduced)。当时情形“儿童有了一定颜色编码，但粉色为男孩代表颜色，蓝色才是女孩代表颜色”进一步否认了“女孩天生爱粉色”的说法。pink/masculine(男性，男子汉气概)和 blue/femininity(女性，女子柔弱型)两相呼应。\n\n④句指出当时粉色被认为是男性的颜色。actually (used to emphasize the real or exact truth of a situation, rather than what people may think“(用于强调真实的情况)实际上，事实上”)一词凸显颜色代表意义的今昔变化“过去，粉色更多地代表男性气质 VS 现在，粉色完全成为女性气质代表色”,表明“随时间推移，粉色的性别象征发生了根本变化”,再次反驳了“女孩痴迷粉色因其基因所致、无可避免”这一观点。a pastel version...形为解释 pink,实则说明“粉色被用于代表男性气质”的原因：粉色被认作红色的柔和版，而红色代表的是力量。\n\n⑤句指出当时蓝色被认为是女性的颜色。插入语中用 constancy(忠实，忠贞)和 faithfulness(忠贞)说明 the Virgin Mary(圣母玛利亚)的象征意义“忠贞不渝”,从而解释“将蓝色视为女性颜色”的原因。\n\n注：intimation 意为 an indirect or unclear sign that sth may happen“暗示，提示”,此处形式上似乎只与 the Virgin Mary 相连，而事实上，其语义辖域范围至 Mary 之后的 constancy and faithfulness,故而可将其视作与两类不同性质的名词相连(the Virgin Mary 为人名，constancy and faithfulness 为性格色彩表达词),展现其共通之处“忠贞”。\n\n④⑤句作者详述了“用粉色作为男孩代表色、将蓝色作为女孩代表色”的原因，深层暗示其观点：虽然这种做法与“将粉色认定为女孩色彩”都是在将“儿童性别”与“色彩”相关联，但相较而言，前者更有文化传承、更自然（后者具有更强的“外力强加性”）。\n\n**真题精解**\n\n⑥句再次将时间拉近，进入对“20世纪80年代中期（not until the mid-1980s）”情形的描述，女孩痴迷粉色的原因真相大白：儿童市场营销策略作用所致。\n\n强调句型 It was not until the mid-1980s... that pink fully came into its own... 凸显“粉色成为女孩代表色”现象形成的时间点“1980年代上期”; fully come into its own 意为“完全盛行起来”, 对应本文讨论现象“粉色成为女孩的代表色”。另外，本句暗中解开首句谜团“成年女性为什么不记得自己曾痴迷粉色”: 在她们的儿童期，粉色尚未(在女孩中)盛行。\n\n第一个 when 从句修饰 the mid-1980s，指出当时儿童市场营销策略特征“以强化年龄差异和性别差异为主导”，传达“儿童市场营销策略”与“粉色成为女性代表色”之间的因果关联。\n\n第二个 when 从句对主句做补充说明。when 可理解为“当时、在那时”；从句主干 it began to seem inherently attractive to girls 进一步说明主句中 pink fully came into its own, part of what defined them as female 则再进一步修饰从句主干，三者共同凸显自 1980 年代中期持续到现在的现象“粉色在女孩中盛行；对女孩具有不可抵挡的吸引力，且成为定义女孩的颜色”。at least for the few critical years 补充指出“至少在女孩最初的关键几年里粉色起着定义女性的作用”，the first few critical years 指女孩开始意识到自己的“女孩”身份的几年间，从本文来看应该是始于两三岁的幼儿期。\n\n本段关注要点：本段对不同时间段颜色的性格象征作用进行了详细阐述，细节信息较多，注意一方面要“与时俱进”(抓住“时间轴”),另一方面要“关注颜色”(粉色—白色—蓝色、粉色—粉色)。"
+      },
+      {
+       "number": 27,
+       "stem": "According to Paragraph 2, which of the following is true of colours?",
+       "options": {
+        "A": "Colours are encoded in girls’ DNA.",
+        "B": "Blue used to be regarded as the colour for girls.",
+        "C": "White is preferred by babies.",
+        "D": "Pink used to be a neutral colour in symbolising genders."
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| 27. According to Paragraph 2, which of the following is true of colours? | 27. 根据第二段，下面关于颜色的表述哪一个正确？|\n| --- | --- |\n| [A] Colours are encoded in girls' DNA. | [A] 对色彩的喜爱是由女孩的 DNA 决定的。 |\n| [B] Blue used to be regarded as the colour for girls. | [B] 蓝色过去被认为是代表女孩的颜色。 |\n| [C] White is preferred by babies. | [C] 婴儿更喜欢白色。 |\n| [D] Pink used to be a neutral colour in symbolising genders. | [D] 在代表性别的颜色中，粉色曾是个中性颜色。 |\n\n[精准定位] 第二段⑤句明确指出，蓝色由于与圣母玛利亚联系在一起，带有坚定忠诚的意义，被用来代表女性。[B]符合文意。\n\n[命题解密] 本题考查考生理解和把握文中具体细节信息的能力。正确项[B]同义改写第二段⑤句 Blue...symbolised femininity, the colour for girls 对应 symbolised femininity。\n\n[A]反向干扰，干扰源自段中①句“女孩痴迷粉色由其 DNA 决定”，而文意表明，这只是一种观点，而且事实证明，这个观点是错误的。[C]扭曲文意，利用段中②句 all babies wore white 干扰，而该句实际表明婴儿对色彩没有特别偏好（not colour-coded at all），只是为了洗衣方便才给婴儿选用白色做衣服（to boil them）。[D]语义杂糅，将段中③④句内容合二为一，而文意实为“粉色以前代表男性，与力量关联”。\n\nⅢ ① I had not realised how profoundly marketing trends dictated our perception of what is natural to kids, including our core beliefs about their psychological development. ② Take the toddler. ③ I assumed that phase was something experts developed after years of research into children's behaviour: wrong. ④ Turns out, according to Daniel Cook, a historian of childhood consumerism, it was popularised as a marketing trick by clothing manufacturers in the 1930s.\n\n我之前并没有意识到，我们对儿童天性的看法深受市场营销趋势支配，其中包括我们对儿童心理发展的核心观念。以学步期为例，我曾以为这一阶段是专家经过多年儿童行为研究后界定出来的；其实不然。研究儿童消费主义的历史学家丹尼尔·库克指出，这一概念是20世纪30年代服装制造商以营销手段推广开来的。\n\n**词汇注释与难句分析**\n\ndictate v. 控制，支配\n\ncore belief(核心观念)\n\ntoddler n.幼童\n\npsychological development(心理发展)\n\nconsumerism n. 消费主义\n\nturn out(结果是)\n\n**经典搭配**\n\nmarketing trick(营销技巧)\n\nmarketing trend(营销趋势)\n\nclothing manufacture(服装制造商)\n\n**语篇分析**\n\n第三、四段提升讨论层面，深层分析现象背后透露的本质：儿童消费市场受到商家营销策略的支配。第三段承接第二段末句扩展分析指出，商家营销趋势支配了人们对儿童天性的认知。关键词为：how profoundly marketing trends dictated。\n\n句(段落主旨句)承上指出市场营销趋势支配了人们对儿童天性及心理发展的认知。句中 I had not realized “以前未知”传递并凸显“当前新知”，how profoundly dictated(profoundly 意为 having a strong influence or effect“(影响)深刻的，极大的”；dictated 意为 to control or influence sth“影响，决定”)传达“影响之深令人讶异”之意，二者共同强调凸显作者观点：商家营销趋势深度影响、甚至支配了人们对儿童天性、儿童心理的认知。including our core beliefs about...development 补充说明 our perception of what is natural to kids，凸显营销趋势的影响，映射前文现象“人们对女孩的兴趣爱好只局限于粉色这一认知，且认为此乃基因决定”，并深层暗示这一认知的错误性。\n\n句再举他例证明①句结论：人们广泛接受“学步儿童阶段”这一概念只是因为受到20世纪30年代服装制造商市场营销策略的影响。\n\n句 Take the toddler(for example)言简意赅，引出事例“学步儿童”。\n\n句作者现身说法，指出自己对该阶段儿童的错误认知：认为“学步儿童阶段”的界定来自于专家对儿童行为的多年研究。句中 that phase 指代②句中“学步儿童阶段”；assumed (to think that sth it true, although you do not have definite proof“假定，认为”)一词暗示包括作者本人在内的人们对儿童的认知缺乏确凿证据，存在偏差；起评注性作用的冒号后引入 wrong，直截了当点明该认知大错特错。\n\n句引证指出“学步儿童阶段”这一概念的真正推行者：不过是服装制造商们营销策略的结果而已。Turns out 为 It turns out... 的口语化表达，引出“学步儿童”的真正来源；popularise (to make a difficult subject or idea able to be easily understood by ordinary people who have no special knowledge about it“使大众化，普及”)一词展示变化：原本大众并不了解“学步儿童阶段”这一概念，服装生产商们的营销把戏使得这一概念为大众所知晓。marketing trick(营销花招，trick 意为 a way of doing sth that works well but may not be easy to notice“技巧，花招”)形象说明服装商的巧妙营销：通过潜移默化、让人们不知不觉中接受这一概念。句中 a historian of childhood consumerism(研究儿童消费主义的历史学家)补充说明 Daniel Cook 的身份，实际暗示这是对儿童消费历史的研究得出的结论，具有很高可信度。\n\n本段关注要点有：本段从作者自身角度(“I”)指出人们对儿童天然认知受到营销趋势的影响，同时借助例证法加以鲜活展现，并辅以专家言语使其观点更具有可信度。但此段中依然留有悬疑——服装商为什么要致力于让大众接受“学步儿童阶段”这一概念？下文很可能会进一步解释。"
+      },
+      {
+       "number": 28,
+       "stem": "The author suggests that our perception of children’s psychological development was much influenced by _____.",
+       "options": {
+        "A": "the observation of children’s nature",
+        "B": "the marketing of products for children",
+        "C": "researches into children’s behaviour",
+        "D": "studies of childhood consumption"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| 28. The author suggests that our perception of children's psychological development was much influenced by ____.[A] the observation of children's nature | 28. 作者认为我们对儿童心理发展的认知深受____的影响。 |\n| --- | --- |\n| | [A] 对儿童本性的观察 |\n| [B] the marketing of products for children | [B] 儿童产品的市场营销 |\n| [C] researches into children's behavior | [C] 对儿童行为的研究 |\n| [D] studies of childhood consumption | [D] 对儿童消费的研究 |\n\n[精准定位] 根据题干 our perception of children's psychological development 定位至第三段①句。该句明确指出，市场营销的趋势很大程度上决定了人们对儿童心理发展的认知，随后以学步儿童阶段例证，人们广泛接受这一阶段仅由于受20世纪30年代服装制造商的市场营销策略的影响。因此，[B]正确。\n\n[命题解密] 本题考查根据细节信息进行推理判断的能力。题干+正确项[B]是对第三段①句的同义替换，题干中 much 对应 profoundly, influenced 对应 dictated, 选项中 marketing 对应 marketing trends。\n\n[A]内容实际与题干关键词 our perception... development 属于同级并列关系，两者都受到市场营销策略的影响。[C]反向干扰，段中③句指出作者原以为对儿童心理发展的阶段界定来自于专家对儿童行为的多年研究，但结果证明这种想法是完全错误的。[D]无关干扰，干扰源自段中④句 childhood consumerism，但这是对专家身份的补充说明，不能将其理解为对人们关于儿童心理发展的认知有影响。\n\nIV ① Trade publications counselled department stores that, in order to increase sales, they should create a “third stepping stone” between infant wear and older kids’ clothes. ② It was only after “toddler” became a common shoppers’ term that it evolved into a broadly accepted developmental stage. ③ Splitting kids, or adults, into ever-tinier categories has proved a sure-fire way to boost profits. ④ And one of the easiest ways to segment a market is to magnify gender differences — or invent them where they did not previously exist. [408 words]\n\n贸易出版物建议百货商店：要增加销量就应该在婴儿服装和稍大一些孩子的服装之间创建“第三跳板”。直到“蹒跚学步儿童”变成一个常见购物者用语之后，这一“第三跳板”才演变为人们普遍认可的儿童发展阶段。将儿童或者成年人细分为更小的类别已经被证实一定能使商家增加利润。而对市场进行细分的一个最简单办法就是放大性别差异——或者当性别差异并非明显存在时创造出性别差异。\n\n**词汇注释与难句分析**\n\ncounsel v. 建议\n\nsplit v. 分裂，分开\n\nsegment v. 分割，划分，细分\n\nmagnify v. 放大，扩大\n\n**经典搭配**\n\ntrade publication(贸易出版物)\n\ndepartment store(百货商店)\n\nincrease sales(增加销售额，增加业绩)\n\nstepping stone(踏脚石，跳板)\n\nshoppers' term(购物者用语)\n\na sure-fire way to... (……的绝佳办法)\n\nboost profits(提高利润)\n\nsegment a market(细分市场)\n\n**语篇分析**\n\n第四段进一步指出细分市场是商家追逐利润的绝佳办法，而最简单的细分方式就是放大性别差异，从而彻底明确“女孩痴迷粉色”现象成因。关键词为：a sure-fire way to boost profits。\n\n①②句承接第三段，说明服装商家为什么要使“学步儿童阶段”为大众普遍接受：提高销售额。\n\n①句以 in order to increase sales 明确商家创建“学步儿童阶段”的目的——提高销售额；a “third stepping stone”（第三块踏脚石）喻指“学步儿童阶段”，凸显其在服装商眼中“利益新源头”的作用：在原本仅有“婴儿服装”和“儿童服装”的情形下，开辟出“学步儿童服装”这一新领地，以增加销售、提高利益。\n\n②句指出上述做法(创建“第三块踏脚石”)之下的结果，体现本文提及“学步儿童”事例的目的(回应第三段①句):在商家的不断推广下，“学步儿童”逐渐由“商家的第三块踏脚石”变成了“人们普遍认可的儿童发展阶段”（即：商家的营销趋势主导了人们对儿童天性，包括对儿童心理发展的认知）。句中第二个 it 回指a third stepping stone，即指 toddler 这一发展阶段；broadly accepted 呼应上段末句 popularised 一词；it evolved into a broadly accepted developmental stage 则和上段①句 our core beliefs about their psychological development 遥相呼应，体现“学步儿童”事例的证明对象。\n\n③④句由个例上升到普遍，直击上述市场营销策略的根本：细分市场，扩大性别和年龄差异。\n\n③句指出细分市场是增加利润的绝佳办法。本句 Splitting... into ever-tinier categories 和 to boost profits 分别对应①句 create a “third stepping stone” between infant wear and older kids’ clothes 和 in order to increase sales，暗示①②句与③④句两个层次间“个案—普遍”的语意逻辑；sure-fire[“(非正式)一定能成功的”]强调“细分市场”是“增加利润”万无一失的策略，说明商家执着于此的原因。\n\n④句递进(And)指出细分市场的最佳方式——扩大性别差异，回应“女孩痴迷粉色”现象，最终明确其成因。One of the easiest ways 引出细分市场的最简单易行的方式——扩大性别差异(magnify gender differences)，即，强调男人/女人、男孩/女孩、甚至男孩/男人，女孩/女人之间的差异，直击本文主要讨论现象“由于商家营销策略的影响，女孩痴迷于粉色，并以此表明自己的‘女孩’身份。破折号后更是一语惊醒门外人：营销策略者们在即便不存在性别差异之处也要凭空生造出性别差异来，从而印证第二段观点“世上本无粉色代表女孩之说，后来商家通过创造差异获得更大利益，同时也催生了大众观念中的粉色代表女孩之说”，实现文章结构层次上的契合。\n\n[原文说明] 真题文章末两句话实际是由原文文章的一个过渡段而来，该过渡段只有两句话：第一句话(即真题末段③句)是承接上文 Toddler 而来(细分市场); 而第二句话(即真题末段④句)开启下文(扩大性别差异), 详细解释粉色如何经由商家的“性别扩大化”营销策略逐渐变成女孩代表色的。\n\n[词义辨析] ① clothes VS clothing VS cloth VS wear: clothes 指穿的衣服，如 I need some new clothes. (我需要几件新衣服); 讲到某一种衣服或服装的制作销售时要用 clothing, 如 a clothing manufacturer(服装制造商); cloth 指的是做衣服的布料，如 a suit made from fine woolen cloth(用上好的毛料做的套装); wear 指的是在某个场合或某个群体穿的衣服，服装，如 infant wear(婴儿服)。\n\n②infant VS baby VS kid VS child: infant 意为 a baby or very young baby“婴儿，幼儿（比 baby 更小）”; baby 意为 a very young child who has not yet learned to speak or walk“婴儿（小孩，还未学会说话或走路）”; kid 意为 informal a child“(child 的非正式用法) 小孩，儿童”; child 意为 someone who is not yet an adult“(针对成人而言) 儿童，小孩”。"
+      },
+      {
+       "number": 29,
+       "stem": "We may learn from Paragraph 4 that department stores were advisedto _ .",
+       "options": {
+        "A": "classify consumers into smaller groups",
+        "B": "attach equal importance to different genders",
+        "C": "focus on infant wear and older kids’clothes",
+        "D": "create some common shoppers’ terms"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n| 29. We may learn from Paragraph 4 that department stores were advised to ____. | 29. 从第四段我们可推知，百货商店被建议____。 |\n| --- | --- |\n| [A] classify consumers into smaller groups | [A] 将顾客细分为更小的群体 |\n| [B] attach equal importance to different genders | [B] 对不同性别都重视 |\n| [C] focus on infant wear and older kids' clothes | [C] 将重心放在婴儿服装和大龄儿童服装上 |\n| [D] create some common shoppers' terms | [D] 创造出一些购物者的用语 |\n\n[精准定位]根据题干关键词 department stores were advised to 可直接定位至第四段，段中①句指出百货商店被建议在婴儿服装和大龄儿童服装之间创造一个“第三跳板”，紧跟着③句明确指出，把孩子或大人再细分为更小的类别是增加利润的一个万无一失的办法，选项[A]与文意相符，故正确。\n\n[命题解密]本题考查考生对文中具体细节信息的理解和把握能力。正确项[A]为段中①③句的综合，classify consumers into smaller groups 实际对应①句中 create a “third stepping stone” between infant wear and older kids’ clothes 以及③句中 Splitting kids, or adults, into ever-tinier categories。\n\n[B]干扰源自段中④句 magnify gender differences, 而该句只是提出将市场细分的一个最简单办法就是放大性别差异，并没有信息表明对不同性别的重视程度要一样。[C]曲解文意，利用段中①句 between infant wear and older kids' clothes 干扰，而该句仅表述“由商家创造出来的学步儿童这个阶段介于婴儿与大龄儿童之间”，并未传达“重点关注婴儿服装与大龄儿童服装”之意。[D]偷换概念，干扰来自于段中①句 create 及②句a common shoppers' term，而文意表明，销售术语是百货商店在接受细分消费群体建议之后的附带结果，重心在细分消费群体，而不是在用词上予以创新。"
+      },
+      {
+       "number": 30,
+       "stem": "It can be concluded that girls’ attraction to pink seems to be ___.",
+       "options": {
+        "A": "fully understood by clothing manufacturers",
+        "B": "clearly explained by their inborn tendency",
+        "C": "mainly imposed by profit-driven businessmen",
+        "D": "well interpreted by psychological experts"
+       },
+       "answer": "C",
+       "explanation": "· 全局真题精解 ·\n\n> **答案：** C\n\n| | |\n| --- | --- |\n| 30. It can be concluded that girls' attraction to pink seems to be ____. | 30. 可推断出，女孩痴迷粉色____。 |\n| [A] fully understood by clothing manufacturers | [A] 服装制造非常了解女孩喜欢粉色这个事实 |\n| [B] clearly explained by their inborn tendency | [B] 女孩喜欢粉色是由她们的天性所决定的 |\n| [C] mainly imposed by profit-driven businessmen | [C] 主要是被追求利润增长的商人强加而来的 |\n| [D] well interpreted by psychological experts | [D] 心理学家给出了很好的诠释 |\n\n[精准定位]文章开篇描述了粉色主宰了现代女孩生活的现状，随后究其原因，指出不是基因决定了女孩对粉色的痴迷，而是由于商人为了追求利润增长而采取的营销策略所导致的。文章从第二段起就开始出现诸如 marketing strategy、marketing trends、market trick、segment a market 等关键词，都一致强调了市场营销策略的影响力。选项[C]符合全文主旨要义。\n\n[命题解密] 本题考查考生理解全文主旨要义的能力。[C]是全文主旨要义的最简要概括。\n\n[A]曲解文意，服装制造商并未研究和了解女孩对色彩的喜好，只为了增加利润而强化了性别差异，从而使得女孩对粉色痴迷。[B]反向干扰，第二段①②句明确指出女孩痴迷粉色与其 DNA 无关。[D]仅靠第三段①句 psychological 一词干扰，而文中并未提及任何心理学家字眼，也未提出心理学家的诠释。\n\n| 30. It can be concluded that girls' attraction to pink seems to be ____. | 就“女孩青睐粉色”现象所得出的结论。 |\n| --- | --- |\n\n问题速览：由第 26、27、30 题题干关键词 rainbow(彩虹色)、pink(粉色)、colours(颜色)、girls' attraction to pink(女孩对粉色的青睐)可推知本文围绕“颜色”及“女孩对粉色的青睐”展开论述。\n\n问题解读：①第26题考查句意理解，由该题可知，所考句对“粉色”进行了论述；②第27题暗示，第二段围绕“颜色(其中应该包括粉色)”展开论述；③第28题表明，文中介绍了影响“人们对儿童心理发展认知”的因素，结合文章主题可知，这可能与“颜色”相关；④第29题表明第四段介绍了百货商场曾被建议做什么；⑤第30题考查文章主旨要义，且暗示本文主要就“女孩对粉色的青睐”发表看法。\n\n问题总结：通过上述分析可知，本文围绕“颜色”及“女孩对粉色的青睐”展开，探讨了儿童心理发展与颜色之间的关联，以及颜色与商家营销之间的关联。\n\n**二、语篇分析及试题精解**\n\nI ① Pretty in pink: adult women do not remember being so obsessed with the colour, yet it is pervasive in our young girls' lives. ② It is not that pink is intrinsically bad, but it is such a tiny slice of the rainbow and, though it may celebrate girlhood in one way, it also repeatedly and firmly fuses girls' identity to appearance. ③ Then it presents that connection, even among two-year-olds, between girls as not only innocent but as evidence of innocence. ④ Looking around, I despaired at the singular lack of imagination about girls' lives and interests.\n\n穿粉色好看：成年女性不记得自己曾如此痴迷这种颜色，然而它却充斥着我们年轻女孩的生活。并不是粉色本身不好，而是它只是七色彩虹中那么一丝而已。虽说粉色在某种程度上能为少女时代添色，但它也一而再地，强有力地将女孩特质与其外表相熔合。此后，粉色就呈现出女孩间，甚至两岁女孩间的共性：纯真，而且粉色也被当成了女孩纯真的证明。环顾四周，我绝望地发现，人们对女孩生活和兴趣的想象是如此地贫乏。\n\n**词汇注释与难句分析**\n\npervasive a. 普遍的，无处不在的\n\nintrinsically ad. 从本质上(讲)\n\ncelebrate v. 表扬、歌颂\n\nfuse v. 使熔合\n\nsingular a. 突出的，非凡的\n\n**经典搭配**\n\npretty in pink(穿粉色好看，粉红佳人)\n\nbe obsessed with...（痴迷于……）\n\nbe pervasive in... (充斥于……)\n\na tiny slice of... (……的一小片)\n\nfuse...to...（将……和……熔合在一起）\n\nsingular lack of imagination(纯粹缺乏想象力)\n\n**语篇分析**\n\n第一段描述现象“粉色充斥着年轻女孩的生活，成为女孩生活的唯一代表色”，并表明作者对现象的不满与担忧。关键词为：①pretty in pink；②despaired。\n\n①句引出现象。冒号起解释说明作用。\n\n冒号前 Pretty in pink(粉色≈佳人，粉色≈漂亮)一语双关，一方面展示一幅“粉红佳人”的唯美画面，另一方面以其文字浅层含义“穿粉色很漂亮”引出“粉色”这一文章主题关键词。注：Pretty 既可表达“美人，佳人”之意，也可以表达“漂亮的”之意；pink 代指“粉红色衣服”。\n\n冒号后对比介绍粉色在“成年女性”与“年轻女孩”生活中截然不同的地位：一方面重在说明“粉色在年轻女孩中的盛行”，解释冒号前 Pretty in pink（年轻女孩们视穿粉色为美、痴迷于粉色）；另一方面深层暗示“仅仅一代之隔，粉色便出现了巨大的文化价值差异”，说明现象奇特，暗示必有特殊成因。\n\n两个形容词 obsessed“（含贬义）痴迷的/困扰的”、pervasive“（某物，尤其不好之物）遍布的，四处弥漫的”均呈现贬义色彩，实际矛头均指向年轻女孩，传递作者对女孩痴迷粉色这一现象的不赞同态度。\n\n②③句作者在评论中进一步凸显现象。Then, that connection 体现句间语义逻辑关联。\n\n②句首先指出“粉色”与“女孩”之间的联系被强化了。\n\nIt is not that... but... 正反(but)指出：粉色不是不好，但它只是众多颜色中的一色而已。it is such a tiny slice of the rainbow(它只是七色彩虹中那么一丝而已)以比喻手法表明作者观点：除粉色之外，还有许许多多其他颜色，即：年轻女孩的生活本应多彩多姿，不该让粉色成为唯一代表。\n\nthough it may... it also... (两个 it 均指代 pink) 正反 (though) 指出：粉色虽说在某种程度上烘托了\n\n少女气质，但它却（错误地）一再将女孩特质等同于其外表。though (used to introduce a statement that makes the main statement coming after it seem surprising, unlikely, or unexpected “虽然，尽管”) 在让步承认“粉色能够为少女时代增色”之时，重在强调“粉色在一而再，再而三，且强有力地将少女特质与外表相结合”这一令人震惊又始料未及的负面效果，表明作者对“粉色成为少女唯一代表色”的不认同；同时深层传达出“也许一开始粉色和女孩之间并无如此强烈关联”之意，反衬①句“一代人的时间间隔里，粉色文化变化巨大”。句中 in one way 与 repeatedly and firmly 相较，使前者相形见绌：虽然粉色从某种意义上能起到“为少女时代添色”的作用，但这一作用却已淹没于其弊端“过度将女孩特质与其外表相连”。\n\n注：句中 celebrate 本义为“庆祝，祝贺”, 此处根据语境引申为“为……增色，烘托”; identity 意为“(区别人或群体的)特性”, girls' identity 指 “女孩特质、定义女孩这一群体的典型特征”; fuse A to B 本义为“将 A 融于 B 中”, fuses girls' identity to appearance 意为“将女孩特质等同于外表特征”, 也即“将特质与外表混为一谈”, 隐晦传达作者否定态度。\n\n③句进一步指出随后情形(Then):粉色完全成为了女孩的象征。句中 it 依然指代 pink; that connection 回指②句“女孩特质和外表之间的强关联”;谓语部分可简单视为 present sth as sth(将……展现为……)结构：粉色一而再且强有力地将少女特质与外表相结合(提及“少女”便会想到“粉色衣饰”;少女≈粉色衣饰),并最终将这种融合不仅展现为“纯真”,还当成“纯真的证明”,即：女孩特质被混同于女孩外表，粉色既体现女孩外表的纯真，也表明女孩特质即为纯真，还被当成了女孩纯真的证明，言外之意：粉色已与女孩密不可分，完全成为了女孩的代表色(少女≈粉色≈纯真)。\n\n注：句中为了避免用词重复，用 between 行使 among 功能：between 此处并非表示“二者之间”,而是意为“多人之中(共有的现象)”,具体含义为 used to say which people or things get, have, or are involved in something that is shared“在……之间分享或共同参与(的现象或行为)”。\n\n④句总结评价现象，集中展现作者不满。作者借助 Looking around, I despaired at... 转上文“置于事外”的行文角度到“置身事里”，就上述现象及本质明确自身情感态度：非常失望。the singular lack of imagination about girls' lives and interests 即为对上文内容的提炼：人们将粉色当作少女生活的代表、认为女孩只对粉色感兴趣；一提到女孩，想到的便是粉色、纯真。singular(literary very unusual or strange “(文)异常的，奇异的”)一词凸显作者观点：这是一种奇怪的、不正常的现象。"
+      }
+     ]
+    },
+    {
+     "title": "Text 3",
+     "type": "reading",
+     "passage": [
+      "In 2010, a federal judge shook America’s biotech industry to its core. Companies had won patents for isolated DNA for decades – by 2005 some 20% of human genes were patented. But in March 2010 a judge ruled that genes were unpatentable. Executives were violently agitated. The Biotechnology Industry Organisation (BIO), a trade group, assured members that this was just a “preliminary step” in a longer battle.",
+      "On July 29th they were relieved, at least temporarily. A federal appeals court overturned the prior decision, ruling that Myriad Genetics could indeed hold patents to two genes that help forecast a woman’s risk of breast cancer. The chief executive of Myriad, a company in Utah, said the ruling was a blessing to firms and patients alike.",
+      "But as companies continue their attempts at personalised medicine, the courts will remain rather busy. The Myriad case itself is probably not over. Critics make three main arguments against gene patents: a gene is a product of nature, so it may not be patented; gene patents suppress innovation rather than reward it; and patents’ monopolies restrict access to genetic tests such as Myriad’s. A growing number seem to agree. Last year a federal task-force urged reform for patents related to genetic tests. In October the Department of Justice filed a brief in the Myriad case, arguing that an isolated DNA molecule “is no less a product of nature…than are cotton fibres that have been separated from cotton seeds.”",
+      "Despite the appeals court’s decision, big questions remain unanswered. For example, it is unclear whether the sequencing of a whole genome violates the patents of individual genes within it. The case may yet reach the Supreme Court.",
+      "As the industry advances, however, other suits may have an even greater impact. Companies are unlikely to file many more patents for human DNA molecules – most are already patented or in the public domain. Firms are now studying how genes interact, looking for correlations that might be used to determine the causes of disease or predict a drug’s efficacy. Companies are eager to win patents for “connecting the dots,” explains Hans Sauer, a lawyer for the BIO.",
+      "Their success may be determined by a suit related to this issue, brought by the Mayo Clinic, which the Supreme Court will hear in its next term. The BIO recently held a convention which included sessions to coach lawyers on the shifting landscape for patents. Each meeting was packed."
+     ],
+     "questions": [
+      {
+       "number": 31,
+       "stem": "It can be learned from Paragraph 1 that the biotech companies would like .",
+       "options": {
+        "A": "genes to be patentable",
+        "B": "the BIO to issue a warning",
+        "C": "their executives to be active",
+        "D": "judges to rule out gene patenting"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n| 31. It can be learned from Paragraph 1 that the biotech companies would like ____. | 31. 从第一段可知，生物技术公司希望____。 |\n| --- | --- |\n| [A] genes to be patentable | [A] 基因可申请专利 |\n| [B] the BIO to issue a warning | [B] BIO 发布一项警告 |\n| [C] their executives to be active | [C] 其管理者活跃起来 |\n| [D] judges to rule out gene patenting | [D] 法官废除基因专利 |\n\n[精准定位]本题问的是第一段所表明的“生物技术公司意愿”。该段指出，法官裁决“基因不可申请专利”，这令生物科技公司极度不安。生物科技组织(BIO)向成员们保证“这只是一场持久战争的第一步”。由此可反向判断，生物技术公司希望“基因可申请专利”，[A]选项正确。\n\n[命题解密] 本题考查对文中具体信息的理解把握。题干+ [A]= the biotech companies would like genes to be patentable, 是对文中信息(The biotech) Executives were violently agitated (by the rule) that genes were patentable 的反向同义改写，正确把握了生物科技公司对首段法官裁决的反应。\n\n[B]将 BIO... assured members that was just a “preliminary step” in a longer battle 错误理解为“生物技术公司希望 BIO(向他人)发出警告”。该选项错误有二：①原文说明的是“BIO 的主动行为”，与“生物技术公司”的意愿无关；②that was a “preliminary step” in a longer battle(这只是一场长期斗争的“第一步”)并非是 BIO“向他人发出的警告”，而是“对自己成员的保证、安慰”。[C]利用文中提及对象 executives 形成干扰，但“高管们更加积极活跃(be active)”在文中没有体现。[D]是对 a judge ruled that genes were unpatentable(法官裁定基因不可申请专利)的断章取义，若考生没有把握生物科技公司对这一裁决的极度不满态度(shocked, agitated)，则容易误选此项。\n\nⅡ ① On July 29th they were relieved, at least temporarily. ② A federal appeals court overturned the prior decision, ruling that Myriad Genetics could indeed hold patents to two genes that help forecast a woman's risk of breast cancer. ③ The chief executive of Myriad, a company in Utah, said the ruling was a blessing to firms and patients alike.\n\n7月29日，他们如释重负，至少暂时如此。联邦上诉法院推翻了先前判决，裁决 Myriad Genetics 公司的确可以拥有两项帮助预测女性乳腺癌风险的基因专利。位于犹他州的 Myriad 公司的执行总裁认为，这一裁决无论对于公司还是对于病人都是一种福音。\n\n**词汇注释与难句分析**\n\nfederal appeals court 联邦上诉法院\n\noverturn v. 使倾覆，打翻\n\nprior a. 先前的，较早的\n\nrule v. 判决，裁定\n\nblessing n. 幸事，幸运，福气\n\n**经典搭配**\n\nalike ad. 同样都(用于强调刚刚提及的两者)\n\nat least temporarily（至少暂时如此）\n\noverturned the prior decision(推翻先前判决)\n\nhold patents to...（持有……的专利）\n\na blessing to... (……的福音)\n\n**语篇分析**\n\n第二段进而介绍最新(2011年)判决结果“分离的基因可申请专利，Myriad 可持有其两项基因专利”及其影响“对(生物技术)公司或个人都是福音”。关键词为：① overturned the prior decision; ② a blessing。\n\n①句转承上文指出生物技术公司等安心了。句中 On July 29th、they（指代首段包含 executives, companies, members 等在内的群体）were relieved 分别照应上段 in March 2010, Executives were violently agitated, 阐述事件最新进展：生物技术行业等人群情绪已由“极度不安”转为“如释重负”, 暗示案件出现转机；at least temporarily 则暗藏“最终情形仍难以明朗，很可能会再次变化”之意，为下文“法庭仍相当忙碌，案件尚未结束”埋伏笔。\n\n②句借说明①句他们安心的原因引出新判决。句中 overturned（to change a decision or result so that it becomes the opposite of what it was before“推翻决定/裁决等”）明确表明此次裁决与此前裁决截然相反，ruling that... to two genes 补充说明此次裁决的内容：Myriad 公司的确可以持有两项基因专利；由此前推，首段所述裁决应该也与 Myriad 公司基因专利有关，这就是本“语篇分析”将首两段处理为“介绍 Myriad 案情”的原因：首段为地方法院的初审结果，第二段为上诉法院的二审结果；indeed (used to emphasize a statement or an answer“(用于强调陈述或回答)当然，确实”)一词突出强调联邦上诉法庭对此次判决的“坚持、确信”：Myriad 公司所持两项专利完全有效；嵌套式定语从句 that help... 补充说明 Myriad 公司所持两项基因专利的医疗效果：帮助预测女性乳腺癌风险。\n\n③句进而说明②句新裁决的影响。该句从文字来看，似仅限于 Myriad 公司执行总裁的看法，而事实上，他代表整个生物技术行业。a blessing to firms and patients alike 传达的文意为：基因专利既保证了生物科技公司的利益，使其更有动力创新（a blessing to firms），这必然使得公司能提供更多的相关医疗手段，故也是病人的福音（a blessing to patients），其中 alike 表示“同样都（用于强调刚刚提及的两者）”之意，如：I learned a lot from teachers and students alike.（我从老师和学生身上都学到了很多。）\n\n附注一：由②句可推断 Myriad 案件始末：(基于“基因不可申请专利”的观点，Myriad Genetics 被起诉“两项基因专利无效，应废除”)→地方法院认同并判决 Myriad 败诉，而使生物技术产业陷入极度不安(第一段)→巡回法院推翻地方法院判决，认定 Myriad 基因专利有效，生物技术产业如释重负(第二段)。\n\n附注二：英美文章中常用的“法庭判决、宣判”作为引出词：rule/ruling, decide/decision, judge/judgment, sentence, verdict。 Ⅲ ① But as companies continue their attempts at personalised medicine, the courts will remain rather busy. ② The Myriad case itself is probably not over. ③ Critics make three main arguments against gene patents: a gene is a product of nature, so it may not be patented; gene patents suppress innovation rather than reward it; and patents' monopolies restrict access to genetic tests such as Myriad's. ④ A growing number seem to agree. ⑤ Last year a federal task-force urged reform for\n\n但随着公司继续对个性化医疗进行尝试，未来法庭仍然会相当忙碌。Myriad 案本身可能并未完结。批评者主要提出了三条反对基因专利的理由：基因是自然的产物，所以不可申请专利；基因专利抑制了创新而非奖励创新；专利垄断限制了人们对基因测试的使用，如对 Myriad 基因测试的使用。似乎越来越多的人们趋于认同上述观 patents related to genetic tests. ⑥ In October the Department of Justice filed a brief in the Myriad case, arguing that an isolated DNA molecule “is no less a product of nature... than are cotton fibres that have been separated from cotton seeds.”\n\n点。去年，联邦专项小组敦促对基因检测方面的专利进行改革。十月，司法部针对 Myriad 案提交的案情摘要中提出，分离的 DNA 分子“就像从棉花籽中分离出的棉纤维一样，仅仅是自然的产物”。\n\n**词汇注释与难句分析**\n\npersonalised a. 个性化的\n\nsuppress v. 镇压，制止，压制\n\nreward v. 酬谢，报答，奖赏\n\nmonopoly n. 垄断者，垄断企业\n\nfile v. 提出，提交，发表\n\none's attempt at (对……的尝试、努力)\n\nmolecule n. 分子\n\nmake arguments against（提出反对……的理由）\n\nsuppress innovation（抑制创新）\n\nrestrict access to (限制对……的使用)\n\nfile a brief（提交案情摘要）\n\nno less than (仅仅是，不过是)\n\n**经典搭配**\n\nseparate...from...(将……从……中分离)\n\n同位语分句3: and patents' monopolies restrict access to genetic tests such as Myriad's.\n\n功能注释：句子主干为 Critics make three main arguments against gene patents,指出批评者反对基因专利观点主要有三种。冒号表示解释说明，随后以分号隔开的三个分句分别说明三种反对观点。其中前两个观点分别采用“因果说明(..., so...)”和“取舍结构(... rather than...)”。\n\n**语篇分析**\n\n第三、四段进而预测 Myriad 案情未来走势：并未完结，侧面说明“基因专利的法律纠纷是一场持久战”。\n\n第三段首先指出走势，进而说明原因之一：批评者们反对基因专利的理由言之凿凿，队伍渐次庞大。关键词为：critics。\n\n①②句指出“Myriad 案并未结束”。\n\n①句概而指出未来法庭会非常忙碌。But 转承上文“上诉法院已判定 Myriad 公司所持专利有效”，启示下文“(但)法庭仍会相当忙”，暗示 Myriad 案情还未完结，基因专利战依然持续，同时印证首段⑤句 a “preliminary step” in a longer battle 全文基调，后续内容均围绕“持久战”展开，故从另一层面来讲，此句可以说是全文主旨；从句 as... 说明原因：各公司在继续努力尝试个性化医疗（编者注：个性化医疗指以“个人基因组信息”为基础，为病人量身设计最佳治疗方案，以期达到疗效最大化和副作用最小化的“定制医疗”模式），而鉴于此前已有众多基因专利（首段②句 by 2005 some 20% of human genes were patented），未来必会在研究中产生诸多有关基因专利的法律纠纷，法庭毫无疑问会相当忙碌。\n\n②句进而明确指出 Myriad 案并未结束。句中反身代词 itself 语用功能为 used to emphasize the thing you are referring to “用于强调”，暗示除 Myriad 案之外，还有“令法庭忙碌”的其他情形，为下文（第五、六段）介绍“其他诉讼产生更重大影响”做好铺垫。\n\n③至⑥句说明“Myriad 案并未结束”的原因之一：批评者提出三大反对理由，其队伍逐渐庞大。\n\n③句首先推出批评者三大理由(three main arguments)，其中冒号起着解释说明作用，其后内容以分号并列引出三大理由的具体内容：一、基因是自然的产物，不可申请专利；二、基因专利抑制创新，违背专利旨在激励创新的初衷；三、专利垄断限制了人们对基因测试的使用，such as Myriad's (genetic tests)将批判的声音聚焦于“Myriad 公司所垄断的基因检测”，结合第二段②句可知此处实际文意：Myriad 因持有两项基因专利而垄断“乳腺癌风险检测”。（详见“背景知识”）④⑤⑥句进而指出批评者队伍越来越庞大。\n\n④句总括越来越多的人同意上述观点。句子省略宾语加强与③句衔接，其后实际省略 the three main arguments...; seem(看来，似乎，好像)用以表示说话人(即作者)主观上的判断，暗含有一定的根据，往往接近事实的判断，此处用来凸显“当前发展态势”：越来越多的人反对基因专利。\n\n⑤⑥句分别以去年(2010年)联邦特别小组、司法部的行动例证④句。其中，⑤句 urged reforms for patents related to genetic tests 针对目前“由于基因专利的保护作用，基因检测控制在少数机构手中，其创新和使用均受限”这一情形而言，回应理由二、三，urged（催促）凸显改革的紧迫性；⑥句 arguing that. 具体说明司法部观点：通过类比人们大都认可的事实“从棉花籽中分离出的纤维是自然的产物”彰显自己观点：分离的 DNA 分子(isolated DNA molecule)依然属于自然产物(no less than“和……一样”)，不能单纯因为将其分离出来就对其授予专利保护，回应理由一；与此同时暗示第二段巡回法院针对 Myriad 案件的观点实为：分离的基因(isolated genes)可以申请专利，而 Myriad 两项基因专利均为分离 DNA。附注：the Department of Justice(司法部)为美国政府的一个部门，有时作为“法庭之友”出现在重大案件的诉讼中，目的是维护美国政府的法律利益、保障法律对美国所有公民平等；file a brief 为法律术语，指“向法庭提交案情摘要（辩护状），以影响法院判决”。\n\n注：③④⑤⑥句不仅以 critics make three main arguments...说明“基因专利反对者理由充分”，以 A growing number...说明“反对基因专利声音日益强大”，更以 A federal task-force...the Department of Justice...(注：两者都代表的是联邦政府)说明“(奥巴马)政府也表明了限制基因专利的态度”，这有力支持了②句作者“Myriad 案尚未结束”这一论断。\n\n届此，结合本文时间并稍加推理，可以更加清晰地了解 Myriad 案：2010 年 3 月，地方法院判定“基因不可申请专利”，Myriad 公司败诉，并随后向联邦巡回法院上诉——2010 年 10 月（联邦巡回法院判决前）美国司法部向法院提交了一份“反对基因专利”的案情摘要，以向法庭施压，希望维持原判——2011 年 7 月，巡回法院不顾司法部建议，坚持推翻地方法院决议，判决 Myriad 专利有效。\n\n[背景知识] ③句中三大反对理由对应的知识背景：一、美国宪法规定，自然产物 (a product of nature) 不可申请专利。由此亦可推测“基因专利支持者”相应的说辞：分离的 DNA(isolated DNA) 不再是自然产物，而是人工产品，故可以申请专利；二、美国专利体制的初衷在于，通过“给予创新者一定的权利并以此换取其对该技术的公开”来为创新提供动力和来源。由此可进一步理解本句中暗含的对立双方观点：基因专利支持者认为基因专利为生物科技公司的创新提供了动力和来源，是对其创新的奖励 (reward innovation); 而基因专利反对者则反驳指出该类专利成了研究者探索过程中无处不在的“暗礁”, 阻碍了创新 (suppress innovation); 三、Myriad 公司的该项检测费用高达 3000 美金。"
+      },
+      {
+       "number": 32,
+       "stem": "Those who are against gene patents believe that .",
+       "options": {
+        "A": "genetic tests are not reliable",
+        "B": "only man-made products are patentable",
+        "C": "patents on genes depend much on innovation",
+        "D": "courts should restrict access to genetic tests"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 32. Those who are against gene patents believe that ____. | 32. 基因专利反对者认为____。 |\n| --- | --- |\n| [A] genetic tests are not reliable | [A] 基因检测不可靠 |\n| [B] only man-made products are patentable | [B] 只有人造产品能申请专利 |\n| [C] patents on genes depend much on innovation | [C] 基因专利很大程度上取决于创新 |\n| [D] courts should restrict access to genetic tests | [D] 法庭应该限制基因检测 |\n\n[精准定位] 根据题干 who are against gene patents 定位到第三段③句 Critics make three main\n\narguments against gene patents...。该句指出基因专利反对者的三大理由：一，基因是自然产物，故不可申请专利；二，基因专利阻碍创新；三，基因垄断限制基因检测的使用。[B]符合意见一，故正确。\n\n[命题解密] 本题考查考生理解对文中人物观点细节、以及根据上下文进行逻辑判断的能力。[B]only man-made products are patentable 反向同义表达原文 a gene is a product of nature, so it may not be patented。\n\n[A]、[D]利用反对者第三种意见 patents' monopolies restrict access to genetic tests 干扰，但“专利垄断限制了基因检测的使用”传达的观点是“基因检测有利，应扩大使用；专利垄断限制了基因检测的使用，应予以限制”。[A]的 not reliable 将其中传达的对“基因检测”的正面态度改为负面观点，故排除。[D]将限制的对象“基因专利”偷换为“基因检测”，完全改变了基因专利反对者的观点。[C]利用反对者第二种意见 gene patents suppress innovation 干扰，却将原文因果逻辑关系“基因专利阻碍创新”篡改为“基因专利依赖创新”。\n\nIV ① Despite the appeals court's decision, big questions remain unanswered. ② For example, it is unclear whether the sequencing of a whole genome violates the patents of individual genes within it. ③ The case may yet reach the Supreme Court.\n\n尽管上诉法庭已经做出了裁决，但重大问题依然悬而未决。例如，对一个完整基因组进行排序是否会侵犯其内部单个基因所获得的专利，这一问题尚不明朗。这一案件可能会上诉至最高法院。\n\n**词汇注释与难句分析**\n\ngenome n. 基因组\n\nviolate v. 侵犯\n\nthe Supreme Court 最高法院\n\n**经典搭配**\n\nbig questions（重大问题）\n\nIt's unclear whether (是否……尚不明确)\n\nviolate the patents of (违反……专利)\n\nmay yet(很可能会……)\n\n**语篇分析**\n\n第四段说明原因之二：有关基因专利申请的重大问题尚未解决。关键词为：big questions remain unanswered。\n\n①句直接明确原因之二。对比转折标记词 Despite (used to say that sth happens or is true even though sth else might have prevented it“尽管，虽然，任凭”)承接第二段，在让步承认“巡回法庭对 Myriad 案件做出裁决”之时，重在引出该裁决并未解答诸多大问题，从而启示下文内容“哪些重大问题没解决”。\n\n②句 For example 例证①句，列举重大问题之一：基因组排序是否会违反其内部单个基因所获取的专利。it's unclear whether 回应 remains unanswered; individual genes within it 中的 it 指前文 a whole genome。附注：基因组排序是基因组改变基因排列顺序的生化过程，目的是确切分析疾病的致病原理、精确设计医药的分子结构，提高药物疗效，可见其意义的重大，而在对基因组进行排序过程中必然会涉及其内部单个基因所获得的专利，由此引发此句“是否侵权的法律纠纷问题”。\n\n③句顺承①②句，基于此原因，直接指出 Myriad 案可能还得上诉至最高法院，呼应第三段②句 The Myriad case itself is probably not over。句中 Could/may/might yet do sth 结构较为特殊，意为 used to say that something is still possible in the future, in spite of the way that things seem now“尽管现在似乎没有可能，但将来很可能会发生”。\n\n至此，作者基于前文论述“尽管巡回法庭刚刚对 Myriad 案件做出明确判决，但目前反对基因专利的声音强烈、且许多重大问题尚未得以回答”，已然十分有理有据地证实了第三段①②句“Myriad 案尚未结束，基因专利之战远未完结”。\n\nV ① As the industry advances, however, other suits may have an even greater impact. ② Companies are unlikely to file many more patents for human DNA molecules — most are already patented or in the public domain. ③ Firms are now studying how genes interact, looking for correlations that might be used to determine the causes of disease or predict a drug's efficacy. ④ Companies are eager to win patents for \"connecting the dots\", explains Hans Sauer, a lawyer for the BIO.\n\n然而，随着这一行业的发展，其他诉讼可能会产生更大影响。公司已不大可能就“人类 DNA 分子”申请许多专利——大多数该类基因早已被申请专利，或是属于公共领域。各企业当前正在研究基因间如何相互作用，以寻找可能用于确定疾病诱因或预测药物疗效的关联物。来自 BIO 的律师 HansSauer 解释道，各企业正急于获取“连点”专利。\n\n**词汇注释与难句分析**\n\nadvance v. 进步，进展\n\nsuit n. 诉讼，讼案\n\ndomain n. 领域，范围\n\ninteract v. 互动，相互作用\n\ncorrelation n. 相互关系，关联\n\n**经典搭配**\n\nAs...advances,(随着……的发展)\n\nhave an even greater impact（甚至产生更大影响）\n\nfile a patent for... (就……提交专利申请)\n\nin the public domain（属于公共领域）\n\na drug's efficacy(药物疗效)\n\nbe eager to win...（急于赢取……）\n\n**语篇分析**\n\n第五、六段由 Myriad 个案延伸至整个生物技术行业的动态，说明“基因专利的法律纠纷将是一场持久战”。\n\n第五段介绍当前全行业新趋势：正急于发现基因间的相互作用以获取专利。关键词为：eager to win patents for “connecting the dots”。\n\n①句总起第五、六段，明确指出其他诉讼将会产生更大影响。however 体现语义转折，重在对比其他案件(other suits)与上文 Myriad 案件(the Myriad case)的影响力(even greater impact)，意即，Myriad 案件在基因专利之战中尚不算分量重的，真正分量重的还大有案件在，为下文引出“其他更为重大案件”埋下伏笔；As...说明背景原因：随着生物科技行业的不断发展(会引发更复杂的专利纷争)。\n\n②③④句(借助 Companies are unlikely to... Firms are now studying... Companies are eager to... 串起意群逻辑线)解释①句，说明生物科技业的发展方向，以说明如何产生影响更为重大的诉讼案件。\n\n②句指出公司目前不能做之事“申请更多基因专利”及其原因“已被申请或处于公众领域”。破折号解释原因；most are already patented 呼应第一段②句 some 20% of human genes were patented; in the public domain(属于公共领域)实指“那些已到期，或已失效，或已明确规定不可申请专利的基因”。\n\n③句指出公司正在做之事“研究基因之间如何相互作用”以及研究目的“发现其与疾病之间的关联，以用于确定疾病成因并推测药物疗效”。此句反向说明“研究基因之间相互作用”之于民生的重要性，暗示需要社会各界的支持与鼓励。\n\n④句引证说明公司从事新研究的目的：急切想就此获取专利。“patents for ‘connecting the dots’”(连点专利)加引号用以代指③句(patents for)how genes interact... correlations(就“发现基因间相互作用、找到其与某些疾病的关联”的专利),点(dot)即指“单个的基因”。are eager to win 展现目前生物科技公司对于这些专利的渴求。\n\n③④句深层含义：“人类基因专利”之争远未结束，生物科技公司已转向研究更为复杂的“基因之间的相互作用”，新一轮的科技“圈地运动”蓄势待发，反衬说明全文主旨“基因专利之战乃一场持久战”。"
+      },
+      {
+       "number": 33,
+       "stem": "According to Hans Sauer, companies are eager to win patents for .",
+       "options": {
+        "A": "discovering gene interactions",
+        "B": "establishing disease correlations",
+        "C": "drawing pictures of genes",
+        "D": "identifying human DNA"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| 33. According to Hans Sauer, companies are eager to win patents for ____. | 33. Hans Sauer 认为，公司们急于就______获取专利。 |\n| --- | --- |\n| [A] discovering gene interactions | [A] 发现基因相互作用 |\n| [B] establishing disease correlations | [B] 建立疾病关联 |\n| [C] drawing pictures of genes | [C] 绘制基因图 |\n| [D] identifying human DNA | [D] 识别人类 DNA |\n\n[精准定位] 根据题干中人名关键词 Hans Sauer 定位到第五段末句。该句指出 Hans Sauer 观点：公司们急于就“connecting the dots”获取专利。但从本句无法推知 connecting the dots 具体所指，所以需继续回看上文。上一句指出，生物技术公司当前致力于研究“基因之间是如何相互作用的”，以期找到疾病成因，推测药物疗效。可推知，connecting the dots 即指发现基因间的相互作用，[A]选项正确。\n\n[命题解密] 本题考查的是考生根据细节信息以及上下文进行推理判断的能力，需要考生根据上文推断修辞用法“connecting the dots”的具体所指。[A]discovering gene interactions 是对其承上指代内容 studying how genes interact, looking for correlations... 的概括。\n\n[B]将文中词汇 disease、correlation 糅杂形成干扰，但文中 correlations that might be used to determine the causes of disease 并非指“疾病间的相互关联”，而是指“基因之间相互作用方式”与“某种疾病”之间的关联。[C]对比喻用法“connecting the dots”断章取义，从而用其字面含义 drawing pictures of genes 作干扰。[D]是对第五段②句 Companies are unlikely to file many more patents for human DNA molecules 的反向干扰：原文指出生物科技公司已经“不大可能就‘识别人类 DNA’获取专利”。\n\nVI ① Their success may be determined by a suit related to this issue, brought by the Mayo Clinic, which the Supreme Court will hear in its next term. ② The BIO recently held a convention which included sessions to coach lawyers on the shifting landscape for patents. ③ Each meeting was packed. [407 words]\n\n他们能否成功可能取决于一起由 Mayo 诊所引发的相关案件，最高法院将于下一庭审期对这一案件进行听审。BIO 最近召开大会，开展一系列会议针对目前变换的专利情形对律师进行培训。每一场会议都座无虚席。\n\n**词汇注释与难句分析**\n\nconvention n. 会议\n\nsession n. (一系列会议中的一次)会议\n\nshifting a. 移动着的，变化着的\n\nlandscape n. 形势\n\npacked a. 挤满人的，非常拥挤的\n\nbe determined by...（取决于……）\n\nhold a convention(召开大会)\n\ncoach sb on sth（对某人就某事进行培训）\n\nthe shifting landscape for（就……目前变换的情形）\n\nEach meeting was packed（每场会议都座无虚席）\n\n**经典搭配**\n\n**语篇分析**\n\n第六段承上段继续介绍全行业最近动态：全力关注 Mayo 案，以推动“基因间相互作用专利申请”的有利结局。关键词为：①a suit related to this issue;②the shifting landscape for patents。\n\n①句顺承上段末句指出“就基因间相互作用新发现申请专利”成功与否取决于 Mayo 案的最终判决，从而引出下文“全行业关注 Mayo 案”的说明。句中 This issue 回指 whether companies can win patents for “connecting the dots”（能否就“连点基因”获取专利）；Their success 即指公司成功获取“连点基因”专利；a suit... brought by the Mayo Clinic 呼应上段首句 other suits。\n\n②③句进而详细说明生物技术行业如何关注 Mayo 案，侧面凸显该案件影响重大、意义深远。\n\n②句指出 BIO 最近召开大会、举办多场会议就“变换的专利情形”对律师进行培训。句中 the shifting landscape for patents 字面意思为“专利的变换局势”，此处实际传达出“生物科技行业已由原来的分离基因争夺转为更为复杂的‘连点基因’争夺，而‘连点基因’是否可以申请专利目前形势还不明朗，一切只待 Mayo 案揭晓”，侧面凸显 Mayo 案的重大影响。透过 held a convention which included sessions to coach lawyers（召开多场会议培训律师）足见生物科技产业无比重视 Mayo 案、努力应对诉讼、以期望法院做出“支持连点专利”的判决，反衬“连点基因专利”对该产业的厚重意义。\n\n③句补充指出每场会议都座无虚席，言外之意为，律师们自身对此案例也无比关注。meeting 对应\n\n②句 sessions; packed 表示 extremely full of people“挤满人的”之意。"
+      },
+      {
+       "number": 34,
+       "stem": "By saying “Each meeting was packed” (Line 4, Para. 6), the author means that .",
+       "options": {
+        "A": "the supreme court was authoritative",
+        "B": "the BIO was a powerful organisation",
+        "C": "gene patenting was a great concern",
+        "D": "lawyers were keen to attend conventions"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n| 34. By saying “Each meeting was packed”(Line 4,Para 6) the author means that ____. | 34. 作者用“每次会议都座无虚席”(第六段第四行)表明____。 |\n| --- | --- |\n| [A] the supreme court was authoritative | [A] 最高法院非常具有权威 |\n| [B] the BIO was a powerful organization | [B] BIO 是一个强大的组织 |\n| [C] gene patenting was a great concern | [C] 基因专利是一个重大问题 |\n| [D] lawyers were keen to attend conventions | [D] 律师们热衷参加会议 |\n\n[精准定位] 所考句连同其上一句共同指出：生物技术组织(BIO)举行了一系列会议培训律师应对目前变换的基因专利情形，而每次会议都座无虚席。可见作者意在表明：无论是 BIO 还是律师们都极为关注基因专利情形，即：基因专利是个重大问题，[C] 正确。\n\n[命题解密]本题考查考生根据上下文推测句意的能力。考点往往是含义非常抽象或内容高度概括的句子，推断句子含义必须跳出句子本身，综合分析其上下文来准确理解其含义。[C]选项是结合上文，乃至全文话题“基因专利”，对所考句含义做出的合理推导。\n\n[A]“最高法院颇具权威”确实是末段①句所暗示的信息，具有一定干扰性。但“律师积极参加 BIO 举办的培训会议”和“最高法院的权威性”之间无直接联系，故排除。[B]“BIO 是一个强大的组织”是考生最易误选的选项。若考生不基于全文中心推理，而仅基于最后一句“BIO 举行了一系列会议，而每场会议都座无虚席”生硬推导，便易误选此项。结合全文主旨看可知，“每次会议座无虚席”并非因为“BIO 的强大”，而因人们对培训内容“目前基因专利情形”高度关注。[D]干扰性较低，纯粹是脱离原文、对“会议座无虚席”的主观推导。"
+      },
+      {
+       "number": 35,
+       "stem": "Generally speaking, the author’s attitude toward gene patenting is _____.",
+       "options": {
+        "A": "critical",
+        "B": "supportive",
+        "C": "scornful",
+        "D": "objective"
+       },
+       "answer": "D",
+       "explanation": "· 全局真题精解 ·\n\n> **答案：** D\n\n| 35. Generally speaking, the author's attitude toward gene patenting is ____. | 35. 总体上，作者对基因专利的态度是____。 |\n| --- | --- |\n| [A] critical | [A] 批判的 |\n| [B] supportive | [B] 支持的 |\n| [C] scornful | [C] 轻视的 |\n| [D] objective | [D] 客观的 |\n\n[精准定位] 纵观全文，作者只是在介绍“基因专利”相关裁决及引发的反响，重在说明这一问题的重大意义以及热议性，客观阐释了生物科技产业(基因专利支持者)和基因专利反对者的观点。从头到尾作者都未表明自己的立场或站位，未就“基因是否可以申请专利”发表自己观点。故[D]最为准确。\n\n[命题解密] 本题考查考生对作者全文观点的把握，特别是 generally speaking(总体来看)一词更是提示考生要着眼全文来解答此题。[D] objective 体现了作者“不偏不倚介绍基因专利‘支持方’及‘反对方’观点及做法”的论述角度。\n\n[A]、[C]利用第三段 Critics makes three main arguments against gene patents...干扰，该段阐释了基因专利反对者的观点，但需注意，作者并没有表明对这一群体观点的认同。[B]利用文中“生物科技"
+      }
+     ]
+    },
+    {
+     "title": "Text 4",
+     "type": "reading",
+     "passage": [
+      "The great recession may be over, but this era of high joblessness is probably beginning. Before it ends, it will likely change the life course and character of a generation of young adults. And ultimately, it is likely to reshape our politics, our culture, and the character of our society for years.",
+      "No one tries harder than the jobless to find silver linings in this national economic disaster. Many said that unemployment, while extremely painful, had improved them in some ways: they had become less materialistic and more financially prudent; they were more aware of the struggles of others. In limited respects, perhaps the recession will leave society better off. At the very least, it has awoken us from our national fever dream of easy riches and bigger houses, and put a necessary end to an era of reckless personal spending.",
+      "But for the most part, these benefits seem thin, uncertain, and far off. In The Moral Consequences of Economic Growth, the economic historian Benjamin Friedman argues that both inside and outside the U.S., lengthy periods of economic stagnation or decline have almost always left society more mean-spirited and less inclusive, and have usually stopped or reversed the advance of rights and freedoms. Anti-immigrant sentiment typically increases, as does conflict between races and classes.",
+      "Income inequality usually falls during a recession, but it has not shrunk in this one. Indeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them – especially for young people. The research of Till Von Wachter, the economist at Columbia University, suggests that not all people graduating into a recession see their life chances dimmed: those with degrees from elite universities catch up fairly quickly to where they otherwise would have been if they had graduated in better times; it is the masses beneath them that are left behind.",
+      "In the Internet age, it is particularly easy to see the resentment that has always been hidden within American society. More difficult, in the moment, is discerning precisely how these lean times are affecting society’s character. In many respects, the U.S. was more socially tolerant entering this recession than at any time in its history, and a variety of national polls on social conflict since then have shown mixed results. We will have to wait and see exactly how these hard times will reshape our social fabric. But they certainly will reshape it, and all the more so the longer they extend."
+     ],
+     "questions": [
+      {
+       "number": 36,
+       "stem": "By saying “to find silver linings” (Line 1, Para. 2) the author suggests that the jobless try to .",
+       "options": {
+        "A": "seek subsidies from the government",
+        "B": "make profits from the troubled economy",
+        "C": "explore reasons for the unemployment",
+        "D": "look on the bright side of the recession"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 36. By saying“to find silver linings”(Line 1, Para. 2) the author suggests that the jobless try to ____. | 36. 作者提及“寻找一线生机”(第二段第一行)旨在暗示失业者试图____。 |\n| --- | --- |\n| [A] seek subsidies from the government | [A] 向政府请求补助金 |\n| [B] make profits from the troubled economy | [B] 从不利的经济中获利 |\n| [C] explore reasons for the unemployment | [C] 探索失业的原因 |\n| [D] look on the bright side of the recession | [D] 看到经济大萧条的积极面 |\n\n[精准定位] 题干中 to find silver linings 出现在第二段①句，而②句句首 many 代指失业者，暗示②句实际在说明①句内容。②句指出失业者认为尽管失业本身很痛苦，但它以某些方式让人进步（had improved them），随后举出几个例子。可见失业者以积极视角看待经济萧条，因此[D]选项正确。\n\n[命题解密] 短语或谚语类常常被设为考点。文中使用 to find silver linings 说明失业者在经济危机中的表现，可以根据句际关系，借助后文猜测其意。[D]符合上下文逻辑，是正确选项。\n\n[A]利用常识设障，虽然失业者常常寻求政府帮助，但原文并未提及该点；[B]将原文②句中个别字词 materialistic、financially 抽离出来并主观生成选项中的“获利”这一含义，但它们均出现在例子当中，并非主体内容，且所指与选项大相径庭；[C]借原文②句中“失业者在价值观和消费观上有所进步”设障，利用其进步的方面反推失业者曾经存在问题，从而主观臆断出“失业者为自身失业找原因”。"
+      },
+      {
+       "number": 37,
+       "stem": "According to Paragraph 2, the recession has made people _____.",
+       "options": {
+        "A": "struggle against each other",
+        "B": "realize the national dream",
+        "C": "challenge their prudence",
+        "D": "reconsider their lifestyle"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| 37. According to Paragraph 2, the recession has made people ____. | 37. 第二段表明，此次经济大萧条使人们____。 |\n| --- | --- |\n| [A] struggle against each other | [A] 彼此相互斗争 |\n| [B] realize the national dream | [B] 实现了民族梦 |\n| [C] challenge their prudence | [C] 挑战自身谨慎度 |\n| [D] reconsider their lifestyle | [D] 重新思考自身生活方式 |\n\n[精准定位] 第二段主要探讨经济衰退造成的积极影响。其中②句指出失业者在价值观和消费观上均有大幅进步，④句进一步从宏观角度指出经济衰退客观上使人们明白一夜暴富的虚幻以及节俭的意义。[D]是对这些内容的概括，为正确答案。\n\n[命题解密] 原文②句 become less materialistic and more financially prudent, more aware of the struggles of others 以及④句中 put a necessary end to an era of reckless personal spending 均反映生活方式，包括价值观、消费观等内容。题干和正确项[D]构成了对第二段内容的概括。\n\n[A] 利用②句中出现的 more aware of the struggles of others 设障，但选项却曲解原文：经济衰退使得失业者更能理解他人的努力，而非使他们彼此相互斗争。[B] 借④句中出现的 our national fever dream... 做干扰，但原文指“衰退使人从发财美梦中清醒”, 而非实现民族梦。[C] 利用②句出现的 more financially prudent 形成干扰，但原文意为“人们变得在支出方面更谨慎”, 而非挑战自身谨慎度。\n\nⅢ ① But for the most part, these benefits seem thin, uncertain, and far off. ② In The Moral Consequences of Economic Growth, the economic historian Benjamin Friedman argues that both inside and outside the U.S., lengthy periods of economic stagnation or decline have almost always left society more mean-spirited and less inclusive, and have usually stopped or reversed the advance of rights and freedoms. ③ Anti-immigrant sentiment typically increases, as does conflict between races and classes.\n\n然而对于大多数情况而言，这些好处似乎是微乎其微、未知且遥远的。在《经济增长的道德影响》一书中，经济历史学家本杰明·弗里德曼认为，美国国内外所经历的长期经济停滞或衰退几乎总是使社会变得更为狭隘、包容性更弱，而且往往使权利与自由的发展止步不前或逆向而行。反移民情绪往往会加剧，正如种族和阶级间矛盾一样。\n\n**词汇注释与难句分析**\n\nlengthy a. 长时间的，过长的\n\n**经典搭配**\n\nstagnation n. 经济停滞\n\nfor the most part(就绝大部分而言)\n\nmean-spirited a. 心胸狭隘的\n\nfar off(遥远)\n\ninclusive a. 包容的，范围广阔的\n\neconomic stagnation(经济停滞)\n\nsentiment n. 观点，感想，意见\n\nleave sb/sth...（使某人/物变得……）\n\nIn The Moral Consequences of Economic Growth, the economic historian Benjamin Friedman argues that both inside and outside the U.S., lengthy periods of economic stagnation or decline have almost always left society more mean-spirited and less inclusive, and have usually stopped or reversed the advance of rights and freedoms.\n\n功能注释：句子主干为 Benjamin Friedman argues that, 即全句为 Friedman 观点。句首地点状语 In... 说明 Friedman 观点来源。that 宾语从句中的主干为 economic stagnation or decline have left society more..., and have stopped or reversed the advance。\n\n**语篇分析**\n\n**第三、四段转而分析经济衰退的负面影响。**\n\n第三段转承第二段指出积极影响很有限，并引证说明其负面影响：使得社会容忍度降低，加深社会矛盾。关键词为：①thin, uncertain and far off; ②argues。\n\n①句转承(But)上文指出上述积极作用相当有限。for the most part 与上段 in some ways、In limited respects 对比鲜明，体现上下文转折关系；these benefits 回指上段 had improved them...、leave society better off 等“（经济衰退带来的）积极效应”；thin, uncertain and far off 则强调这些效应“微乎其微、不可预测、遥遥无期”，其中 thin 原意为“细的，薄的”，此处可引申为“微乎其微”，说明这种积极效应只不过聊胜于无。本句奠定全文基调：经济衰退有利有弊，但弊绝对大于利。\n\n②③句引证说明①句，具体指出经济衰退的负面影响。\n\n②句指出社会宽容度会降低、权利自由发展停滞不前或逆向而行。句中负面影响表达词 more mean-spirited, less inclusive, stopped or reversed the advance of rights and freedoms 频现，再辅以频度副词（短语）almost always, usually，充分传达出影响的严重性；其中反义词对 mean-spirited（“心胸狭小的”）VS inclusive（“包容广阔的”）经反义词对 more VS less 限定，实际传达相同语义：社会宽容度降低。\n\n③句进一步指出会产生更大社会矛盾：加剧种族、阶级矛盾，激化反移民情绪。句中负面表达词 Anti-immigrant sentiment、conflict between races and classes 受同一谓语 typically increases 描述，突出强调了社会矛盾的升级；其中 typically（“一般，通常”）暗示移民情绪早已有之，只是在经济衰退之时更为高涨：而 as does...实为 as conflict between...typically increases,补充说明这种民族排外情绪在经济衰退时期的激化程度不亚于种族、阶级冲突。"
+      },
+      {
+       "number": 38,
+       "stem": "Benjamin Friedman believes that economic recessions may _____.",
+       "options": {
+        "A": "impose a heavier burden on immigrants",
+        "B": "bring out more evils of human nature",
+        "C": "promote the advance of rights and freedoms",
+        "D": "ease conflicts between races and classes"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 38. Benjamin Friedman believes that economic recessions may ____. | 38. 本杰明·弗里德曼认为经济大萧条会____。 |\n| --- | --- |\n| [A] impose a heavier burden on immigrants | [A] 对移民造成更大负担 |\n| [B] bring out more evils of human nature | [B] 使人性中更丑恶的因素凸显 |\n| [C] promote the advance of rights and freedoms | [C] 推动权利和自由进步 |\n| [D] ease conflicts between races and classes | [D] 缓解种族和阶级间冲突 |\n\n[精准定位] 根据题干中人名定位至第三段。该段①句转承上文指出，经济衰退的积极影响总的来说可以忽略不计。②句借人物观点指出长期经济停滞或衰退使社会变得更狭隘，包容性更差(left society more mean-spirited and less inclusive)，即人的宽容度降低，更加狭隘，[B]是对该信息的同义转换。\n\n[命题解密] 作为例证部分的内容，人物观点常常被设置成考点。本题是考查观点细节理解，题干和选项[B]构成第二句的主要内容，evils of human nature 与原文 more mean-spirited and less inclusive 相对应。\n\n[A]将③句中“反移民情绪高涨”这一内容过度推导。[C]、[D]两项误解本段的大方向“探讨经济衰退的负面影响”，而且将②句和③句的个别信息（权利和自由进步 & 种族和阶级冲突）剥离原文。\n\nIV ① Income inequality usually falls during a recession, but it has not shrunk in this one. ② Indeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them — especially for young people. ③ The research of Till Von Wachter, the economist in Columbia University, suggests that not all people graduating into a recession see their life chances dimmed: those with degrees from elite universities catch up fairly quickly to where they otherwise would have been if they had graduated in better times; it is the masses beneath them that are left behind.\n\n经济衰退时期的收入差距往往会有所缩小，但这一次例外。的确，此次经济疲软阶段可能加深阶级隔阂，减少阶级隔阂弥合的机会——对于年轻人来说更是如此。哥伦比亚大学经济学家蒂尔·冯·瓦赫特在报告中指出，不是所有坠入衰退时期的人都认为人生机会渺茫：那些毕业于名牌大学的人会相当快地到达其繁荣时期毕业时本该置身其中的位置，落后的是那些不如他们的普通大众。\n\n**词汇注释与难句分析**\n\nshrink v. (使)缩小，(使)收缩\n\nreinforce v. 加强，强化\n\ngraduate v. 逐渐发展；升级\n\ndim v. (使)变黯淡\n\nclass divides（阶级分化）\n\ncatch up to (赶上)\n\nThe research of Till Von Wachter, the economist in Columbia University, suggests that not all people graduating into a recession see their life chances dimmed: those with degrees from elite universities catch up fairly quickly to where they otherwise would have been if they had graduated in better times; it is the masses beneath them that are left behind.\n\n功能注释：该句被冒号分隔为两个分句，前一分句说明 Wachter 观点；后一分句阐释该观点，该分句主干为 those...catch up quickly to where...;it is the masses...;with degrees from...修饰 those 表明其身份：精英大学生；where they otherwise would have been 为宾语从句，说明其追赶的对象；宾语从句中嵌套 if 虚拟条件句，对已发生的事作出相反假设(如果毕业于好年代的话，则……)。\n\n**语篇分析**\n\n第四段顺承第三段继续说明此次经济衰退的不良影响：非但没缩小收入差距，相反加深阶级隔阂，减少隔阂弥合的机会，并以年轻人的状况例证说明。关键词为：reinforce class divides and decrease opportunities to cross them。\n\n①②句承上指出此次经济衰退(特别是对年轻人造成)的负面影响：加深阶级隔阂。\n\n①句将此次经济衰退与此前其他衰退展开对比，指出此次衰退并未缩小收入差距。其中 it 指代 Income inequality; shrunk(“缩小，减少”)与 fall 互为同义表达；句末 this one 针对前半句表示泛指的 a recession 而言，特指当前经济衰退。\n\n②句进一步(Indeed)指出此次经济衰退(不仅没缩小收入差距，还甚至可能)加剧等级分化。句中 decrease opportunities to cross them(其中 them 代指 class divides, divides 本义为“分水岭”,此处延伸理解为“(阶级)隔阂”)将其前 may reinforce class divides 推向高潮，直指“阶级隔阂愈积愈多，难以逾越”;破折号后引出最具有代表性的群体：年轻人，暗示下文随即可能描述年轻人间阶级分化相关内容。\n\n③句引用专家观点“名牌学校毕业生与普通民众之间的阶级隔阂由于经济衰退而在拉大”以例证①②句。\n\n冒号前指出有人在衰退时期依然有机会。其中 not all people... dimmed 暗示有些人机会渺茫，有些人机会众多，人与人之间存在差距；graduate 原义为“(从某处)升级到”，此处与 into a recession 搭配修饰 people，反其意而用，表示“陷入经济萧条环境中的人们”。\n\n冒号后以名牌大学毕业生为例说明。其中再以分号为隔断将此例分为“名牌高校生”与“普通民众”两个群体，前者能够快速到达一帆风顺时期能够达到的位置，后者则远远落后于前者。分号前 where they... in better times 为嵌套 if 虚拟条件句的宾语从句做 catch up to 的宾语，言外之意为，名牌大学毕业生毕业时的经济局势对其毕业后的发展前景有影响，但是经济衰退对这群毕业生的负面影响较小。分号后使用强调结构（it is... that...）作结，指出真正受不景气环境威胁的群体：普通大众（the masses）；beneath（“不如”）反向表明高失业率时代，唯一的取胜之道在于超越常人，出类拔萃。"
+      },
+      {
+       "number": 39,
+       "stem": "The research of Till Von Wachter suggests that in the recession graduates from elite universities tend to .",
+       "options": {
+        "A": "lag behind the others due to decreased opportunities",
+        "B": "catch up quickly with experienced employees",
+        "C": "see their life chances as dimmed as the others’",
+        "D": "recover more quickly than the others"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| 39. The research of Till Von Wachter suggests that in the recession graduates from elite universities tend to ____. | 39. 蒂尔·冯·瓦赫特的研究表明在经济大萧条时期精英大学的毕业生往往____。 |\n| --- | --- |\n| [A] lag behind the others due to decreased opportunities | [A] 由于机会减少因而落后于他人 |\n| [B] catch up quickly with experienced employees | [B] 快速赶上经验丰富的员工 |\n| [C] see their life chances as dimmed as the others' | [C] 和他人一样觉得前景渺茫 |\n| [D] recover more quickly than the others | [D] 比其他人恢复得更快 |\n\n[精准定位]根据题干中人名定位至第四段③句。该句指出精英大学的毕业生不像其他人一样认为自身前景黯淡，机会渺茫，相反会相当快得达到他们毕业于好年代时所处的水平，意即他们比其他人恢复得更快，[D]正确。\n\n[命题解密]文中长难句往往是命题点。解答该题关键在于正确理解③句信息。题干与选项[D]是对原文③句的正确解读。\n\n[A]将原文个别字词进行主观拼凑设置干扰：②句以及③句虽然包含 decrease opportunities 和 are left behind 这两个信息，但原文指出落后的是能力不及精英大学毕业生的普通人，而非这些优秀毕业生。[B]利用③句中 catch up fairly quickly to...设置障碍，但追赶的对象不符，原文指在经济状况良好时代毕业的自己，而非经验丰富的员工。[C]将③句 not all people...see...dimmed 曲解以设置陷阱，但原文恰恰表明相反语义逻辑：优秀毕业生不像他人一样悲观看待自身前景。\n\nV ① In the Internet age, it is particularly easy to see the resentment that has always been hidden within American society. ② More difficult, in the moment, is discerning precisely how these lean times are affecting society's character. ③ In many respects, the U.S. was more socially tolerant entering this recession than at any time in its history, and a variety of national polls on social conflict since then have shown mixed results. ④ We will have to wait and see exactly how these hard times will reshape our social fabric. ⑤ But they certainly will reshape it, and all the more so the longer they extend. [409 words]\n\n因特网时代，了解深藏于美国社会内部的怨气格外容易。当前难的是去弄清楚这些艰苦岁月究竟如何影响社会特征。在许多方面，步入经济萧条期的美国在社会问题上比历史上任何时期都更为宽容，而且从萧条开始时期，各种关于社会矛盾方面的全国性民意调查就显示出不同的结果。这些艰苦日子到底将如何重塑我们的社会结构，我们只能继续观望。但可以确定的是，它们一定会使社会结构得到重组，而且不利时期持续越久，重组的程度就越甚。\n\n**词汇注释与难句分析**\n\nresentment n. 怨气，怨恨，不满\n\ndiscern v. 识别，看清，领悟\n\nlean a. 不景气的\n\npoll n. 民意调查，民意测验\n\nsocial fabric 社会结构\n\n**经典搭配**\n\nlean times (经济不景气时期)\n\nnational polls(国内民意调查)\n\nmixed result(不同的结果)\n\nall the more so(更会如此)\n\n**语篇分析**\n\n第五段重申观点：经济衰退肯定会重塑社会结构。关键词为：certainly will reshape。\n\n①句(过渡)承上指出“网络时代了解民间暗涌的怨恨情绪是一大易事”，启示下文内容“难事”。句中 resentment(“愤恨；怨恨”)回应三、四段“经济衰退造成道德影响（削弱社会包容性等）以及生计影响（能力普通者面临巨大挑战）”，概括不景气环境下人们普遍带有的负面情绪。\n\n②至④句转而分析说明难事。\n\n②句转承①句指出现在的难点：看清萧条期如何影响社会特征”。该句以倒装形式 More difficult...is...强化了①②句间对比逻辑，其中 in the moment 特指当下本次经济萧条正在退去的时期；these lean times(lean 意为“难以赚钱的；贫乏的”)泛指一切经济危机时期。\n\n③句以“萧条时期社会宽容度上升，社会矛盾问题民意调查结果多样”例证说明②句。句中 more... than at any time in its history 凸显经济衰退的正面影响巨大：社会宽容度达到史上最高，但句首 In many respects 又暗留余地：许多方面如此，但某些方面特征变化并不明确，这也就呼应了后半句“社会矛盾问题民意调查的多样结果”，其中 mixed 意为“混合的，混杂的”，反映社会变化情况复杂。\n\n④句总结指出社会结构究竟如何受到影响只能借助时间去理解。have to wait and see 明确强调短期内难以判断社会结构变化的具体情况；social fabric(“社会结构”)涉及组成社会的一系列习俗与信仰，因而与②句 society's character(社会特征)相统一。\n\n⑤句转承(But)上文指出(虽影响的具体情况还不甚明了，但)“社会结构将会受到影响”是一定的。they 均指代经济衰退；certainly 表明作者对“经济萧条改变社会结构”的确信态度；后半句为“the more...the more...”句型变体：all the more...意即 even more...than before“比过去更甚”,so 代指前半句内容(will reshape it),表明“社会结构改变程度”与“经济衰退持续时间长短”间成正比：持续越久，则改变越深。本句作为文章结尾句，呼应文章首段，强调了“经济衰退重塑社会特征”,实现了首尾圆合。"
+      },
+      {
+       "number": 40,
+       "stem": "The author thinks that the influence of hard times on society is _____.",
+       "options": {
+        "A": "trivial",
+        "B": "positive",
+        "C": "certain",
+        "D": "destructive"
+       },
+       "answer": "C",
+       "explanation": "· 全局真题精解 ·\n\n> **答案：** C\n\n| 40. The author thinks that the influence of hard times on society is ____. | 40. 作者认为经济萧条的艰难时期对社会的影响是____。 |\n| --- | --- |\n| [A] trivial | [A] 无关紧要的 |\n| [B] positive | [B] 积极的 |\n| [C] certain | [C] 确定的 |\n| [D] destructive | [D] 毁灭性的 |\n\n[精准定位] 末段④句指出想了解萧条时期重塑社会结构的具体情况需要时间去考查，⑤句转而指出但是“社会结构将被重塑”是毋庸置疑的。they certainly will reshape it 与[C]项相统一，为正确项。\n\n[命题解密] 本题考查作者态度。[C]与末段作者对“困难经济时期给社会带来的影响”的判定一致：影响方式和具体情况还不确定，但是影响是确定的。\n\n[A]直接与全文主题相悖，文章开端即指出经济衰退给社会造成的影响将极为深远。[B]、[D]两项断章取义，利用文中部分内容设置干扰，虽然文中涉及经济衰退的正面和负面影响，但仅以“积极的”和“毁灭性的”定义该影响，显然不够全面。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part B",
+   "instructions": "Read the following text and answer the questions by finding information from the left column that corresponds to each of the marked details given in the right column. There are two extra choices in the right column. Mark your answers on ANSWER SHEET 1.",
+   "score": 10,
+   "groups": [
+    {
+     "type": "matching",
+     "passage": [
+      "“Universal history, the history of what man has accomplished in this world, is at bottom the History of the Great Men who have worked here,” wrote the Victorian sage Thomas Carlyle. Well, not any more it is not.",
+      "Suddenly, Britain looks to have fallen out with its favorite historical form. This could be no more than a passing literary craze, but it also points to a broader truth about how we now approach the past: less concerned with learning from our forefathers and more interested in feeling their pain. Today, we want empathy, not inspiration.",
+      "From the earliest days of the Renaissance, the writing of history meant recounting the exemplary lives of great men. In 1337, Petrarch began work on his rambling writing De Viris Illustribus – On Famous Men, highlighting the virtus (or virtue) of classical heroes. Petrarch celebrated their greatness in conquering fortune and rising to the top. This was the biographical tradition which Niccolò Machiavelli turned on its head. In The Prince, he championed cunning, ruthlessness, and boldness, rather than virtue, mercy and justice, as the skills of successful leaders.",
+      "Over time, the attributes of greatness shifted. The Romantics commemorated the leading painters and authors of their day, stressing the uniqueness of the artist’s personal experience rather than public glory. By contrast, the Victorian author Samuel Smiles wrote Self -Help as a catalogue of the worthy lives of engineers, industrialists and explorers. “The valuable examples which they furnish of the power of self-help, of patient purpose, resolute working, and steadfast integrity, issuing in the formation of truly noble and manly character, exhibit,” wrote Smiles, “what it is in the power of each to accomplish for himself.” His biographies of James Watt, Richard Arkwright and Josiah Wedgwood were held up as beacons to guide the working man through his difficult life.",
+      "This was all a bit bourgeois for Thomas Carlyle, who focused his biographies on the truly heroic lives of Martin Luther, Oliver Cromwell and Napoleon Bonaparte. These epochal figures represented lives hard to imitate, but to be acknowledged as possessing higher authority than mere mortals.",
+      "Not everyone was convinced by such bombast. “The history of all hitherto existing society is the history of class struggles,” wrote Marx and Engels in The Communist Manifesto. For them, history did nothing, it possessed no immense wealth nor waged battles: “It is man, real, living man who does all that.” And history should be the story of the masses and their record of struggle, As such, it needed to appreciate the economic realities, the social contexts and power relations in which each epoch stood. For: “Men make their own history, but they do not make it just as they please; they do not make it under circumstances chosen by themselves, but under circumstances directly found, given and transmitted from the past.”",
+      "This was the tradition which revolutionised our appreciation of the past. In place of Thomas Carlyle, Britain nurtured Christopher Hill, EP Thompson and Eric Hobsbawm. History from below stood alongside biographies of great men. Whole new realms of understanding – from gender to race to cultural studies – were opened up as scholars unpicked the multiplicity of lost societies. And it transformed public history too: downstairs became just as fascinating as upstairs."
+     ],
+     "options": {
+      "A": "emphasized the virtue of classical heroes.",
+      "B": "highlighted the public glory of the leading artists.",
+      "C": "focused on epochal figures whose lives were hard to imitate.",
+      "D": "opened up new realms of understanding the great men in history.",
+      "E": "held that history should be the story of the masses and their record of struggle.",
+      "F": "dismissed virtue as unnecessary for successful leaders.",
+      "G": "depicted the worthy lives of engineers, industrialists and explorers."
+     },
+     "questions": [
+      {
+       "number": 41,
+       "stem": "Petrarch",
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n41. [答案] A [精解] 根据题干 Petrarch 定位至第三段。该段②句 Petrarch began work on... highlighting the virtus (or virtue) of classical heroes 说明彼得拉克在其作品中注重对古典英雄美德的刻画，[A]选项 emphasized the virtue of classical heroes 与之相对应，为正确项。\n\n| 41. Petrarch41. 彼得拉克 | [B] highlighted the public glory of the leading artists.[B] 突出强调杰出艺术家的社会荣耀。 |\n| --- | --- |"
+      },
+      {
+       "number": 42,
+       "stem": "Niccolò Machiavelli",
+       "answer": "F",
+       "explanation": "> **答案：** F\n\n42. [答案] F [精解] 根据题干 Niccolò Machiavelli 定位到第三段。该段②③句首先介绍了彼得拉克重视对古典英雄美德的刻画；④至末句紧接着引入马基雅维利。考生可能对 turned on its head（完全改变），cunning，ruthlessness 等词不熟，但是根据句际逻辑以及末句选择结构 he championed cunning...，rather than virtue...（而不是美德）不难推测出 cunning 等词与 virtue 相对，表明马基雅维利与彼得拉克虽都持有伟人史观，但马基雅维利的侧重点并非美德，而是“奸诈、冷酷”等特性，这与选项 [F] 中 dismissed virtue as unnecessary...（不看重美德，认为美德无关紧要）逻辑一致，因此 [F] 为正确项。\n\n| 42. Niccolò Machiavelli42. 尼古拉·马基雅维利 | [C] focused on epochal figures whose lives were hard to imitate.[C] 关注人生难以复制的划时代人物。 |\n| --- | --- |"
+      },
+      {
+       "number": 43,
+       "stem": "Samuel Smiles",
+       "answer": "G",
+       "explanation": "> **答案：** G\n\n43. [答案] G [精解] 根据题干 Samuel Smiles 定位到第四段。③句 the Victorian author Samuel Smiles wrote...worthy lives of engineers, industrialists and explorers 与选项[G] depicted the worthy lives of engineers, industrialists and explorers 完全对应，表明维多利亚时期的作家塞缪尔·斯迈尔斯描写的对象是工程师、实业家以及探险家这类人的有价值的一生。\n\n[干扰项设置] [B]选项中 public glory 出现在第四段②句，而同段③句即出现 Samuel Smiles，造成一定干扰。但②句意在说明浪漫派更关注艺术家的个人经历而非其社会荣耀；③句的 By contrast 引出 Smiles 不同于浪漫派的地方：关注一切有成就之人的有价值人生，从而为普通人作出指引。因此该选项 highlighted the public glory of the leading artists 与 Smiles 无论从关注对象还是关注角度来看，均不一致。\n\n| 43. Samuel Smiles43. 塞缪尔·斯迈尔斯 | [D] opened up new realms of understanding the great men in history.[D] 开启了理解历史伟人的新领域。 |\n| --- | --- |"
+      },
+      {
+       "number": 44,
+       "stem": "Thomas Carlyle",
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n44. [答案] C [精解]根据题干 Thomas Carlyle 定位到第五段。该段首句指出 Thomas Carlyle 所作传记均聚焦于伟人的一生，②句 These epochal figures represented lives hard to imitate... 对这些伟人作出进一步说明，指出其伟大一生难以复制，These epochal figures 即回指首句 Martin Luther 等被 Carlyle 所取材的划时代伟人，因此[C]选项 focused on epochal figures whose lives were hard to imitate 与 Thomas Carlyle 相匹配。\n\n[干扰项设置] [D]项中 opened up new realms of understanding 虽然看似与文章末段④句 Whole new realms of understanding... were opened up... 相一致，但文中 understanding 指“对历史的理解”, 而选项中 understanding (the great men in history) 指对历史中伟人的理解，属偷换概念；其次，同段②句虽出现了 Thomas Carlyle, 但此处意在引出与 Carlyle 相左 (In place of) 的支持大众史观的人物，而且正是这种大众史观引导开启了人们理解历史的新领域 (④句), 而非 Carlyle。\n\n| 44. Thomas Carlyle44. 托马斯·卡莱尔 | [E] held that history should be the story of the masses and their record of struggle.[E] 认为历史应该是大众的历史，是对大众斗争的记录。 |\n| --- | --- |"
+      },
+      {
+       "number": 45,
+       "stem": "Marx and Engels",
+       "answer": "E",
+       "explanation": "> **答案：** E\n\n45 [答案] E [精解] 根据题干 Marx and Engels 定位到第六段。段首 Not everyone was convinced... 表明全段与第五段构成转折，引出与 Carlyle 历史观相左的人物 Marx and Engels；②至④句具体展开两人观点；其中③句 history should be the story of the masses and their record of struggle 与选项[E]直接对应，明确马恩两人的大众史观：历史是大众的历史，是对大众斗争的记录。\n\n| 45. Marx and Engels45. 马克思和恩格斯 | [F] dismissed virtue as unnecessary for successful leaders.[F] 认为美德对伟人来说是毫无必要的。 |\n| --- | --- |\n| | [G] depicted the worthy lives of engineers, industrialists and explorers.[G] 刻画了工程师，实业家以及探险家们有价值的人生。 |"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section III Translation",
+   "instructions": "Translate the following text from English into Chinese. Write your translation on ANSWER SHEET 2.",
+   "score": 15,
+   "groups": [
+    {
+     "type": "translation_full",
+     "passage": [
+      "When people in developing countries worry about migration, they are usually concerned at the prospect of their best and brightest departure to Silicon Valley or to hospitals and universities in the developed world. These are the kind of workers that countries like Britain, Canada and Australia try to attract by using immigration rules that privilege college graduates.",
+      "Lots of studies have found that well-educated people from developing countries are particularly likely to emigrate. A big survey of Indian households in 2004 found that nearly 40% of emigrants had more than a high-school education, compared with around 3.3% of all Indians over the age 25. This “brain drain” has long bothered policymakers in poor countries. They fear that it hurts their economies, depriving them of much-needed skilled workers who could have taught at their universities, worked in their hospitals and come up with clever new products for their factories to make."
+     ],
+     "questions": [
+      {
+       "number": 46,
+       "score": 15,
+       "answer": "发展中国家的人考虑移民时，通常关心的是到硅谷或发达国家的医院和大学里工作这样最美好最光明的前景。这些人正是英国、加拿大和澳大利亚等国家想要通过对大学毕业生提供优惠的移民条例来吸引的人才。\n\n许多研究表明，发展中国家受过良好教育的人尤其可能移民。2004年对印度家庭的一项大规模调查表明，将近40%移居国外的人受过高中以上教育，而与之形成对比的是：全印度25岁以上受过高中以上教育的人约为3.3%。这种“人才流失”现象长期困扰着贫困国家的决策者。他们担心这会损害本国经济，使他们失去急需的熟练劳动者，这些人本可以留在国内在大学任教、在医院工作或设计新奇产品供工厂生产。",
+       "explanation": "> **答案：** 发展中国家的人考虑移民时，通常关心的是到硅谷或发达国家的医院和大学里工作这样最美好最光明的前景。这些人正是英国、加拿大和澳大利亚等国家想要通过对大学毕业生提供优惠的移民条例来吸引的人才。\n\n**校对补充：** 1. **the best and brightest**：名词化表达，指一个国家最优秀、受教育程度最高、最有能力的人才。\n2. **be concerned at the prospect of...**：表示“对……的前景感到担忧”；*departure to...* 指人才离开本国前往硅谷、发达国家医院和大学。\n3. **immigration rules that privilege college graduates**：定语从句修饰 *immigration rules*；*privilege* 作动词表示“给予优待、赋予优惠地位”。\n4. **be particularly likely to emigrate**：表示“尤其可能移居国外”。\n5. **compared with...**：过去分词短语用于数据比较。近40%的移民受过高中以上教育，而全体25岁以上印度人中相应比例仅约3.3%，突出人才外流的选择性。\n6. **brain drain**：固定表达“人才流失、智力外流”。\n7. **deprive sb. of sth.**：表示“使某人失去某物”。这里 *depriving them of much-needed skilled workers* 是现在分词结构，说明人才流失对贫困国家造成的具体后果。\n8. **who could have taught..., worked..., and come up with...**：三个并列谓语说明这些熟练劳动者如果留在国内本可以作出的贡献。\n9. **could have done**：表示“过去本来能够做，但实际没有发生”。\n10. **come up with**：提出、想出；*clever new products for their factories to make* 表“供本国工厂生产的新产品”。\n\n**发展中国家的人才流失**\n\n**一、文章总体分析**\n\n本文选自 The Economist(《经济学人》)2011年5月26日一篇题为 Drain or Gain?（流失还是获益？）的文章。翻译部分截取原文前两段，讲述了发展中国家受过良好教育的人更容易移民到发达国家及这种人才流失对发展中国家造成的危害。翻译时应注意结合上下文语境仔细揣摩某些难句及字词。\n\n**二、语篇分析**\n\nI ① When people in developing countries worry about migration, they are usually concerned at the prospect of their best and brightest departure to Silicon Valley or to hospitals and universities in the developed world. ② These are the kind of workers that countries like Britain, Canada and Australia try to attract by using immigration rules that privilege college graduates.\n\n① migration n. 移民\n\n②prospect n. 前景，很可能会发生的事情当发展中国家的人们担心移民问题时，他们通常忧虑的是自己国家最优秀、最聪明的人才可能移民到硅谷或发达国家的医院和大学这样的地方工作。这类工作者正是英国、加拿大和澳大利亚等国家想要通过对大学毕业生提供优惠的移民条例来吸引的人才。\n\n③departure n. 离开，启程\n\n④privilege v. 给予……特权；特别优待\n\n**语篇分析**\n\n第一段指出发展中国家担心人才外流，而发达国家则采取优惠移民政策来引入人才。\n\n首句指出发展中国家担心人才外流。usually concerned at 回应 worry about，引出发展中国家担心的移民具体问题。departure 回应 migration，即指“移民”。②句指出发达国家采取优惠移民政策吸引外国人才。These 回指 their best and brightest，即，发展中国家最优秀、最聪明的人才；college graduates 则回应两者，点出优惠移民政策针对的是优秀大学毕业生。privilege 用作动词，意为“给予特权，特别优待”。\n\nII ① Lots of studies have found that well-educated people from developing countries are particularly likely to emigrate. ② A big survey of Indian households in 2004 found that nearly 40% of emigrants had more than a high-school education, compared with around 3.3% of all Indians over the age of 25. ③ This “brain drain” has long bothered policymakers in poor counties. ④ They fear that it hurts their economies, depriving them of much-needed skilled workers who could have taught at their universities, worked in their hospitals and come up with clever new products for their factories to make. [151 words]\n\n许多研究表明，发展中国家受过良好教育的人尤其可能移民。2004年对印度家庭的一项大规模调查表明，将近40%移居国外的人受过高中以上教育，而与之形成对比的是：全印度25岁以上受过高中以上教育的人约为3.3%。这种“人才流失”现象长期困扰着贫困国家的决策者。他们担心这会损害本国经济，使他们失去急需的熟练劳动者，这些人本可以留在国内在大学任教、在医院工作或设计新奇产品供工厂生产。\n\n①emigrate v. 移居外国\n\n**词汇注释**\n\nbrain drain 人才流失 deprive v. 剥夺\n\n**语篇分析**\n\n第二段指出发展中国家受过良好教育的人更可能移民，以及移民对这些国家的发展造成的危害。\n\n首句指出研究表明受过良好教育的人更可能移民，②句以印度的具体实例调查例证首句，③④句陈述发展中国家政策制定者对本国人才流失所造成危害的担忧。\n\n首句 well-educated people 回应第一段 their best and brightest，指出发展中国家哪些人更趋于移民。②句 A big survey 回应 Lots of studies，强调其后所陈述内容为大量研究发现的结果，彰显可信性。nearly 40% of emigrants 与 3.3% of all Indians 形成鲜明对比，凸显受过良好教育的人更容易移民。③句 brain drain 总体指代前文“发展中国家的人才外流（移民）”。末句以 it hurts... depriving them of... 具体呈现人才外流给本国发展带来的危害，从而解释③句人才外流为何大为困扰（bothered）发展中国家的政策制定者。could have taught at... worked in... come up with... 以虚拟情形说明这些人才本可以助益本国发展，从而反向凸显人才外流带来的危害。\n\n**三、难句分析**\n\n1. When people in developing countries worry about migration, they are usually concerned at the prospect of their best and brightest departure to Silicon Valley or to hospitals and universities in the developed world.\n\n本句涉及的难点：时间状语从句、介词短语作后置定语。\n\n[句法分析]\n\nmigration, to Silicon Valley or to hospitals and universities in the developed world.\n\n介词短语作后置定语限定 departure[要点注释]\n\n①本句的翻译难点在于 the prospect of their best and brightest departure。许多考生可能依据字面意思误解成“移民到发达国家所带来的最美好最光明的前景”，但根据上下文语境则可发现事实并非如此。首先，worry about... are concerned at 表明此处叙述的是“发展中国家人们的一种忧虑”；而下文第二段则主要叙述的是“发展中国家人才外流所带来的危害”，故而此处，忧虑的并非是“最美好最光明的前景”，而是“自己国家最优秀、最聪明的人才移民到国外（即，人才流失）”。同时，their best and brightest departure 作“优秀人才外流”讲亦可与第二句 These are the kind of workers that countries... try to attract(发达国家通过优惠移民政策来吸引优秀外国人才)实现顺滑衔接。prospect 此处为熟词僻意，意为 the possibility that something will happen 可能性；departure 本意为“离开”，但此处回应 migration，故可直接翻译成“移民”，因此 they are usually concerned at the prospect of their best and brightest departure 可整体处理成：他们通常忧虑的是自己国家最优秀、最聪明的人才可能移民到……\n\n原文副标题：Poor countries can end up benefiting when their brightest citizens emigrate. (此处可见 brightest 修饰的是人) 原文第一段：When people in rich countries worry about migration, they tend to think of low-paid incomers who compete for jobs as construction workers, dishwashers or farmhands. When people in developing countries worry about migration, they are usually concerned at the prospect of their best and brightest decamping to Silicon Valley or to hospitals and universities in the developed world. (第一句描述当富裕国家的人们担心移民问题时，他们想到的是那些低收入者会来和他们竞争如建筑、洗碗之类的工作；第二句描述当发展中国家的人们担心移民问题时，他们忧虑的是自己国家最优秀的人才会移民到发达国家；两句中 low-paid incomers... construction workers, dishwashers or farmhands 与 their best and brightest 形成鲜明对比。)\n\n2. These are the kind of workers that countries like Britain, Canada and Australia try to attract by using immigration rules that privilege college graduates.\n\n本句涉及的难点：指示代词、定语从句、方式状语。\n\n[句法分析]\n\n谓语 方式状语\n\n[要点注释]\n\n① These 指代上文 their best and brightest, 因本句语义重点落在后面，故而 These are the kind of workers 可借助指示代词的作用简单处理成名词短语：这类工作者。\n\n②compare with 意为 used when considering the size, quality, or amount of something in relation to something“[尺寸、质量或数量]与某物相比”; 句中相比的对象为“移民中受过高中以上教育的人数比例”与“全印度 25 岁以上的人中受过高中以上教育的人数比例”, 故翻译 compared with... 内容时应采取增译法，将比较对象叙述完整，即处理成：而与之形成对比的是：全印度 25 岁以上受过高中以上教育的人约为 3.3%。\n\n4. They fear that it hurts their economies, depriving them of much-needed skilled workers who could have taught at their universities, worked in their hospitals and come up with clever new products for their factories to make.\n\n[句法分析][要点注释]①deprive sb. of sth. 意为“剥夺”; 结合语境可译为：致使他们失去……。\n\n②who 引导的定语从句修饰 workers, 因定语从句较长，故而翻译时可将其作为一个小分句翻译，同时为了体现其与主句的逻辑关系，可借用汉语的指示代词处理成：(而) 这些人……。\n\n③who 引导的定语从句中，谓语动词为虚拟语气（could have...），翻译时可处理成“本可以……”；原文三个并列谓语（could have taught at...（could have）worked in...（could have）come up with...）在翻译时可直接转换成汉语相应的动词短语：“在……任教，在……工作，或设计出……”。\n\n④come up with 意为“想出，提出（主意，答案等）”；结合宾语 products(“产品”)可将其译为“设计出”。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section IV Writing — Part A",
+   "score": 10,
+   "groups": [
+    {
+     "type": "writing",
+     "questions": [
+      {
+       "number": 47,
+       "score": 10,
+       "stem": "47. Directions:\nSuppose you have found something wrong with the electronic dictionary that you bought from an online store the other day. Write an email to the customer service center to\n1) make a complaint, and\n2) demand a prompt solution.\nYou should write about 100 words on ANSWER SHEET 2.\nDo not sign your own name at the end of the letter. Use “Zhang Wei” instead.\nDo not write the address. (10 points)",
+       "answer": "Dear Sir or Madam,\nThe day before yesterday I bought an electronic dictionary, P 900, in your online store. To my dismay, within three days of the purchase I found it couldn't work normally. It shuts itself down automatically with intolerable frequency. I expect you to provide a new one for replacement or, at least, to follow the warranty policy by repairing it. If no satisfaction can be gained by these means, I will have to demand a refund.\nThank you for taking the time to read this letter. If detailed information is required, please reach me at 12345678.\nYours faithfully, Zhang Wei",
+       "explanation": "**一、审题谋篇**\n\n**1. 解析题目指令，确定行文要点**\n\n| | | |\n| --- | --- | --- |\n| 指令关键词 | 信息解读 | 要点归纳 |\n| Write an email | 规定写一封电子邮件，即书信。 | 1.应用文类型为书信，格式需完整；2.收信人为客服部门工作人员，虽然信件目的是投诉，但仍要表现出对其工作的尊重、语气不能太生硬；3.信件内容应该包括：简要回顾购买过程、详细说明产品有何质量问题、提出期望的解决措施以及适当的客套语。 |\n| to the customer service center | 透露收信人为客服部门工作人员。 | |\n| 1) make a complaint, and 2) demand a prompt solution. | 规定写作内容：投诉并要求及时解决。 | |\n| you have found something wrong with the electronic dictionary | 提供内容线索：投诉内容是电子词典不能正常工作，可以补充具体表现；针对商品质量的处理办法通常是：维修、换货或者退款，可以从这几个方面论述期望的解决措施。 | |\n| that you bought from an online store the other day. | 提供内容线索：电子词典的购买途径和时间，可以扩展补充出具体的购买细节。 | |\n\n**2. 罗列关键词**\n\ncan't work normally 不能正常工作，provide a new one 提供新的，repair[v.]维修，demand a refund 退款\n\n**二、优秀范文赏析**\n\n**Dear Sir or Madam,**\n\nThe day before yesterday I bought an electronic dictionary, P 900, in your online store. To my dismay, within three days of the purchase I found it couldn't work normally. It shuts itself down automatically with intolerable frequency. I expect you to provide a new one for replacement or, at least, to follow the warranty policy by repairing it. If no satisfaction can be gained by these means, I will have to demand a refund.\n\nThank you for taking the time to read this letter. If detailed information is required, please reach me at 12345678.\n\nYours faithfully, Zhang Wei\n\n**参考译文**\n\n**亲爱的先生或女士：**\n\n前天我在您的网店购买了电子词典 P900。让我难过的是在购买三天之内我发现它不能正常工作。它自动关机，频繁得让人无法忍受。我希望您能换一个新的或者至少履行保修协议为我维修它。如果这些方式都不能有满意的结果，我只能要求退款。\n\n感谢您抽时间阅读这封信。若需要详细信息，请拨打12345678与我联系。\n\n诚挚的，\n\n张伟\n\n[必备表达]\n\n1. to my dismay 让我难过的是\n\n2.shut itself down automatically 自动关机\n\n3. with intolerable frequency 让人无法忍受的频率\n\n5. follow the warranty policy 履行保修协议\n\n4. replacement[n.]更换\n\n6. satisfaction[n.]满意\n\n7. reach[v.]与……联系\n\n[精彩句式]\n\n| | | | | | |\n| --- | --- | --- | --- | --- | --- |\n| to follow the warranty policy 宾补2 | by repairing it.(方式状语) | | | | |\n\n**句子成形步骤：**\n\n①写出简单句\n\nYou should provide a new one.\n\nYou should repair it.\n\nI expect you to adopt either method.\n\n②整合简单句\n\nI expect you to adopt either method, providing a new one or repairing it.\n\n③增加表达精确性和美感\n\nI expect you to provide a new one for replacement or, at least, to follow the warranty policy by repairing it.\n\n**思路框架**\n\n投诉信用于反映出现的问题以期获得解决。该信第一段首句为背景介绍，引出下文问题的提出；第2、3句按照从概括到具体的顺序说明问题；第4、5句提出希望对方如何解决问题。第二段为书信的常规客套语。\n\n**应用模板**\n\n该思路适合对商品质量问题进行投诉。\n\n**Dear Sir or Madam,**\n\n时间状语 I bought ____ in 购买地点。To my dismay, 时间状语 I found it couldn't work normally. 具体阐述问题。I expect you to provide a new one for replacement or, at least, to follow the warranty policy by repairing it. If no satisfaction can be gained by these means, I will have to demand a refund.\n\nThank you for taking the time to read this letter. If detailed information is required, please reach me at 12345678.\n\nYours faithfully, Zhang Wei\n\n**三、写作储备**\n\n**电子词典的问题**\n\nshort battery life 电池使用时间短，unable to update 无法更新，stuck key 卡住的键，keys are difficult to press 按键很难按，broken screen 坏的屏幕，frequent application crash 频繁的退出程序\n\n**投诉信常用表达**\n\n**1. 开头语**\n\nI want to inform you of my dissatisfaction with... 我想表达对……的不满。 I must complain about...必须宣泄对……的怨言。 I beg to call your attention to the fact that... 我希望你们能注意到……\n\n**2. 发展部分**\n\nIt is irritating/annoying to find that... 发现……, 让人生气。 I am disappointed because the product (the service)... 我因产品(服务)……而失望。 I wish you could give the money back (repair it/replace it with a new one, etc.) 我希望您能退款(维修、调换)。\n\n**3. 结束语**\n\nI would be grateful if this matter would have your immediate attention. 如若您能及时关注该事务，我将非常感激。 I look forward to your reply and a resolution to my problem, and will wait until... before seeking help from the consumer protection association. 希望得到您的回复和解决问题的办法。如果到……我仍得不到回复，我会向消费者保护协会寻求帮助。\n\n**四、写作练习**\n\n请参考模板和话题词汇，按照下列要求，进行写作。\n\n**Directions:**\n\nSuppose you have found something wrong with the air-conditioner that you bought from a store the other day. Write an email to the customer service center to\n\n1) make a complaint, and\n\n2) demand a prompt solution.\n\nYou should write about 100 words.\n\nDo not sign your own name at the end of the letter. Use \"Zhang Wei\" instead.\n\n**话题词汇**\n\nnoisiness[n.]吵闹 unable to control temperature 无法控制温度 remote controller 遥控器 difficult to use 使用困难"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section IV Writing — Part B",
+   "score": 15,
+   "groups": [
+    {
+     "type": "writing",
+     "questions": [
+      {
+       "number": 48,
+       "score": 15,
+       "stem": "48. Directions:\nWrite an essay based on the following table. In your writing, you should\n1) describe the table, and\n2) give your comments.\nYou should write at least 150 words.\nWrite your essay on ANSWER SHEET 2. (15 points)\n某公司员工工作满意度调查\n满意度\n满意 不清楚 不满意\n年龄组\n≤40 岁 16.7％ 50.0％ 33.3％\n41~50 岁 0.0％ 36.0％ 64.0％\n＞50 岁 40.0％ 50.0％ 10.0％",
+       "answer": "Employees above 50 years old were most likely to report satisfaction, with 40% of them indicating they were content. Employees 40 years or younger were less willing to declare satisfaction, only 16.7% of whom said they were satisfied; instead, a third of whom expressed dissatisfaction. Employees in the 41-to-50 age group were surely unhappiest: none of them felt satisfied and the percentage of respondents reporting dissatisfaction was as high as 64%.\nThere is a significant difference in job satisfaction by employee age. The difference relates to their career situation. Employees at the age from 41 to 50, less energetic than younger crowd and less competent than older professionals, reach a career plateau. The consequent sense of powerlessness is strong enough to reduce them to deep dissatisfaction. In contrast, younger colleagues, in spite of occasional confusion, are mostly in an upward spiral and understandably will feel happier. As for elder colleagues, many of them have achieved career maturity and their careers are going to be crowned with relaxing retirement life. Not surprisingly, they are the happiest.\nIt is clear that career troubles will afflict people at all ages. For lasting happiness with our jobs, positive attitude is necessary.",
+       "explanation": "**一、审题谋篇**\n\n**1. 分析图表数据，解读背后现象**\n\n| | | | |\n| --- | --- | --- | --- |\n| 表格项目 | 项目意义 | 项目分析 | 现象解读 |\n| 表格第一列 | 按年龄分成三个组群 | 50岁以上的组群工作满意比例最高；41-50岁组群工作满意比例为零，不满意比例最高；小于40岁的组群工作满意比例居中。 | 不同的年龄阶层，职场满意度不同。这种情形与不同年龄人群的职场处境和职场预期相关，应结合不同年龄人群的职场特点分析原因。即使工作满意比例最高的组群也只有40%的人声称对工作满意，从而有必要鼓励人们持有积极观念，提高工作满意度。 |\n| 表格第二列 | 记录对工作感到满意的比例 | | |\n| 表格第三列 | 记录对工作态度不清楚的比例 | | |\n| 表格第四列 | 记录对工作不满意的比例 | | |\n\n**2. 罗列关键词**\n\n描写关键词：table[n.] 表格，employee above 50 years old 50 岁以上的雇员，employee 40 years or younger 40 岁以下的雇员，employee in the 41-50 age group 41 岁至 50 岁的雇员 话题关键词：job satisfaction 工作满意度，content/satisfied[a.]满意，employee age 雇员年龄\n\n**二、优秀范文赏析**\n\nEmployees above 50 years old were most likely to report satisfaction, with 40% of them indicating they were content. Employees 40 years or younger were less willing to declare satisfaction, only 16.7% of whom said they were satisfied; instead, a third of whom expressed dissatisfaction. Employees in the 41-to-50 age group were surely unhappiest: none of them felt satisfied and the percentage of respondents reporting dissatisfaction was as high as 64%.\n\nThere is a significant difference in job satisfaction by employee age. The difference relates to their career situation. Employees at the age from 41 to 50, less energetic than younger crowd and less competent than older professionals, reach a career plateau. The consequent sense of powerlessness is strong enough to reduce them to deep dissatisfaction. In contrast, younger colleagues, in spite of occasional confusion, are mostly in an upward spiral and understandably will feel happier. As for elder colleagues, many of them have achieved career maturity and their careers are going to be crowned with relaxing retirement life. Not surprisingly, they are the happiest.\n\nIt is clear that career troubles will afflict people at all ages. For lasting happiness with our jobs, positive attitude is necessary.\n\n**参考译文**\n\n50 岁以上的雇员最可能报告他们对工作满意，40%的人表示他们满意。40岁以下的雇员更不愿意宣称对工作满意，只有16.7%的人说他们满意，相反三分之一的人表达了不满。41岁至50岁之间的雇员肯定是最不快乐的：没有人感到满意，声称不满意的比例高达64%。\n\n工作满意度因雇员年龄不同有巨大的差异。这样的差别与职场情形相关。41岁至50岁的人不如更年轻的人有活力、不如更年长的专业人士有能力，进入职场高原（停滞不前的局面）。相应的无力感如此之强，让他们陷入深深的不满。与此相对，除了偶尔感到困惑，年轻的同事通常处在上升阶段，自然感到更高兴。至于年长的同事，他们大部分职业发展已经成熟，他们的职场生涯将以休闲退休生活的形式圆满结束。他们最快乐一点不奇怪。\n\n很明显职场问题会困扰所有年龄的人。为了一直对工作感到满意，积极的态度是必需的。\n\n[亮点词汇]\n\n1. report[v.]报告\n\n8. consequent[a.]相应的\n\n2. declare[v.]宣称\n\n9. occasional[a.]偶尔的\n\n3. express[v.]表达\n\n10. mostly[ad.]大部分地\n\n4. surely[ad.]肯定\n\n11. understandably[ad.]可以理解地\n\n5. energetic[a.]有活力的\n\n12. crown[v.] 圆满完成或结束\n\n6. competent[a.]有能力的\n\n13. afflict [v.] 使……苦恼\n\n7. professional[n.]专业人士\n\n[必备搭配]\n\n1. relate to 与……相关\n\n2. at the age from... to... ……岁到……岁之间的\n\n5. reduce... to... 使陷入(坏的)状况或情形中\n\n6. in an upward spiral 处在上升阶段\n\n3. reach a career plateau 进入职场高原\n\n7. career maturity 职业发展成熟\n\n8. retirement life 退休生活\n\n4. sense of powerlessness 无力感\n\n9. career trouble 职场问题\n\n[精彩句式]\n\ninstead, a third of whom expressed dissatisfaction.\n\n**句子成形步骤：**\n\n①写出简单句\n\nFewer employees 40 years or younger wanted to express satisfaction.\n\n16.7% of them were satisfied.\n\nA third of them were not satisfied.\n\n**②整合简单句**\n\nFewer employees 40 years or younger wanted to express satisfaction, 16.7% of whom were satisfied; a third of whom were not satisfied.\n\n**③增加表达精确性和美感**\n\nEmployees 40 years or younger were less willing to declare satisfaction, only 16.7% of whom said they were satisfied; instead, a third of whom expressed dissatisfaction.\n\n2. Employees in the 41-to-50 age group were surely unhappiest: 分句 1: none of them felt\n\nsatisfied and 分句 2: the percentage of respondents reporting dissatisfaction was as high as 64%.\n\n**句子成形步骤：**\n\n① 写出简单句\n\nEmployees in the 41-to-50 age group were unhappiest.\n\nNone of them were satisfied.\n\n64% of them were dissatisfied.\n\n**② 整合简单句**\n\nEmployees in the 41-to-50 age group were unhappiest: none of them were satisfied and 64% of them were dissatisfied.\n\n**③ 增加表达精确性和美感**\n\nEmployees in the 41-to-50 age group were surely unhappiest: none of them felt satisfied and the percentage of respondents reporting dissatisfaction was as high as 64%.\n\n**点评句式发光点：**\n\n冒号相当于连词的作用，引出并列分句对冒号前的句子进行解释说明；使用 the percentage of... was as high as... 避免句式的雷同且强调不满意人群之多。\n\n**思路框架**\n\n表格揭示了三类人群的工作满意比例，描写时不需要每个数据都提及，只需抓住最具代表性的极值(即满意比例最高、满意比例最低)和中间值即可。分析表格时重在剖析不同人群满意比例具有差异的原因，分析后就总体提高满意度发表自己的意见。\n\n第一段描写表格，重点提及几个关键数字。第1句介绍满意比例最高的群体，引用满意比例；第2、3句分别介绍满意比例居中和最低的两个群体，引用满意比例和不满意比例，体现满意比例的逐渐递减以及不满意比例的提高。\n\n**第二、三段分析、评论表格。**\n\n第二段解释不同人群群体满意比例具有差异的原因。第1句概述表格呈现的差异；第2句总述原因；第3、4句分析41－50岁人群为满意比例最低人群的原因；第5句分析40岁以下的人满意比例居中的原因；第6、7句分析50岁以上人群满意比例最高的原因。\n\n第三段针对表格反映的话题进行评论。第1句概述职场所有人面临的问题；第2句承接上一句针对所有人给出提高工作满意度的建议。\n\n**应用模板**\n\n该思路适用于分析体现满意度差异的表格。\n\n____ were most likely to report satisfaction, with ____ % of them indicating they were content. ____ were less willing to declare satisfaction, only ____ % of whom said they were satisfied; instead, 比例 of whom expressed dissatisfaction. ____ were surely unhappiest: 比例 of them felt satisfied and the percentage of respondents reporting dissatisfaction was as high as __%.\n\nThere is a significant difference in ____ satisfaction by ____. The difference relates to ____. ____. The consequent sense of 体现负面情绪的名词 is strong enough to reduce them to deep dissatisfaction. In contrast, ____ and understandably will feel happier. As for ____, ____. Not surprisingly, they are the happiest.\n\nIt is clear that ____. For lasting happiness with ____, ____ is necessary.\n\n**三、写作储备**\n\n[话题表达补充]\n\n工作满意度影响因素：career advance opportunities 职业发展机会，relationship with management 与领导层的关系，relationship with co-workers 与同事的关系，work environment 工作环境，organization's financial stability 组织的财务稳定性 benefits 利益。\n\n[写作素材积累]\n\n1. Organizations understand that employee job satisfaction and engagement are important to their business sustainability. 组织清楚员工工作满意度和投入度对企业可持续发展至关重要。\n\n2. Employee satisfaction and engagement are very individual issues that are influenced by an employee's personal life, professional situation, expectations and values. 员工满意度和参与度是个人事务，受员工个人生活、职业环境、期望和价值观的影响。\n\n3. Employees continue to seek competitive wages, an appreciative climate and workplace flexibility. 职员继续寻求有竞争力的薪水、彼此欣赏的环境以及工作环境的灵活。\n\n**四、写作练习**\n\n请参考模板和话题词汇，按照下列要求，进行写作。\n\nDirections: Write an essay. In your writing, you should\n\n1) describe the table, and\n\n2) give your comments.\n\nYou should write at least 150 words.\n\n2010 某市物价满意度调查\n\n| | | | |\n| --- | --- | --- | --- |\n| 收入群体 满意度 | 满意 | 不清楚 | 不满意 |\n| 低收入群体 | 0.0% | 21.3% | 78.7% |\n| 中等收入群体 | 3.7% | 26% | 70.3% |\n| 高收入群体 | 12% | 27.5% | 60.5% |\n\n**话题词汇**\n\ncommodity price 物价\n\nmiddle-income consumer 中等收入消费者 low-income consumer 低收入消费者\n\nhigh-income consumer 高收入消费者"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

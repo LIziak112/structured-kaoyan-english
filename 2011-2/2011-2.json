@@ -1,0 +1,677 @@
+{
+ "year": 2011,
+ "exam": "英语二",
+ "sections": [
+  {
+   "title": "Section I Use of English",
+   "instructions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on ANSWER SHEET 1. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "cloze",
+     "passage": [
+      "The Internet affords anonymity to its users, a blessing to privacy and freedom of speech. But that very anonymity is also behind the explosion of cyber-crime that has {{1}} across the Web.",
+      "Can privacy be preserved {{2}} bringing safety and security to a world that seems increasingly {{3}}?",
+      "Last month, Howard Schmidt, the nation’s cyber-czar, offered the federal government a {{4}} to make the Web a safer place – a “voluntary trusted identity” system that would be the high-tech {{5}} of a physical key, a fingerprint and a photo ID card, all rolled {{6}} one. The system might use a smart identity card, or a digital credential {{7}} to a specific computer, and would authenticate users at a range of online services.",
+      "The idea is to {{8}} a federation of private online identity systems. Users could {{9}} which system to join, and only registered users whose identities have been authenticated could navigate those systems. The approach contrasts with one that would require an Internet driver’s license {{10}} by the government.",
+      "Google and Microsoft are among companies that already have these “single sign-on” systems that make it possible for users to {{11}} just once but use many different services.",
+      "{{12}}, the approach would create a “walled garden” in cyberspace, with safe “neighborhoods” and bright “streetlights” to establish a sense of a {{13}} community.",
+      "Mr. Schmidt described it as a “voluntary ecosystem” in which “individuals and organizations can complete online transactions with {{14}}, trusting the identities of each other and the identities of the infrastructure {{15}} which the transaction runs.”",
+      "Still, the administration’s plan has {{16}} privacy rights activists. Some applaud the approach; others are concerned. It seems clear that such a scheme is an initiative push toward what would {{17}} be a compulsory Internet “driver’s license” mentality.",
+      "The plan has also been greeted with {{18}} by some computer security experts, who worry that the “voluntary ecosystem” envisioned by Mr. Schmidt would still leave much of the Internet {{19}}. They argue that all Internet users should be {{20}} to register and identify themselves, in the same way that drivers must be licensed to drive on public roads."
+     ],
+     "questions": [
+      {
+       "number": 1,
+       "options": {
+        "A": "swept",
+        "B": "skipped",
+        "C": "walked",
+        "D": "ridden"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A) swept\n\n1. [A] swept 席卷，横扫\n\n[C] walked 行走，散步[B] skipped 跳离，跳跃\n\n[D] ridden 骑(马), 乘坐(电梯、车辆)\n\n[试题精解] 本题考查固定搭配+句内语义。空格所在的定语从句修饰 cyber-crime,用来说明网络犯罪与网络之间的关系。[A] sweep across 为固定搭配，表示“席卷、横扫”,代入表示“席卷互联网的网络犯罪”,与 explosion(网络犯罪激增)前后呼应，表现出了网络犯罪的猖獗，符合文意，为正确项。其他项代入，说“网络犯罪跳离、行走于或乘坐网络”都不合逻辑，应排除。"
+      },
+      {
+       "number": 2,
+       "options": {
+        "A": "for",
+        "B": "within",
+        "C": "while",
+        "D": "though"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) while\n\n2. [A] for 为了，因为\n\n[B] within 在……之内\n\n[C] while 与……同时\n\n[D] though 虽然，尽管\n\n[试题精解] 本题考查句内逻辑关系。上文指出，互联网提供匿名保护，便于保护隐私权和言论自由，却也成为网络犯罪激增的原因。空格所在句紧承上文提出质问“隐私能否得到保护……给网络世界带来安全保障？”即，“隐私”和“安全”这两者能否兼得？从而引出下文对保障网络安全的举措的介绍。\n\n[C]表示同时发生，代入符合文意。空格前后内容不存在因果、包含与转折关系，排除[A][B][D]。"
+      },
+      {
+       "number": 3,
+       "options": {
+        "A": "careless",
+        "B": "lawless",
+        "C": "pointless",
+        "D": "helpless"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B) lawless\n\n3. [A] careless 粗心的，疏忽的\n\n[B] lawless 不守法的，不受法律控制的\n\n[C] pointless 无意义的，无谓的\n\n[D] helpless 无助的，没用的\n\n[试题精解] 本题考查上下文语义。空格处“日渐……的互联网”是对上文提到的“激增的网络犯罪席卷互联网”的同义复现，选项中只有[B]代入符合文意，表示“日渐不受法律控制的互联网”。\n\nⅢ ① Last month, Howard Schmidt, the nation's cyberczar, offered the federal government a 4 to make the Web a safer place — a “voluntary trusted identity ” system that would be the high-tech 5 of a physical key, a fingerprint and a photo ID card, all rolled 6 one. ② The system might use a smart identity card, or a digital credential 7 to a specific computer, and would authenticate users at a range of online services.\n\nIV ① The idea is to \\_8\\_ a federation of private online identity systems. ② Users could \\_9\\_ which system to join, and only registered users whose identities have been authenticated could navigate those systems. ③ The approach contrasts with one that would require an Internet driver's license \\_10\\_ by the government.\n\nV Google and Microsoft are among companies that already have these “single sign-on” systems that make it possible for users to 11 just once but use many different services.\n\nVI 12, the approach would create a “walled garden” in cyberspace, with safe “neighborhoods” and bright “streetlights” to establish a sense of a 13 community.\n\nVII Mr. Schmidt described it as a “voluntary ecosystem” in which “individuals and organizations can complete online transactions with 14, trusting the identities of each other and the identities of the infrastructure” 15 which the transaction runs.”\n\n①美国网络总管霍华德·施密特上个月向联邦政府提供了一个旨在使网络环境更为安全的提议，即（建立）一个“自愿可信身份”系统，这款系统是集物理密钥、指纹以及照片身份证件卡片（功能）于一体的高科技等价物。②该系统可利用连接于特定计算机的智能身份证或数字证书来验证一系列在线服务用户的身份。\n\n①其理念是创建联合私人在线身份验证系统。②用户可以自行选择想要加入的系统，且只有身份通过验证的注册用户可以浏览这些系统。③该途径与需要政府发给网络通行证的途径明显不同。\n\n谷歌、微软等公司已经实行这种“单点登录系统”，这样的系统使得用户只需登录一次，便可以使用多种不同的服务。\n\n实际上，该途径相当于在网络空间中创建带有安全“街区”和明亮“路灯”的“围墙花园”,来建立一种可信社区的感觉。\n\n施密特先生将其描述为一个“自发的生态系统”，在该系统中个人和组织可以信任彼此的身份，信任交易运行的平台的身份，放心地完成网上交易。\n\n**词汇注释与难句分析**\n\ncyber-czar n. 网络总管\n\nvoluntary a. 自愿的，自动的\n\nidentity n. 身份，身份认证\n\ncredential n. 证书，凭据\n\nauthenticate v. 证实，证明……是真的\n\nfederation n. 联合，联邦，联盟\n\nregistered a. 注册的，登记过的\n\nnavigate v. 浏览(网站)\n\necosystem n. 生态系统\n\ntransaction n. 交易，买卖\n\ninfrastructure n. 基础设施，基础建设\n\nLast month, Howard Schmidt, the nation's cyber-czar, offered the federal government a proposal to make the Web a safer place — a “voluntary trusted identity” system that would be the high-tech equivalent of a physical key, a fingerprint and a photo ID card, all rolled into one.\n\n功能注释：该句破折号后为 a proposal 的同位语，其中包含 that 引导的定语从句修饰 system,定语从句的表语由“of+并列的名词”修饰。\n\nGoogle and Microsoft are among companies that already have these “single sign-on” systems that make it possible for users to log in just once but use many different services.\n\n功能注释：本句中包含嵌套的定语从句，都由 that 引导：第一个定语从句修饰主句中的 companies,第二个修饰从句中的 systems;第二个定语从句的谓语部分使用 make+it+a.+for sb+to do sth 的结构。\n\nMr. Schmidt described it as a “voluntary ecosystem” in which “individuals and organizations can complete online transactions with confidence, trusting the identities of each other and the identities of the infrastructure on which the transaction runs.”\n\n功能注释：主句谓语采用 describe sth as sth 的结构，宾补 a “voluntary ecosystem” 由 in which 引导的定语从句修饰；该定语从句中又有现在分词 trusting... 作伴随状语，其中又嵌套一个定语从句。\n\n**语篇分析**\n\n文章三至七段为一个意群，承接上文互联网领域匿名制引发的网络安全问题提出应对措施。\n\n第三段引入“自愿可信身份”系统，句中 identity 与上文 anonymity 形成对比，表明文章开始论述针对网络匿名的新举措。首句介绍该系统的提出者及其设计原理，②句介绍该系统的工作原理。\n\n第四段首句总结上文“自愿可信身份”的设计理念，a federation of private online identity systems 与上段... all rolled into one 同义复现，引出②句该系统的使用方法：用户可任选一个系统加入（which system 对应 a federation of... systems）；末句指出这种方法与“政府发给网络通行证”的传统方法不同。\n\n第五段介绍了该模式的实施情况，指出谷歌、微软等公司已经实行这种“单点登录系统”。\n\n第六七段进一步介绍该系统的特点：第六段以“有围墙的花园”作比，指出该途径相当于在网络空间创建可信社区；第七段引用施密特“自发的生态系统”的比喻，指出这是个人和组织可以信任彼此的空间。"
+      },
+      {
+       "number": 4,
+       "options": {
+        "A": "reason",
+        "B": "reminder",
+        "C": "compromise",
+        "D": "proposal"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D) proposal\n\n4. [A] reason 原因，理由\n\n[B] reminder 暗示，提示\n\n[C] compromise 妥协，和解\n\n[D] proposal 提议，建议\n\n[试题精解] 本题考查句内语义。上文已指出互联网领域日渐失去法律控制(即不安全性在增加)。据此，“美国网络总管霍华德·施密特向政府提供了一个旨在使网络环境更为安全的……”,此处明显是提供了一个旨在提高网络安全性的提议、建议，[D]为正确选项。"
+      },
+      {
+       "number": 5,
+       "options": {
+        "A": "information",
+        "B": "interference",
+        "C": "entertainment",
+        "D": "equivalent"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D) equivalent\n\n5. [A] information 信息，资料\n\n[B] interference 干预、干涉\n\n[C] entertainment 娱乐，消遣\n\n[D] equivalent 等同物，等价物\n\n[试题精解] 本题考查句内语义。本小题可在完成第6小题后作答。空格所在部分为 that 引导的定语从句，用于说明 a “voluntary trusted identity” system；根据文意，应是说“自愿可信识别”系统相当于“物理密钥、指纹以及照片身份证件卡片集于一体”，即具有相同的功效，[D]项表示具有相同价值或功效的等同物，代入表示“是集……于一体的高科技等价物”，符合文意。其他项均不符合语义要求。"
+      },
+      {
+       "number": 6,
+       "options": {
+        "A": "by",
+        "B": "into",
+        "C": "from",
+        "D": "over"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B) into\n\n6. [A] by 通过，被\n\n[B] into 深入……之中，融入\n\n[C] from 来自，从\n\n[D] over 越过\n\n[试题精解] 本题考查固定搭配。(all) rolled into one 为固定搭配，意为“集于一体，合为一体”, 代入表示“集物理密钥、指纹以及照片身份证件卡片于一体”, 文意通顺。roll 与 by, from, over 搭配意为“被……卷”“从……卷起”“在……上卷”, 都不符合原文语境，应排除，因此 [B] 正确。"
+      },
+      {
+       "number": 7,
+       "options": {
+        "A": "linked",
+        "B": "directed",
+        "C": "chained",
+        "D": "compared"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) linked\n\n7. [A] linked(to)连接(计算机，广播系统等)\n\n[B] directed(sth at/towards sth)把(某物)对准；针对\n\n[C] chained (sb/sth to sth)(尤指为防逃跑或被盗而)拴住，束缚\n\n[D] compared(to/with sth)与……相比\n\n[试题精解] 本题考查句内语义 + 动词用法。空格处填入词语与 to 连用，做智能身份证和数字证书的定语，用于形容其与特定计算机之间的关系。智能身份证（附有计算机芯片的身份证）和数字证书只能是连接于计算机上，而不能是针对、束缚于或与其相比。[A] linked(to) 符合文意，排除 [B] [C] [D]。"
+      },
+      {
+       "number": 8,
+       "options": {
+        "A": "dismiss",
+        "B": "discover",
+        "C": "create",
+        "D": "improve"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) create\n\n8. [A] dismiss 不予理睬，驳回\n\n[B] discover 发现，发觉\n\n[C] create 创建，建立\n\n[D] improve 提高，改善\n\n[试题精解] 本题考查上下文语义。空格处动词接 system 做宾语。此处的 system 即是上文 “voluntary trusted identity” system 的同义复现，而上文提到“自愿可信识别”系统是美国网络总管的一项提议，尚未付诸实践，因此不存在否定或改善，更不能是去发觉、发现的，排除 [A] [D] [B]。[C] 代入表示“创建联合私人在线验证系统”，符合文意。"
+      },
+      {
+       "number": 9,
+       "options": {
+        "A": "recall",
+        "B": "suggest",
+        "C": "select",
+        "D": "realize"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) select\n\n9. [A] recall 回忆，记起\n\n[B] suggest 提议，建议\n\n[C] select 选择，挑选\n\n[D] realize 认识到，了解到\n\n[试题精解] 本题考查上下文语义。上文指出创建联合验证系统，此处提到用户可在这些联合系统中……想要加入的系统。根据文意，应是用户可自行选择其中一个系统加入，注册，便可以使用所有与其联合的系统。而非用户回忆、建议或认识联合系统中的一个系统，排除[A][B][D]，[C]符合文意。"
+      },
+      {
+       "number": 10,
+       "options": {
+        "A": "released",
+        "B": "issued",
+        "C": "distributed",
+        "D": "delivered"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B) issued\n\n10. [A] released 发行，发布（新闻或官方消息） [B] issued（组织或某官员）发给，分发\n\n[C] distributed（尤指有计划地）分发，分配 [D] delivered 递送，传送\n\n[试题精解] 本题考查句内语义+动词辨析。空格处含义为“政府……网络通行证”，选项中只有[B]表示“组织或官员发给，分发护照、许可证、签证等(issue a passport/permit/visa etc)”，与文意相吻合。"
+      },
+      {
+       "number": 11,
+       "options": {
+        "A": "carry on",
+        "B": "linger on",
+        "C": "set in",
+        "D": "log in"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D) log in\n\n11. [A] carry on (sth) 继续进行，继续从事某事 [B] linger on 逗留，继续存留\n\n[C] set in 开始，来临 [D] log in 登录，登入(计算机系统)\n\n[试题精解] 本题考查上下文语义+动词短语。空格所在部分的含义为“用户只需……（这种登录系统）一次，便可以使用多种不同的服务。”只有[D]“登录(计算机系统)”代入符合文意，其他项均与文意无关。"
+      },
+      {
+       "number": 12,
+       "options": {
+        "A": "In vain",
+        "B": "In effect",
+        "C": "In return",
+        "D": "In contrast"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B) In effect\n\n12. [A] In vain 徒劳，无效\n\n[B] In effect 实际上，事实上\n\n[C] In return 作为回报\n\n[D] In contrast 相比之下，比较起来\n\n[试题精解] 本题考查上下文逻辑语义。空格所在句的 the approach 与上文 a proposal, the idea 同义复现，均指建立“自愿可信识别”系统，可知文章一直在层层递进地谈论该系统，上下文之间是递进补充关系，不存在对照关系。排除[D]。[A][C]两项也不能表达这种递进（进一步阐释）的关系，也应排除。[B]代入引出对“自愿可信识别”系统的特点的进一步阐述，为正确项。"
+      },
+      {
+       "number": 13,
+       "options": {
+        "A": "trusted",
+        "B": "modernized",
+        "C": "thriving",
+        "D": "competing"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) trusted\n\n13. [A] trusted 可信的，受信任的 [B] modernized 现代化的\n\n[C] thriving 繁荣的，昌盛的\n\n[D] competing 相互矛盾的，竞争的\n\n[试题精解] 本题考查句内语义。空格所在句指出，实际上，该途径相当于在网络空间中创建带有安全“街区”和明亮“路灯”的“围墙花园”，来建立一种……社区的感觉。带有安全的“街区”和明亮的“路灯”的“围墙花园”给人光明安全之感，选项中能表达此意的只有[A]，代入表示营造可信社区的氛围。而现代化、繁荣昌盛、相互矛盾均与文意不相关，排除[B][C][D]。"
+      },
+      {
+       "number": 14,
+       "options": {
+        "A": "caution",
+        "B": "delight",
+        "C": "confidence",
+        "D": "patience"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) confidence\n\n14. [A] caution 小心，谨慎\n\n[B] delight 高兴，愉快\n\n[C] confidence 信心，信任\n\n[D] patience 耐性，耐心\n\n[试题精解] 本题考查上下文语义。空格所在词语用于描述个人和组织网上交易时的心态。由逗号后面的“trusting the identities of...”，可知在交易时他们是可以信任彼此以及交易平台的身份的，因此空格处词语应是信任、放心之意。[C]符合文意，代入指能够相互信任，放心地完成网上交易。"
+      },
+      {
+       "number": 15,
+       "options": {
+        "A": "on",
+        "B": "after",
+        "C": "beyond",
+        "D": "across"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) on\n\n15. [A] (run) on(计算机程序等)运行\n\n[B] (run) after 追逐，追赶\n\n[C] beyond 超过，越过\n\n[D] (run) across 不期而遇，偶然碰到\n\n[试题精解] 本题考查上下文语义+动词短语。空格所在部分为“介词+which”引导的定语从句，修饰 the infrastructure。文章一直在讨论网上交易，因此此处应是“网上交易得以运行的平台”，选项中能与 run 搭配的有 [A] [B] [D]，其中符合文意的是 [A]。\n\nVIII ① Still, the administration's plan has 16 privacy rights activists. ② Some applaud the approach; others are concerned. ③ It seems clear that such a scheme is an initiative push toward what would 17 be a compulsory Internet “driver’s license” mentality.\n\nIX ① The plan has also been greeted with 18 by some computer security experts, who worry that the “voluntary ecosystem” envisioned by Mr. Schmidt would still leave much of the Internet 19. ② They argue that all Internet users should be 20 to register and identify themselves, in the same way that drivers must be licensed to drive on public roads. [355 words]\n\n①然而，政府的决策使隐私权活跃分子之间产生了分歧。②一些对此表示赞同，另一些则表示担忧。③似乎很明显，这样的一项计划将促进一种终将强制实行网络“驾照”的心态。\n\n①一些计算机安全专家也对该计划表示质疑，他们担心施密特先生设想的“自发生态系统”仍会使互联网的大部分地方易受攻击。②他们认为应该强制所有互联网用户进行注册并验证身份，如同司机在公路上行驶必须持有驾照一样。\n\n**词汇注释与难句分析**\n\nadministration n. （尤指美国）政府\n\nactivist n. 积极分子，活跃分子\n\napplaud v. 称赞，赞许\n\nconcerned a. 担忧的，焦急的\n\ninitiative n. 倡议，新方案\n\ncompulsory a. (因法律或规则而) 必须做的，强制的\n\nmentality n. 心态，思想状况\n\ngreet sb/sth with/by sth 对……作出某种反应\n\nenvision v. 展望，想像\n\n**语篇分析**\n\n第八、九段为一个意群，在上文详细介绍“自愿可信身份”这一途径后，进一步指出其引发的争议。\n\n第八段指出隐私权活跃分子对该计划褒贬不一。首句总说：隐私权活跃分子产生分歧；②句具体指出他们或赞成、或担忧的不同态度；末句说明分歧理由：该计划将最终促成强制实行网络“驾照”的心态。\n\n第九段指出一些计算机安全专家也对该计划表示质疑，担心新系统仍会使互联网的大部分地方易受攻击。末句介绍安全专家的建议——应强制所有互联网用户进行注册并验证身份。"
+      },
+      {
+       "number": 16,
+       "options": {
+        "A": "divided",
+        "B": "disappointed",
+        "C": "protected",
+        "D": "united"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A) divided\n\n16. [A] divided 使对立，使产生分歧\n\n[B] disappointed 令人失望，沮丧\n\n[C] protected 保护，保卫\n\n[D] united 团结，统一\n\n[试题精解] 本题考查上下文语义。空格处动词的宾语为“隐私权活跃分子”，由后面的这些人“一些赞同，另一些担忧”可知其意见不统一，即产生了分歧。[A]正确，其他项与文意不符。"
+      },
+      {
+       "number": 17,
+       "options": {
+        "A": "frequently",
+        "B": "incidentally",
+        "C": "occasionally",
+        "D": "eventually"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D) eventually\n\n17. [A] frequently 频繁地，时常 [B] incidentally 偶然地，顺便\n\n[C] occasionally 偶尔，间或 [D] eventually 最后，最终\n\n[试题精解] 本题考查句内语义。由文意知，空格所在部分内容说明这样一项计划将“朝向……推进”(push toward 预示发展方向及所朝向的结果)，后面的 what 从句即是答案，即这项计划最终将演变成 a compulsory Internet “driver's license” mentality。[D]为正确选项。"
+      },
+      {
+       "number": 18,
+       "options": {
+        "A": "skepticism",
+        "B": "tolerance",
+        "C": "indifference",
+        "D": "enthusiasm"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) skepticism\n\n18. [A] skepticism 怀疑，质疑\n\n[B] tolerance 宽容，容忍\n\n[C] indifference 冷漠，冷淡\n\n[D] enthusiasm 热情，热忱\n\n[试题精解] 本题考查上下文语义。根据下文可知这些科学家对该计划存有担忧(worry)，即对其持怀疑，质疑态度，而非容忍、冷漠或热情。[A]正确，排除[B][C][D]。"
+      },
+      {
+       "number": 19,
+       "options": {
+        "A": "manageable",
+        "B": "defendable",
+        "C": "vulnerable",
+        "D": "invisible"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) vulnerable\n\n19. [A] manageable 易管理的，易控制的 [B] defendable 可防御的\n\n[C] vulnerable 易受伤害的，易受攻击的 [D] invisible 无形的，看不见的\n\n[试题精解] 本题考查上下文语义。由文意知这项计划旨在提高互联网安全性，而一些专家质疑这项计划，即觉得它并不能很好的保障互联网安全，“担忧它仍会使互联网的大部分地方……”。只有[C]项代入能够表达互联网安全没有保障，易遭受攻击，为正确选项。"
+      },
+      {
+       "number": 20,
+       "options": {
+        "A": "invited",
+        "B": "appointed",
+        "C": "allowed",
+        "D": "forced"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D) forced\n\n20. [A] invited 邀请，请求 [B] appointed 任命，指定\n\n[C] allowed 允许，容许 [D] forced 强迫，强制\n\n[试题精解] 本题考查上下文语义。空格所在句含义为“他们认为所有互联网用户都应该被……进行注册并验证身份，就如同司机在公路上行驶必须持有驾照一样”。“司机在公路上行驶必须持有驾照”是强制要求，推知网络用户注册验证身份也应是强制要求，[D]正确。其他项均不符合文意。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part A",
+   "instructions": "Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on ANSWER SHEET 1. (40 points)",
+   "score": 40,
+   "groups": [
+    {
+     "title": "Text 1",
+     "type": "reading",
+     "passage": [
+      "Ruth Simmons joined Goldman Sachs’s board as an outside director in January 2000; a year later she became president of Brown University. For the rest of the decade she apparently managed both roles without attracting much criticism. But by the end of 2009 Ms. Simmons was under fire for having sat on Goldman’s compensation committee; how could she have let those enormous bonus payouts pass unremarked? By February the next year Ms. Simmons had left the board. The position was just taking up too much time, she said.",
+      "Outside directors are supposed to serve as helpful, yet less biased, advisers on a firm’s board. Having made their wealth and their reputations elsewhere, they presumably have enough independence to disagree with the chief executive’s proposals. If the sky, and the share price is falling, outside directors should be able to give advice based on having weathered their own crises.",
+      "The researchers from Ohio University used a database that covered more than 10,000 firms and more than 64,000 different directors between 1989 and 2004. Then they simply checked which directors stayed from one proxy statement to the next. The most likely reason for departing a board was age, so the researchers concentrated on those “surprise” disappearances by directors under the age of 70. They found that after a surprise departure, the probability that the company will subsequently have to restate earnings increases by nearly 20%. The likelihood of being named in a federal class-action lawsuit also increases, and the stock is likely to perform worse. The effect tended to be larger for larger firms. Although a correlation between them leaving and subsequent bad performance at the firm is suggestive, it does not mean that such directors are always jumping off a sinking ship. Often they “trade up,” leaving riskier, smaller firms for larger and more stable firms.",
+      "But the researchers believe that outside directors have an easier time of avoiding a blow to their reputations if they leave a firm before bad news breaks, even if a review of history shows they were on the board at the time any wrongdoing occurred. Firms who want to keep their outside directors through tough times may have to create incentives. Otherwise outside directors will follow the example of Ms. Simmons, once again very popular on campus."
+     ],
+     "questions": [
+      {
+       "number": 21,
+       "stem": "According to Paragraph 1, Ms. Simmons was criticized for .",
+       "options": {
+        "A": "gaining excessive profits",
+        "B": "failing to fulfill her duty",
+        "C": "refusing to make compromises",
+        "D": "leaving the board in tough times"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| 21. According to Paragraph 1, Ms. Simmons was criticized for ____. | 21. 根据第一段可知，西蒙斯女士因____而受到指责。 |\n| --- | --- |\n| [A] gaining excessive profits | [A] 获取超额收益 |\n| [B] failing to fulfill her duty | [B] 未能履行其职责 |\n| [C] refusing to make compromises | [C] 拒绝做出妥协 |\n| [D] leaving the board in tough times | [D] 在困难时期离开董事会 |\n\n[精准定位]根据题干定位到第一段。该段第三句指出，2009年底，西蒙斯因在高盛薪酬委员会的任职而遭受抨击，（人们质疑）她怎能让那些巨额奖金支出毫无察觉地就溜走了？即：人们认为，西蒙斯在“巨额奖金的不当发放”上负有不可推卸的主要责任，因此对其进行了强烈指责。[B]选项符合文意。\n\n[命题解密] 本题考查考生对文中因果细节的把握。正确项[B]正确概括第一段第三句所述因果关系：failing to fulfill her duty 对应 how could she have let those enormous bonus payouts pass unremarked。\n\n[A]利用 excessive profits 与原文 enormous bonus 近义形成干扰，但原文是说“西蒙斯对巨额奖金的错误发放负有责任”,而非“她本人获取了这些奖金”,gaining 用词错误。[C]无中生有，文中未提及西蒙斯被要求做出妥协。[D]将“结果”当“原因”:“辞去外部董事之职”是西蒙斯“受到抨击”的结果，而非原因。\n\nII ① Outside directors are supposed to serve as helpful, yet less biased, advisers on a firm's board. ② Having made their wealth and their reputations elsewhere, they presumably have enough independence to disagree with the chief executive's proposals. ③ If the sky, and the share price, is falling, outside directors should be able to give advice based on having weathered their own crises.\n\n外部董事被认为是公司董事会中有益且更公正的顾问。他们已在别处名成利就，因此应拥有足够的独立性来质疑董事长的提案。假若公司面临灭顶之灾，股票价格大跌，外部董事应能基于自身应付危机的经验向公司提出建议。\n\n**词汇注释与难句分析**\n\nbe supposed to do 应当做某事；理应做某事\n\nbiased a. 有偏见的；结果偏倚的\n\npresumably ad. 据推测；大概；可能\n\nweather v. 平安渡过(难关),挨过，经受住\n\n**经典搭配**\n\na firm's board (公司董事会)\n\nmake one's wealth and reputations(成就功名)\n\n**语篇分析**\n\n第二段说明外部董事在公司的角色和作用。关键词为：helpful, yet less biased, advisers。\n\n①句以两个正向词汇 helpful 和 less biased 共同修饰 advisers，为外部董事定位：公司董事会中有益却少偏见的顾问。yet 凸显外部董事“提供公正客观的建议、确保公司健康发展”的巨大价值。但需注意，be supposed to(指“按计划或期望应该”)暗示本句所述乃对外部董事的整体预期，不排除“事与愿违”的情形，为随后论述埋下伏笔。\n\n②③句解释①句，对外部董事的职能予以拓展解释。\n\n②句重在说明外部董事为何能“少有偏见”。句子前后呈递因果关系。状语部分明确外部董事“来源”：已在他处(elsewhere)收获“名(reputation)”与“利(wealth)”的人士。主句顺而指出“结果”：他们拥有足够的独立性来质疑董事长提案。句中 presumably 和上句 be supposed to 语用功能相似，其引出的内容只是一种推测和假定，暗示外部董事有时也可能无心或无力质疑提议，可视为回应上段西蒙斯事例。\n\n③句进一步凸显外部董事的作用：危机之时可能会成为“公司拯救者”。If 状语从句以 the sky is falling(天塌下来)这一夸张修辞、辅以 the share price is falling 的写实，凸显公司“内忧外患夹击、恐遭灭顶之灾”的危机情形。主句则强调危机之下，外部董事应力挽狂澜：基于以前的经验，提出建议，帮助公司渡过难关。再次，should be able to 暗含作者“些许保留”，暗示“对外部董事的这一希冀可能落空，他们也有可能在公司陷于困境时选择抽身而退”，再次暗中回应首段事例、并为随后进一步论述埋下伏笔。"
+      },
+      {
+       "number": 22,
+       "stem": "We learn from Paragraph 2 that outside directors are supposed to be .",
+       "options": {
+        "A": "generous investors",
+        "B": "unbiased executives",
+        "C": "share price forecasters",
+        "D": "independent advisers"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 22. We learn from Paragraph 2 that outside directors are supposed to be ____. | 22. 我们可从第二段得知，外部董事被认为是____。 |\n| --- | --- |\n| [A] generous investors | [A] 慷慨的投资者 |\n| [B] unbiased executives | [B] 无偏倚的主管 |\n| [C] share price forecasters | [C] 股价的预测者 |\n| [D] independent advisers | [D] 独立的顾问 |\n\n[精准定位]由题干定位到第二段。该段首句指出，外部董事应是公司董事会中有益而少偏见的顾问。随后进一步说明：外部董事拥有足够的独立性，可以质疑董事长的提案。综合可知[D]正确。\n\n[命题解密] 本题考查考生对文中细节信息进行重组概括的能力。正确项[D]是对 helpful, yet less biased, advisers... have enough independence to disagree with the chief executive's proposals 的概括。\n\n[A]是对 made their wealth and their reputations 的曲解，该内容并非指“大方的投资者”,而是指“在其他领域功成名就”,故排除。[B]将原文 less biased advisers 和 the chief executive 榨杂，将外部董事的角色由“建议者(advisers)”改为“管理者(executives)”,故排除。[C]利用 the share price is falling 干扰，但文中意在说明“外部董事应在公司股票下跌时(公司出现危机时)提供有效建议”,而非“他们能够预测股价涨跌”。\n\nⅢ ① The researchers from Ohio University used a database that covered more than 10,000 firms and more than 64,000 different directors between 1989 and 2004. ② Then they simply checked which directors stayed from one proxy statement to the next. ③ The most likely reason for departing a board was age, so the researchers concentrated on those “surprise” disappearances by directors under the age of 70. ④ They found that after a surprise departure, the probability that the company will subsequently have to restate earnings increases by nearly 20%. ⑤ The likelihood of being named in a federal class-action lawsuit also increases, and the stock is likely to perform worse. ⑥ The effect tended to be larger for larger firms. ⑦ Although a correlation between them leaving and subsequent bad Often they “trade up,” leaving riskier, smaller firms for larger and more stable firms.\n\n来自俄亥俄大学的研究者利用一个数据库(对外部董事)进行了研究，该数据库涵盖从1989年到2004年10000多家公司和64000多名董事的信息。然后他们只是核查了有哪些在同一公司连任的留任董事。离开董事会最有可能的原因是年龄问题，因此研究者集中关注那些年龄在70岁以下“突然”离职的董事。他们发现，(董事)突然离职后，其所在公司随后需要重申盈利的可能性增加了近20%。公司在联邦集体诉讼中被提及的可能性也随之增加，且公司股票也可能表现更糟。公司越大往往受的影响也越大。尽管研究表明“董事离职”与“公司随后糟糕 performance at the firm is suggestive , it does not mean that such directors are always jumping off a sinking ship.表现”之间具有相关性，但这并不意味着这些董事总是在“跳离沉船”。他们通常是在“另谋高就”，离开风险较高的小公司而去往更稳定的大公司。\n\n**词汇注释与难句分析**\n\nproxy n. 代表权，委托书\n\ndeparture n. 离开，离去\n\nsubsequently ad. 其后，随后，接着\n\nrestate v. 重申；重新申报\n\nlikelihood n. 可能，可能性\n\nsuggestive a. 提示的；暗示的，提醒的\n\ndepart a board(从董事会离职)\n\nconcentrate on(集中注意力于)\n\na surprise departure(突然离职)\n\nrestate earnings(重申盈利)\n\nfederal class-action lawsuit(联邦集体诉讼)\n\n**经典搭配**\n\na correlation between... and... (……与……的联系)\n\njump off a sinking ship(跳离沉船)\n\nproxy statement(股东委托书)\n\n**语篇分析**\n\n第三段借研究结果介绍外部董事突然离职对公司的影响及其离职的原因。关键词为：a surprise departure。\n\n①②③句介绍研究方法。①句介绍研究者数据来源，以具体数字凸显研究者所用数据库特征“涵盖面广、时间跨度长”，暗示研究具有可信度。注，此处虽用的是 directors 一词，但联系文章主题可知作者意在 outside directors，下同。\n\n②句进一步介绍研究者初步锁定的对象：在同一董事会连任的外部董事。proxy statement 指股东委托书，指代在董事会中的一个任期；stayed from one proxy statement to the next 表面意思为“从一份股东委托书待到下一份”,实指“在董事会中连任”。\n\n③句引出研究最终关注对象：“（长期任职之后）突然”离职的董事。本句以 so 表明前后分句间因果关系、正反说明研究者着眼“突然离职者”。前一分句说明事实：董事离职最为普遍的是因年龄太大而“自然”离开；主句基于此事实，指出研究者最终锁定的研究对象——年龄在 70 岁以下的“突然”离职的董事。加引号的 surprise 暗示“表面这些离职突然，实则事出有因”。\n\n④至⑥句陈述研究结果，重在展现“董事突然离职”对公司经营状况的影响。\n\n④句指出研究发现之一，董事突然离职之后，公司重申盈利的可能性增加。restate earnings 重在 restate 一词，表面是“公司重申盈利”，实则是“公司盈利性受到外部质疑、故公司被迫重申盈利”，暗示公司状况出现问题。注：统计学中，“发生 A，则发生 B”的概率低于 5%，可认作这是一种“偶然、巧合”，高于 5% 则认为二者“显著正相关”。\n\n⑤句指出研究发现二：(董事突然离职后，)公司卷入联邦集体诉讼的可能性也随之增加，且股票可能表现变糟。句中 also 表明④⑤句间并列关系；name 为特殊用法，意为“提到……的名字”；being named in a federal class-action 说明公司面临多人质疑，很可能出现严重问题；stock... perform worse 更是表明公众对公司的信心已经动摇。\n\n⑥句补充④⑤句指出：公司越大，上述影响越明显。The effect 指代④⑤句所述“董事突然离开”和“公司不良变化”之间的关联。\n\n⑦⑧句对研究发现做出评论解释，重在说明董事突然离职的原因。\n\n⑦句承上指出研究结论——“董事突然离职”与公司“随后糟糕表现”确有关联，并随即转而指出“但这并非意味着这些董事都是在舍弃陷于危机的公司，独自逃生”。句子以 although 形成让步转折。Although 引导的从句先指出④至⑥句所述研究暗示的总体结论：“董事突然离职”与公司“随后糟糕表现”确有关联。其中 suggestive 意为“暗示的，示意的”，说明这是上述研究发现所透露信息。主句解释这一总体结论：虽然其中有些董事是在“跳离沉船”；但并非总是如此。jumping off a sinking ship 以其字面含义“跳离一艘正在下沉的船”形象展现“外部董事舍弃陷于危机的公司，独自逃生”的情形。⑧句以 often 引出董事突然离开的通常原因：另谋高就。trade up 意为“以更好的东西取代，买更好的东西”。注：假若“独自逃离沉船”因④⑤句而来，且带有“不够道义”的色彩，而“另谋高就”则是结合⑥句对研究发现的进一步解释，且属于无可非议的行为，作者借助 it does not mean that... Often they...这一结构将后者锁定为高管突然离职的主要原因，说明作者在肯定“高管突然离职会对公司造成不良影响”的同时，对突然离职的高管总体上持“理解、接受”的态度。"
+      },
+      {
+       "number": 23,
+       "stem": "According to the researchers from Ohio University, after an outside director’s surprise departure, the firm is likely to .",
+       "options": {
+        "A": "become more stable",
+        "B": "report increased earnings",
+        "C": "do less well in the stock market",
+        "D": "perform worse in lawsuits"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n| 23. According to the researchers from Ohio University, after an outside director's surprise departure, the firm is likely to ____. | 23. 根据俄亥俄大学研究者的结论，外部董事突然离职后，公司可能____。 |\n| --- | --- |\n| [A] become more stable | [A] 变得更稳定 |\n| [B] report increased earnings | [B] 报告盈利有所增长 |\n| [C] do less well in the stock market | [C] 在股市的表现变差 |\n| [D] perform worse in lawsuits | [D] 在诉讼中表现更糟糕 |\n\n[精准定位] 根据题干定位到第三段。该段第四、五句指出：外部董事突然离职后，公司被迫重申盈利的可能性增加；牵涉到联邦集体诉讼的可能性也随之增加；公司股票状况可能会变糟。[C]符合文意。\n\n[命题解密] 本题考查考生对第三段第四至六句所阐释“外部董事突然离职所造成影响”的理解。先可根据题干 an outside director's surprise departure 与原文 after a surprise departure 的对照关系找到切题点；再发现[C]是对原文 the stock... perform worse 的同义改写，从而锁定答案。\n\n[A]展现的是“正面影响”，与原文第四至六句所显示的外部董事突然离职对公司造成“负面影响”完全相反，故排除。[B]利用第四句...restate earnings increases 设置干扰，但原文是指“公司被迫重申盈利的可能性增加”而非“报告盈利增加”，二者实则相反：前者说明“公司出现问题”，后者展示“公司运转良好”。[D]利用第三段第五句...a federal class-action lawsuit also increases 设置干扰，但原文意在说明“公司卷入联邦集体诉讼的可能性增加”，无法推出“公司会在诉讼案中表现不佳”。\n\nIV ① But the researchers believe that outside directors have an easier time of avoiding a blow to their reputations if they leave a firm before bad news breaks, even if a review of history shows they were on the board at the time any wrongdoing occurred. ② Firms who want to keep their outside directors through tough times may have to create incentives. ③ Otherwise outside directors will follow the example of Ms. Simmons, once again very popular on campus. [382 words]\n\n但研究者认为，如果外部董事在坏消息爆发前就已离开公司，那么他们会更容易避免声誉受损——即便历史记录显示“错误行为出现时，董事们尚在其职”(依然如此)。那些想要在困难时期留住外部董事的公司可能需要采取激励措施。否则外部董事就会效仿西蒙斯女士，离开董事会，在校园重获欢迎。\n\n**词汇注释与难句分析**\n\n- 真题精解 -功能注释：本句主干点明本句为研究者观点。that 引导的宾语从句具体说明发现内容，其中又包含 if 引导的条件状语从句，说明主句内容成立的条件。even if 引导状语从句进一步指出上述内容成立的特例情形。\n\n**语篇分析**\n\n第四段指出，公司身处困境时需要增强激励留住外部董事。关键词为：create incentives。\n\n①句转承上段指出：外部董事突然离职（虽会对公司造成极大负面影响，但）往往能较为容易地避免自己声誉受损。have an easier time 表明句内对比：外部董事“选择突然离开”比“留等危机爆发”更容易避免声名受损。even if(“即便，纵使”)进一步指出：即便事后发现，错误当时董事尚在其职，依然如此（他们的声誉依然不会受到太大损伤）。句中 a review of history 指“公司危机爆发(bad news breaks)后，人们对其来龙去脉的梳理审视”，而 wrongdoing 则指“公司的错误行为、危机爆发的根源”。\n\n②句提出建议：顺应上文“董事有很强的动机离开公司，但若留下，公司可能会借助其丰富的经验摆脱危机”，向“身处困境、几乎没有选择的公司”提出建议：采取（加薪等）激励措施、设法将其留住。\n\n③句补充②句，反向强调“采取激励措施的重要性”：否则外部董事会选择离开。Otherwise 的语用功能为“对上句做出反面的结果陈述”，实则进一步强调上句内容。"
+      },
+      {
+       "number": 24,
+       "stem": "It can be inferred from the last paragraph that outside directors .",
+       "options": {
+        "A": "may stay for the attractive offers from the firm",
+        "B": "have often had records of wrongdoings in the firm",
+        "C": "are accustomed to stress-free work in the firm",
+        "D": "will decline incentives from the firm"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| 24. It can be inferred from the last paragraph that outside directors ____. | 24. 由末段可推知，外部董事____。 |\n| --- | --- |\n| [A] may stay for the attractive offers from the firm | [A] 可能会因公司提供的诱人条件而留下 |\n| [B] have often had records of wrongdoings in the firm | [B] 在公司通常会有失误记录 |\n| [C] are accustomed to stress-free work in the firm | [C] 习惯公司里毫无压力的工作 |\n| [D] will decline incentives from the firm | [D] 会拒绝公司的奖励 |\n\n[精准定位]根据题干定位到末段。该段指出，外部董事很可能会为了避免声誉受损而选择离开身处困境的公司，那些想要在困难时期留住外部董事的公司需要采取激励措施。由此可推知，外部董事可能会因公司提供的诱人条件留下，[A]选项正确。\n\n[命题解密] 本题解题关键在于理解末段末两句的言外之意。正确项[A]是对其内容的合理引申。其中 attractive offers 对应原文 incentives。\n\n[B]利用原文词汇 history、wrongdoing 设置干扰，但原文是指“公司危机爆发后，人们审视其历史的过程中 (review of history) 发现，即便外部董事们在公司犯下错误 (wrongdoing) 当时还在董事会任职，他们依然能避免声名受损”,这和“外部董事在公司的失误记录”无关。[C]无中生有，文中并未提到“外部董事在公司中毫无压力”。[D]以 incentives from the firm 概括第四段第二句 Firms... create incentives,因而具有一定干扰性，但 decline 一词为对其完全错误的推导，故排除。"
+      },
+      {
+       "number": 25,
+       "stem": "The author’s attitude toward the role of outside directors is .",
+       "options": {
+        "A": "permissive",
+        "B": "positive",
+        "C": "scornful",
+        "D": "critical"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n**全局真题精解**\n\n| | |\n| --- | --- |\n| 25. The author's attitude toward the role of outside directors is ____. | 25. 作者对外部董事这一角色持____态度。 |\n| [A] permissive | [A] 放任 |\n| [B] positive | [B] 肯定 |\n| [C] scornful | [C] 蔑视 |\n| [D] critical | [D] 批评 |\n\n[精准定位] 第二段指出，外部董事具有内部董事所无法实现的职能——有益却少偏见的建议者，且能在公司陷入危机时以其丰富的经验助公司摆脱困境；第三、四段指出，虽然外部董事的突然离开会给公司带来损失，但也并非不可理解，公司应在陷入困境时以“提升激励措施”的方式将其留住。可见作者总体上对外部董事持肯定态度，[B]选项正确。\n\n[命题解密] 本题解题关键在于应整体把握作者态度，正确项 [B] positive 是对体现作者态度的关键词汇 helpful, yet less biased, advisers... have enough independence, create incentives 的高度概括。\n\n[A]错在文章整体并非讲述外部董事的缺点和不足，“放任”一说也就无从得出。[C]、[D]来源于第三段末句和第四段首句“有些董事为尽量避免声名受损而选择在危机爆发前离职”所蕴含的一丝“不道义”色彩。但我们需要“整体”看待作者态度，作者整体上还是肯定外部董事的作用，故排除两项。\n\n| 25. The author's attitude toward the role of outside directors is ____. | 作者对外部董事这一角色的态度。 |\n| --- | --- |\n\n问题速览：快速浏览题干可发现，除第21题外的四道题都涉及“外部董事”(outside directors),可推知本文围绕“外部董事”展开，且第21题中的 Ms. Simmons 也很可能是一位外部董事。\n\n问题解读：①由第21题可知，第一段介绍了 Ms. Simmons 受指责的事件及其原因；②第22题表明，第二段涉及对外部董事的作用、角色等细节的介绍；③第23题表明，文中介绍了俄亥俄大学关于外部董事的研究，且用其说明外部董事突然离职对公司的影响；④第24题提示阅读最后一段时要体味“外部董事”的言外之意；⑤第25题提示阅读时应注意作者态度。\n\n问题总结：洞悉题干可知，本文围绕“外部董事”展开，很可能以具体人物事例开篇，随后说明外部董事的作用，并借研究表明其突然离职对公司的影响，且文中展现了作者对外部董事的明确态度。\n\n**二、语篇分析及试题精解**\n\nI ① Ruth Simmons joined Goldman Sachs's board as an outside director in January 2000; a year later she became president of Brown University. ② For the rest of the decade she apparently managed both roles without attracting much criticism. ③ But by the end of 2009 Ms. Simmons was under fire for having sat on Goldman's compensation committee; how could she have let those enormous bonus payouts pass unremarked? ④ By February the next year Ms. Simmons had left the board. ⑤ The position was just taking up too much time, she said.\n\n2000年1月，茹斯·西蒙斯作为外部董事加入高盛集团；时隔一年，她成为布朗大学校长。随后的九年里，她似乎设法做到了在没有招致太多非议的同时处理两个角色。到了2009年底，西蒙斯女士却因在高盛薪酬委员会的任职而遭受抨击；她怎么能让那些巨额奖金支出毫无察觉地就通过了呢？到第二年2月，西蒙斯女士已离开董事会。她说，这个职位太占时间了。\n\n**词汇注释与难句分析**\n\ncriticism n. 批评，批判\n\nunder fire 受到攻击和批评\n\ncompensation n. 报酬，薪水\n\nenormous a. 巨大的；庞大的\n\nbonus payouts 奖金支出\n\n**语篇分析**\n\n第一段为文章引子，介绍具体事例：高盛集团外部董事茹斯·西蒙斯因遭受抨击而选择离开。关键词为：①Ruth Simmons;②outside director。\n\n本段以时间为轴简述高盛集团外部董事茹斯·西蒙斯从“就职”到“离职”的经过，且借助 But 将主要关注点放至其“离职过程”。\n\n①句引出故事主人公：两职加身的茹斯·西蒙斯。“第一职业”在教育领域——成为名校校长；高盛集团董事是“第二职业”——她作为“外部董事”加入这一全世界历史最悠久、最有权势的投资银行。\n\n②句顺而指出，身兼两职的茹斯·西蒙斯随后九年还算顺利。句子指出西蒙斯确实能力出众，能多年来设法做到同时应对两个重要职位，却未受多少批评；同时以 apparently...much 暗留转折余地：这只是表面现象（apparently：“貌似，好像”），且西蒙斯很可能受到了一些批评，矛盾在暗中累积。manage 意为“设法做成，努力完成（困难的事）”。注：For the rest of the decade 指“由 2001 年到 2009 年末”这段时间，为了翻译的通顺易懂，译为“随后的九年里”。\n\n③句情形突转：2009年末西蒙斯遭受猛烈抨击，被指责未能履行其作为外部董事的职责。But 表明强烈的语义转折，句子内以分号传达因果解释关系。\n\n分号前指出西蒙斯因在高盛薪酬委员会的任职而大受抨击。under fire(本意“引火上身”，此处取其引申义“受到猛烈抨击”)与上句形成鲜明对比，凸显西蒙斯面临情形的转变“多年风平浪静——突然大受抨击”,且暗示西蒙斯在高盛薪酬委员会期间出现重大失职。分号后以感叹问句、借批评者口吻说明西蒙斯的严重失职(大受抨击的原因):她怎么能让巨额奖金支出毫无察觉地就通过了呢？即：作为高盛外部董事及薪酬委员会成员，西蒙斯对“巨额奖金的不当发放”负有不可推卸的责任。\n\n④⑤句指出饱受抨击、名誉受到威胁的西蒙斯所做选择：辞去高盛外部董事之职。\n\n④句指出西蒙斯第二年二月就已经离开高盛董事会。时间对比(2009年××底 VS 第二年2月)凸显西蒙斯离职突然：遭受抨击之后立马卸职。⑤句指出西蒙斯采取的托辞“该职位太占用时间”。近十年间西蒙斯都在身兼外部董事和大学校长两职，却在遭受抨击后提出“担任外部董事占用太多时间”,显然这只不过是一缺乏说服力的常用借口而已。"
+      }
+     ]
+    },
+    {
+     "title": "Text 2",
+     "type": "reading",
+     "passage": [
+      "Whatever happened to the death of newspapers? A year ago the end seemed near. The recession threatened to remove the advertising and readers that had not already fled to the internet. Newspapers like the San Francisco Chronicle were chronicling their own doom. America’s Federal Trade Commission launched a round of talks about how to save newspapers. Should they become charitable corporations? Should the state subsidize them? It will hold another meeting soon. But the discussions now seem out of date.",
+      "In much of the world there is little sign of crisis. German and Brazilian papers have shrugged off the recession. Even American newspapers, which inhabit the most troubled corner of the global industry, have not only survived but often returned to profit. Not the 20% profit margins that were routine a few years ago, but profit all the same.",
+      "It has not been much fun. Many papers stayed afloat by pushing journalists overboard. The American Society of News Editors reckons that 13,500 newsroom jobs have gone since 2007. Readers are paying more for slimmer products. Some papers even had the nerve to refuse delivery to distant suburbs. Yet these desperate measures have proved the right ones and, sadly for many journalists, they can be pushed further.",
+      "Newspapers are becoming more balanced businesses, with a healthier mix of revenues from readers and advertisers. American papers have long been highly unusual in their reliance on ads. Fully 87% of their revenues came from advertising in 2008, according to the Organization for Economic Cooperation & Development (OECD). In Japan the proportion is 35%. Not surprisingly, Japanese newspapers are much more stable.",
+      "The whirlwind that swept through newsrooms harmed everybody, but much of the damage has been concentrated in areas where newspapers are least distinctive. Car and film reviewers have gone. So have science and general business reporters. Foreign bureaus have been savagely cut off. Newspapers are less complete as a result. But completeness is no longer a virtue in the newspaper business."
+     ],
+     "questions": [
+      {
+       "number": 26,
+       "stem": "By saying “Newspapers like ... their own doom” (Lines3-4, Para.1), the author indicates that newspapers .",
+       "options": {
+        "A": "neglected the sign of crisis",
+        "B": "failed to get state subsidies",
+        "C": "were not charitable corporations",
+        "D": "were in a desperate situation"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| 26. By saying “Newspapers like... their own doom” (Lines 3-4, Para. 1), the author indicates that newspapers ____. | 26.作者所言“像……的报纸……自己的劫数”(第一段第三、四行),是为了表明报纸____。 |\n| --- | --- |\n| [A] neglected the sign of crisis | [A] 忽略了危机的征兆 |\n| [B] failed to get state subsidies | [B] 没能得到州政府的补贴 |\n| [C] were not charitable corporations | [C] 并非慈善性公司 |\n| [D] were in a desperate situation | [D] 处于绝望境地 |\n\n[精准定位] 根据题干信息定位至第一段④句。该句为例证句(like)，因此需要根据上下文推出该例子所要说明的主旨。上文②③句重点描述一年前危机来临时报纸濒临灭亡的情景，首句 the death、②句 the end 以及③句 threatened to 以及⑤句的 save 均表明报纸一年前命悬一线的情况。划线句意为“某报正在记录自己的末日”，重在例证说明前文，即“报纸危在旦夕，处于绝望境地”，因此[D]选项为正确答案。\n\n[命题解密] 本题考查根据例证内容反推论点的能力，正确项 [D] 是划线句所要说明的内容。\n\n[A]利用第二段①句 little sign of crisis 设置干扰，但该段已由一年前的危机状况过渡到当前危机缓和的情况，该句意在说明“全球已经几乎没有危机迹象”而非“忽略(neglect)危机迹象”，故而该选项与题干从时间到内容上均不符。[B]、[C]偷梁换柱设置陷阱。state subsidies 与 charitable corporations 在本段⑥⑦句有所涉及，但两句为美国联邦贸易委员会讨论“如何拯救报纸”的内容，报社是否得到了政府的补贴，是否成为了慈善性公司，文中没有提及，故排除。\n\nⅡ ① In much of the world there is little sign of crisis.\n\n② German and Brazilian papers have shrugged off the recession.\n\n③ Even American newspapers, which inhabit the most troubled corner of the global industry, have not only survived but often returned to profit.\n\n④ Not the 20% profit margins that were routine a few years ago, but profit all the same.\n\n现在全球大多数地区几乎没有危机迹象。德国和巴西的报纸业已经摆脱了经济衰退。甚至连全球报纸业中处境最艰难的美国报纸业不仅也挺了过来，而且还基本恢复盈利。虽不及几年前通常20%的利润空间，但毕竟是有钱可赚。\n\n**语篇分析**\n\n第二段承上介绍报纸业回生的具体表现。关键词为：little signs of crisis。\n\n①句总体指出现在世界多地危机迹象并不明显。little sign of crisis 回应首段末句，表明“拯救报纸的讨论已不合时宜”的原因：危机迹象不再。much of the world 凸显该良性态势是全球大势。\n\n②③④句例证①句，说明全球报纸业已转危为安。\n\n②句指出德国和巴西报纸业的情况：已摆脱衰退。have shrugged off 形象描绘出两国报纸业如今已经可以耸耸肩对经济衰退表示不屑的轻松场景，暗示两国报纸业已走出衰退阴霾。\n\n③④句进而说明美国报纸业的情况：基本恢复盈利。\n\n③句递进说明美国报纸业的情况：不仅挺过危机，而且开始盈利。首词 even“(强调出乎意料)甚至，连”)体现上下句递进逻辑的同时，也暗示美国报纸业能够走出危机完全出人意料。which...从句表明“出人意料”的原因：处境之艰难为全球同行业之最；其中 the global industry 指“全球报纸业”。主干以递进句式 not only...but... 说明美国报纸业惊人表现：不仅挺过危机，而且还时常盈利。\n\n④句就③句“盈利(profit)”一词作出补充说明，指出利润量虽不如前，但毕竟有钱赚。以 Not...，but... all the same 句式先退后进对美国报纸业恢复情况予以肯定：not the 20% profit margins that... (profit margins 意为“利润空间、幅度”，routine 意为“惯例”) 退而说明当前 20% 的利润量不及几年前，完全恢复尚需时日；but profit all the same 进而肯定其恢复成果：利润空间低仍算盈利。\n\n本文前两段概述报纸业起死回生的过程。第一段④⑤句重点描述美国报纸一年前的艰难境况，第二段③④句进而着重介绍美国报纸的恢复和发展。不难看出，美国报纸业情况实为本文的讨论重点。\n\nⅢ ① It has not been much fun. ② Many papers stayed afloat by pushing journalists overboard. ③ The American Society of News Editors reckons that 13,500 newsroom jobs have gone since 2007. ④ Readers are paying more for slimmer products. ⑤ Some papers even had the nerve to refuse delivery to distant suburbs. ⑥ Yet these desperate measures have proved the right ones and, sadly for many journalists, they can be pushed further.\n\n(但)情况也不是太乐观。多家报社通过裁员来维持运营。据美国新闻编辑协会估算，2007年以来有1.35万个新闻编辑工作岗位消失了。读者付费更多却获得缩水的内容。一些报社甚至敢拒绝向边远郊区递送报纸。不过，这些孤注一掷的举措证明是对的，只是不幸的是，对于许多新闻工作者来说，他们可能遭到进一步的裁员。\n\n**词汇注释与难句分析**\n\nafloat ad. 漂流着的，漂浮不定\n\noverboard ad. 越过船边坠入水中\n\ndelivery n. 传送，投递\n\n**经典搭配**\n\nstay afloat(维持运营)\n\npush sb/sth overboard(抛弃、甩掉某人/某事)\n\nhave the nerve（好意思做某事，有胆量做某事）\n\ndesperate measures(孤注一掷的措施)\n\n**语篇分析**\n\n第三段追述报纸业为摆脱生存危机所采取的极端措施：大批裁员，削减产品内容及部分服务。关键词为：desperate measures。\n\n①句转承上文指出当前报纸业(虽摆脱生存危机，却)并不轻松。it 回指上两段关于报纸起死回生的情况；has not been much fun(fun 意为 enjoyable“使人快乐的”)表明这个过程并非全是惊喜，引出下文“走出困境需要付出代价”的内容。\n\n②至⑥句说明①句，介绍报纸业为渡过危机所付出的代价。\n\n②至⑤句为一个层次，指出报纸业应对危机的三方面举措。其中②③句为举措一；④⑤句分别为举措二和举措三。\n\n②句指出多家报社进行大批裁员。stayed afloat by pushing journalists overboard 一语双关：afloat 指“[企业等]有偿债能力，能维持下去”; push sth overboard(原指“将某人推下船”)意为“抛弃，扔掉”; 因此“为了不沉入水中而将新闻工作者推下船”这一形象画面喻指报社“为了维持运营而裁员”的行为。\n\n③句引用数据佐证②句，表明裁员幅度之大。newsroom jobs 泛指“新闻工作者相关岗位”；since 2007 暗示报纸业从 2007 年就已形势不妙，需要借裁员来缓解危机。\n\n④句指出报社内容缩水。句中 paying more VS slimmer products 形成强烈反差，slim 本指“(人)单薄，纤细”，此处以比较级形式指报纸厚度越来越薄，内容越来越少。\n\n⑤句进一步指出一些报社甚至取消边远郊区的配送业务。have the nerve(“厚颜”)与强调“出乎意料”的副词 even(甚至)连用，表明报社举措胆大过分，暗含作者的不满和批评。\n\n⑥句为另一个层次，对举措作出评价：（在缓解危机方面）起到了作用，但更多人将面临裁员。Yet（然而）体现上下文转折语义：报社举措固然过分，但的确缓解了危机(proved the right ones)。these desperate measures 回指上文②至⑤句中报社举措。and 之后表明报社举措的后果。sadly for many journalists 点明举措受害者：大批新闻工作者。be pushed further 意接②句... pushing journalists overboard，表明会有更多新闻工作者遭遇裁员。"
+      },
+      {
+       "number": 27,
+       "stem": "Some newspapers refused delivery to distant suburbs probably because .",
+       "options": {
+        "A": "readers threatened to pay less",
+        "B": "newspapers wanted to reduce costs",
+        "C": "journalists reported little about these areas",
+        "D": "subscribers complained about slimmer products"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 27. Some newspapers refused delivery to distant suburbs probably because ____. | 27. 一些报社不愿意向偏远郊区递送可能是由于____。 |\n| --- | --- |\n| [A] readers threatened to pay less | [A] 读者威胁减少付费 |\n| [B] newspapers wanted to reduce costs | [B] 报社想要削减成本 |\n| [C] journalists reported little about these areas | [C] 记者很少对这些地区进行报道 |\n| [D] subscribers complained about slimmer products | [D] 订阅者抱怨报纸的内容减少 |\n\n[精准定位]根据题干信息定位至第三段⑤句。题干问及“可能的(probably)”原因，暗示原文没有明确说明，因此需要联系上下文做出合理推测。本段②句指出“报社为了渡过难关而裁员”，随后④句指出“读者付费更多，得到的产品却更少”，⑤句指出“一些报纸取消了向偏远郊区配送的业务”，这些都是报社为了渡过危机而采取的措施，因此本题的题干可以理解为“报社采取这些措施的原因是什么”，答案应该从“报社自保”的角度出发，选项中只有[B]站在报社的角度，且“报社想要减少成本”与“报社自保”相关，是采取上述措施的合理解释。因此[B]正确。\n\n[命题解密] 本题考查考生根据文中事实细节作出合理推测的能力。正确项[B]虽然在原文中没有明确提到，但它是对段中②③④⑤句内容的合理解释，是对文意的正确把握。\n\n[A]、[D]利用原文出现的碎片信息作出反向干扰，④句 Readers are paying more for slimmer products 意在说明报社为渡过难关所采取的措施之一（提高报纸费用，同时减少产品内容），而非报社拒绝向郊区递送的原因。[C]借扭曲原文信息制造干扰，③④句虽提及报社为应对危机而对新闻工作者裁员，使报纸内容缩水，但与“记者对郊区报道的情况”无关，因此[C]错误。\n\nIV ① Newspapers are becoming more balanced businesses, with a healthier mix of revenues from readers and advertisers. ② American papers have long been highly unusual in their reliance on ads. ③ Fully 87% of their revenues came from advertising in 2008, according to the Organization for Economic Cooperation & Development (OECD). ④ In Japan the proportion is 35%. ⑤ Not surprisingly, Japanese newspapers are much more stable .\n\n报纸正变得更为均衡，来自读者和广告商的收入组合更加健康。长期以来，美国报纸对广告的依赖异常严重。根据经济合作与发展组织（OECD）的数据，2008年美国报纸整整87%的收入来自广告；而在日本，这一比例为35%。毫无疑问，日本报纸业要稳定得多。\n\n**词汇注释与难句分析**\n\nrevenues n. (复数)总收入\n\nreliance n. 依靠，依赖\n\nproportion n. 比，比率，比例\n\nstable a. 稳定的\n\n**经典搭配**\n\na healthier mix of revenues(更加健康的收益比例)\n\nnot surprisingly(毫无疑问)\n\n**语篇分析**\n\n第四、五段介绍生存危机对报纸业的侧面积极影响。\n\n第四段指出生存危机使行业变得稳定。关键词为：more balanced。\n\n①句总说危机对美国报纸业的影响：收益比例日趋健康，报纸业走向平衡。with 引导的伴随状语与主句呈因果关系：因为来自读者的收益(发行收益)和广告商的收益比例更加健康，所以报纸业比以前更加平衡。mix 此处指报纸的收益主要来自读者和广告这两者之和。\n\n②③句说明美国报纸业曾经情况：收益比例严重不合理。②句总说情况：美国报纸业过度依赖广告收益。long、highly、unusual 前后呼应，凸显美国报纸业长期以来畸形的发展态势。③句列举数据印证②句。Fully 87%(fully 意为“整整，足足”)突出说明广告收益占比过高。\n\n④⑤句借日本报纸业收益比例反向证明美国报纸业的不健康。the proportion 指报纸广告收益占比；35% VS 87% 凸显日美两方比例反差，而⑤句 Not surprisingly 和 much more stable 明确肯定日本报纸业更为稳定，反向表明：美国报纸业之所以不稳定是由于之前过度依赖广告收益，而今正步入良性发展。"
+      },
+      {
+       "number": 28,
+       "stem": "Compared with their American counterparts, Japanese newspapers are much more stable because they .",
+       "options": {
+        "A": "have more sources of revenue",
+        "B": "have more balanced newsrooms",
+        "C": "are less dependent on advertising",
+        "D": "are less affected by readership"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| 28. Compared with their American counterparts, Japanese newspapers are much more stable because they ____. | 28. 和美国报纸业相比，日本报纸业更加稳定，原因是日本____。 |\n| --- | --- |\n| [A] have more sources of revenue | [A] 营利的渠道更多 |\n| [B] have more balanced newsrooms | [B] 拥有更均衡的编辑部 |\n| [C] are less dependent on advertising | [C] 对广告的依赖程度更低 |\n| [D] are less affected by readership | [D] 受读者的影响较小 |\n\n[精准定位] 根据题干中 Japanese newspapers 定位第四段⑤句。②③句指出“美国报纸业过度依赖广告收益，广告收益的比例高达 87%”，而④句指出“日本报纸业的广告收益占比为 35%”，⑤句总结指出“日本报纸比美国报纸更稳定”，由此可推知“不依赖广告收入”是日本报纸业比美国报纸业稳定的原因。[C] 正确。\n\n[命题解密] 本题考查对文中事实细节的理解以及进行合理推理的能力。正确项[C]是对原文②③④句内容的正确理解和合理总结。\n\n[A]借助常规思维干扰。全段主要针对报纸来自读者和广告两者的收益比合理与否来说明报纸业的稳定情况，并未涉及其他收益来源，因此[A]错误。[B]利用①句 more balanced 干扰。但该句旨在总述报纸业现在变得更加均衡，[B]项内容虽很可能是日本报纸业的真实情况，但在文中并未提及。[D]反向干扰。①句提到报纸业的收益来自读者和广告，④句提到日本报纸业的广告收益只占35%，即来自读者的收益占65%，远高于广告收益，因此对日本报纸业来说，读者的影响大于广告的影响，因此[D]错误。\n\nV ① The whirlwind that swept through newsrooms harmed everybody, but much of the damage has been concentrated in areas where newspapers are least distinctive. ② Car and film reviewers have gone. ③ So have science and general business reporters. ④ Foreign bureaus have been savagely cut off. ⑤ Newspapers are less complete as a result. ⑥ But completeness is no longer a virtue in the newspaper business. [329 words]\n\n这场席卷整个新闻编辑部的旋风伤及每个人，但大部分损失集中于报纸内容最缺乏特色的板块。汽车和电影评论员消失了。科学和大众商业记者也未能留下。驻外办事处遭到无情撤销。因此，现在报纸更加不完整。但如今，完整性已经不再是报纸业的优点了。\n\n**词汇注释与难句分析**\n\nwhirlwind n. 旋风；猛烈的势力\n\ndistinctive a. 有特色的，与众不同的\n\nbureau n. 局，处，科；办事处\n\nsavagely ad. 野蛮地；残忍地；粗野地\n\nvirtue n. 美德；德行；价值；长处\n\n**经典搭配**\n\nsweep through(掠过、扫过)\n\nfilm reviewers(电影评论员)\n\n**语篇分析**\n\n第五段指出生存危机使报纸业找到正确的发展方向：突出特色，不再求全。关键词为：completeness is no longer a virtue。\n\n①句指出报纸业此次生存危机对报纸最无特色的板块伤害最大。前半句先退而说明报纸业此次生存危机伤及所有编辑部人员，后半句转而指出多数破坏只存在于报纸内容最无特色的领域，其中 areas 指“报纸的板块、栏目”；最高级形式 least distinctive 反向表明受损最重的原因：缺乏特色而不具竞争力。\n\n②至④句例证①句，以“汽车和电影评论”、“科学和大众商业报道”以及“国外报道”等部门为例，说明无特色部门遭撤销。have gone 实指“遭到裁员”；cut off（砍掉、切掉）与 savagely（猛烈地，粗暴地）连用，渲染报社为求生存而大刀阔斧整改的决心。\n\n⑤句承上说明板块撤销整改的影响：报纸更加不完整。as a result 表明上下文因果逻辑：无特色板块消失→报纸变得更不完整。\n\n⑥句转而引出作者观点：报纸行业已无需再靠完整性取胜。no longer a virtue 表明报纸的性质已经发生革命性改变，不再以“完整性”为其卖点；结合①句 much of the damage...least distinctive 不难发现该句弦外之音：在互联网带来的巨大冲击之下，盲目求全并不可取，报纸业的未来应聚焦于“发展特色领域、板块”，如此才能吸引读者，永葆活力。"
+      },
+      {
+       "number": 29,
+       "stem": "What can be inferred from the last paragraph about the current newspaper business?",
+       "options": {
+        "A": "Distinctiveness is an essential feature of newspapers.",
+        "B": "Completeness is to blame for the failure of newspaper.",
+        "C": "Foreign bureaus play a crucial role in the newspaper business.",
+        "D": "Readers have lost their interest in car and film reviews."
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n| 29. What can be inferred from the last paragraph about the current newspaper business? | 29. 关于当前的报纸行业，由末段可作出什么推断？|\n| --- | --- |\n| [A] Distinctiveness is an essential feature of newspapers. | [A] 特色是报纸一项至关重要的优点。 |\n| [B] Completeness is to blame for the failure of newspaper. | [B] 完整性是报纸灭亡的罪魁祸首。 |\n| [C] Foreign bureaus play a crucial role in the newspaper business. | [C] 报纸的驻外办事处发挥着重要作用。 |\n| [D] Readers have lost their interest in car and film reviews. | [D] 读者对汽车评论和影评已经失去了兴趣。 |\n\n[精准定位]文章末段①句指出报纸虽遭重创，但损失最大者为最无特色的部门（least distinctive）。随后②至④句例证介绍报纸在危机中淘汰无特色部门的情况。⑤句总结说报纸完整性由此遭到破坏，⑥句转而指出完整性已不是报纸行业的优点（no longer a virtue）。可见作者对报纸业撤销无特色部门的举动是赞赏的，即：如今的报纸业想要生存，完整性已不再重要，应具有与众不同的特色。因此[A]正确。\n\n[命题解密] 本题考查根据文中细节及上下文推理判断的能力。[A]是对原文内容的反向推断。\n\n[B]反向过度推断，由末句提到的“完整性不再是报纸业的优点”反向过度推出“完整性是报纸灭亡的罪魁祸首”，“不是…的优点”≠“是缺点”，因此[B]错误。[C]扭曲原文信息。末段④句指出“驻外办事处被无情地砍掉”，暗示该部门已经不符合形势需要，[C]背离原文。[D]过度推断偏离重点。末段②句提到“汽车和影视评论这两个板块消失了”，旨在说明这两个板块不具特色，即，互联网信息一样可以满足读者该方面需求，无益于纸质报纸竞争力，而非“读者兴趣丧失”。"
+      },
+      {
+       "number": 30,
+       "stem": "The most appropriate title for this text would be .",
+       "options": {
+        "A": "American Newspapers: Struggling for Survival",
+        "B": "American Newspapers: Gone with the Wind",
+        "C": "American Newspapers: A ThrivingBusiness",
+        "D": "American Newspapers: A HopelessStory"
+       },
+       "answer": "A",
+       "explanation": "· 全局真题精解 ·\n\n> **答案：** A\n\n| | |\n| --- | --- |\n| 30. The most appropriate title for this text would be ____. | 30. 本文最合适的题目是____。 |\n| [A] American Newspapers: Struggling for Survival | [A] 美国报纸业：挣扎求生 |\n| [B] American Newspapers: Gone with the Wind | [B] 美国报纸业：随风而逝 |\n| [C] American Newspapers: A Thriving Business | [C] 美国报纸业：一个生机勃勃的行业 |\n| [D] American Newspapers: A Hopeless Story | [D] 美国报纸业：一个绝望的故事 |\n\n[精准定位] 本文第一段描述一年前报纸业濒临灭亡的情况，末句笔锋一转奠定全文基调：报纸业正在起死回生。第二段随即描述报纸业复原的情况，第三段着重说明美国报纸业为了渡过危机而采取的措施：大幅度裁减新闻记者、减少读者服务，第四段指出危机后美国报纸业的积极变化：因收益比例日趋合理而变得更加稳定，第五段分析报纸的发展方向：内容不再求全而是突出特色。由此可知本文主要介绍了“美国报纸业在危机中挣扎着采取措施以求生存和发展”的情况，因此[A]切合文章主旨。\n\n[命题解密] 本题考查理解文章主旨要义的能力。正确项[A]是对文章主旨的整体把握和概括。\n\n[B]、[D]利用首段信息反向干扰，但首段对一年前报纸濒死情况的描述意在为当前起死回生作铺垫，该两项却意味着美国报纸业最终灭亡，与全文基调矛盾。[C]对主旨过度引申。文中的美国报纸业刚刚走出绝境，第二段④句 Not the profit margin...a few years ago 以及第三段①句 has not been much fun 也明确指出当前情况与生机勃勃还有很大差距，因此[C]不符合文意。\n\n| 30. The most appropriate title for this text would be ____. | 本文最合适的题目。 |\n| --- | --- |\n\n问题速览：快速浏览考题发现，除主旨题外所有题目均涉及 newspapers, 因而本文主题与“报纸”相关；再结合 26 题 their own doom 进一步推断文章很可能关乎“报纸的生存危机”。\n\n问题解读：①第26题表明文章首段便涉及“某些报纸走向末路”,且作者利用该信息说明了报纸的处境；②第27题表明文章涉及“报纸在边远郊区的配送业务”;③第28题说明文中把美国和日本报纸业相比较，指出日本报纸业稳固得多，并说明其原因；④第29题表明文章末段分析了当前报纸行业的宏观情况。\n\n问题总结：由上述分析可知，本文关乎“报纸业生存危机”，提及某些报社在不利形势下的举措，指出日本报纸业更稳固的原因，也即美国报纸业需努力的方向，并对当前报纸业的总体情况作出说明。\n\n**二、语篇分析及试题精解**\n\nI ① Whatever happened to the death of newspapers? ② A year ago the end seemed near. ③ The recession threatened to remove the advertising and readers that had not already fled to the internet. ④ Newspapers like the San Francisco Chronicle were chronicling their own doom. ⑤ America's Federal Trade Commission launched a round of talks about how to save newspapers. ⑥ Should they become charitable corporations? ⑦ Should the state subsidize them? ⑧ It will hold another meeting soon. ⑨ But the discussions now seem out of date.\n\n报纸业的消亡(之势)到底遇到了什么情况？一年前，末日似乎近在咫尺。经济衰退差点将仅存的还未转至互联网的广告及读者彻底清除。像《旧金山纪事报》这类报纸已经着手记录自己的劫数了。美国联邦贸易委员会发起了一轮如何拯救报纸业的会谈。它们是否应该转型成公益企业？政府是否应该给予其补贴？委员会即将再次召开一场讨论会。但现在看来这些讨论似乎已经不合时宜了。\n\n**词汇注释与难句分析**\n\nrecession n. 经济衰退，不景气，经济萎缩\n\nchronicle v. 记录(大事)\n\ncommission n. 委员会，委员\n\nlaunch v. 发动；开展（活动、计划等）\n\ncharitable a. 公益的，慈善的\n\nsubsidize v. 以津贴补助\n\n**经典搭配**\n\nflee to the internet（转向互联网）\n\nlaunch a round of talks (发起一轮讨论)\n\ncharitable corporation（慈善公司）\n\n**语篇分析**\n\n第一段引出全文主题：全球报纸业起死回生。关键词为：now seem out of date。\n\n①句开篇设问：报纸的消亡究竟出现了什么情况？Whatever happened to...? (whatever 用于问句，表示惊讶或困惑) 暗示局面出人意料，即，报纸的消亡大势或已生变。\n\n②至⑦句追溯一年前情况：报纸面临濒死窘境，引发拯救报纸大讨论。\n\n②至④句描述一年前报纸危在旦夕的场景。其中，②句总述报纸濒临消亡，③④句说明②句，描述报纸濒死的具体表现。\n\n②句 the end 回应①句 the death of newspapers, 指“报纸的末日”。seemed near(似乎临近)描述事实(报纸濒死)的同时流露不确定语气，暗示报纸存在转机。\n\n③句指出经济衰退几乎卷走报纸最后的广告和读者。句子主语表明加速报纸消亡的因素：经济衰退。定语从句补充说明 advertising and readers，暗示之前大部分广告及读者已放弃（纸质）报纸而转向网络，侧面反映出报纸衰败的主要因素：互联网的冲击。\n\n④句以某名报为例说明报纸业整体不利的境况。chronicle 一词呼应报刊名称 San Francisco Chronicle，暗含讽刺意味：《旧金山纪事报》本是为他者编年纪事的著名报纸，现在却要记录自身命运的终结，不免伤感；doom 意为“厄运，劫数，末日”。本句以点概面，借著名报纸的濒死现状折射普遍情况：报纸业形势严峻，前景堪忧。\n\n⑤至⑦句指出美国相关部门就“如何拯救报纸”展开一系列讨论。其中⑤句总述贸易委员会发起讨论；⑥⑦句列举讨论内容。⑤句 a round of talks 暗示讨论将会一轮接一轮持续，反衬报纸业情势的棘手。⑥⑦句以并列疑问句展示讨论内容。become charitable corporations 和 the state subsidize 分别以“彻底改变报社性质”和“强制政府财政支持”这种极端举措为着眼点，再次强调传统报纸似已回天乏力。\n\n⑧⑨句转而指出现状：有关拯救报纸的讨论已不合时宜，即报纸已起死回生。\n\n⑧句呼应⑤句，指出贸易委员会即将发起新一轮讨论，表明有关部门拯救报纸的讨论还在继续。\n\n⑨句转而(But)指出(拯救报纸的)讨论现在已无必要。句中 now seem out of date 与②句 a year ago the end seemed near 对比鲜明，凸显今昔情势扭转：无需继续拯救报纸的讨论，即报纸业濒死危机得到化解。\n\n[注释补充] (1) Newspaper: 作可数名词时，含义有二，一为“(纸质)报纸”; 二为“报社”。本文 newspapers 频现，应根据上下文判断其所指。如第一段④句 newspapers like the San Francisco Chronicle... 中指“报纸”; 第三段②句 many papers stayed afloat... 以及⑤句 some papers even had the nerve... 中 papers 指“报社”。而全文大部分 newspapers 实际是泛指，引申为“报纸业”。如第二段②③句中的 German and Brazilian papers、American newspapers 等。(2) newspaper business(末段⑥句)的释意需先分清几个中文概念。报业是指在媒体行业有规模的企业，例如南方报业集团，它们既有报纸(包括日报，周报等), 杂志，还有网络，自己的印刷设备和发行队伍。报纸仅是报业产品的一种，通常指散页印刷，不装订、没有封面的纸质出版物。报纸业指与纸质报纸有关的一切活动。不难看出，报纸业包含在报业范畴之内。本文主要讨论对象是纸质报纸的起死回生，因此 newspaper business 应为“报纸业”。"
+      }
+     ]
+    },
+    {
+     "title": "Text 3",
+     "type": "reading",
+     "passage": [
+      "We tend to think of the decades immediately following World War II as a time of prosperity and growth, with soldiers returning home by the millions, going off to college on the G. I. Bill and lining up at the marriage bureaus.",
+      "But when it came to their houses, it was a time of common sense and a belief that less could truly be more. During the Depression and the war, Americans had learned to live with less, and that restraint, in combination with the postwar confidence in the future, made small, efficient housing positively stylish.",
+      "Economic condition was only a stimulus for the trend toward efficient living. The phrase “less is more” was actually first popularized by a German, the architect Ludwig Mies van der Rohe, who like other people associated with the Bauhaus, a school of design, emigrated to the United States before World War II and took up posts at American architecture schools. These designers came to exert enormous influence on the course of American architecture, but none more so than Mies.",
+      "Mies’s signature phrase means that less decoration, properly organized, has more impact than a lot. Elegance, he believed, did not derive from abundance. Like other modern architects, he employed metal, glass and laminated wood – materials that we take for granted today but that in the 1940s symbolized the future. Mies’s sophisticated presentation masked the fact that the spaces he designed were small and efficient, rather than big and often empty.",
+      "The apartments in the elegant towers Mies built on Chicago’s Lake Shore Drive, for example, were smaller – two-bedroom units under 1,000 square feet – than those in their older neighbors along the city’s Gold Coast. But they were popular because of their airy glass walls, the views they afforded and the elegance of the buildings’ details and proportions, the architectural equivalent of the abstract art so popular at the time.",
+      "The trend toward “less” was not entirely foreign. In the 1930s Frank Lloyd Wright started building more modest and efficient houses – usually around 1,200 square feet – than the spreading two-story ones he had designed in the 1890s and the early 20th century.",
+      "The “Case Study Houses” commissioned from talented modern architects by California Arts & Architecture magazine between 1945 and 1962 were yet another homegrown influence on the “less is more” trend. Aesthetic effect came from the landscape, new materials and forthright detailing. In his Case Study House, Ralph Rapson may have mispredicted just how the mechanical revolution would impact everyday life – few American families acquired helicopters, though most eventually got clothes dryers – but his belief that self-sufficiency was both desirable and inevitable was widely shared."
+     ],
+     "questions": [
+      {
+       "number": 31,
+       "stem": "The postwar American housing style largely reflectedthe Americans’ .",
+       "options": {
+        "A": "prosperity and growth",
+        "B": "efficiency and practicality",
+        "C": "restraint and confidence",
+        "D": "pride and faithfulness"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n| 31. The postwar American housing style largely reflected the Americans' ____. | 31.战后的美国住宅风格很大程度上反映了美国人的____。 |\n| --- | --- |\n| [A] prosperity and growth | [A] 繁荣和增长 |\n| [B] efficiency and practicality | [B] 高效和实用 |\n| [C] restraint and confidence | [C] 克制和自信 |\n| [D] pride and faithfulness | [D] 自豪与忠诚 |\n\n[精准定位] 根据题干 The postwar American housing style 定位至第二段②句。该句中 small, efficient housing 同①句中 less could truly be more 共同说明了战后美国住宅精简的风格特点。题干问及这种风格所映射出的美国人的特点，②句中 that restraint, in combination with the postwar confidence 明确指出美国人特点为克制、有信心。[C]项正确。\n\n[命题解密]本题主要考查对文中具体细节信息的理解和把握。第二段②句以因果关系词“made”为标志，明确了战后美国人青睐简约住宅的心理因素：克制和信心。反过来说，即：二战后美国人的住宅风格反映了他们克制和自信的心态。[C]为正确项。\n\n[A]利用第一段①句中的 prosperity and growth 干扰，这一词组讲述美国二战后的社会特征，在语篇中的功能是背景铺垫，与战后的住宅风格并无直接关联；[B]利用 efficiency 与 efficient 形近，及 practicality(实用性)与 efficient 近义干扰，将简约住宅自身的高效特点，捏造成美国人的心理特点；[D]曲解文意，文中提到二战后滋生的信心导致了简约住宅的盛行，其原因是美国人住在面积小的房子里也不会担忧，选项中“自豪”是对“自信”的夸大，而“忠诚”则是从战争和国家角度捏造出来的原因，文章并未提及。\n\nⅢ ① Economic condition was only a stimulus for the trend toward efficient living. ② The phrase “less is more” was actually first popularized by a German, the architect Ludwig Mies van der Rohe, who like other people associated with the Bauhaus, a school of design, emigrated to the United States before World War II and took up posts at American architecture schools. ③ These designers came to exert enormous influence on the course of American architecture, but none more so than Mies.\n\n经济状况只是这种高效生活方式的一个刺激因素。“少即是多”这句话实际上是首先由一位名叫路德维希·密斯·凡德罗的德国建筑家推广开来的，像其他与包豪斯建筑学院相关的设计师一样，他在二战之前移民到美国，并曾在美国多个建筑学院任职。这些设计师们来到美国，对美国建筑业的发展施加了巨大的影响，但是其中影响最大的，还是要数密斯。\n\n**词汇注释与难句分析**\n\nstimulus n. 刺激物，刺激因素\n\nexert v. 发挥；运用；使受（影响等）\n\npopularize v. 使受欢迎，普及，使流行\n\narchitect n. 建筑师，设计师\n\n**经典搭配**\n\ntake up posts(就职)\n\n↑比较状语\n\n功能注释：本句中 who 引导的定语从句说明了人物移民美国执教的经历；other people 后接分词结构做定语；emigrated...schools 指出密斯与其他与包豪斯学校相关的人的共同经历。\n\n**语篇分析**\n\n第三至七段介绍美国战后住宅简约风格两股最直接的影响力。其中，第三至五段介绍以密斯为代表的德国建筑设计师的巨大影响；第六、七段介绍美国本土建筑师的推动。\n\n第三段首先介绍密斯本人及其所属的德国包豪斯学派的重大影响。关键词为：enormous influence (巨大影响)。\n\n句(过渡句)承上指出经济原因只是一个刺激，启示下文还有推动简约风更重要的力量。Economic condition 回指上段②句 the Depression and the war 和 that restraint; only 暗示简约风还有其他推动因素。\n\n句进而介绍影响力之一：以密斯为首的德国包豪斯学派“少即是多”理念。\n\n句进而引出“少即是多”理念之父密斯，并介绍其来到美国的原因和背景。first popularized 凸显了密斯作为最早推广者的重要作用；like other people associated with the Bauhaus 则补充交代了密斯与包豪斯建筑学院（详见“背景知识②”）之间的密切关系，引出了包豪斯学院中其他逃亡美国的建筑师；took up posts（任职）说明以密斯为代表的，来自包豪斯学院的这些建筑师们广泛任职于美国建筑学校。\n\n句承接②句，明示了包豪斯建筑师们对美国建筑的重要影响。these designers 回指②句 people associated with the Bauhaus; exert enormous influence 则直截了当地说明了包豪斯群体影响之巨大；course 为熟词僻意，意为“自然的进展”，深刻暗示德国建筑师的到来改变了美国建筑业本来的发展路线，体现了其推动趋势转变的作用。否定词 none 与比较级 more 连用表示最高级，突出强调在逃亡美国的包豪斯建筑师中密斯对美国建筑业的发展影响最大；so 即指 exert enormous influence...。\n\n[背景知识] ①Ludwig Mies van der Rohe(路德维希·密斯·凡德罗): 密斯是现代主义的奠基者之一，二十世纪中期世界上最著名的四位现代建筑大师之一，包豪斯第三任校长。包豪斯因其乌托邦倾向及社会主义色彩不容于纳粹当局而被迫关闭。密斯与创校人格罗皮乌斯等人流亡到美国，任伊利诺理工学院建筑系主任。作为钢铁和玻璃建筑结构之父，密斯提出的“少就是多”的理念，发展了一种具有古典式的均衡和极端简洁的风格。这集中反映了他的建筑观点和艺术特色，也影响了全世界。\n\nthe Bauhaus(包豪斯): 魏玛包豪斯学院是位于德国魏玛的一所艺术设计学院。于1919年以工艺艺术学校的形式创立。该校是世界现代设计的发源地，对世界艺术与设计的推动有着巨大的贡献，也是世界上第一所完全为发展设计教育而建立的学院。当时的先锋派艺术家们反对传统而推行现代艺术设计理念，但在二战期间，学校陷入危机，很多艺术家们因为不堪纳粹的排挤而大量逃亡到美国。两德统一后，包豪斯大学成为了著名的公立综合大学性质的设计学术机构。"
+      },
+      {
+       "number": 32,
+       "stem": "Which of the following can be inferred from Paragraph 3 about the Bauhaus?",
+       "options": {
+        "A": "It was founded by Ludwig Mies van der Rohe.",
+        "B": "Its designing concept was affected by World War II.",
+        "C": "Most American architects used to be associated with it.",
+        "D": "It had a great influence upon American architecture."
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 32. Which of the following can be inferred from Paragraph 3 about the Bauhaus? | 32. 从第三段中我们可以推出关于包豪斯的哪些信息？|\n| --- | --- |\n| [A] It was founded by Ludwig Mies van der Rohe. | [A] 它是由路德维希·密斯·凡德罗创建的。 |\n| [B] Its designing concept was affected by World War II. | [B] 它的设计理念受到了二战的影响 |\n| [C] Most American architects used to be associated with it. | [C] 大多数美国建筑师都曾与之有关 |\n| [D] It had a great influence upon American architecture. | [D] 它对美国的建筑行业有很大影响 |\n\n[精准定位] 根据题目定位至第三段，该段②句提到的与 the Bauhaus 相关的人，与③句中主语 These designers 为同指，而正是他们“exert enormous influence on the course of American architecture”, 因此可以推知，the Bauhaus 对美国建筑行业有很大影响。[D]为正确项。\n\n[命题解密]本题考查关于包豪斯的细节信息。第三段③句中 These designers 回指上文与包豪斯学院相关的建筑师，随后指出他们对美国建筑行业施加了巨大影响，[D]是对第三段③句中 exert enormous influence on the course of American architecture 的同义替换。\n\n[A]夸大其词，将原文中的密斯和包豪斯学院的关系——相关（associated with）说成是创建（founded by）；[B]利用文中的信息捏造无关干扰。第三段②句中提到二战，实为包豪斯学院相关设计师流亡美国的时间，而并未提到包豪斯学院“设计理念”与二战的关联；[C]张冠李戴，选项中所说的 used to be associated with it 与第三段②句中的 associated with the Bauhaus 同义，而文中与 Bauhaus 相关的，实际是那些从德国的包豪斯学院流亡美国的设计师，而非美国本土设计师。\n\nIV ① Mies's signature phrase means that less decoration, properly organized, has more impact than a lot. ② Elegance, he believed, did not derive from abundance. ③ Like other modern architects, he employed metal, glass and laminated wood — materials that we take for granted today but that in the\n\n1940s symbolized the future. ④ Mies's sophisticated presentation masked the fact that the spaces he designed were small and efficient, rather than big and often empty.\n\n**词汇注释与难句分析**\n\nsignature n. 签名，署名；识别标志，鲜明特征\n\nderive from 由……起源；取自\n\nlaminated a. 由薄片叠成的，分层的\n\nsymbolize v. 象征，用符号表现\n\nsophisticated a. 复杂的，精致的\n\n**经典搭配**\n\nsignature phrase(口头禅)\n\ntake for granted（认为……理所当然）\n\nmask the fact(掩盖事实)\n\n**语篇分析**\n\n第四段承接上段，集中介绍密斯“少即是多”简约设计风格的内涵、原理、运用和效果。关键词为：Mies's signature phrase(密斯的口头禅)。\n\n①句直接介绍内涵(means): 简约装饰比繁复装饰更有冲击力。句子将 less decoration 与 a lot (decoration) 展开对比，前者有更大影响力 (more impact), 印证了“少即是多”的含义：properly organized 提出装饰效果与多少无关，贵在合理安排组合。注：句中 signature phrase 字面意为“标志性语言”, 延伸义为“口头禅”; 故而 Mies's signature phrase 即为 Mies 口头禅，表明本句为观点介绍句。\n\n②句补充指出原理(he believed): 优雅并不在于繁多；间接说明①句“如果布局恰当，简约装饰反而会比繁复装饰更具效果”。句中 he believed 即 Mies believed, 表明本句依然为 Mies 观点介绍。\n\n③句具体阐述运用(he employed): 使用金属、玻璃和复合板这类在现在看来司空见惯而在当时象征未来的先进材料。破折号后(尤其 but 后)内容强调所用建材在当时极为先进。\n\n④句讲述设计效果(masked the fact):掩盖了一个事实。that 同位语从句具体说明 the fact 的内容：空间小而精，并非大而空。意即，密斯的设计效果取得了“虽小犹大”的效果。"
+      },
+      {
+       "number": 33,
+       "stem": "Mies held that elegance of architectural design .",
+       "options": {
+        "A": "was related to large space",
+        "B": "was identified with emptiness",
+        "C": "was not reliant on abundant decoration",
+        "D": "was not associated with efficiency"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n| 33. Mies held that elegance of architectural design ____. | 33. 密斯认为建筑设计的优雅____。 |\n| --- | --- |\n| [A] was related to large space | [A] 与大的空间息息相关 |\n| [B] was identified with emptiness | [B] 等同于空荡 |\n| [C] was not reliant on abundant decoration | [C] 与丰富的装饰无关 |\n| [D] was not associated with efficiency | [D] 和简洁无关 |\n\n[精准定位] 根据题干关键词 the elegance of architectural design 定位到第四段，本段探讨密斯的设计理念，并在第②句明确提出：优雅并非来自于繁多，言外之意为，优雅与丰富的装饰无关。因此 [C] 正确。\n\n[命题解密] 本题考查文中人物观点。第四段第②句中，he believed 是题干 Mies held 的同义替换，elegance = elegance of architectural design, did not derive from abundance 与选项 [C] was not reliant on abundant decoration 同义。因此正确项 [C] 是对文意的正确理解。\n\n[A]中 large space 和 [B] 中 emptiness, 利用④句 masked the fact... the space... rather than big and empty 设置干扰。对该句的正确理解涉及两重否定：mask(掩盖)为第一层否定，rather than 为第二层否定；文意实为：密斯的设计为“小而精”, 只不过却给人感觉以“大而空”, 从而实现了“少即是多”的初衷。而且，根据②句“优雅并非来自繁多”以及④句中“小而精”(small and efficient)的表述，可知，“大而空”并非密斯的设计追求，也不是密斯设计的空间的特点。因此排除 [A]、[B]。[D] 反向干扰，④句指出，“小而精”(small and efficient)是密斯的设计特点，体现了密斯雅致的呈现方式。选项中 efficiency 与 efficient 含义相同，实际与密斯的优雅有关，而非无关 (not associated with)。\n\nV ① The apartments in the elegant towers Mies built on Chicago's Lake Shore Drive, for example, were smaller — two-bedroom units under 1,000 square feet — than those in their older neighbors along the city's Gold Coast. ② But they were popular because of their airy glass walls, the views they afforded and the elegance of the buildings' details and proportions, the architectural equivalent of the abstract art so popular at the time.\n\n例如，密斯建在芝加哥湖滨大道上那些优雅塔楼中的公寓，跟它们坐落在芝加哥黄金海岸上的年代更久远的邻居相比，面积更小，只有两个卧室，面积不到1000平方英尺。但是它们很受欢迎，因为这些公寓有着通透的玻璃墙，可以观看优美风景，建筑细节优雅，比例和谐，这些都是当时风靡的抽象艺术在建筑上的对应物。\n\n**词汇注释与难句分析**\n\nelegant a. 优美的，漂亮的，简练的，简洁的\n\n**经典搭配**\n\nequivalent n. 对等物 Gold Coast(黄金海岸)\n\nequivalent of (对应物)\n\nabstract art(抽象艺术)\n\n**语篇分析**\n\n第五段以密斯设计的湖滨公寓为例侧面说明他对美国建筑的影响。关键词为：for example(例如)。\n\n①句将密斯设计的湖滨公寓与其邻近的黄金海岸旧社区对比，表明密斯设计的住宅特点：小(smaller)。two-bedroom units under 1,000 square feet 以实际数字说明了这一面积并不宽广。\n\n②句转折(But)指出该住宅虽小却大受欢迎(popular)，并解释说明三大原因(because of):一、通风玻璃墙及优美景观(照应上段所使用的材料);二、优雅的建筑细节和比例(照应上段“合理安排”(properly organized));三、恰好与当时流行的抽象艺术元素契合，其中 equivalent of(与……等同)暗示密斯设计的湖滨公寓具有抽象艺术的一些特征。\n\n[背景知识] 芝加哥湖滨公寓：该公寓位于美国芝加哥密歇根湖畔，建于 1951~1953 年，由建筑师密斯设计，是早期高层建筑的代表作。公寓由两幢 26 层高的“方盒子”组成，全部由钢和玻璃标准件构成，跟当时的砖结构居民住宅有着极大的区别，内部大空间可由住户随意进行灵活隔断。这种形式的建筑成为以后美国以至全世界所流行的玻璃盒子式摩天楼的“样板”, 被人们称为“密斯风格”。许多建筑师与评论家认为，860-880 湖滨公寓是最接近密斯一直追求的“少就是多”目标的“表皮与骨架”建筑。"
+      },
+      {
+       "number": 34,
+       "stem": "What is true about the apartments Mies built on Chicago’s Lake Shore Drive?",
+       "options": {
+        "A": "They ignored details and proportions.",
+        "B": "They were built with materials popular at that time.",
+        "C": "They were more spacious than neighboring buildings.",
+        "D": "They shared some characteristics of abstract art."
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 34. What is true about the apartments Mies built on Chicago's Lake Shore Drive? | 34. 关于密斯在芝加哥湖滨大道上建造的公寓，以下哪一项是正确的？|\n| --- | --- |\n| [A] They ignored details and proportions. | [A] 它们忽视了细节和比例。 |\n| [B] They were built with materials popular at that time. | [B] 它们是用当时流行的材料建成的。 |\n| [C] They were more spacious than neighboring buildings. | [C] 跟相邻的建筑物比起来，它们所占空间更大。 |\n| [D] They shared some characteristics of abstract art. | [D] 它们具备抽象艺术的某些特征。 |\n\n[精准定位] 根据题干关键词 the apartments Mies built on Chicago's Lake Shore Drive 快速定位到第五段，该段介绍了芝加哥湖滨公寓相关细节信息，包括公寓设计使用的材料、大小、设计布局特点、艺术特征等等。末句提到，这些公寓的特点是当时流行的抽象艺术在建筑上的对应物，[D]正确。\n\n[命题解密] 本题考查关于芝加哥湖滨公寓的事实细节。第五段末句交代了湖滨公寓与抽象艺术的关系，正确项[D]是对原文中 the architectural equivalent of the abstract art 的同义改写。\n\n[A]、[B]、[C]均反向干扰。[A]涉及湖滨公寓设计的细节和比例特点，ignored(忽视)与②句中 the elegance of the buildings' details and proportions 含义相反；[B]涉及湖滨公寓的建筑材料，②句提到，湖滨公寓的建筑材料是 airy glass walls，回溯到第四段③句，关于对密斯使用的玻璃建材的评论指出，这种材料现在看来司空见惯，但在当时却象征着未来，即玻璃材料在当时仍鲜少有人使用，因此选项中“popular at that time”与文意相悖；[C]涉及湖滨公寓的面积与周边建筑的对比，选项中 more spacious 与①句中 smaller... than those... older neighbors...含义相反。\n\nVI ① The trend toward “less” was not entirely foreign. ② In the 1930s Frank Lloyd Wright started building more modest and efficient houses — usually around 1.200 square feet — than the spreading two-story ones he had designed in the 1890s and the early 20th century.\n\n“简约”浪潮并不完全是舶来品。20世纪30年代，弗兰克·劳埃德·赖特开始建造不太大的、更为简洁的住宅，这些住宅通常面积在1200平方英尺，而不像他自己在19世纪90年代的和20世纪初设计的面积铺张的二层住宅。\n\n**词汇注释与难句分析**\n\nforeign a. 外国的，外来的\n\nmodest a. 适度的，适中的，端庄的\n\nIn the 1930s Frank Lloyd Wright started building more modest and efficient houses — usually around 1,200 square feet — than the spreading two-story ones he had designed in the 1890s and the early 20th century.\n\n句子主干：In the 1930s\n\n时间状语插入语修饰宾语\n\n— usually around 1,200 square feet — Frank Lloyd Wright started building more modest and efficient houses than the spreading two-story ones\n\n功能注释：破折号后的句子对 Frank 建造的房屋面积进行补充介绍，than the spreading two-story ones 说明 Frank 之前设计的住宅面积较大，与现在形成对比，he had...20th century 是省略关系词 that 的定语从句，对这些面积较大的住宅的设计时间进行补充说明。\n\n**语篇分析**\n\n第六、七段继第三至五段介绍外来影响力之后转而例证说明本土影响力。\n\n第六段举设计师赖特的例子说明简约的住宅设计不完全是舶来品。关键词为：not entirely foreign (并非全部来自国外)。\n\n①句为第六、七段总起句，指出简约设计风格不完全是外来理念。The trend toward “less”与上文 less is more, Mies's signature phrase 同义。\n\n②句以美国建筑师赖特设计风格的转变例证说明①句。句内纵向对比，将赖特20世纪30年代的建筑风格与其19世纪90年代和20世纪初的建筑风格展开对比，以 more modest and efficient 展现了前后风格的改变：前者更为少而高效，其中 modest 对应简约设计风格中“少”和“小”的概念，efficient 则对应“高效精致”的概念。\n\nVII ① The “Case Study Houses” commissioned from talented modern architects by California Arts & Architecture magazine between 1945 and 1962 were yet another homegrown influence on the “less is more” trend. ② Aesthetic effect came from the landscape, new materials and forthright detailing. ③ In his Case Study House, Ralph Rapson may have mispredicted just how the mechanical revolution would impact everyday life — few American families acquired helicopters, though most eventually got clothes dryers — but his belief that self-sufficiency was both desirable and inevitable was widely shared. [435 words]\n\n**词汇注释与难句分析**\n\ncommission v. 委任，授予\n\naesthetic a. 美学的，审美的\n\nacquire v. 获得，取得\n\nforthright a. 直率的，明确的\n\ndesirable a. 令人满意的，可取的\n\ninevitable a. 不可避免的；必然发生的\n\nmechanical a. 机械的，机械驱动的\n\nIn his Case Study House, Ralph Rapson may have mispredicted just how the mechanical revolution would impact everyday life — few American families acquired helicopters, though most eventually got clothes dryers — but his belief that self-sufficiency was both desirable and inevitable was widely shared.\n\n功能注释：本句包含两个分句，分句一 Ralph Rapson may... everyday life 中包含一个 how 从句做宾语；破折号补充说明分句一的观点，以事实解释作者认为“Rapson 的预估是错误的”这一观点的依据；转折连词 but 后分句三展示 Ralph 广受认可的观点：自给自足。\n\n**语篇分析**\n\n第七段以“案例研究住宅”之例进一步揭示美国建筑师对“少即是多”潮流的影响。关键词为：another homegrown influence(另一股本土影响势力)。\n\n句(段落主旨句)指出另一股影响了简约住宅潮流的势力：案例研究住宅。句子一方面借助 yet another(又一个)体现段际间并列逻辑衔接；另一方面借助 homegrown 呼应上段首句 not entirely foreign,再次说明除了受德国建筑师影响，简约的设计风潮在美国国内也有所生长。\n\n句顺承①句介绍案例研究住宅的美学效果之源：自然风光、新材料、明了的细节设计，与第五段中密斯设计的简约风格代表作湖滨公寓的特点不谋而合。came from 与第四段②句 derive from 相同，暗藏因果关系，言外之意为：审美效果是由于考虑了自然景色、使用了新材料、明晰化了细节设计而出现的。\n\n句以案例研究住宅设计师雷普森的作品为例，说明了美国建筑师的简约设计理念同样广受认可，侧面体现了美国设计师在这一风潮中的影响。转折连词 but 前介绍雷普森的观点之一：机械革命对美国家庭日常生活产生重大影响，并指出其局限性；but 后则指出雷普森观点之二：提倡家庭自给自足，这一观点则得到广泛认可。自给自足的观点，体现在住宅设计上，正是简约高效的理念。\n\n[背景知识] ①Case Study Houses（案例研究住宅）：上个世纪四十年代，经济衰退使得政府大规模缩减房屋建设开支，二战后的美国面临着社会住房短缺的严重问题以及如何解决三百万退伍军人家庭住房的难题。此时建筑界讨论的主题集中于如何为社会低收入人群改善居住环境，实现低造价建筑。最终讨论的结果指向了建造过程的标准化。1945年，《艺术与建筑》杂志（Arts & Architecture Magazine）的出版人约翰·伊坦斯（John Entenza）在加州的洛杉矶发起了名为“Case Study House Program”的实验住宅项目。实验住宅项目的开展原则可以总结为：一、战后现代主义之风在住宅设计中如何体现；二、二战中出现的各种新科技和新材料如何被用来造福普通民众的生活；三、面对各种不同类型的居住者，如何发掘适应现代社会人们广泛而普遍需求的居住模式。《艺术与建筑》杂志邀请了九位建筑师建造廉价简洁的住宅。②Ralph Rapson（罗夫·雷普森）：美国著名建筑学家，建筑教育家，1987年美国“全国建筑师协会教育大奖”获得者，雷普森教授不仅是多产的建筑设计师，也是著名的家具设计师，曾担任“新包豪斯”建筑系主任等职。他是现代建筑学派在美国培养的最早一代人之一。"
+      },
+      {
+       "number": 35,
+       "stem": "What can we learn about the design of the “Case Study Houses”?",
+       "options": {
+        "A": "Mechanical devices were widely used.",
+        "B": "Natural scenes were taken into consideration.",
+        "C": "Details were sacrificed for the overall effect.",
+        "D": "Eco-friendly materials were employed."
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 35. What can we learn about the design of the “Case Study Houses”? | 35. 关于“案例研究住宅”的设计，我们可以推知什么？|\n| --- | --- |\n| [A] Mechanical devices were widely used. | [A] 广泛使用了机械设备。 |\n| [B] Natural scenes were taken into consideration | [B] 考虑了自然风光。 |\n| [C] Details were sacrificed for the overall effect. | [C] 为整体效果牺牲了细节。 |\n| [D] Eco-friendly materials were employed. | [D] 采用了生态友好的材料。 |\n\n[精准定位] 根据题干关键词 Case Study Houses 定位至第七段，该段介绍了“案例研究住宅”的设计特点、审美效应来源和设计师的观念。段中②句说明：(“案例研究住宅”的) 审美效应来自于自然风光、新型材料和直观明了的细节。也就是说，设计者合理利用了自然风光，产生了该建筑的审美效应，可以推知在设计时考虑到了自然风光。[B] 正确。\n\n[命题解密] 本题考查推理。正确项[B]中，natural scenes 与 landscape 为同义替换。\n\n[A]利用③句 mechanical revolution 设陷，文中指出雷普森曾预测机械革命对日常生活的影响，但并未提及机械设备被广泛应用于 Case Study Houses；[C]反向干扰，②句说“案例研究住宅”的审美效应来自于直观明了的细节设计，由此可知，设计者对细节进行了充分考虑；[D]偷换概念，将②句 new materials 偷换为 Eco-friendly materials。"
+      }
+     ]
+    },
+    {
+     "title": "Text 4",
+     "type": "reading",
+     "passage": [
+      "Will the European Union make it? The question would have sounded strange not long ago. Now even the project’s greatest cheerleaders talk of a continent facing a “Bermuda triangle” of debt, population decline and lower growth.",
+      "As well as those chronic problems, the EU faces an acute crisis in its economic core, the 16 countries that use the single currency. Markets have lost faith that the euro zone’s economies, weaker or stronger, will one day converge thanks to the discipline of sharing a single currency, which denies uncompetitive members the quick fix of devaluation.",
+      "Yet the debate about how to save Europe’s single currency from disintegration is stuck. It is stuck because the euro zone’s dominant powers, France and Germany, agree on the need for greater harmonisation within the euro zone, but disagree about what to harmonise.",
+      "Germany thinks the euro must be saved by stricter rules on borrowing, spending and competitiveness, backed by quasi-automatic sanctions for governments that do not obey. These might include threats to freeze EU funds for poorer regions and EU mega-projects, and even the suspension of a country’s voting rights in EU ministerial councils. It insists that economic co-ordination should involve all 27 members of the EU club, among whom there is a small majority for free-market liberalism and economic rigour; in the inner core alone, Germany fears, a small majority favour French interference.",
+      "A “southern” camp headed by France wants something different: “European economic government” within an inner core of euro-zone members. Translated, that means politicians intervening in monetary policy and a system of redistribution from richer to poorer members, via cheaper borrowing for governments through common Eurobonds or complete fiscal transfers. Finally, figures close to the Franch government have murmured, euro-zone members should agree to some fiscal and social harmonisation: e.g., curbing competition in corporate-tax rates or labour costs.",
+      "It is too soon to write off the EU. It remains the world’s largest trading block. At its best, the European project is remarkably liberal: built around a single market of 27 rich and poor countries, its internal borders are far more open to goods, capital and labour than any comparable trading area. It is an ambitious attempt to blunt the sharpest edges of globalisation, and make capitalism benign."
+     ],
+     "questions": [
+      {
+       "number": 36,
+       "stem": "The EU is faced with so many problems that .",
+       "options": {
+        "A": "it has more or less lost faith in markets",
+        "B": "even its supporters begin to feel concerned",
+        "C": "some of its member countries plan to abandon euro",
+        "D": "it intends to deny the possibility of devaluation"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 36. The EU is faced with so many problems that ____. | 36. 欧盟面临如此多的问题以至于____。 |\n| --- | --- |\n| [A] it has more or less lost faith in markets | [A] 它已或多或少地失去对市场的信任 |\n| [B] even its supporters begin to feel concerned | [B] 连它的支持者也开始感到忧虑 |\n| [C] some of its member countries plan to abandon euro | [C] 其内部一些成员国准备放弃欧元 |\n| [D] it intends to deny the possibility of devaluation | [D] 它打算否定货币贬值的可能性 |\n\n[精准定位] 根据题干信息定位至首段③句。句中 Now even the project's greatest cheerleaders talk of a continent facing... (the project 指 The EU, a continent 指欧洲大陆) 说明当前局势：连最有力的支持者都在谈论大陆面临的这些问题，即欧盟问题多到连支持者都难以保持淡定。因此 [B] 为正确选项。\n\n[命题解密] 首段③句中 a Bermuda triangle of...喻指欧洲大陆面临的三大问题，与题干中 The EU is faced with so many problems 相对应；[B]选项中 its supporters 与 the project's greatest cheerleaders 相对应，feel concerned(感到忧虑)与 talk of 相对应。\n\n[A]借第二段②句中 Markets have lost faith that...设置陷阱，但本句指市场已经对欧元区产生危机心理，与选项“欧盟失去对市场的信任”相左。[C]借助过度引申文意设障，但第二段只提及市场对欧元区失去信任，欧元也同时遭遇信任危机，但并未提及“欧盟成员国放弃欧元”这一信息。[D]借扭曲文意设障，第二段②句末中的个别字词 denies...the quick fix of devaluation 被选项曲解为 deny the possibility of devaluation，但原文意为“欧盟这一联合体拒绝缺乏竞争力的成员国为实现临时自保而采取货币贬值的方式”，而非“欧盟打算否定货币贬值的可能性”。\n\nⅢ ① Yet the debate about how to save Europe's single currency from disintegration is stuck. ② It is stuck because the euro zone's dominant powers, France and Germany, agree on the need for greater harmonisation within the euro zone, but disagree about what to harmonise.\n\n**词汇注释与难句分析**\n\ndisintegration n. 瓦解，崩溃\n\n然而关于如何使欧洲单一货币免于解体的讨论陷入了僵局。陷入僵局的原因在于，欧元区两大主导国家，法国和德国，在“欧元区内部需要加强统一”上观点一致，但在“统一内容”上却存在分歧。\n\nharmonisation n. 和谐，协调，相称\n\n**语篇分析**\n\n第三至五段分析问题：首先指出问题的解决遭遇瓶颈，随后解释说明原因。\n\n第三段首先概述指出欧元危机问题遭遇搁浅及原因(两大主导国意见不一)。关键词为：stuck because。\n\n①句转承上文(Yet)指出“拯救欧洲统一货币”的讨论陷入僵局。句中 stuck 原为“卡住的，动不了的”之意，此处引申为“无法摆脱困境的”，形象表明欧元国家就欧元危机的讨论陷入僵局。\n\n②句说明陷入僵局的原因：法德两大欧盟主导国意见存在分歧。It is stuck 实现首尾互现；because 为原因标记词，随后即以 agree on... but disagree about... 结构展示具体原因：同意欧元区内部需要加强统一，在统一内容上却有分歧。句中 harmonisation(“一致，统一”)反向表明欧盟内部在制定许多政策，为下文论述“一体化建议”做出铺垫。"
+      },
+      {
+       "number": 37,
+       "stem": "The debate over the EU’s single currency is stuck because the dominant powers _____.",
+       "options": {
+        "A": "are competing for the leading position",
+        "B": "are busy handling their own crises",
+        "C": "fail to reach an agreement on harmonisation",
+        "D": "disagree on the steps towards disintegration"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| 37. The debate over the EU's single currency is stuck because the dominant powers ____. | 37. 关于欧盟单一货币问题的讨论陷入僵局，原因是主导力量____。 |\n| --- | --- |\n| [A] are competing for the leading position | [A] 为了获得领导地位而相互竞争 |\n| [B] are busy handling their own crises | [B] 忙于处理它们自己的危机 |\n| [C] fail to reach an agreement on harmonisation | [C] 没能在统一问题上达成一致 |\n| [D] disagree on the steps towards disintegration | [D] 在瓦解的步骤问题上存在分歧 |\n\n[精准定位] 根据题干关键信息 the EU's single currency is stuck because the... dominant powers... 定位至原文第三段②句。原文利用 agree on..., but disagree about... 形式表明，有关拯救欧元的讨论止步不前的原因是德法两大主导国虽然在“欧盟内部需要加强统一”问题上观点一致，但是对于“具体哪些内容应该统一”存在分歧，因此还是在欧盟内部统一协调问题上未能达成一致。因此[C]为正确答案。\n\n[命题解密]因果关系常常是命题的重点。题干和正确项[C]构成了对原文第三段②句信息的提取。\n\n[A]利用主观思维设障，由 dominant powers 这一表达而主观臆断出“德法两国由于争抢地位而使解决方案陷入僵局”，不符合原文。[B]依然是主观臆断，把原文对欧盟危机的描述臆断为“两国为解决自身危机而使方案陷入僵局”。[D]借个别字词设置陷阱，将第三段①句中 disintegration 和②句 disagree 拼凑，而文中并未谈及分解欧盟或欧元区，更没谈及步骤问题，因而不正确。\n\nIV ① Germany thinks the euro must be saved by stricter rules on borrowing, spending and competitiveness, backed by quasi-automatic sanctions for governments that do not obey. ② These might include threats to freeze EU funds for poorer regions and EU mega-projects and even the suspension of a country's voting rights in EU ministerial councils. ③ It insists that economic co-ordination should involve all 27 members of the EU club, among whom there is a small majority for free-market liberalism and economic rigour; in the inner core alone, Germany fears, a small majority favour French interference.\n\n德国认为若想拯救欧元，必须在借贷、支出以及竞争力等方面制定更加严格的准则，同时对违规的政府施以准自动制裁。这些制裁可以包括威胁冻结欧盟对较贫困地区及欧盟巨型项目的投资，甚至包含暂停一国在欧盟部长理事会中的投票权。德国坚持认为经济协作应该包含欧盟俱乐部的所有27国成员，在它们当中，支持自由市场自由主义和从严的经济政策占微弱多数；（不过）单从内部核心来看，德国担心，微弱多数会支持法国的干涉。\n\n③mega-project 特大型项目 ④suspension n. 暂停，悬挂\n\n⑤ministerial a. 内阁的，部长的，行政(上)的\n\n⑥rigour n. 严苛，严酷\n\n**经典搭配**\n\n①backed by(依靠，在……支持下)\n\nIt insists that economic co-ordination should involve all 27 members of the EU club, among whom there is a small majority for free-market liberalism and economic rigour; in the inner core alone, Germany fears, a small majority favour French interference.\n\namong whom there is a small majority for free-market liberalism and economic rigour; 引导词 There be 句型\n\n功能注释：该句由分号一分为二，前半部分表明德国立场，后半部分说明德国的担忧，也即其采取该立场的原因。insists that 引出宾语从句，其中 among whom there is... 为非限制性定语从句修饰 all 27 members of the EU club,说明欧盟俱乐部 27 国在经济问题上的立场。\n\n**语篇分析**\n\n第四、五段进而介绍两大主导国(德法)意见。\n\n第四段介绍德国观点。关键词为：Germany thinks。\n\n①②句介绍德国就欧元危机的提议(must & might)。\n\n①句总述提议(must be saved by): 制定更严格规定并对违规者施行制裁。be saved by... 回应上段首句 how to save... from disintegration, 体现两段间解释关系；stricter rules on... backed by... 体现德国意见的核心：更严格的准则辅以制裁措施，双管齐下，方能解决现有问题。注：quasi-automatic sanctions 指“准自动制裁”, 即“类似于自动启动的制裁机制”。\n\n②句承①句说明“制裁”的具体内容(These might include)。include...and even...结构引出两种可采纳的制裁形式：冻结投资，甚至暂停投票权，even 体现递进关系。\n\n③句介绍德国就“欧盟统一”问题的主张及忧虑(insists VS fears)。insists(“坚决要求，坚持主张”)反映德国在“经济协作需要欧盟所有成员国合力打造”这一观点上的强硬态度，同时微妙暗示法国对此并不赞同。分号前后，先借 among whom(即 all 27 members of the EU)VS in the inner core alone 分别设定“欧盟全体”与“仅在欧盟核心国内部”一大一小两组范畴，后借a small majority for 和a small majority favour 这组同义表达引出其不同立场：全体27个成员国微弱多数略倾向于“自由市场的自由主义和从严的经济政策(即德国立场)”VS 核心成员国内微弱多数略倾向于“法国干涉”。"
+      },
+      {
+       "number": 38,
+       "stem": "To solve the euro problem, Germany proposed that .",
+       "options": {
+        "A": "EU funds for poor regions be increased",
+        "B": "stricter regulations be imposed",
+        "C": "only core members be involved in economic co-ordination",
+        "D": "voting rights of the EU members be guaranteed"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 38. To solve the euro problem, Germany proposed that ____. | 38. 为解决欧元问题，德国提议____。 |\n| --- | --- |\n| [A] EU funds for poor regions be increased | [A] 应该增加欧盟面向贫困地区的基金 |\n| [B] stricter regulations be imposed | [B] 采取更严格的规定 |\n| [C] only core members be involved in economic co-ordination | [C] 只有核心国才能参与经济协调问题 |\n| [D] voting rights of the EU members be guaranteed | [D] 欧盟成员国的投票权应该得到保障 |\n\n[精准定位] 根据题干定位至原文第四段。①句即指出，德国认为必须在几大方面施行更严格的措施才能拯救欧元，因此[B]为正确答案。\n\n[命题解密] 题干和正确选项[B]一起是对第四段首句 Germany thinks the euro must be saved by stricter rules...的同义改写。\n\n[A]、[C]和[D]均利用原文个别表达设置陷阱，其中[A]、[D]两项和第四段②句中德国建议对不履行规定国家的制裁内容 freeze EU funds for poorer regions(对较穷国家的欧盟资助实施冻结)和 the suspension of a country's voting rights(暂停一国投票权)背道而驰；[C]选项与第四段③句 economic coordination should involve all 27 members...正好相反。\n\nV ① A “southern” camp headed by France wants something different: “European economic government” within an inner core of euro-zone members. ② Translated, that means politicians intervening in monetary policy and a system of redistribution from richer to poorer members, via cheaper borrowing for governments through common Eurobonds or complete fiscal transfers. ③ Finally, figures close to the French government have murmured, euro-zone members should agree to some fiscal and social harmonisation: e. g., curbing competition in corporate-tax rates or labour costs.\n\n法国统领的“南部”阵营则另有所求：在欧元区成员国的内部核心成立一个“欧洲经济政府”。换种说法就是，通过“欧洲共同债券或完整的财政转移实现政府的低息借贷”这种形式，政客们对货币政策以及富裕成员国到贫困成员国的收入再分配体制实施干预。最后，那些亲近法国政府的重要人士私下抱怨说，欧元区成员国应该就财政和社会的统一措施达成共识，比如抑制企业税率或劳动力成本方面的竞争。\n\n**词汇注释与难句分析**\n\nintervene v. 介于……之间，干预，介入\n\nredistribution n. (尤指钱或土地的)重新分配\n\nfiscal a. (美)财政上的\n\ntransfer n. 转移，调动\n\n**经典搭配**\n\nmurmur v. 咕哝，发牢骚，私下抱怨\n\nheaded by(由……带领的，以……为首的)\n\nintervene in(介入，干预)\n\nfiscal transfers(财政转移)\n\ncorporate-tax rates(企业税率)\n\nlabour costs(劳动力成本)\n\ncurb v. 制止，束缚；限制，抑制\n\nTranslated, that means politicians intervening in monetary policy and a system of redistribution from richer to poorer members, via cheaper borrowing for governments through common Eurobonds or complete fiscal transfers.\n\nTranslated, that means\n\n功能注释：句首 Translated 做伴随状语，等同于“即”之意。means 之后内容说明欧洲经济政府 (that 指代的内容) 的内涵，该内容为 politicians intervening in X and Y, via... 结构，即，在欧洲经济政府中，政客干预的内容有二：货币政策 & 贫富国收入再分配体系；介词 via(通过) 引出实现干预的具体方式，其中嵌套一个类似介词 through(通过), 引出政府获得低息借贷的方式。\n\n**真题精解**\n\n第五段介绍法国观点。关键词为：... headed by French want something different。\n\n句介绍法国对解决欧元危机的提议。\n\n句总述以法国为代表的欧盟南部阵营观点：在欧元区内部核心建立一个“欧洲经济政府”... headed by French wants something different 与上段 Germany thinks... 对照鲜明，体现两段分别介绍两大主导国的想法。within an inner core of euro-zone members 将“欧洲经济政府”限定在“欧元区成员国内部核心(16 国)”里，回应上段③句德国看法（经济协作应当包含欧盟所有 27 个成员国），进一步表明两者观点不一致。\n\n句承①句解释“欧洲经济政府”的深层含义。Translated, that means...表明①②句间解释说明关系。intervene(干预)一词体现“欧洲经济政府”核心功能：借政治干预市场以改变局势，与德国“自由市场的自由主义”立场背道而驰；via(借由)引出的干预途径 cheaper borrowing for governments...反映出法国在政府借贷成本问题上试图“放水”的心态，又与德国要求的“严格经济政策”相左。\n\n句借亲法重要人士观点补充说明法国意见：欧元区成员应该在财政和社会统一上达成共识。murmured 一词明确表明亲法人士对德国等其他欧元区成员国的小小不满，should 则引出不满的主要内容：没有在财政和社会统一上达成一致。curbing competition(抑制竞争)一方面呼应 intervene 一词，另一方面对照德国的 free-market liberalism(自由市场自由主义),再次表明两大主导国立场的不同。\n\n[注释补充] intervene VS interfere: 本段 intervene 一词与 interfere(见上段末 interference) 字面均有“介入，干涉”之意，但两者内涵有别：前者为中性词，本段中体现为客观记述“法国建议借政治干预一些经济问题，以应对某些困境”这一内容；interfere 则带贬义，在第四段体现为记述德国的主观忧虑意识，体现德国对法国插手所涉事件的不满，认定法国“多管闲事”。\n\n[背景知识] ①a “southern” camp(南部阵营):源于2009年末的希腊债务危机逐渐在欧盟内部划出的“分界线”:一边是以希腊、西班牙等南欧国家为代表的南方阵营，另一边则是以德国和瑞典为代表的北方阵营。南方阵营因高福利和低生产率而债台高筑，只得向外求援；北方阵营因改革福利制度、兼顾公平和效率而有能力救援，但救援的条件是对方效仿它们进行改革。南方阵营的民众不愿放弃高福利和安逸的生活，抵制北方阵营的发展模式，令欧盟内部处于“南北战争”的状态。② common Eurobonds(欧洲共同债券):为应对欧债危机，欧盟形成了以法国和德国为首的两大阵营：法国阵营力主尽快发行欧元债券，这有助于缓解形势紧迫的希腊等国的融资压力；而德国阵营则认为，现阶段发行欧元债券不仅无助于根治债务危机，反会推高德国等国的融资成本，丧失国债收益率这一金融市场对高负债国家的自动惩罚机制，并且无法从根本上解决南欧国家竞争力缺失的核心问题。德国阵营主张在财政和政治一体化推进到一定阶段后再发行欧元债券。③ fiscal transfer(财政转移):是以各级政府之间所存在的财政能力差异为基础，以实现各地公共服务水平的均等化为主旨，而实行的一种财政资金转移或财政平衡措施。"
+      },
+      {
+       "number": 39,
+       "stem": "The French proposal of handling the crisis implies that .",
+       "options": {
+        "A": "poor countries are more likely to get funds",
+        "B": "strict monetary policy will be applied to poor countries",
+        "C": "loans will be readily available to rich countries",
+        "D": "rich countries will basically control Eurobonds"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| 39. The French proposal of handling the crisis implies that ____. | 39. 法国在解决危机上的提议暗示____。 |\n| --- | --- |\n| [A] poor countries are more likely to get funds | [A] 贫困国家更有可能得到资助 |\n| [B] strict monetary policy will be applied to poor countries | [B] 贫困国家将采取严格的货币政策 |\n| [C] loans will be readily available to rich countries | [C] 富裕国家随时可能获得借贷 |\n| [D] rich countries will basically control Eurobonds | [D] 欧元债券基本上会由富裕国家控制 |\n\n[精准定位] 根据题干 The French proposal of... 定位至第五段。该段②句解释了法国建议成立的“欧\n\n“洲经济政府”含义：politicians intervening in... and a system of redistribution from richer to poorer members, via cheaper borrowing...(通过低息借贷，实现政府人士对……以及贫富国收入再分配体系的干预)表明法国倡导欧盟贫富国发展均衡化，暗示贫困国家更有可能获得欧盟资金。因此[A]项正确。\n\n[命题解密] 推理题要求从字面意思推知深层含义。文中法国观点“对贫富国间再分配体系进行操控”即反映出[A]项内容。\n\n[B]与原文相悖，strict policy 实为德国政府建议，且是对全体成员而言，而法国建议下的欧盟实际在货币政策上更宽松，可人为操纵，从而对贫困国更有利；[C]和[D]均利用个别表达设置陷阱，实际与原文相背离，其中，loans 虽与 borrowing 相对应，Eurobonds 在文中也有出现，但文中 cheaper borrowing 及 Eurobonds 均为实现贫富国再分配的途径，可见受益者为贫困国，富国为损失方，因此[C]、[D]错误。\n\nVI ① It is too soon to write off the EU. ② It remains the world's largest trading block. ③ At its best, the European project is remarkably liberal: built around a single market of 27 rich and poor countries, its internal borders are far more open to goods, capital and labour than any comparable trading area. ④ It is an ambitious attempt to blunt the sharpest edges of globalisation, and make capitalism benign. [412 words]\n\n就这么宣判欧盟的死刑还为时过早。它仍是世界最大的贸易组织。在最佳状况下，这一欧洲大工程（即欧盟计划）相当自由：建立在一个由27个贫富不一的国家所组成的单一市场之上，其内部边界对商品、资金以及劳动力的开放程度比任何一个具有可比性的贸易区都高得多。欧盟工程是一次雄心壮举：意在钝化全球化的尖锐棱角，让资本主义朝着良性发展。\n\n**词汇注释与难句分析**\n\nremarkably ad. 引人注目地，明显地，\n\n非常地，奇异地\n\nliberal a. 开明的，自由的\n\nblunt v. 使迟钝\n\nbenign a. 温和的，仁慈的，善良的\n\n**经典搭配**\n\nwrite off（认定……不重要（或无用、不可救药））\n\ntrading block（贸易集团，贸易区块）\n\nat its best(处在最佳状态/全盛时期时)\n\nblunt an edge(使边角变钝，磨光)\n\n**语篇分析**\n\n第六段总结指出欧盟尚未失败。关键词为：too soon to write off the EU。\n\n①句(段落兼全文主旨句)总述作者对欧盟的态度：认为欧盟难以为继为时过早。too soon to write off(write off 意为“认为某人/某事不行，不重要，失败”)归纳上文并回应文首句(Will the European Union make it?),做出判断：不应因眼下危机就对欧盟失去信心。\n\n②至④句论证①句，指出欧盟仍具有无可比拟的重大优势。\n\n②句指出规模优势：世界最大。remains 凸显作者对欧盟一直以来在贸易领域规模的肯定。\n\n③句指出贸易优势：自由度和开放度无可匹敌。冒号前 remarkably liberal 强调欧盟贸易自由度之高；冒号后以 built around a single market of 27 rich and poor countries、far more open 尽情展现了这种自由度涵盖范围之大、程度之高。注意：the European project 据上下文可确认为“欧盟”,进而明确首段③句 the project 所指。\n\n④句指出对资本主义发展的作用：缓解全球化下最尖锐的问题，以使资本主义朝良性方向发展。句中 ambitious 一词明确作者对欧盟计划(句首 It 回指 the European project)的积极肯定态度。blunt the sharpest edges of globalisation 喻指欧盟计划可加深国家间合作，缓和全球化下各国的对抗与矛盾；and make capitalism benign 明确证实欧盟计划对资本主义发展的巨大价值。"
+      },
+      {
+       "number": 40,
+       "stem": "Regarding the future of the EU, the author seems to feel .",
+       "options": {
+        "A": "pessimistic",
+        "B": "desperate",
+        "C": "conceited",
+        "D": "hopeful"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| 40. Regarding the future of the EU, the author seems to feel ____. | 40. 关于欧盟的未来，作者似乎是____。 |\n| --- | --- |\n| [A] pessimistic | [A] 悲观的 |\n| [B] desperate | [B] 绝望的 |\n| [C] conceited | [C] 自负的 |\n| [D] hopeful | [D] 有希望的 |\n\n[精准定位]题干考查作者观点，末段首句 It is too soon to write off the EU 表明作者对欧盟持肯定乐观的态度，认为欧盟未来仍然充满希望，因此正确答案为[D]。\n\n[命题解密] 作者态度常为考点，应借助字里行间信息词提炼作者观点。原文末段中除首句外，②句 remains the world's largest...,③句 remarkably liberal 以及末句 ambitious attempt 都体现作者对欧盟的积极态度，因此[D]符合题意。\n\n[A]、[B]两项均为负面态度，与原文相悖；[C]项过度引申，作者在文中对欧盟的论述较为客观，对其未来的看法基于已有事实，并不存在“自负”一说。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part B",
+   "instructions": "Read the following text and answer the questions by finding information from the right column that corresponds to each of the marked details given in the left column. There are two extra choices in the right column. Mark your answers on ANSWER SHEET 1. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "matching",
+     "passage": [
+      "Leading doctors today weigh in on the debate over the government’s role in promoting public health by demanding that ministers impose “fat taxes” on unhealthy food and introduce cigarette-style warnings to children about the dangers of a poor diet.",
+      "The demands follow comments made last week by the health secretary, Andrew Lansley, who insisted the government could not force people to make healthy choices and promised to free businesses from public health regulations.",
+      "But senior medical figures want to stop fast-food outlets opening near schools, restrict advertising of products high in fat, salt or sugar, and limit sponsorship of sports events by fast-food producers such as McDonald’s.",
+      "They argue that government action is necessary to curb Britain’s addiction to unhealthy food and help halt spiraling rates of obesity, diabetes and heart disease. Professor Terence Stephenson, president of the Royal College of Paediatrics and Child Health, said that the consumption of unhealthy food should be seen to be just as damaging as somking or excessive drinking.",
+      "“Thirty years ago, it would have been inconceivable to have imagined a ban on smoking in the workplace or in pubs, and yet that is what we have now. Are we willing to be just as courageous in respect of obesity? I would suggest that we should be,” said the leader of the UK’s children’s doctors.",
+      "Lansley has alarmed health campaigners by suggesting he wants industry rather than government to take the lead. He said that manufacturers of crisps and candies could play a central role in the Change4Life campaign, the centrepiece of government efforts to boost healthy eating and fitness. He has also criticised the celebrity chef Jamie Oliver’s high-profile attempt to improve school lunches in England as an example of how “lecturing” people was not the best way to change their behaviour.",
+      "Stephenson suggested potential restrictions could include banning TV advertisements for foods high in fat, salt or sugar before 9 pm and limiting them on billboards or in cinemas. “If we were really bold, we might even begin to think of high-calorie fast food in the same way as cigarettes – by setting strict limits on advertising, product placement and sponsorship of sports events,” he said.",
+      "Such a move could affect firms such as McDonald’s, which sponsors the youth coaching scheme run by the Football Association. Fast-food chains should also stop offering “inducements” such as toys, cute animals and mobile phone credit to lure young customers, Stephenson said.",
+      "Professor Dinesh Bhugra, president of the Royal College of Psychiatrists, said: “If children are taught about the impact that food has on their growth, and that some things can harm, at least information is available up front.”",
+      "He also urged councils to impose “fast-food-free zones” around schools and hospitals – areas within which takeaways cannot open.",
+      "A Department of Health spokesperson said: “We need to create a new vision for public health where all of society works together to get healthy and live longer. This includes creating a new ‘responsibility deal’ with business, built on social responsibility, not state regulation. Later this year, we will publish a white paper setting out exactly how we will achieve this.”",
+      "The food industry will be alarmed that such senior doctors back such radical moves, especially the call to use some of the tough tactics that have been deployed against smoking over the last decade."
+     ],
+     "options": {
+      "A": "“fat taxes” should be imposed on fast-food producers such as McDonald’s.",
+      "B": "the government should ban fast-food outlets in the neighborhood of schools.",
+      "C": "“lecturing” was an effective way to improve school lunches in England.",
+      "D": "cigar ette-style warnings should be in troduced to children about the dangers of a poor diet.",
+      "E": "the producers of crisps and candies could contribute significantly to the Change4Life campaign.",
+      "F": "parents should set good examples for their children by keeping a healthy diet at home.",
+      "G": "the government should strengthen the sense of responsibility among businesses."
+     },
+     "questions": [
+      {
+       "number": 41,
+       "stem": "Andrew Lansley held that",
+       "answer": "E",
+       "explanation": "> **答案：** E\n\n41. [答案] E [精解] 根据题干 Andrew Lansley 迅速定位至第二段和第六段。其中第二段总述兰斯利观点(政府无权强制人们选择健康食品)并指出其承诺(食品行业不再受公共健康法规约束),与所给选项内容没有交集。第六段第二句 He said that manufactures of crisps and candies could play a central role in the Change4Life Campaign 与选项[E] the producers of crisps and candies could contribute significantly to the...Campaign 相一致，其中 manufacturers 被选项中 the producers 替换；could play a central role 意同 could contribute significantly to...。因此[E]为正确答案。\n\n| 41. Andrew Lansley held that41. 安德鲁·兰斯利认为 | [B] the government should ban fast-food outlets in the neighborhood of schools.[B] 政府应当禁止在校园周边开设快餐店。 |\n| --- | --- |"
+      },
+      {
+       "number": 42,
+       "stem": "Terence Stephenson agreed that",
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n42. [答案] D [精解] 根据题干 Terence Stephenson 定位到第四、五段以及第七、八段。其中第四段 should be seen to be just as damaging as smoking...、第五段 and that is what we have now (a ban on smoking in...）、第七段 begin to think of high-calorie fast food in the same way as cigarettes 皆反映出 Stephenson 试图将“不健康饮食”和“吸烟问题（smoking、cigarettes）”等同起来思考和解决，选项 [D] cigarette-style warnings should be introduced... 是对 Stephenson 观点的总结，选项中 about the dangers of a poor diet 是对“不健康饮食危害性”的同义表述，与全文统一，所以 [D] 为正确项。\n\n| 42. Terence Stephenson agreed that42. 特伦斯·斯蒂芬森赞同 | [C] “lecturing” was an effective way to improve school lunches in England.[C] “说教”在英国是改善校园午餐的有效办法。 |\n| --- | --- |"
+      },
+      {
+       "number": 43,
+       "stem": "Jamie Oliver seemed to believe that",
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n43. [答案] C [精解] 根据题干 Jamie Oliver 定位到第六段。该段末句出现 Oliver，全句承上补充介绍 Lansley 立场：不赞同 Oliver 高调改善校园午餐的企图，并将其行为作为“说教并不能有效改变人们行为”的例子来证实自身看法：非健康饮食的现状靠政府游说和强制是难以奏效的。criticize... as an example of... 表明 Lansley 与 Oliver 两人观点对立，反向推知 Oliver 认为“‘说教’是令人们改变行为的有效手段”，[C] “lecturing” was an effective way to... 是对第六段第三句末的反向表述，为正确选项。\n\n| 43. Jamie Oliver seemed to believe that43. 杰米·奥利佛似乎相信 | [D] cigarette-style warnings should be introduced to children about the dangers of a poor diet.[D] 应当引入香烟警告的模式告知儿童不良饮食的危害。 |\n| --- | --- |"
+      },
+      {
+       "number": 44,
+       "stem": "Dinesh Bhugra suggested that",
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| 44. Dinesh Bhugra suggested that44. 迪内希·布格拉建议 | [E] the producers of crisps and candies could contribute significantly to the Change4Life campaign[E] 薯片及糖果商能够在“为健康而改变”运动中起到巨大作用。 |\n| --- | --- |\n| 45. A Department of Health spokesperson proposed that 45.卫生部一位发言人提议 | [F] parents should set good examples for the children by keeping a healthy diet at home.[F]父母应该在家中保持健康饮食从而为孩子树立良好榜样。 |\n| | [G] the government should strengthen the sense of responsibility among businesses.[G] 政府应该加强各企业的责任感。 |\n\n44. [答案] B [精解] 根据题干 Dinesh Bhugra 定位至第九、十段。第九段指出“教育儿童了解不健康饮食的危害性让他们提早了解相关信息”，该段关键信息在于 information is available up front，纵观各选项，没有与之相符的内容。第十段 impose “fast-food-free zones” around schools and hospitals 与选项[B] ban fast-food outlets in the neighborhood of schools 传递相同信息，故为正确答案。\n\n[干扰项设置] 第十段出现 impose “fast-food-free zones”，因而 [A]... should be imposed on fast-food producers... 可能形成干扰，但 [A] 实与首段“名医们对政府的要求”相一致，并非哪位医生的具体建议。"
+      },
+      {
+       "number": 45,
+       "stem": "A Department of Health spokesperson proposed that",
+       "answer": "G",
+       "explanation": "> **答案：** G\n\n45. [答案] G [精解] 根据题干 A Department of Health Spokesperson 定位到第十一段。该段展示卫生部发言人意见：需要创造出一种全社会共同努力走向健康的新视野，包括与各行业设立新的基于社会责任而非法规的“责任协议”。该段关键词为 a new vision、social responsibility, [G] 选项 strengthen the sense of responsibility among businesses 是对文中 all of society works together to... 和 creating a new “responsibility deal” with business 的同义转述。\n\n[干扰项设置] [F]选项中“父母应为孩子树立好榜样”是对第十一段第一句中 where all of society works together to get healthy... 的过度推断，但是此处的“全社会共同努力”重点在于引出第二句“各大食品企业应担负起社会责任而不能只是依赖政府的法律规定”，同时也呼应了 Lansley 在第二段的观点；因此该卫生部发言人的语义重点不在于约束父母行为。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section III Translation",
+   "instructions": "In this section there is a text in English. Translate it into Chinese. Write your translation on ANSWER SHEET 2. (15 points)",
+   "score": 15,
+   "groups": [
+    {
+     "type": "translation_full",
+     "passage": [
+      "Who would have thought that, globally, the IT industry produces about the same volume of greenhouse gases as the world’s airlines do – roughly 2 percent of all CO2 emissions?",
+      "Many everyday tasks take a surprising toll on the environment. A Google search can leak between 0.2 and 7.0 grams of CO2, depending on how many attempts are needed to get the “right” answer. To deliver results to its users quickly, then, Google has to maintain vast data centres around the world, packed with powerful computers. While producing large quantities of CO2, these computers emit a great deal of heat, so the centres need to be well air-conditioned, which uses even more energy.",
+      "However, Google and other big tech providers monitor their efficiency closely and make improvements. Monitoring is the first step on the road to reduction, but there is much more to be done, and not just by big companies."
+     ],
+     "questions": [
+      {
+       "number": 46,
+       "score": 15,
+       "answer": "谁会想到信息技术行业产生的温室气体总量会与航空业不相上下，约占全球二氧化碳排放量的2%?\n\n信息技术行业的许多日常工作对环境造成了意想不到的危害。每用谷歌搜索一次就会释放出0.2克至7.0克的二氧化碳，释放量的多少取决于使用者需要搜索多少次才能得到“正确”答案。为了把搜索结果迅速传输给用户，谷歌不得不在全世界范围内建立大型数据中心，并配备大功率计算机。除了排放大量二氧化碳，这些计算机还释放许多热量，因此数据中心还需要良好的空调环境，而这又会消耗更多的能量。\n\n不过，谷歌和其他大型技术供应商已在密切监控其数据中心的工作效率并做出改进。监控只是减排的第一步，需要做的还有很多，而且这不单单是大公司的事情。",
+       "explanation": "> **答案：** 谁会想到信息技术行业产生的温室气体总量会与航空业不相上下，约占全球二氧化碳排放量的2%？\n\n**校对补充：** 1. **Who would have thought that...?** 是反问式感叹结构，译为“谁会想到……？”，突出 IT 行业碳排放之高出乎意料。\n2. **about the same...as...** 表“与……大致相同”，这里比较 IT 行业与全球航空业的温室气体排放量。\n3. **take a toll on...** 是固定表达，表示“对……造成损害、产生不良影响”。\n4. **depending on...** 现在分词短语作状语，说明单次 Google 搜索排放量取决于搜索尝试次数。\n5. **To deliver results...** 不定式作目的状语；*maintain vast data centres* 表“维持/运营大型数据中心”。\n6. **packed with powerful computers** 是过去分词短语补充说明数据中心“装满高性能计算机”。\n7. **While producing...** 表同时发生；计算机一边排放二氧化碳，一边产生大量热量。\n8. **so...which...**：so 引出结果；which 回指前面“需要良好空调环境”这一情况，说明这又会消耗更多能源。\n9. **monitor their efficiency closely** 表“密切监控运行效率”，是降低能耗的第一步。\n10. **there is much more to be done** 表“还有很多工作要做”，结尾指出减排责任不只属于大型科技公司。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section IV Writing — Part A",
+   "score": 10,
+   "groups": [
+    {
+     "type": "writing",
+     "questions": [
+      {
+       "number": 47,
+       "score": 10,
+       "stem": "Suppose your cousin Li Ming has just been admitted to a university. Write him/her a letter to\n1) congratulate him/her, and\n2) give him/her suggestions on how to get prepared for university life.\nYou should write about 100 words on ANSWER SHEET 2.\nDo not sign your own name at the end of the letter. Use “Zhang Wei” instead.\nDo not write the address. (10 points)",
+       "answer": "Dear Li Ming,\n\nI must congratulate you for winning the fierce competition for admission to a prestigious university. This success means that you have acquired extraordinary learning capacity and, if this capacity can be further developed and purposefully used in university, you will become competent to build a glittering career.\n\nHowever, I must also warn you that the approaching university life is different to your previous school life. You should make important adjustment for it; that is, you should mentally and practically prepare to be independent and learn not for examination but for your life purpose. I wish you could learn to manage life and study by yourself in the following four years, and gradually grow into an adult wholly responsible for yourself.\n\nYours,\nZhang Wei",
+       "explanation": "**一、审题谋篇**\n\n**1. 解析题目指令，确定行文要点**\n\n| | | |\n| --- | --- | --- |\n| 指令关键词 | 信息解读 | 要点归纳 |\n| write him/her a letter | 规定应用文类型为书信。 | 1. 应用文类型为书信，格式需完整；2. 收信人为堂弟或堂妹，是关系密切的亲属，用词需亲切、自然；3. 内容必须包括：恭喜对方被大学录取，给对方为大学生活做准备提出建议，建议内容需与大学新生学习、生活紧密相关。 |\n| your cousin Li Ming | 规定收信人为堂弟或堂妹。 | |\n| 1) congratulate him/her, and 2) give him/her suggestions on how to get prepared for university life. | 规定写作内容：恭喜对方，给对方为大学生活做准备提出建议。 | |\n| your cousin Li Ming has just been admitted to a university | 提供内容线索：恭喜的事件是被大学录取。 | |\n\n**2. 罗列关键词**\n\ncongratulate[v.]祝贺，admission to a prestigious university 被名牌大学录取，university life 大学生活\n\n**二、优秀范文赏析**\n\n**Dear Li Ming,**\n\nI must congratulate you for winning the fierce competition for admission to a prestigious university. This success means that you have acquired extraordinary learning capacity and, if this capacity can be further developed and purposefully used in university, you will become competent to build a glittering career.\n\nHowever, I must also warn you that the approaching university life is different to your previous school life. You should make important adjustment for it; that is, you should mentally and practically prepare to be independent and learn not for examination but for your life purpose. I wish you could learn to manage life and study by yourself in the following four years, and gradually grow into an adult wholly responsible for yourself.\n\nYours,\n\nZhang Wei\n\n**参考译文**\n\n**亲爱的李明：**\n\n祝贺你在为获得名校录取的激烈竞争中获胜。这个胜利说明你已经拥有突出的学习能力，如果这个能力在大学阶段进一步发展并有目的地使用，你将有能力建立辉煌的事业。\n\n但是，我也得提醒你即将到来的大学生活与你以往的学校生活是不同的。你应该为大学生活做出重要的调整，即你应该在心理层面和实际层面准备好独立、准备好不为考试学习而是为你自己的人生目的学习。我希望你在接下来的四年中学习管理自己的生活和学习，慢慢地成长为对自己全面负责的成年人。\n\n张伟\n\n**必备表达**\n\n1. win the fierce competition 赢得激烈竞争\n\n2. extraordinary learning capacity 杰出的学习能力\n\n3. purposefully[ad.]有目的地\n\n4. competent[a.]有能力的\n\n5. build a glittering career 建立辉煌的事业\n\n6. approaching[a.]即将到来的\n\n7. make important adjustment 做出重要调整\n\n8. mentally and practically prepare 心理层面和实际层面做准备\n\n9. manage your own life and study 管理自己的生活和学习\n\n10. grow into an adult 成长为成人\n\n**精彩句式**\n\n**句子成形步骤：**\n\n①写出简单句\n\nYou have had ability to learn.\n\nThis ability can be further developed and used in university.\n\nYou will become able to have a good career.\n\nThis success means it.\n\n②整合简单句\n\nThis success means that you have had ability to learn and, if this ability can be further developed and used in university, you will be able to have a good career.\n\n**③增加表达精确性和美感**\n\nThis success means that you have acquired extraordinary learning capacity and, if this capacity will be further developed and purposefully used in university, you will become competent to build a glittering career.\n\n**句子成形步骤：**\n\n①写出简单句\n\nYou should make adjustment for it.\n\nYou should prepare to be independent.\n\nYou should prepare not to learn for examination.\n\nYou should prepare to learn for your life purpose.\n\n②整合简单句\n\nYou should make adjustment for it; that is, you should prepare to be independent and learn not for examination but for your life purpose.\n\n**③增加表达精确性和美感**\n\nYou should make important adjustment for it; that is, you should mentally and practically prepare to be independent and learn not for examination but for your life purpose.\n\n**点评句式发光点：**\n\n[思路框架]祝贺信一般包括两部分：1. 回顾对方现有成绩、展望美好未来；2. 为更好的发展提出适当建议。该信首段第1句概述对方的成绩，第2句表明成绩的现实意义以及未来的意义。第二段第1句指出新生活与以往不同，第2句顺势提出为适应变化而改变的建议，第3句解释建议、说明实施建议的意义。\n\n[应用模板]该思路适用于以长辈或前辈的身份恭喜对方取得一定成绩从而人生进入新阶段。\n\nDear ____,\n\nI must congratulate you for ____. This success means that you have acquired extraordinary capacity to ____ and, if this capacity can be further developed and purposefully used in ____, you will become competent to ____.\n\nHowever, I must also warn you that the approaching ____ is different to your previous ____. You should make important adjustment for it; that is, you should mentally and practically prepare to ____. I wish you could ____, and gradually grow into an adult/a person ____.\n\nYours,\n\nZhang Wei\n\n**三、写作储备**\n\n**大学新生待培养的素质**\n\ndiligence[n.]勤奋，flexibility[n.]灵活，good health 健康，thrift[n.]节俭，self-discipline[n.]自我约束能力，independent thinking ability 独立思考的能力，communication ability 沟通能力，the ability to solve conflicts 解决冲突的能力，self-learning ability 自学能力\n\n**祝贺信常用表达**\n\n**1. 开头语**\n\nI am so pleased/glad/delighted/thrilled to hear that... 得知……非常高兴/激动。 I have just heard the splendid news that...我刚听说……的好消息。 Please accept my heartiest congratulations on... 请接受我对……的诚挚祝贺。\n\n**2. 发展部分**\n\nYou've won the recognition you so richly merit/deserve. 你获得了值得拥有的认可。 You certainly have done a very good job in... 确实你在……取得了不错的成绩。 I really think you deserve... after years of... 我真的认为多年的……后，你值得……。\n\n**3. 结束语**\n\nMay you enjoy many more successes like this one. 希望你获得更多像这样的成功。 May your future be as successful as you have always been. 希望你一如既往的成功。 Please accept my sincere congratulations and best wishes for your future success. 请接受我诚挚的祝贺，祝你未来成功。\n\n**四、写作练习**\n\n请参考模板和话题词汇，按照下列要求，进行写作。\n\n**Directions:**\n\nSuppose your cousin Li Ming has just gotten a job offer. Write him/her a letter to:\n\n1) congratulate him/her, and\n\n2) give him/her suggestions on how to get prepared for career life.\n\nYou should write about 100 words.\n\nDo not sign your own name at the end of the letter. Use \"Zhang Wei\" instead.\n\nDo not write the address.\n\n**话题词汇**\n\nlearn from others 向别人学习\n\ndon't fear to make mistakes 不要害怕犯错误\n\nnever shift responsibility 绝不逃避责任\n\nstrive for self-improvement 努力自我提升"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section IV Writing — Part B",
+   "score": 15,
+   "groups": [
+    {
+     "type": "writing",
+     "images": [
+      "assets/2011-2-q48.jpg"
+     ],
+     "questions": [
+      {
+       "number": 48,
+       "score": 15,
+       "stem": "Write an essay based on the following chart. In your writing, you should\n1) interpret the chart and\n2) give your comments.\nYou should write at least 150 words.\nWrite your essay on ANSWER SHEET 2. (15 points)",
+       "answer": "China's auto market was still dominated by Japanese, Chinese and American brands. American cars remained the third most popular in the market with a slight increase in market share. A noticeable change occurred in Japanese and Chinese brands. Japanese brands, whose share of market slipped by almost 10%, were displaced from their leading position by Chinese brands, which expanded their share by nearly the same margin.\n\nThe performance of American brand cars is to be expected, given their worldwide fame and reliable quality. The big change in the performance of Japanese and Chinese brands seems sudden but is not unexpected. Chinese auto producers had narrowed the technology gap between themselves and foreign competitors, and cleverly switched their promotion strategies to satisfy Chinese customers' appetite for a bargain. When Chinese brands were growing, Japanese brands were hit by reputation crisis caused by frequent quality complaints.\n\nThe plight of Japanese brands is the reminder that quality is the soul of products. Hopefully, Chinese automakers will consistently guarantee high quality, thereby protecting their own reputation to maintain market popularity.",
+       "explanation": "**一、审题谋篇**\n\n1. 分析图表数据，解读背后现象\n\n| | | | |\n| --- | --- | --- | --- |\n| 图表数据 | 数据意义 | 数据分析 | 现象解读 |\n| 横坐标数据 | 体现年份 | 国产品牌市场份额上涨明显、日系品牌市场份额有所下降、美系品牌市场份额没太大变化。 | 国产品牌、日系品牌和美系品牌在中国轿车市场占主要份额。国产品牌在2008-2009研发创新和日常推广力度很大，这些与其市场份额上涨有一定关系；日系品牌在2008-2009频频出现质量质疑，可以推测其市场占有率下降与质量问题相关；美系品牌市场动作表现一直中规中矩，所以份额没有太大的变化。通过初步分析市场表现与原因的关系，可以得出结论——创新和推广很重要但质量更是产品的关键。 |\n| 纵坐标数据 | 体现国产、日系、美系品牌在轿车市场所占的份额 | | |\n\n**2. 罗列关键词**\n\n描写关键词：auto market 汽车市场，market share/share of market 市场份额，brand[n.]品牌 话题关键词：performance[n.] (市场)表现，fame[n.]名誉，quality[n.]质量，auto producer 汽车制造商，promotion strategies 推广策略，reputation crisis 信誉危机\n\n**二、优秀范文赏析**\n\nChina's auto market was still dominated by Japanese, Chinese and American brands. American cars remained the third most popular in the market with a slight increase in market share. A noticeable change occurred in Japanese and Chinese brands. Japanese brands, whose share of market slipped by almost 10%, were displaced from their leading position by Chinese brands, which expanded their share by nearly the same margin.\n\nThe performance of American brand cars is to be expected, given their worldwide fame and reliable quality. The big change in the performance of Japanese and Chinese brands seems sudden but is not unexpected. Chinese auto producers had narrowed the technology gap between themselves and foreign competitors, and cleverly switched their promotion strategies to satisfy Chinese customers' appetite for a bargain. When Chinese brands were growing, Japanese brands were hit by reputation crisis caused by frequent quality complaints.\n\nThe plight of Japanese brands is the reminder that quality is the soul of products. Hopefully, Chinese automakers will consistently guarantee high quality, thereby protecting their own reputation to maintain market popularity.\n\n**参考译文**\n\n中国汽车市场仍然由日本、中国和美国品牌占据。美国车份额有小幅增长，仍然是第三。日本、中国品牌变化明显。日本品牌的市场份额下降了约10%，其市场主导地位被中国品牌取代，后者市场份额增加了几乎相当幅度。\n\n鉴于美国品牌汽车的世界声誉和可信赖的质量，其表现是预料之中的。日本和中国品牌表现的巨大变化看起来很突然，但也是预料之中的。中国汽车制造商已经缩小了自己与外国竞争者之间的技术差距，并聪明地改变了其推广策略以满足中国消费者对便宜商品的喜好。在中国品牌发展的同时，日本品牌因频繁的质量投诉遭到信誉危机的打击。\n\n日本品牌的困境提醒一个事实：质量是产品的灵魂。希望中国汽车制造商能一贯保证好的质量，因此保护自己的声誉以保持市场受欢迎程度。\n\n[亮点词汇]\n\n1. dominate[v.]支配、控制\n\n2. noticeable[a.]明显的\n\n3. slip[v.]下降\n\n4. given[prep.]鉴于\n\n6. plight[n.]困境\n\n7. reminder [n.] 提醒认识的事物\n\n5. bargain[n.]便宜商品\n\n8. soul[n.]灵魂\n\n[必备搭配]\n\n1. a slight increase 小幅上涨\n\n2. be displaced from one's leading position by\n\n3. expand one's share 增加市场份额\n\n9. consistently[ad.] 一贯地\n\n4. by nearly the same margin 几乎相同幅度\n\n5. is to be expected 预料之中的\n\n[精彩句式]\n\n6. worldwide fame 世界声誉\n\n7. reliable quality 可信赖的质量\n\n8. narrow the technology gap 缩小技术差距\n\n9. appetite for 对……的喜好\n\n10. quality complaint 质量投诉\n\n11. maintain market popularity 保持市场满意度\n\nfrom their leading position by Chinese brands, which expanded their share by nearly the same margin.\n\n(地点状语) by+动作施动者 (定语从句)\n\n**句子成形步骤：**\n\n① 写出简单句\n\nJapanese brands lost their leading position.\n\nJapanese brands' share of market dropped by almost 10%.\n\nChinese brands took up the leading position.\n\nChinese brands' share of market increased by almost 10%.\n\n② 整合简单句\n\nJapanese brands, whose share of market dropped by almost 10%, lost their leading position to Chinese brands, whose share of market increased by almost 10%.\n\n**③ 增加表达精确性和美感**\n\nJapanese brands, whose share of market slipped by almost 10%, were displaced from their leading position by Chinese brands, which expanded their share by nearly the same margin.\n\n点评句式发光点：本句使用“被动式谓语+by 引导动作执行者”的结构，表达出领先地位旁落、后起之秀崛起的韵味；Japanese brands 和 Chinese brands 分别被非限制性定语从句修饰，用数据补充说明两者地位变化的细节。\n\n**句子成形步骤：**\n\n**① 写出简单句**\n\nChinese auto producers had tried to make their technology as modern as that of foreign auto producers.\n\nChinese auto producers changed their promotion strategies.\n\nThey tried to satisfy Chinese customers' desire for a cheap product.\n\nIt was a clever action.\n\n**② 整合简单句**\n\nChinese auto producers had tried to make their technology as modern as that of foreign auto producers and changed their promotion strategies to satisfy Chinese customers' desire for a cheap product, which was a clever action.\n\n**③ 增加表达精确性和美感**\n\nChinese auto producers had narrowed the technology gap between themselves and foreign competitors, and cleverly switched their promotion strategies to satisfy Chinese customers' appetite for a bargain.\n\n**思路框架**\n\n图表反映不同汽车品牌市场占有率的三组数据有升有降，不同品牌市场排名发生了变化，描写时除了表现出各组数据的发展趋势外还要体现出相对名次的变化。分析图表则需重点探讨变化发生的原因，并根据分析发表议论。\n\n第一段描写图片。第1句总述三组数据共同传达出的意义；第2句简要提及变化不明显、相对名次未发生变化的美国品牌汽车；第3、4句通过引用具体数据、阐述变化明显的中国品牌和日本品牌的市场占有率和它们名次变化的情况。\n\n**第二、三段分析、评论图表反映的现象。**\n\n第二段分析趋势产生的原因。第1句简要论述美国品牌市场占有率变化不大的原因；第2至4句具体阐述中国品牌和日本品牌市场占有率变化大的原因，第2句引出下文，第3、4句阐释原因。\n\n第三段基于日本品牌市场占有率下降的原因发表评论。第1句概述日本品牌面临的困境所具有的启示；第2句说明中国制造商如何具体落实启示。\n\n**应用模板**\n\n可选用该思路中的语句分析市场占有率排名有变化的图表，如若图表反映的是三个品牌中市场占有率前两名排名有变化的情况，则可全盘借用范文中的表达。\n\n____ market was still dominated by ____ brands. ____ remained the third most popular in the market with a slight increase/decline in market share. A noticeable change occurred in ____ brands. ____, whose share of market slipped by almost ____%, were displaced from their leading position by ____, which expanded their share by ____.\n\nThe performance of ____ is to be expected, given their ____. The big change in the performance of ____ seems sudden but is not unexpected. 具体阐释后来者得到第一名位置的主观原因。When ____ were growing, ____ were hit by reputation crisis caused by ____.（阐释昔日冠军失去第一名位置的主观原因） The plight of ____ is the reminder that ____ is the soul of products. Hopefully, ____ will consistently guarantee ____, thereby protecting their own reputation to maintain market popularity.\n\n**三、写作储备**\n\n**话题表达补充**\n\n市场份额上涨的原因：technological improvement 技术进步，effective price strategy 有效的价格策略，price advantage 价格优势，top quality 质量上乘，competitive market analysis, promotion and marketing activities 有竞争力的市场分析、推广和市场活动 市场份额下降的原因：poor quality 质量不好，unable to satisfy customers' taste 无法满足客户的喜好，fall behind in technological race 在技术竞赛中落后，the emergence of a strong competitor 出现强有力的竞争对手\n\n[写作素材积累]\n\n1. Car sales have been increasing at a rocketing rate, making China the world's second-largest vehicle market by unit sales after the U.S. 汽车销量以火箭速度快速增加，使中国仅次于美国，成为单位销售量第二大的机动车市场。\n\n2. For years, China has promoted the auto business, viewing it as a critical driver of economic growth and industrialization. 多年来，中国推广汽车产业，将其视为经济增长和工业化的主要动力。\n\n3. Government officials are increasingly worried about the environmental and social costs of China's rapid shift to car driving, which has helped cover cities in air pollution, noisy traffic and contributed to a surge in roadway-accident deaths. 政府官员越来越担心中国快速变为汽车驾驶(的国度)的环境和社会代价，向汽车驾驶(国度)的转变已使城市饱受空气污染和喧闹交通的困扰，并导致车祸死亡人数的上升。"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

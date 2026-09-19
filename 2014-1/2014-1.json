@@ -1,0 +1,702 @@
+{
+ "year": 2014,
+ "exam": "英语一",
+ "sections": [
+  {
+   "title": "Section I Use of English",
+   "instructions": "Directions:\nRead the following text. Choose the best word(s) for each numbered blank and mark\nA, B, C or D on the ANSWER SHEET. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "cloze",
+     "passage": [
+      "As many people hit middle age, they often start to notice that their memory\nand mental clarity are not what they used to be. We suddenly can’t remember\n{{1}} we put the keys just a moment ago, or an old acquaintance’s name, or the\nname of an old band we used to love. As the brain {{2}} , we refer to these\noccurrences as “senior moments.” {{3}} seemingly innocent, this loss of mental\nfocus can potentially have a(n) {{4}} impact on our professional, social, and\npersonal {{5}} .",
+      "Neuroscientists, experts who study the nervous system, are increasingly\nshowing that there’s actually a lot that can be done. It {{6}} out that the brain\nneeds exercise in much the same way our muscles do, and the right mental\n{{7}} can significantly improve our basic cognitive {{8}} . Thinking is\nessentially a {{9}} of making connections in the brain. To a certain extent, our\nability to {{10}} in making the connections that drive intelligence is\ninherited.",
+      "{{11}} , because these connections are made through effort and practice,\nscientists believe that intelligence can expand and fluctuate {{12}} mental\neffort.",
+      "Now, a new Web-based company has taken it a step {{13}} and developed\nthe first “brain training program” designed to actually help people improve and regain\ntheir mental {{14}} .",
+      "The Web-based program {{15}} you to systematically improve your\nmemory and attention skills. The program keeps {{16}} of your progress and\nprovides detailed feedback {{17}} your performance and improvement. Most\nimportantly, it {{18}} modifies and enhances the games you play to {{19}} on\nthe strengths you are developing – much like a(n) {{20}} exercise routine\nrequires you to increase resistance and vary your muscle use."
+     ],
+     "questions": [
+      {
+       "number": 1,
+       "options": {
+        "A": "that",
+        "B": "when",
+        "C": "why",
+        "D": "where"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D) where\n\n1. [A] that 那个\n\n[B] when 当……时\n\n[C] why 为什么\n\n[D] where 哪\n\n[考点提炼]句内语义+宾语从句引导词。正确率： 70%\n\n[解题思路] 上文指出：随着年龄的增长，人们会发现记忆力和头脑清晰度都不如从前。由此可判断出，空格句中“忘记钥匙摆放的____、忘记熟人的名字、忘记喜爱的乐队的名字”并列为上文的例证。而只有“忘记钥匙摆放的位置”才符合惯常遗忘情境，且与空格后短语并列，构成对开篇首句的举例，[D] where 表示地点，为连接副词，在宾语从句中作状语，符合文意。\n\n[错项排除] [A]从语法上符合，但“忘记刚刚放钥匙”的语义不够完整，故排除。[B]与句中 just a moment ago 语义重复。[C]语法和含义上都讲得通，但不符合“遗忘钥匙”的常规情境，且上下文不涉及“原因”。"
+      },
+      {
+       "number": 2,
+       "options": {
+        "A": "fades",
+        "B": "improves",
+        "C": "collapses",
+        "D": "recovers"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) fades\n\n2. [A] fades 褪色，凋落，衰弱\n\n[B] improves 进步，改进\n\n[C] collapses 倒塌，崩溃，垮下\n\n[D] recovers 恢复，复原\n\n[考点提炼] 上下文语义。正确率：76%\n\n[解题思路] 这些事宜 (these occurrences) 即指代上文给出的一系列日常生活中记不住东西的事例，这些事例说明的是首句“人到中年，记忆力减退、头脑不清晰”，而这些情况正是“大脑功能衰退”的表现，[A] fades 符合文意，表示 to disappear gradually “逐渐消失，衰退”。\n\n[错项排除] [B]、[D]为反向干扰，“大脑功能改善/恢复”与文中事例“忘记钥匙摆放的位置、忘记老熟人、忘记喜爱的乐队的名字”所体现的病症“瞬间性老年痴呆”明显矛盾，故排除。[C]利用其“崩溃，垮下”这一含义进行干扰，但“大脑崩溃”暗示大脑功能完全丧失，夸大了文中事例所体现的情况；同时 collapse 在该含义下，通常指“(系统、观点、组织)突然失败，垮掉，崩溃”，但文中主语为 the brain。"
+      },
+      {
+       "number": 3,
+       "options": {
+        "A": "Unless",
+        "B": "While",
+        "C": "Once",
+        "D": "If"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B) While\n\n3. [A] Unless 除非，如果不，表条件 [B] While 与……同时，表时间；虽然，表让步\n\n[C] Once 一旦，表时间 [D] If 如果，表条件\n\n[考点提炼]句内逻辑。正确率： 59%\n\n[解题思路] 空格部分指出：____ 貌似无害，句子主干部分指出：这种大脑失焦有可能对我们的职业、社会以及个人……造成……影响。由大致句意推断出空格部分的逻辑主语为 this loss of mental focus（大脑失焦），同时大脑失焦为明显的不利事件，因此也可以推断出其带来的影响也为负面，进而得出“大脑失焦看似无害（没有影响）”与“大脑失焦对职业、社会以及个人的某个方面造成负面影响”之间为明显的让步转折逻辑，[B] While 符合文意。\n\n[错项排除] [A] Unless 用于“引出某事成真的唯一情况”，或“引出某事不会发生的唯一情况”，而“看似无害”并不能构成“造成影响”或“不造成影响”的情况，不符合语义逻辑。[C] Once 意为 as soon as，表条件，但“看似无害”显然不是“造成影响”的条件。[D] If 多表示“条件”，也可以表示让步，但是表示从句与主句所述事实可能有些许不同，而“看似无害”与“造成影响”之间是完全不同。"
+      },
+      {
+       "number": 4,
+       "options": {
+        "A": "damaging",
+        "B": "limited",
+        "C": "uneven",
+        "D": "obscure"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) damaging\n\n4. [A] damaging 有损害性的 [B] limited 有限的，不大的\n\n[C] uneven 不平坦的，不平均的，不一致的 [D] obscure 鲜为人知的；费解的\n\n[考点提炼]上下文语义。正确率：33%\n\n[解题思路] 空格词修饰 impact, 旨在说明大脑失焦对我们会产生什么样的影响。由上题分析可知，大脑失焦带来的影响是负面的。同时下文紧接着指出，专家认为我们可以做很多事(来改善这种情况); 既然是要改善，那必然是有了“有害、不好”的影响，[A] damaging 符合文意。\n\n[错项排除] [B]表示“有限的”，暗示“大脑失焦对职业、社会、个人所产生的影响不大”，[C]指“不平均的”，修饰 impact 表示“大脑失焦对职业、社会、个人所产生的影响不同”，而“造成有限的/不平均的影响”与句中“貌似无害”并不能构成转折对比逻辑。[D]利用其“鲜为人知的”这一含义进行反向干扰，“造成鲜为人知的影响”与句中“看似无害”语义相近，与文中语义逻辑相反。"
+      },
+      {
+       "number": 5,
+       "options": {
+        "A": "relationship",
+        "B": "environment",
+        "C": "wellbeing",
+        "D": "outlook"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) wellbeing\n\n5. [A] relationship 关系，联系，交往\n\n[B] environment 环境，外界情况\n\n[C] wellbeing 福祉，幸福\n\n[D] outlook 看法，观点；展望，前景\n\n[考点提炼]句内语义。正确率：47%\n\n[解题思路] 空格部分指出：这种大脑失焦有可能对我们的职业、社会以及个人____造成破坏性的影响。既然是造成破坏性的影响，说明其影响了我们职业、社交以及个人层面中好的方面，而这三个领域中好的方面可大致推断为“职业发展、社交广泛、个人幸福”,选项中能概括“发展、广泛、幸福”的只有[C] wellbeing,表示“一种对幸福、健康、繁荣的满足状态”。\n\n[错项排除] [A]能分别与 professional、social、personal 构成合理搭配，但社会关系（social relationship）中包括个人关系（personal relationship），表意重复，故排除该项。[B]多指“外部环境，周围状况”，而大脑失焦发生在人身上，其产生的影响更多的是在于对人本身的影响，而非外界环境，故排除该项。[D]指“(对生活和世界的)看法，观点，态度”时，只能与 personal 搭配；指“前景，远景”时，能分别与 professional、social、personal 构成合理搭配，但同样未能表达出对人本身产生的影响。\n\nⅡ ① Neuroscientists, experts who study the nervous system, are increasingly showing that there's actually a lot that can be done. ② It \\_6\\_ out that the brain needs exercise in much the same way our muscles do, and the right mental \\_7\\_ can significantly improve our basic cognitive \\_8\\_. ③ Thinking is essentially a \\_9\\_ of making connections in the brain. ④ To a certain extent, our ability to \\_10\\_ in making the connections that drive intelligence is inherited. ⑤ \\_11\\_, because these connections are made through effort and practice, scientists believe that intelligence can expand and fluctuate \\_12\\_ mental effort.\n\n①神经学家——研究神经系统的专家日益表明，其实有很多方式可以应对这一现象。②研究表明，就像肌肉需要锻炼一样，我们的大脑也需要锻炼，并且适当的脑力训练可以显著提高我们的基本认知功能。③思考本质上是在大脑中建立连接的过程。④在一定程度上，我们擅于建立促进智力的连接的能力是经遗传而得的。⑤然而，由于这些连接是通过努力和练习而形成，因此科学家们相信，智力可以根据智力训练而拓展或波动。"
+      },
+      {
+       "number": 6,
+       "options": {
+        "A": "figures",
+        "B": "finds",
+        "C": "points",
+        "D": "turns"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D) turns\n\n6.[A] figures (out) 理解，弄明白；算出\n\n[B] finds (out) 找出，发现\n\n[C] points (out) 指出，指明\n\n[D] turns (out) 结果是，被证明是……\n\n[考点提炼] 动词短语+上下文语义。正确率：39%\n\n[解题思路] 上文指出：神经科学家们日益表示，其实有很多方式可以应对这一现象(大脑功能衰退)。由此可判断出空格句承接上文，为神经学家观点的进一步阐释说明，而专家的观点一般都由科学研究的结论支撑，能传达这一含义的只有 [D] turns (out), 表示“经历或实验后最终发现……”, 同时符合文中 “it 形式主语 + 动词短语 + that 主语从句作真正主语” 的结构。\n\n[错项排除]其他干扰项虽然也可以引出观点，但均不适用于文中结构。[A]表示“弄懂，搞清楚”,其后接“需要探究的、疑问性的问题”或“人”,但文中 that 后为研究结论而非问题。[B]表示“查明，弄清；发现”,其后可接“要弄清的问题”或“发现的结果”。[C]表示“告诉某人他们不知道或未曾考虑的事情”。"
+      },
+      {
+       "number": 7,
+       "options": {
+        "A": "responses",
+        "B": "associations",
+        "C": "workouts",
+        "D": "roundabouts"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) workouts\n\n7. [A] responses 回答，回应，响应 [B] associations 联系，联想，关联\n\n[C] workouts 运动，锻炼 [D] roundabouts 交通环岛\n\n[考点提炼]句内语义+名词词义。正确率：42%\n\n[解题思路] ②句中分句一指出：就像肌肉需要锻炼一样，我们的大脑也需要锻炼。分句二指出：适当的脑力____可以显著提高我们的基本认知……。分句一指出了大脑训练(exercise)是应对“大脑失焦”的一种方式，空格句谓语结构“显著提高我们的基本认知……”也即是对于“大脑失焦”的改善，因此空格所在短语也应表示“大脑训练”,空格词应与 exercise 含义相同，[C] workouts 符合文意。\n\n[错项排除][A]指对某一事物自然而然的回应、反应，因此不存在恰不恰当(right)的说法。[B]指“（与某个人、机构、组织等的）关系，关联，交往”或“（两个事件、想法、局面之间的）联系”，分别与介词 with 和 between 搭配，不管指“关联”还是“联系”，均涉及到两个事物，与文意不符。[D]利用 roundabout 的形容词词义“迂回的，绕路的”这层含义进行干扰，表明这是一种脑部的锻炼，但选项为复数形式，为名词词性，含义为“交叉路口的环岛”，不符合文中语境，故排除。"
+      },
+      {
+       "number": 8,
+       "options": {
+        "A": "genre",
+        "B": "criterion",
+        "C": "circumstances",
+        "D": "functions"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D) functions\n\n8. [A] genre 类型，体裁 [B] criterion 标准，尺度\n\n[C] circumstances 环境，情况 [D] functions 功能，机能\n\n[考点提炼]上下文语义。正确率：32%\n\n[解题思路] 空格句指出：适当的大脑训练可以显著提高我们的基本认知 ____。由上文可知大脑训练是应对大脑失焦的方式之一，而大脑失焦即是指大脑的退化：记忆力减退，头脑不清晰，而这些体现的都是大脑认知功能的衰退，因此脑力训练改善的应是大脑的认知功能，[D] functions 符合文意。\n\n[错项排除] [A]指“(艺术，写作、音乐等的)类型，体裁”,不能与 cognitive 构成合理搭配；而且“改善/提高认知类型”的说法也不符合语义逻辑。[B]、[C]分别表示“(判断、决定的)标准、准则/环境，情况”,但是“提高认知标准/改善认知环境”对大脑功能衰退均无实质帮助。"
+      },
+      {
+       "number": 9,
+       "options": {
+        "A": "channel",
+        "B": "process",
+        "C": "condition",
+        "D": "sequence"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B) process\n\n9. [A] channel\n[B] process\n[C] condition\n[D] sequence\n\n[考点提炼]上下文语义。正确率：56%\n\n[解题思路] 空格句指出：思考本质上是在大脑中建立连接的 ____。即揭示“思考”这种大脑锻炼方式的实质。思考本身就是在大脑中建立神经连接，而这显然体现的是一种过程，[B] process 正确。\n\n[错项排除] [A]表示“(传递或获得信息、商品、许可等的/表达思想、感情或发泄精力的)方式，渠道，途径”,而 thinking(思考)是一种脑部活动，而非一条线路或是途径。[C]可表示“状况，状态”,但思考并不是一种固定的状态；还可表示“为了让某事发生的先决条件和必要前提”,但“思考是大脑中建立连接的必要条件”脱离上下文语境。[D]表示“(事情发生的)顺序，次序”,但思考显然不是一种建立连接的次序。"
+      },
+      {
+       "number": 10,
+       "options": {
+        "A": "persist",
+        "B": "feature",
+        "C": "excel",
+        "D": "believe"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) excel\n\n10. [A] persist (in) 坚持，执意于……\n\n[B] feature (in) 在……起重要作用\n\n[C] excel (in) 擅长于……\n\n[D] believe (in) 相信……有用，相信……正确\n\n[考点提炼] 短语动词+句内语义。正确率：13%\n\n[解题思路] 空格词所在不定式结构做后置定语修饰 ability, 空格词也即是考查“我们的能力”与“建立促进智力的连接”之间的关系。上文指出，“人到了中年，大脑功能退化”, 暗示“过去大脑的能力很强大”; 而且根据常识，人的智力明显高于其他动物，因此“建立连接”的能力势必很强。综合以上信息可知，[C] excel (in) 符合文意，表示“优于，擅长；胜过他人”。\n\n[错项排除] [A]表示“坚持、执意于做某事”，其后常接“具有困难或别人反对的事情”，而“建立连接”是人脑中正常的活动，不存在“具有困难或他人反对”的说法。[B]表示“起重要作用/占重要地位”，[D]表示“相信……有用，相信……正确”，而“在建立连接中起重要作用的能力是与生俱来的”/“相信建立连接的能力是与生俱来的”均不符合上下文语义逻辑。"
+      },
+      {
+       "number": 11,
+       "options": {
+        "A": "However",
+        "B": "Moreover",
+        "C": "Otherwise",
+        "D": "Therefore"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) However\n\n11. [A]However 但是，表转折\n\n[B]Moreover 此外，而且，表递进和补充\n\n[C]Otherwise 否则，不然，表条件\n\n[D]Therefore 因此，所以，表结果\n\n[考点提炼]上下文逻辑关系。正确率：44%\n\n[解题思路] 上文指出人们的大脑擅于建立促进智力的连接的思考能力是经遗传而得的，即，这种能力是先天的；空格句指出，这些连接可通过努力和练习来建立，即，可以通过后天的努力来改变这种能力；上下文间是转折的逻辑关系，[A] However 符合文意。\n\n[错项排除] [B]用于“引出新信息以补充或支持前述内容”，前后为递进补充关系；[D]用于“引出前述内容的逻辑性结果或结论”，前后为因果关系，因此排除此两项。[C]最常见的用法是“引出不做某事就会导致的结果”，而文中末两句皆为对“智力发展的介绍”，所以排除该用法；Otherwise 还能表示“除此之外”，字面看似乎符合逻辑，但其内涵实为“针对例外补充说明总体情况（词语前后的内容是相对的）”，而文中探讨的智力发展的方式互不相同，不存在“补充说明”的关系。"
+      },
+      {
+       "number": 12,
+       "options": {
+        "A": "according to",
+        "B": "regardless of",
+        "C": "apart from",
+        "D": "instead of"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) according to\n\n12. [A] according to 根据，按照 [B] regardless of 不管，不顾及\n\n[C] apart from 除去；除了……以外还 [D] instead of 作为……的代替，而不是\n\n[考点提炼] 上下文逻辑语义。正确率：51%\n\n[解题思路] 根据上文，大脑连接是推动智力的，而本句中又说明大脑连接通过努力和锻炼得以建立，因此“训练大脑”就成为推动智力的根本要素，即，智力是随着大脑的锻炼程度而拓展和波动的，[A] according to 符合文意，表示“取决于，根据”。\n\n[错项排除] [B]表示(不受某事物的影响)不管；不顾，这与上文对脑力训练必要性的强调不符。[C]表示(1)除了……外；(2)除了……还，两层含义都表示“从总体中除去一部分”,而空格句中并未体现“总体——部分”的关系。[D]表示“代替某人/某物；而不是某人/某物”，该短语表示选择关系，在两种事物或做法上肯定前者，否定后者，文中并不存在选择关系，故排除。\n\nⅢ Now, a new Web-based company has taken it a step 13 and developed the first “brain training program” designed to actually help people improve and regain their mental 14.\n\n如今，一家新型网络公司已更进一步，研发了首个“大脑训练程序”,旨在真正帮助人们改善并恢复大脑灵敏度。"
+      },
+      {
+       "number": 13,
+       "options": {
+        "A": "back",
+        "B": "further",
+        "C": "aside",
+        "D": "around"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B) further\n\n13. [A] back 往回，向后\n\n[B] further 更进一步，更远\n\n[C] aside 在一边，向一边\n\n[D] around 在四周，在周围；环绕\n\n[考点提炼] 上下文语义+副词用法。正确率：67%\n\n[解题思路] 上文指出脑神经专家认为大脑训练可以促进智力。空格句指出，一家网络公司开发了一项“大脑训练程序”；这是从理论到实践的推进，是将科学家的研究成果进一步转化为具体行动的过程。[B] further 符合文意，take...a step further 是常用搭配，指“采取了更进一步的行动”。\n\n[错项排除] [A]为反向干扰，理论到实践的推进不可能是向后退。[C]、[D]“让……到一边去/在周围”与文意不符。"
+      },
+      {
+       "number": 14,
+       "options": {
+        "A": "framework",
+        "B": "stability",
+        "C": "flexibility",
+        "D": "sharpness"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D) sharpness\n\n14.[A] framework 框架，构架\n\n[B] stability 稳定性，稳定\n\n[C] flexibility 灵活性\n\n[D] sharpness 敏锐度，锐利度，清晰度\n\n[考点提炼] 短语动词+句内语义。正确率：33%\n\n[解题思路] 空格所在的分句二承接 and 连接的分句一指出新型网络公司采取更进一步行动的具体内容：研发了首个“大脑训练程序”, 空格部分所在过去分词短语说明该程序的功能：旨在真正帮助人们改善并恢复大脑 ____。而“改善并恢复”就意味着大脑的某种机能有所衰退，第一段指出大脑功能退化的表现有：记忆力减退、头脑不清晰，也即是“大脑灵敏度的退化”, [D] sharpness 符合文意。\n\n[错项排除] [A]指“为了解决问题或做出决定所使用的专门的一套准则、观点”，因此对其并不能进行改善或是恢复。[B]指稳定不变的状态，“恢复稳定”暗示大脑功能有波动，时而强，时而弱，而文中指出随着年龄的增长，大脑功能衰退，并非是波动，故排除该项。[C]指“为适应不同情况改变或是被改变的能力”，“恢复灵活性”暗示大脑功能稳定，不容易改变，与文意明显不符。\n\nIV ① The Web-based program 15 you to systematically improve your memory and attention skills. ② The program keeps 16 of your progress and provides detailed feedback 17 your performance and improvement. ③ Most importantly, it 18 modifies and enhances the games you play to 19 on the strengths you are developing — much like a(n) 20 exercise routine requires you to increase resistance and vary your muscle use.\n\n①此项基于网络的程序能使人们系统地提高记忆力和注意力技能。该程序跟踪记录你的进步，并会对你的表现和改进提供详细反馈。②最重要的是，它能不断地调整并加强训练内容，以增进你正在训练的能力——就像一项有效的日常锻炼，需要你不断提高耐力并改变对肌肉的使用。\n\n**词汇注释**\n\nsystematically ad. 系统地，成体系地\n\nmodify v. 稍改，修改，(尤指)使改进\n\nresistance n. 抵抗力，抗力，耐力\n\nvary v. 使某事物有变化，改变"
+      },
+      {
+       "number": 15,
+       "options": {
+        "A": "hurries",
+        "B": "reminds",
+        "C": "allows",
+        "D": "forces"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) allows\n\n15.[A] hurries 催促，使匆忙地做\n\n[B] reminds 提醒，使想起\n\n[C] allows 允许，许可；容许 [D] forces 强迫，迫使\n\n[考点提炼] 短语动词+句内语义。正确率：33%\n\n[解题思路] 上文指出“大脑训练程序”旨在实际上帮助人们改善和恢复大脑灵敏度。由此可推断，程序能够给人们带来益处，提高智力，而空格句中“记忆力和注意力技能”也即是大脑灵敏度的体现，因此可判断此项程序能够让人们提高记忆力和注意力技能，[C] allows 符合文意。\n\n[错项排除] [A]表催促某人做某事时，常用结构为 hurry sb into doing sth，而且该动作一般由人发出。[B]表示“使(某人)想起(必须做的事/过去发生的事)，提醒”，而“系统地提高记忆力和注意力技能”并非必须做的事，也不是过去发生的事，只是在说明此程序的功能。[D]表示让某人做其不想做的事情，但“系统地提高记忆力和注意力技能”正是人们想要做的事情，故排除该项。"
+      },
+      {
+       "number": 16,
+       "options": {
+        "A": "order",
+        "B": "track",
+        "C": "pace",
+        "D": "hold"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B) track\n\n16. [A] (keep) order 保持秩序 [B] (keep) track (of) 保持知晓，保持联络\n\n[C] (keep) pace (with) 并驾齐驱，齐头并进 [D] (keep) hold (of/ on) 抓着某物\n\n[考点提炼] 短语动词+句内语义。正确率：13%\n\n[解题思路] 空格句说明“网上大脑训练程序”的作用：该程序 ____ 你的进步，并会提供详细反馈……, 空格词说明“程序”与“进步”之间的关系。提供反馈的前提往往是对某人或事物的情况或表现有一定的了解，因此符合文意的是 [B] (keep) track (of), 表示“了解某人的情况/某事的动态”。\n\n[错项排除] [A] (keep) order 表示保持秩序，但进步并不存在什么“秩序”可言。[C] (keep) pace 通常与介词 with 搭配，表示“并驾齐驱”。与 of 搭配时 pace 前需加 a, 如：Keep a steady pace of communication with your partner, but let her finish her business there. 与你的另一半保持一个恰当稳定的交流频率，让她完成她的工作。[D] (keep) hold (of) 表示“用手抓着某物”, 不符合文中语境。keep a hold of/on sth 表示“控制，影响”, 如：I've always kept a tight hold on our finances. 我一直牢牢控制着我们的经济收入。"
+      },
+      {
+       "number": 17,
+       "options": {
+        "A": "on",
+        "B": "to",
+        "C": "for",
+        "D": "with"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) on\n\n17.[A] on 在……上；关于；在……时 [B] to 到；向；对于；为……\n\n[C] for 给，对；为了；因为 [D] with 和……一起；随着；具有；以\n\n[考点提炼]名词和介词的搭配。正确率： 18%\n\n[解题思路] 空格前为“详细反馈”，空格后为“表现和改进”，只有填入介词 on 才能将二者衔接表示“关于某方面的反馈”，[A] on 正确。\n\n[错项排除] [B] to 表示“对于”时，常指“对于……而言”，如：To my mind, age does not matter; love is what matters. 在我看来，年龄不是问题，爱情才最重要。[C] for 表示“对于”时，常引出陈述或问题的对象，如：I'm sure she's the ideal person for the job. 我确信她是这个职位的理想人选。[D] with 虽也能表示“关于，对于”，但常用于形容词固定搭配中，如：Be careful with the glasses. 小心这些玻璃杯。/Are you pleased with the result? 你对结果满意吗？/Don't be angry with her. 别生她的气。"
+      },
+      {
+       "number": 18,
+       "options": {
+        "A": "habitually",
+        "B": "constantly",
+        "C": "irregularly",
+        "D": "unusually"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B) constantly\n\n18. [A] habitually 成习惯地，惯常地 [B] constantly 不断地，持续地；反复地\n\n[C] irregularly 不规则地，无规律地 [D] unusually 异常地，罕见地\n\n[考点提炼] 上下文语义+副词辨析。正确率：36%\n\n[解题思路] 空格句指出“网上大脑训练程序”的另一重要功：最重要的是，它能____修改并加强你所玩的游戏……。空格词修饰 modifies and enhances。第四段首句指出“此项基于网络的程序是系统性 (systematically)地进行改进”,而“systematically(系统性)”是指 in a systematic and consistent manner“以系统以及稳定的方式”,由此推断，作者旨在强调调整和改进的“连续性”,[B] constantly 正确。\n\n[错项排除] [A]强调人或人的行为“成习惯地”或“积习难改，习以为常”，如：men who are habitually violent 经常施暴的男人，不符合文中语境。[C]反向干扰，强调“无规则，无规律，不稳定”。[D]指“与众不同”，但上文指出“此程序能使人们系统地提高记忆力和注意力技能、跟踪记录你的进步、对你的表现和改进提供详细反馈”，鉴于该程序的已知功能，可推断其调整和改进的功能并非异乎寻常，故排除该项。"
+      },
+      {
+       "number": 19,
+       "options": {
+        "A": "carry",
+        "B": "put",
+        "C": "build",
+        "D": "take"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) build\n\n19. [A] carry (on) 继续(做某事); 进行，举行，经营\n\n[B] put（on）穿上，戴上；增加；演出，举办；装作，假装\n\n[C] build (on) 用……作为进一步发展的基础，将……继续推进\n\n[D] take (on) 呈现(某种性质、样子等), 装成；决定做，承担\n\n[考点提炼] 动词短语。正确率：49%\n\n[解题思路] 由文意可知，“大脑训练程序”是用来改善大脑功能的，具体说来，是改善记忆力和注意力技能。本句中“你正在发展的能力”即是指这两个技能，而对这两个技能自然是要进一步的推进和提高，[C] build (on) 正确。\n\n[错项排除] [A]所表达的含义均不能与 strength 构成合理搭配；[B]虽表示“增加”，但仅表示“增加体重/价格；征税”。[D]表“呈现”时虽能与 strengths 搭配，但与下文的 increase 不能呼应。"
+      },
+      {
+       "number": 20,
+       "options": {
+        "A": "idle",
+        "B": "risky",
+        "C": "familiar",
+        "D": "effective"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D) effective\n\n20. [A] idle 闲散的；无用的，无效的\n\n[B] risky 危险的，有风险的\n\n[C] familiar 熟悉的\n\n[D] effective 有效果的，起作用的\n\n[考点提炼] 上下文语义。正确率：14%\n\n[解题思路] 空格所在的部分是以“日常锻炼”的功效：提高耐力并改变对肌肉的使用，来类比大脑训练程序的功效：改善记忆力和注意力。根据文意，“大脑训练程序” 是有效果的；同样地，“日常锻炼” 能提高耐力并改善肌肉的使用状况，也应该是“有效果”的，[D] effective 正确。\n\n[错项排除] [A] idle 主要有三个含义：一、指(工厂、机器等)闲置/(人)无事可做；二、懒惰的，懒散的); 三、漫无目的的；无效的，选项利用第三个含义进行反向干扰，“需要你提高耐力并改变对肌肉的使用”的日常锻炼不可能是没有效果的。同理排除 [B], 文中一直强调大脑训练对于改善大脑功能的作用，因此“需要你提高耐力并改变对肌肉的使用”日常锻炼也不可能是有风险的。[C]与第三段对该程序的描述“研发了首个‘大脑训练程序’”相矛盾。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part A",
+   "instructions": "Part A\nDirections:\nRead the following four texts. Answer the questions below each text by choosing\nA, B, C or D. Mark your answers on the ANSWER SHEET. (40 points)",
+   "score": 40,
+   "groups": [
+    {
+     "type": "reading",
+     "title": "Text 1",
+     "passage": [
+      "In order to “change lives for the better” and reduce “dependency”, George\nOsborne, Chancellor of the Exchequer, introduced the “upfront work search”\nscheme. Only if the jobless arrive at the jobcentre with a CV, register for online job\nsearch, and start looking for work will they be eligible for benefit – and then they\nshould report weekly rather than fortnightly. What could be more reasonable?",
+      "More apparent reasonableness followed. There will now be a seven-day wait\nfor the jobseeker’s allowance. “Those first few days should be spent looking for\nwork, not looking to sign on ,” he claimed. “We’re doing these things because we\nknow they help people stay off benefits and help those on benefits get into work\nfaster.” Help? Really? On first hearing, this was the socially concerned chancellor,\ntrying to change lives for the better, complete with “reforms” to an obviously\nindulgent system that demands too little effort from the newly unemployed to find\nwork, and subsidises laziness. What motivated him, we were to understand, was his\nzeal for “fundamental fairness” – protecting the taxpayer, controlling spending and\nensuring that only the most deserving claimants received their benefits.",
+      "Losing a job is hurting: you don’t skip down to the jobcentre with a song in your\nheart, delighted at the prospect of doubling your income from the generous state. It is\nfinancially terrifying, psychologically embarrassing and you know that support is\nminimal and extraordinarily hard to get. You are now not wanted; you are now\nexcluded from the work environment that offers purpose and structure in your life.\nWorse, the crucial income to feed yourself and your family and pay the bills has\ndisappeared. Ask anyone newly unemployed what they want and the answer is\nalways: a job.",
+      "But in Osborneland, your first instinct is to fall into dependency – permanent\ndependency if you can get it – supported by a state only too ready to indulge your\nfalsehood. It is as though 20 years of ever-tougher reforms of the job search and\nbenefit administration system never happened. The principle of British welfare\nis no longer that you can insure yourself against the risk of unemployment and\nreceive unconditional payments if the disaster happens. Even the very phrase\n“jobseeker’s allowance” is about redefining the unemployed as a “jobseeker” who\nhad no fundamental right to a benefit he or she has earned through making\nnational insurance contributions. Instead, the claimant receives a time-limited\n“allowance,” conditional on actively seeking a job; no entitlement and no\ninsurance, at £71.70 a week, one of the least generous in the EU."
+     ],
+     "questions": [
+      {
+       "number": 21,
+       "stem": "George Osborne’s scheme was intended to",
+       "options": {
+        "A": "encourage jobseekers’ active engagement in job seeking.",
+        "B": "provide the unemployed with easier access to benefits.",
+        "C": "guarantee jobseekers’ legitimate right to benefits.",
+        "D": "motivate the unemployed to report voluntarily."
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n| 21. George Osborne's scheme was intended to ____. | 21. 乔治·奥斯本计划旨在____。 |\n| --- | --- |\n| [A] encourage jobseekers' active engagement in job seeking | [A] 鼓励求职者积极寻找工作 |\n| [B] provide the unemployed with easier access to benefits | [B] 给失业者提供更易获得的救济 |\n| [C] guarantee jobseekers' legitimate right to benefits | [C] 保证求职者领取救济金的合法权益 |\n| [D] motivate the unemployed to report voluntarily | [D] 激励失业者主动报告 |\n\n[精准定位]首段①句指出计划目的：使生活更好，并降低依赖。②句说明计划内容：失业者须带简历到求职中心、注册网上求职、并开始寻找工作，才有资格领取失业金；且之后须每周报到一次。结合两句可知，计划旨在鼓励失业者积极寻找工作、而不是依赖失业金，[A]正确。\n\n[命题解密] 正确项[A]结合②句计划内容，明确①句 In order to “change lives for the better” and reduce “dependency” 所述目的。\n\n[B]对①句 change lives for the better 断章取义，由②句可知：获得救济是“更难”、而非“更易”。[C]对②句 Only if... will they be eligible for benefit... 反向干扰：该计划是在“限制”、而不是“保障”失业者领取救济金的权利。[D]用②句 they should report 干扰，但这属于计划细节、不能体现整体目的，且文中是“强行规定（they should）”、而非“鼓励自愿(motivate...voluntarily)”。\n\n[技巧总结] 本题考查“新政目的”，且直接定位信息为抽象概述，解题时需结合新政的具体规定、针对情形等加以理解把握，切忌断章取义。\n\n具体来看，答题时根据题干 was intended to 可直接锁定①句 In order to，并确定“change lives for the better” and reduce “dependency”为正确项来源。但由于该表述抽象概括，所以应结合②句“规定详述”加以理解，确定[A]正确。排除对直接定位信息断章取义的[B]，错误理解特殊句式（倒装条件句）的[C]，以及将“细节内容”当“整体目的”、且扭曲文意的[D]。\n\n| |\n| --- |\n| II 1 More apparent reasonableness followed. 2 There will now be a seven-day wait for the jobseeker's allowance1. 3 “Those first few days should be spent looking for work, not looking to sign on,” he claimed2. 4 “We're doing these things because we know they help people stay off benefits3 and help those on benefits get into work faster.” 5 Help? 6 Really? 7 On first hearing, this was the socially concerned chancellor, trying to change lives for the better, complete with3 “reforms” to an obviously indulgent5 system that demands too little effort from the newly unemployed to find work, and subsidises6 laziness. 8 23 What motivated him, we were to understand, was his zeal7 for “fundamental fairness”—protecting the taxpayer, controlling spending and ensuring that only the most deserving claimants8 received their benefits. |\n\n接下来还有更明显的合理性。现在，申请求职者津贴需要经过一个七天的等待期。“最初几天应该用于寻找工作，而不是指望登记（领取救济金）,”他声称。“我们之所这样做，是因为知道这能帮助人们远离救济，且能帮助那些依靠救济的人更快找到工作。帮助？真的？乍一听，这是这位心系社会的财相在通过“改革”明显具有纵容性的制度——对新失业者找工作的努力几乎不作要求，从而助长懒惰——来努力使人们生活更好。不过我们要明白，真正激励他的是对“基本公平”的热情——保护纳税人，控制开支并确保只有最需要帮助的申请者才可领到救济金。\n\n②claim v. 声称，断言\n\n①sign on（注册，登记）\n\n**知识补充**\n\n③ benefit n. 津贴，救济金\n\n④complete with 装备有某事物，具有某特点\n\n⑤indulgent a. 放纵的，纵容的\n\n②stay off... (远离……)\n\n⑥subsidise v. 给……津贴或补助\n\n⑦zeal n. 热心，热情\n\n③those on benefits(那些依靠救济生活的人)\n\n⑧claimant n. 申请人，要求者\n\n④ get into work(找到工作) ⑤on first hearing(乍听之下) demand sth from sb(要求某人做某事)\n\n1. On first hearing, this was the socially concerned chancellor, trying to change lives for the better, complete with “reforms” to an obviously indulgent system that demands too little effort from the newly unemployed to find work, and subsidises laziness.\n\n功能注释：On first hearing(乍听之下)奠定本句论述基调：以下所述纯属表象。句子主干为 this was the socially concerned chancellor; 现在分词短语 trying to change lives for the better 作后置定语，修饰说明 the socially concerned chancellor; 形容词短语 complete with 引出财相基本做法——改革现有纵容性体系，其中嵌含 that 定语从句修饰 an obviously indulgent system, 说明现有体系的“纵容性”。\n\n2. What motivated him, we were to understand, was his zeal for “fundamental fairness”—protecting the taxpayer, controlling spending and ensuring that only the most deserving claimants received their benefits.\n\n功能注释：本句主干为 What motivated him... was his zeal for “fundamental fairness”, 强调他(奥斯本)推行新政的真正动因：对“基本公平”狂热；插入语起到“提醒人们注意事实真相”的功能；破折号后进一步解释说明“fundamental fairness”具体含义。\n\n**语篇分析**\n\n第二段继续假借奥斯本口吻介绍新政规定及目的，并最终揭示背后真正动因。关键词：① What motivated him, ② zeal for \"fundamental fairness\"。\n\n①②③④句为第一句群，假借奥斯本口吻介绍新政规定及目的。\n\n①句承上(还有什么比这更合理)启下：接下来还有更明显的合理性。本句多层面开启下文：一、引出新政更多规定；二、介绍奥斯本口中新政更大合理性；三、推进作者对新政的讽刺批判。apparent 取其僻意 seeming to exist, although this may not be true“表面似乎显而易见，实际未必真实存在”。\n\n②句顺而介绍新政另一规定：失业后需等待七天(a seven-day wait)方可申请救济。There will now be 强调此规定从无到有、大胆强硬。jobseekers' allowance(allowance 意为 an amount allowed or granted [as during a given period] \"[一定期限内的]津贴、补贴\")替换上文 jobless benefit,凸显新政定位“失业者必须首先成为求职者；失业金不是无条件的福利，而是有期限的补贴”。\n\n③句介绍奥斯本口中这一规定的“合理性”: 刚失业的几天应先寻求再就业，而不是指望救济金。Those first few days 回指 a seven-day wait; 奥斯本以 should be spent... not... 强调取舍(应该 VS 不应该), 以 looking for work VS looking to sign on (look to 意为“指望，依靠”; sign on 专指“(英)登记失业以领取政府救济金”) 形近意反、凸显对比(积极寻找工作 VS 消极指望救济), 彰显其新规的“合理性”。\n\n④句囊括首段②句及本段②句所述规定(doing these things, they),并回应开篇句、圆合奥斯本口中的新政目的。原词重复 help... and help... 强调新政“意在帮助”,回应“change lives for the better” and reduce “dependency”:新政意在“帮助”——帮助人们远离救济，尽快再就业(即，使生活更好，并降低依赖)。\n\n⑤⑥⑦⑧句为第二句群，转而开启作者质疑、反击，揭示奥斯本真正动因。\n\n⑤⑥句两个独词问句引发作者正面质疑：(奥斯本反复强调新政意在“帮助”)帮助？真的？\n\n⑦⑧句否定作答：奥斯本表面是在帮助失业者，实际是在保护纳税人。On first hearing... we were to understand 体现“退步说明表象—提醒读者真相”的逻辑。\n\n⑦句先退步说明表象：乍听之下，新政确实意在“帮助”。句首 On first hearing 奠定基调：本句所述只是贴合上述奥斯本说辞，并非作者真正观点。句子主干以 socially concerned、trying to change lives for the better 回应奥斯本说辞：这似乎是一位关注社会问题、努力改善民生的财相。状语 complete with “reforms”...(complete with 意为“装备/配备有某物”)聚焦新规：这是在“改革”具有明显纵容性的现有体系(“reforms”冠以引号，援引奥斯本说辞、传递作者否定)。obviously indulgent system、demands too little effort、subsidises laziness 说明奥斯本口中现有福利制度的弊端：纵容失业者，滋生懒惰(即：旧制度亟待改革，新政大有助益)。subsidise 原本含义为“资助”、带有一定褒义，与带严重贬义的 laziness 连用，凸显奥斯本对现有制度的不满。\n\n⑧句转而揭示真相、明确作者观点：其真正动机在于保护纳税人。\n\n主句以 What motivated him... was...(以从句作主语的判断句式)强调奥斯本真正动机：对“基本公正”的狂热。“fundamental fairness”冠以引号，一表示援引术语(常用政治术语);二表示强调反击：奥斯本宣称“是在帮助(失业者),是在改善民生、降低依赖”,而真正动机是“对基本公正的狂热”。zeal 意为“(尤指实现政治目标的)狂热”带有贬义、传达作者批判：奥斯本过度追求“基本公正”。破折号后解释 fundamental fairness,进一步明确奥斯本动机：保护纳税人，使救济金支出最小化。\n\n【深层解读】前两段层次解读：第一段及第二段前四句重在介绍：a. 介绍新政规定(第一段②句，第二段②句):失业之后须先带简历到求职中心并开始寻找工作→经历七天的等待之后才可能领到救济金——之后必须每周到就业中心报道。b. 介绍奥斯本就“新政目的/合理性”的说辞(第一段①句，第二段③④句):新政意在帮助——使失业者降低依赖、尽快就业，使整个社会更好。c. 衔接前后介绍(第一段末句，第二段首句)。第二段后四句重在评论：揭示新政真正动因——保护纳税人、控制救济金支出。提示：注意“奥斯本口中的新政目的”和“作者所揭示的真正动因”的对比，理解作者反驳态度。"
+      },
+      {
+       "number": 22,
+       "stem": "The phrase “to sign on” (Line 3, Para. 2) most probably means",
+       "options": {
+        "A": "to check on the availability of jobs at the jobcentre.",
+        "B": "to accept the government’s restrictions on the allowance.",
+        "C": "to register for an allowance from the government.",
+        "D": "to attend a governmental job-training program."
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| 22. The phrase“to sign on”(Line 2, Para. 2) most probably means ____. | 22. 第二段第二行的短语 to sign on 最可能意为____。 |\n| --- | --- |\n| [A] to check on the availability of jobs at the jobcentre | [A] 到就业中心查看是否有工作机会 |\n| [B] to accept the government's restrictions on the allowance | [B] 接受政府对津贴的限制 |\n| [C] to register for an allowance from the government | [C] 登记领取政府津贴 |\n| [D] to attend a governmental job-training program | [D] 参加政府工作培训项目 |\n\n[精准定位] 由所考词所在句“失业最初几天应该用于找工作，而不是指望 sign on”可知：sign on 是“找工作”的对立面。再结合上句“求职者需要经过七天的等待期才能申请津贴”及下句“之所以这样做，是要帮助人们远离救济”，可确定 sign on 指“登记领取政府津贴”，[C]正确。\n\n[命题解密] 正确项 [C] 体现了 sign on 和 looking for work、stay off benefits、get into work faster 之间的对立，以及与 the jobseeker's allowance 的同向。\n\n[A]为第一段②句 they should report weekly 暗示信息，但这和“找工作”为同向关系、而非对立关系。[B] the government's restrictions on the allowance 与第二段②句同义，但“接受这种限制 (accept...)”无法和“找工作”构成对立。[D] a governmental job-training program 源自第二段④ help those on benefits get into work faster,但选项无法和 the jobseeker's allowance 建立联系。\n\n[技巧总结] 本题就“涉及复杂关系的内容(第二段)”命制词义推断题，解题关键是通过多条线索(因果、转折标记，取舍结构、语义逻辑等)找到上下文中的同义/近义/上下义关系。\n\n具体看本题：一，借助 should be spent..., not... 可判断：looking to sign on 和 looking for work 为对立关系。二，借助②③句 seven-day 和 Those first few days 的同指关系可判断：looking to sign on 和 the jobseeker's allowance 直接相关。三，借助③④间紧密逻辑可知 stay off benefits /get into work faster 和 looking for work 同向，和 looking to sign on 反向。综合三条线索可知[C]正确。"
+      },
+      {
+       "number": 23,
+       "stem": "What prompted the chancellor to develop his scheme?",
+       "options": {
+        "A": "A desire to secure a better life for all.",
+        "B": "An eagerness to protect the unemployed.",
+        "C": "An urge to be generous to the claimants.",
+        "D": "A passion to ensure fairness for taxpayers."
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| 23. What prompted the chancellor to develop his scheme? | 23. 促使财相生成其计划的动因是什么？|\n| --- | --- |\n| [A] A desire to secure a better life for all. | [A] 为所有人创造更好生活的愿望。 |\n| [B] An eagerness to protect the unemployed. | [B] 为失业者提供保护的渴望。 |\n| [C] An urge to be generous to the claimants. | [C] 对申请人表示慷慨的冲动。 |\n| [D] A passion to ensure fairness for taxpayers. | [D] 确保对纳税人公平的热情。 |\n\n[精准定位] 根据题干设问直接定位至第二段⑧句(What motivated him...)。该句指出，激励奥斯本制定其计划的是对“基本公平”的热情：保护纳税者，控制开支，确保只有最应资助的申请者才能领到补贴。可见，[D]符合文意。\n\n[命题解密] 正确项是对第二段⑧句的概括：passion 近义替换 zeal, ensure fairness for taxpayers 概括“fundamental fairness”—protecting the taxpayer...。\n\n[A]源自第二段⑦句 the socially concerned chancellor, trying to change lives for the better...，但这是表象（体现于 On first hearing），并非真正动机。[B]源自第二段④句 help people stay off benefits and help those on benefits get into work faster，但这是奥斯本自己说辞，并非其真正动因。[C]对第二段⑧句 only the most deserving claimants received their benefits 反向干扰：新政明显是对失业金申请者“更小气”，而不是“更大方”。\n\n[技巧总结] 本题考查奥斯本实施新政的“真正动机”。解题关键在于：将文中信息分类、识别“表象”和“真相”。具体来看，解题关键在于将第二段信息分类：①②③④句介绍新政规定及奥斯本口中的“目的”(“...”he claimed“...”)—⑤⑥句作者发起质疑 (Help? Really?)—⑦句作者说明表象 (On first hearing)—⑧句说明真正动机 (What motivated him, we were to understand, was...)。随后可排除来自于“奥斯本说辞”及“表象”的 [A]、[B], 留下来自“真正动机”的 [C]、[D]。最后将两选项与⑧句仔细比对，排除与文意相反的 [C], 确定与文意相符的 [D]。\n\nⅢ ① Losing a job is hurting: you don't skip down to the jobcentre with a song in your heart, delighted at the prospect of doubling your income from the generous state. ② It is financially terrifying, psychologically embarrassing and you know that support is minimal and extraordinarily hard to get. ③ You are now not wanted; you are now excluded from the work environment that offers purpose and structure in your life. ④ Worse, the crucial income to feed yourself and your family and pay the bills has disappeared. ⑤ Ask anyone newly unemployed what they want and the answer is always: a job.\n\n失去工作令人痛苦：你不可能是心哼小曲、蹦蹦跳跳地走向求职中心，途中你也不会因畅想慷慨的政府会使你的收入翻番而感到兴奋。失业在经济上是可怕的，在心理上是尴尬的，而且你知道救济极少且极难获得。你现在不被需要，被排除在为人们提供目标和结构的工作环境之外。更糟的是，养活你自己及家庭并用来支付账单的重要收入来源不复存在了。问问任何一个刚失业的人他们想要什么，回答永远是：一份工作。\n\n**词汇注释与难句分析**\n\nprospect n. 可能性，机会，希望\n\npsychologically ad. 心理上地\n\nembarrassing a. 使人尴尬的，令人为难的\n\nfeed v. 养活\n\n**经典搭配**\n\nskip down（蹦蹦跳跳）\n\nwith a song in one's heart (心哼小曲、暗自兴奋)\n\ndelighted at the prospect of(因对……的憧憬而兴奋)\n\ndouble your income（收入翻番）\n\nbe excluded from (被排除在……之外)\n\n**语篇分析**\n\n**第三、四段对新政展开批驳。**\n\n第三段说明事实(失业者经济窘迫、心理尴尬、内心无比渴望工作；当前失业金微不足道且极难申请)，为下段批驳奠基。关键词：①hurting；②a job。\n\n①②③④句形成直线递进结构，层层剥茧说明现状：失业者面临经济困境和心理尴尬的双重折磨；失业金极低且极难获取。\n\n①句指出失业令人十分痛苦。主句以 hurting(to feel very upset or unhappy)在貌似漫不经心中彰显失业造成的巨大打击。冒号后以夸张手法，反向表明失业者的苦闷无望：在走向求职中心的路上，你不会是“轻松愉快地”（skip down; with a song in your heart; delighted）畅想着“数目不菲的救济金”（doubling your income; generous state）。\n\n②句明确“十分痛苦”的原因：经济困窘、心理尴尬、失业金极低且极难获得。financially terrifying, psychologically embarrassing 说明失业带给“经济上”和“心理上”的双重打击。minimal and extraordinarily hard to get (minimal 意为“最低限度的”; extraordinarily hard“非同寻常地、极其困难”) 强调失业金现状：极低且极难获得。句子整体展现失业者“陷入危机，却求助无门”的情形，彰显①句 hurting。\n\n③句进一步解释失业者的“心理尴尬(psychologically embarrassing)”。作者借助长短句变换以及重复表述 you are now...you are now...凸显失业带给人们剧烈的心理冲击：不再被需要(not wanted);不再有工作带来的目标感及有序感、内心陷入混乱绝望(excluded from...purpose and structure)。\n\n④句进而强调失业者的“经济困窘(financially terrifying)”。Worse 递进引出失业对人们最切实、最致命的打击。crucial income(crucial 意为 extremely important)、feed yourself and your family and pay the bills 强调“收入的至关重要”; has disappeared 则凸显失业使其不复存在，陷入经济困境。\n\n⑤句基于①一④句，得出作者结论：任何一位失业者最想要都是一份工作。作者以 Anyone、always 的“包罗所有(任何人、任何时间均如此)”及冒号的“停顿凸显功能”强调失业者内心渴求：一份工作(a job)。\n\n【深层解读】对比“前两段所述新政规定及奥斯本说辞 VS 本段揭示的真实情形”，可明确作者对奥斯本的批驳、体味前文 reasonable、reasonableness 传递的讽刺：一，救济金是失业者的救命稻草，奥斯本却对其设置重重限制；二，救济金已是低到极限且极难得到，奥斯本却认为现有体制对失业者太过宽容、滋生懒惰；三，失业者内心最渴望的是“工作”，奥斯本却认定他们会陷入“依赖”。"
+      },
+      {
+       "number": 24,
+       "stem": "According to Paragraph 3, being unemployed makes one feel",
+       "options": {
+        "A": "uneasy.",
+        "B": "insulted.",
+        "C": "enraged.",
+        "D": "guilty."
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| 24. According to Paragraph 3, being unemployed makes one feel ____. | 24. 根据第三段可知，失业会使人们感到____。 |\n| --- | --- |\n| [A] uneasy | [A] 不安 |\n| [B] insulted | [B] 受辱 |\n| [C] enraged | [C] 愤怒 |\n| [D] guilty | [D] 内疚 |\n\n[精准定位] 第三段集中论述了失业带给人们的打击：经济窘迫，心理尴尬，感到不被需要，失去原有的目标感及有序感，无比渴望早日找到工作。可见，失业令人内心恐慌不安，[A] 正确。\n\n[命题解密] 正确项 [A] uneasy 体现了第三段关键词汇 hurting... financially terrifying... psychologically embarrassing... not wanted 所述失业者困境。\n\n[B]将①句 hurting(痛苦的，受伤的)错误理解为 insulted(被侮辱的，被冒犯的)。[C]对②句 that support is minimal and extraordinarily hard to get 过度推导：文中只说明实情“失业金极低且极难获得”,未指出失业者感到愤怒。[D]对②句 psychologically embarrassing 断章取义：由③句解释可知，该短语并非指“内疚感”而是“不被需要感”。\n\n[技巧总结] 本题需要综合段中描述，概括出失业者心理。解题时可从两个方向同时入手：一，概括相关内容，得出正确项；二，关联段中信息，借助相关内容理解较为抽象晦涩、或容易产生歧义的表述，排除断章取义或过度推导的选项。\n\n具体来看，解题时可首先综合第三段关键词 hurting... financially terrifying... psychologically embarrassing... not wanted... 等，大概得出 [A] uneasy 正确。随后可发现，文中与 [B] insulted 相关的信息为 hurting, 但根据①句冒号后及②句对其解释，可发现并非此意。与 [C] enraged 相关的信息为 you know that support is minimal and extraordinarily hard to get, 但从中无法得知失业者的“愤怒”。与 [D] guilty 相关的信息为 psychologically embarrassing, 但由③句对其解释，可知并非指“内疚感”。从而最终确定 [A]。\n\nIV ① But in Osborneland, your first instinct is to fall into dependency — permanent dependency if you can get it — supported by a state only too ready to indulge your falsehood. ② It is as though 20 years of ever-tougher reforms of the job search and benefit administration system never happened. ③ The principle of British welfare is no longer that you can insure yourself against the risk of unemployment and receive unconditional payments if the disaster happens. ④ Even the very phrase “jobseeker’s allowance” is about redefining the unemployed as a “jobseeker” who had no fundamental right to a benefit he or she has earned through making national insurance contributions. ⑤ Instead, the claimant receives a time-limited “allowance,” conditional on actively seeking a job; no entitlement and no insurance, at £71. 70 a week, one of the least generous in the EU. [424 words]\n\n但在奥斯本世界，你的第一本能是陷入依赖——若能够得到，你希望能永远依赖——它被一个非常愿意纵容你错误的政府所支持。这好像二十年来日益严厉的求职和救济管理体系改革从来都没有发生过。英国福利制度的原则不再是“为防失业风险而给自己投保，从而在灾难发生时无条件获得付款。甚至“求职者津贴”这一术语就是意在将失业者定义为不具有领取救济金这一基本权利的“求职者”,而这一权利是他或她通过缴纳国民保险所赢得的。取而代之的是，申请人获得一种具有时限、附带积极寻找工作的条件的“津贴”;没有权利，没有保障，有的只是一周71.7镑，欧盟最低的补贴。\n\n**词汇注释与难句分析**\n\ninstinct n. 本能\n\ninsurance n. 保障，保障措施\n\ndependency n. 依赖性\n\nready a. 愿意的\n\n**经典搭配**\n\nfalsehood n. 错误，虚伪\n\nfirst instinct(第一直觉)\n\ninsure v. 保证，确保\n\ntoo ready to（非常愿意……，过分愿意……）\n\nunconditional a. 无条件的，无限制的\n\never-tougher(日益严厉)\n\npayment n. 支付款，支付的金额\n\ninsure...against the risk of (保障……抵抗……风险)\n\nentitlement n. 拥有或获得某物的权利\n\nunconditional payment（无条件支付）\n\nconditional on（以…为条件）\n\n功能注释：本句主干为 the very phrase “jobseeker's allowance”... is about redefining the unemployed as a “jobseeker”。who 引导的定语从句进一步解释“jobseeker”这一称谓的内涵，其中含有省略 that 的定语从句 he or she... 修饰 fundamental right to a benefit。\n\n**语篇分析**\n\n第四段正面批驳新政：无视失业者真实心理，无视多年来日益严格的福利改革，彻底偏离福利制度的原则与初衷。关键词：the least generous。\n\n①句承接上段，发起批驳：奥斯本无视“失业者真实心理”及“当前福利制度真实情形”。\n\nBut in Osborneland 体现对上段强转折、开启作者正面批驳，自造词 Osborneland(Osborne+land，奥斯本世界)传递作者强烈讽刺“奥斯本无视真实民生”。your first instinct is to fall into dependency—permanent dependency... 和上段末 what they want and the answer is always: a job 形成强对比：真实情形是失业者无比渴望找到工作 VS 奥斯本世界失业者第一直觉是陷入依赖，且希望永久依赖。supported by a state only too ready to indulge your falsehood (only, too ready to 形成双重强调：随时准备，非常愿意)和上段 support is minimal and extraordinarily hard to get 形成另一组强对比：当前现实是救济金极低且极难获得 VS 奥斯本却认为当前政府过于纵容依赖。falsehood（错误、虚伪）回指 dependency，承载奥斯本对失业者“依赖救济”的强烈不满。\n\n②句进一步指出奥斯本无视英国福利制度与日俱“严”的改革历史(即，当前实情已是“失业者难以陷入依赖”)。虚拟语气 It is as though...never...(好像...从未发生过)强调：与日俱严的改革实实在在已经发生，而奥斯本却对此无视。ever-tougher 展现直线递增：过去二十年英国救济管理体制与日俱“严”。\n\n③④⑤句直斥新政违背英国福利制度原则、无视失业者权利。Even... Instead... 逐步加强批驳。\n\n③句指出新政已完全违背福利制度原则(失业金不再是人们以“工作时交付的保险”赢得的“失业时的无条件付款”)。作者以 no longer 缅怀昔日福利制度，批判如今相反局面。that 从句以 and 体现“时间先后”兼“因果条件”关系，说明昔日福利制度原则：人们在有工作时(通过纳税等)为失业投保(insure against 意为“为...投保”),从而在失业时(此处 disaster 主要指“失业”)获得政府的无条件付款(unconditional payments)。\n\n④句进而以点显面，借新政所采用的表述 jobseekers' allowance 彰显如今失业金的实质(成了有条件的津贴)。Even the very phrase \"jobseeker's allowance\" (You use the very to emphasize that something is exactly the right one. 表示强调：…本身正是…最有力的说明))形成语义递进、聚焦新政用词 jobseeker's allowance。句子以 redefining A as B 说明新政对福利制度原则的背离：将“失业者(unemployed)”重新定义为“求职者(jobseeker)”,即：若要获得失业金，必须积极求职。who 引导的定语从句进一步界定 jobseeker、以“悖论(had no fundamental right VS he or she has earned)”彰显新政对福利制度的背离：失业者失去了通过缴纳国民保险所赢得的基本权利。fundamental 实为 unconditional 的反向同义表述(救济金对政府来说是“无条件的付款”=对失业者来说是“基本的权利”);earned“赢得的，赚得的”则从“对等交换关系上”进一步凸显救济金的不可剥夺；had no 则指出这种原本的“不容剥夺”实际却“已被剥夺”。\n\n⑤句进而明确指出，新政之下的救济金成了带条件、有时限的“津贴”,且金额为欧洲最低。Instead 回应③句 no longer,体现正反批驳。time-limited “allowance”、conditional on...强调如今失业金的“条件性”;no entitlement(entitlement 意为“拥有或获得某物的权利”)回应 no fundamental right,强调如今失业者“无权获取”;no insurance(insurance 意为“保障”)、least generous 强调如今的失业金“不能提供任何保障”;三者共同传递作者的极度不满。\n\n【深层解读】关注词汇对比，体味作者强烈批判：一，①②句以一组对比 too ready to indulge VS ever-tougher reforms 批驳奥斯本认定当前政府纵容失业者的依赖的错误性(反驳开篇其说辞 reduce “dependency”)。二，③④⑤句以两组对比 unconditional payment、fundamental right VS time-limited “allowance”、conditional on... (本应是无条件的付款 VS 如今成了带条件、有时限的津贴); receive... if the disaster happens VS no insurance、least generous (本应助失业者安度难关 VS 如今却数目甚微、不能提供任何保障),批判新政背离福利制度原则，加深失业者痛苦(反驳开篇其说辞 change lives for the better)。"
+      },
+      {
+       "number": 25,
+       "stem": "To which of the following would the author most probably agree?",
+       "options": {
+        "A": "Unemployment benefits should not be made conditional.",
+        "B": "The British welfare system indulges jobseekers’ laziness.",
+        "C": "The jobseekers’ allowance has met their actual needs.",
+        "D": "Osborne’s reforms will reduce the risk of unemployment."
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| 25. To which of the following would the author most probably agree? | 25. 作者最有可能同意下列哪项说法？|\n| --- | --- |\n| [A] Unemployment benefits should not be made conditional. | [A] 失业救济金不应设定为有条件的。 |\n| [B] The British welfare system indulges jobseekers' laziness. | [B] 英国福利制度会纵容求职者的懒惰。 |\n| [C] The jobseekers' allowance has met their actual needs. | [C] 求职者津贴满足了他们的实际需求。 |\n| [D] Osborne's reforms will reduce the risk of unemployment. | [D] 奥斯本的改革将降低失业风险。 |\n\n[精准定位] 第四段③④⑤句指出，奥斯本计划完全偏离了英国福利制度“无条件帮助人们度过危机”的原则，使得失业者没有任何权利或保障。可见作者认为救济金不应设为“有条件的”，[A]正确。\n\n[命题解密] [A]合理推导第四段主旨观点：反映了②句虚拟语气(It is as though...)及③④⑤句正反说明(no longer...instead...)蕴含的“对曾经无条件救济失业者的缅怀，对奥斯本严格设置救济金领取条件的谴责”。\n\n[B]源自第四段①句 a state only too ready to indulge 及第二段⑦句 subsidises laziness, 但这是奥斯本理念(作者批驳的看法)。[C]与第四段⑤句 no insurance... the least generous(救济金数目甚微，无法为失业者提供保障)相悖。[D]对第四段③句 you can insure yourself against the risk of unemployment 断章取义：原句整体含义是新政“使人们不再能抵抗失业风险”, 而非“降低人们失业风险”。\n\n[技巧总结] 本题为针对末段命制的“作者观点+推理引申”题。解题时要求：一，就末段内容分清虚实（主要借助语气——虚拟 VS 真实；时态——过去 VS 现在；句式——肯定 VS 否定）。二，结合全文观点态度：正确项往往与其同向。\n\n具体来看，借助 no longer... Instead... 可体味③④⑤句“对曾经无条件救济失业者的缅怀，对奥斯本限制救济金领取条件的谴责”，且这符合全文对奥斯本新政的批驳态度，判断[A]正确。借助②句虚拟语气 It is as though 明确作者观点：①句所述奥斯本观点“当前政府纵容依赖”错误，排除[B]。借助⑤句 no entitlement and no insurance, one of the least generous 所蕴含的强烈否定排除[C]。抓住③句 no longer 的“反转功能”排除[D]。另外，三个选项实际上都是在“支持”奥斯本观点，可进一步确定其错误。"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Text 2",
+     "passage": [
+      "All around the world, lawyers generate more hostility than the members of\nany other profession – with the possible exception of journalism. But there are\nfew places where clients have more grounds for complaint than America.",
+      "During the decade before the economic crisis, spending on legal services in\nAmerica grew twice as fast as inflation. The best lawyers made skyscrapers-full of\nmoney, tempting ever more students to pile into law schools. But most law\ngraduates never get a big-firm job. Many of them instead become the kind of\nnuisance-lawsuit filer that makes the tort system a costly nightmare.",
+      "There are many reasons for this. One is the excessive costs of a legal\neducation. There is just one path for a lawyer in most American states: a four-year\nundergraduate degree in some unrelated subject, then a three-year law degree at\none of 200 law schools authorized by the American Bar Association and an\nexpensive preparation for the bar exam. This leaves today’s average law-school\ngraduate with $100,000 of debt on top of undergraduate debts. Law-school debt\nmeans that they have to work fearsomely hard.",
+      "Reforming the system would help both lawyers and their customers. Sensible\nideas have been around for a long time, but the state-level bodies that govern the\nprofession have been too conservative to implement them. One idea is to allow people\nto study law as an undergraduate degree. Another is to let students sit for the bar after\nonly two years of law school. If the bar exam is truly a stern enough test for a would-\nbe lawyer, those who can sit it earlier should be allowed to do so. Students who do not\nneed the extra training could cut their debt mountain by a third.",
+      "The other reason why costs are so high is the restrictive guild-like ownership\nstructure of the business. Except in the District of Columbia, non-lawyers may not\nown any share of a law firm. This keeps fees high and innovation slow. There is\npressure for change from within the profession, but opponents of change among the\nregulators insist that keeping outsiders out of a law firm isolates lawyers from the\npressure to make money rather than serve clients ethically.",
+      "In fact, allowing non-lawyers to own shares in law firms would reduce costs\nand improve services to customers, by encouraging law firms to use technology\nand to employ professional managers to focus on improving firms’ efficiency. After\nall, other countries, such as Australia and Britain, have started liberalizing their legal\nprofessions. America should follow."
+     ],
+     "questions": [
+      {
+       "number": 26,
+       "stem": "A lot of students take up law as their profession due to",
+       "options": {
+        "A": "the growing demand from clients.",
+        "B": "the increasing pressure of inflation.",
+        "C": "the prospect of working in big firms.",
+        "D": "the attraction of financial rewards."
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 26. A lot of students take up law as their profession due to ____. | 26. 许多学生从事法律行业是因为____。 |\n| --- | --- |\n| [A] the growing demand from clients | [A] 委托人日益增长的需求 |\n| [B] the increasing pressure of inflation | [B] 不断增加的通货膨胀压力 |\n| [C] the prospect of working in big firms | [C] 进入大律师事务所工作的前景 |\n| [D] the attraction of financial rewards | [D] 经济回报的吸引力 |\n\n[精准定位]根据第二段②句“顶尖律师可挣得摩天大楼般高的钱，吸引众多学生涌入法学院”可知“这些学生受高收入诱惑选择法律行业”。故[D]正确。\n\n[命题解密] 题干+正确项[D]是对第二段②句的同义改写。\n\n[A]、[B]首先曲解文意，均根据①句“美国法律服务支出增速是通货膨胀的两倍”曲解出“委托人的需求在日益增长”、“通货膨胀压力不断增加”；其次，即便这种曲解是对的，也并非文中所述原因所在。[C]首先曲解文意，与③句“大多数学生根本没机会进入大律所”相悖；其次，即便能去大律所也是出于挣大钱的目的。\n\n[技巧总结] 因果细节题的解答步骤为：一、锁定题干考查对象：“因”还是“果”; 二、于文中找寻因果关联词，并于其上下文就“果”找“果”, 就“因”找“因”; 三、将找寻内容与选项匹配。如本题，由题干 due to 知其考查“因”; 再由题干关键词 a lots of students take up law as their profession 搜索至第二段②句发现，句中 tempting 为隐性因果关联词，其后为“果”其前为“因”; 最后于 tempting 前文找寻发现 skyscrapers-full of money 匹配 [D] 中 financial rewards。\n\nThere are many reasons for this. One is the excessive costs of a legal education. There is just one path for a lawyer in most American states: a four-year undergraduate degree in some unrelated subject, then a three-year law degree at one of 200 law schools authorized by the American Bar Association, and an expensive preparation for the bar exam. This leaves today's average law-school graduate with $100,000 of debt on top of undergraduate debts. Law-school debt means they have to work fearsomely hard.\n\n有多种原因造成这种情况。其一是法律教育费用过于昂贵。在美国大多数州，要成为律师只有一条路可走：先在某个不相关的专业读四年本科，然后在经过美国律师协会认证的200所法学院中选择一所修读三年法学学位，最后还得花费一笔巨资准备律师资格考试。这使得如今普通的法学院毕业生除了本科债款外，还要背负10万美元巨债。法学院债务意味着他们必须拼命地努力工作。\n\n**词汇注释与难句分析**\n\nexcessive a. 过多的，过分的\n\nthe American Bar Association(美国律师协会)\n\npath n. (达到或成就某事的)途径，方式\n\nthe bar exam(律师资格考试)\n\nthe bar 法律专业(人士),法律界\n\naverage law-school graduate(普通的法学院毕业生)\n\n**经典搭配**\n\non top of(除……之外)\n\nexcessive costs(高昂的费用；过高的代价)\n\nwork fearsomely hard(拼命努力工作)\n\nlegal education(法律教育)\n\n**语篇分析**\n\n后四段为第二层次，分析原因并给出相应解决办法。\n\n第三、四段为第一回合的“指出原因，给出相应解决办法”。\n\n第三段指出原因之一：法律教育成本过高。关键词为：the excessive costs of a legal education。\n\n①句(第二层次总起句)承上“法律服务费用高昂(this 所指内容)”启下“多个原因分析(many reasons)”。\n\n②句(段落主旨句)直陈原因：法律教育成本超额。excessive(much more than what seems reasonable or necessary)强调法律教育费用噩梦般高昂：大大超出所需、超乎理智。\n\n③④⑤句阐释②句。④句$100,000 of debt on top of undergraduate debts 具体展现②句 excessive costs of a legal education,实现句群间关联。\n\n③句先指出法律教育必经之路：四年本科无关专业学习→三年法学院专业学习→花重金参加律考。绝对表达词 just one path(仅有一条路可走，别无选择)隐晦传达出作者对这一教育体制的批判基调：过于死板与僵硬；不确定性表达词 some(“某个”,用于谈到不确定的人或物，或用于表示是谁、是什么无所谓)与 unrelated 相连，突出强调本科专业与法律教育毫无关联，暗示本科教育可能、甚至毫无必要。\n\n④⑤句后指出这种教育体制的后果。This(回指③句)leaves(因果表达词)实现句群因果衔接。\n\n④句指出直接后果：巨额经济债务。on top of(除……之外)为叠加关系：10万美元债务+本科债务，凸显法律教育费用的高昂；average 形似说明普通资质法学毕业生债务累累，实质暗藏悬念“本事平平，如何偿还巨债”,从而解除上段悬念“不能进大型律所而只当妨害案件的律师为何能将民事侵权法律体系演变成高昂的噩梦——为了偿还巨额债务”。\n\n⑤句指出间接后果：唯有拼死努力。fearsomely(very frighteningly)凸显毕业生偿债压力之下工作强度令人乍舌，反衬“当律师赚大钱美梦破灭”。\n\n【深层解读】③④⑤句直链式因果逻辑“法律教育必经之路(③句)→毕业生巨额债务(④句)(即②句“法律教育费用过高”)→毕业生拼死努力(⑤句)”反衬②③句间因果关联：③句借“律师必经的教育之路”说明②句“法律教育费用过高”,冒号后以...then...and...并列结构解释具体路径“本科四年无关专业→法学院三年→花重金参加律考”,其中三个步骤缺一不可、并需严格按照顺序来、且涉及三个因素“本科专业必须四年且无关法律、法学院必须三年且必须是美国律师协会认可的200所法学院、必须参加律考且律考超级昂贵”。"
+      },
+      {
+       "number": 27,
+       "stem": "Which of the following adds to the costs of legal education in most American\nstates?",
+       "options": {
+        "A": "Higher tuition fees for undergraduate studies.",
+        "B": "Receiving training by professional associations.",
+        "C": "Admissions approval from the bar association.",
+        "D": "Pursuing a bachelor’s degree in another major."
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 27. Which of the following adds to the costs of legal education in most American states? | 27. 下面哪项增加了在美国大多数州接受法律教育的费用？|\n| --- | --- |\n| [A] Higher tuition fees for undergraduate studies. | [A] 更为昂贵的本科学费。 |\n| [B] Receiving training by professional associations. | [B] 接受专业协会的培训。 |\n| [C] Admissions approval from the bar association. | [C] 律师协会的准入许可。 |\n| [D] Pursuing a bachelor's degree in another major. | [D] 攻读另一专业的学士学位。 |\n\n[精准定位]第三段③句介绍当前法律教育体制：先要攻读四年非法律专业学士学位，后才可进入法学院攻读法律，最后还得花重金通过律师资格考试；④句指出这种教育体制的后果：给法学院学生带来巨大债务危机。换言之，③句所言三个因素为本题题干考查对象，而唯有[D]切合其中之一，故正确。\n\n[命题解密] 正确项对应第三段③句中 a four-year undergraduate degree in some unrelated subject。\n\n[A]由④句 undergraduate debts“本科债务”捏造出“本科学费更高”，而文中并未对比本科教育与法律教育费用高低；[B]由③句 law schools authorized by the American Bar Association 衍生出“接受专业协会的培训”，而文意实为“在美国律师协会许可的法学院学习”；[C]由③句 for the bar exam“参加律考”衍生出“经得律师协会的准入许可”，而文意实为“律师资格考试费用高昂（而非准入许可）推高法律教育费用”。\n\n[技巧总结] 借题干隐性因果表达词 adds to 可知本题亦考查因果关联(解题思路同 26)。解答步骤如下：首先根据题干关键词定位至第三段，尔后搜寻到④句中因果表达词 leaves,然后再沿着其前 This(回指③句内容)搜索至③句中发现句中实含三个因素(A then B and C),最后将三个因素与选项一一匹配可知[D]对应 A。捷径：本题题干中 adds to 意表此题考查“增加的法律教育费用”,因此可先剔除与正常法律教育费用挂钩的选项，[D]中 another major 展示了这一深层含义，并对应③句中 unrelated subject。\n\nIV ① Reforming the system would help both lawyers and their customers. ② Sensible ideas have been around for a long time, but the state-level bodies that govern the profession have been too conservative to implement them. ③ One idea is to allow people to study law as an undergraduate degree. ④ Another is to let students sit for the bar after only two years of law school. ⑤ If the bar exam is truly a stern enough test for a would-be lawyer, those who can sit it earlier should be allowed to do so. ⑥ Students who do not need the extra training could cut their debt mountain by a third.\n\n改革这个体制对律师及其委托人都有益。切实可行的建议早已存在很长一段时间，但各州行业管理机构太过保守不愿推行。建议之一是，允许学生在本科阶段就修读法律。另一建议是，让学生在法学院学习两年后就参加律师资格考试。如果律师资格考试对一名准律师而言真是一个足够严格的测试的话，那就应该允许那些有能力提前参加考试的人提前参加考试。无需额外培训的学生便能将其巨债之山削减三分之一。\n\n**词汇注释与难句分析**\n\nsensible a. 明智的，合理的，实际的\n\naround ad. 存在着\n\nbody n. 团体，机构\n\nfor a long time(一段时间)\n\nstate-level body(州级机构)\n\nimplement v. 实施，落实\n\ntoo conservative to...（太过保守以至于不能……）\n\nstern a. 严厉的，严格的\n\nsit for the bar(参加律师资格考试)\n\na would-be lawyer(想要成为律师的人)\n\n**经典搭配**\n\ncut... by a third(将……削减三分之一)\n\nthat govern the profession\n\n功能注释：本句由 but 连接的两个并列分句组成，第一个分句的主干为 Sensible ideas have beenaround..., for a long time 为时间状语，说明合理改革建议早就有了。第二个分句的主干为 the state-level bodies... have been too conservative to implement them, that 引导的定语从句修饰 the state-level bodies, 表语为 too... to... 结构，意为“太……而不能……”。\n\n**真题精解**\n\n**语篇分析**\n\n第四段提出相应解决办法：改革法律教育体制。关键词为：Reforming the system。\n\n①句直指改革好处：律师、委托人均受益。would help 暗藏虚拟想象性质“如果这一体制得以改革的话，将有助于……”,反衬其改革可能受挫。both...and...虽为并列形式，却将语义重点落于后者“不仅仅能够帮助到那些可怜的债台高筑的法学院毕业生(即律师),也能帮助到他们毕业后的服务对象(即委托人)”,借此明确上文因果链条“法律教育费用恨天高→为了偿还巨额债务，当上小小妨害案件诉讼律师的普通法学院毕业生在努力工作之余，很有可能收取更高法律服务费用→民事侵权法律体制变成高昂的噩梦→委托人受害，将怨恨发泄给收取高昂费用的律师”;换言之，律师及委托人都深受当前法律教育体制所害。\n\n②句指出改革障碍：僵化的行业管理机构。句子先借 sensible“合理的，切合实际的”呼应①句 help,凸显作者对改革的支持态度；再借 for a long time 暗藏作者对权力部门“视而不见/听而不闻”合理措施的批评态度；最后再借 too conservative to implement“太过保守而不实施”明确作者对州级管理部门的看法：因循守旧、不思进取。\n\n③至⑥句阐明改革措施。序列词 One、Another 及许可词 to allow、to let、should be allowed to 实现句群内部联接。\n\n③句介绍措施一：允许本科开始学法律。此措施实际针对上段②④句“四年本科与法律无关，却给学生带来债务”而言，复现 some unrelated 隐藏文意“本科专业不仅无关、甚至无需”;allow 反向说明当前美国本科不允许开设法律课程。\n\n④⑤⑥句介绍措施二。其中④句直陈措施：允许提前一年参加律考。此措施实际针对上段②句“三年法学专业后方可律考”而言；let 反向说明当前法学教育三年制的僵化“严禁未满三年者参加律考”。\n\n⑤句说明可行性条件(If): 只要保证律考足够严格考查学生能力。truly“真正，确实”强调律考必须满足的特质：足够严格；would-be“(形容想要成为……的人)将来的”, a would-be lawyer 即指“想要成为律师的人”, 也即汉语中通俗意义的“准律师”; sit it 即 sit the bar exam, 其中 sit 为熟词僻意，意为 to take an examination“参加考试”, 其后可以加 for(如④句), 也可以不加(如本句)。\n\n⑥句说明有利影响(could):能够减轻三分之一债务。the extra training 即指法学院第三年的学习；debt mountain 以“法学院学生身背巨额债务”凸显此条措施可具采纳性“既具有可行性条件，也具有相当有利的影响”之余，更加表达出作者对管理机构太过僵化、迟迟不予实施的指责之意。\n\n【深层解读】末四句与首两句为解释说明关系：③至⑥句“改革措施及有利效果”旨在说明①②句“改革利好，却受监管部门阻碍”,直指问题症结“监管部门因循守旧”及问题突破口“监管部门打破常规思维、接受改革新思想”。"
+      },
+      {
+       "number": 28,
+       "stem": "Hindrance to the reform of the legal system originates from",
+       "options": {
+        "A": "the rigid bodies governing the profession.",
+        "B": "lawyers’ and clients’ strong resistance.",
+        "C": "the stern exam for would-be lawyers.",
+        "D": "non-professionals’ sharp criticism."
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| 28. Hindrance to the reform of the legal system originates from ____. | 28. 法律体制改革的阻碍来源于____。 |\n| --- | --- |\n| [A] the rigid bodies governing the profession | [A] 该行业僵化的管理机构 |\n| [B] lawyers' and clients' strong resistance | [B] 律师和委托人的强烈反对 |\n| [C] the stern exam for would-be lawyers | [C] 严格的律师资格考试 |\n| [D] non-professionals' sharp criticism | [D] 非专业人士的尖锐批评 |\n\n[精准定位] 第四段②句指出：切实可行的计划早已具备，但各州行业管理机构过于保守不愿推行。可见，保守的州级管理部门阻碍了改革，[A]正确。\n\n[命题解密] 正确项是对第四段②句的同义改写，其中 rigid、bodies governing the profession 分别对\n\n应 too conservative、bodies that govern the profession。\n\n[B]与①句“改革法律教育体制对律师和客户均有益”所暗藏的“律师和客户都支持改革”相悖；[C]误将改革措施等同于改革障碍；[D]将第五段②句“非律师身份人士对律师行业行会式限制性所有权机构可能存在的批评”偷换成“非专业人士对法律体制改革的尖锐批评”。\n\n[技巧总结] 借题干隐性因果表达词 originates from 可知本题亦为因果细节题，但并非只有因果表达词能够表达因果关联，有时候也可以通过语义逻辑传递因果关联，故解答时应一反常规“于文中找寻因果关联词”, 另辟蹊径“于文中找到与题干 Hindrance 的近义表达 (too conservative to implement them, 其中 them 指代 sensible ideas about/of reforming the system)”, 然后再追其施动者 (the state-level bodies that govern the profession) 即可快速找寻到正确答案。\n\nV ① The other reason why costs are so high is the restrictive guild -like ownership structure of the business. ② Except in the District of Columbia, non-lawyers may not own any share of a law firm. ③ This keeps fees high and innovation slow. ④ There is pressure for change from within the profession, but opponents of change among the regulators insist that keeping outsiders out of a law firm isolates lawyers from the pressure to make money rather than serve clients ethically.\n\n法律服务费用如此之高的另一个原因是该行业类似于行会性质的限制性所有权结构。除了在哥伦比亚特区，非律师身份者不可以拥有律师事务所的任何股份。这使得费用居高不下且创新缓慢。律师行业内部存在变革呼声，但监管人员中反对变革的人坚持认为，禁止外行涉足法律事务所有助于律师远离挣钱压力，而按照职业道德为委托人服务。\n\n**词汇注释与难句分析**\n\nrestrictive a. 限制性的，约束性的\n\nguild n. 协会，行会\n\n**经典搭配**\n\nopponent n. 反对者\n\nregulator n. 管理者，管理机构\n\nguild-like ownership structure(行会式所有权结构)\n\nfrom within the profession(从该行业内部)\n\nisolate...from...(使……远离……)\n\nisolate v. 孤立，隔离\n\nethically ad. 合乎道德地\n\nThere is pressure for change from within the profession, but opponents of change among the regulators insist that keeping outsiders out of a law firm isolates lawyers from the pressure to make money rather than serve clients ethically.\n\n功能注释：本句由 but 连接的两个并列分句组合而成；第一个分句为 there be 结构，其主干为 There is pressure, for change from.. profession 为后置定语修饰 pressure,补充说明压力的来源；第二个分句的主干为 opponents... insist that...,that 引导的从句做 insist 的宾语，末尾 to make money rather than serve clients ethically 做 pressure 的后置定语，解释说明压力的具体内容。\n\n**真题精解**\n\n第五、六段为第二回合的“指出原因，给出相应解决办法”。\n\n第五段指出原因之二：法律行业类似行会性质的限制性所有权结构。关键词为：the restrictive guild-like ownership structure。\n\n句直指原因。The other reason why costs are so high 既呼应第三段②句 One (reason), 也表明第三段首句 many reasons for this 中 this 指代内容“法律服务费用高昂这一问题”, 实现段间衔接；restrictive (to stop people doing what they want to do) 与 guild-like “像行会一样的(但并非真正行会)”相连，实则暗示美国律师行业禁止他人入行、实施行内保护主义，即“对内保证会员权利义务均等、对外实行垄断”。\n\n句解释①句。②③句 may not... keeps fees high... 复现①句 reason why costs are so high... is the restrictive... 因果逻辑，表明句群间关联。\n\n句先解释何谓“限制性”:非律师身份者不可准入。may not...any 呼应 restrictive,其中 may 不表可能而表许可“可以”,not...any 以绝对之势凸显限制的苛刻。\n\n句后说明不良影响：费用高、创新慢。This 回指②句所述“不允许非律师拥有律所股份”这一做法；keep“使保持，使处于”展示因果关联。\n\n句补充改革反对派坚持这种限制性所有权结构的理由：让律师免受赚钱还债压力，从而提供更好的服务。insist“坚称，坚决认为”深层暗示即便这一理由招致其他人反驳，改革反对派们依旧会一意孤行、执意反对改革，再度传达作者对监管者们因循守旧、不愿打破常规、接受新思想的批评态度；注意句中两个 pressure,前者更倾向于表达“诉求”之意，即“行业内部有要求改革的呼声”;后者更倾向于表达“紧迫，紧张，压力”之意，且后者由 to A rather than B 结构限定、与 isolates... from 结构相连，暗藏双重否定之意，直译为“使律师远离‘要赚钱、而不要按职业操守为委托人提供服务’的压力”,意译即为“让律师不要有赚钱的压力，要遵循职业操守、为委托人提供优质服务”,深层反映出当前法律服务的阴暗面：律师只管挣钱而不心系委托人，复现首段委托人对律师的诸多抱怨。\n\n【深层解读】④句既可视为本段与下段的过渡句，也可视为①句的解释说明（即，本段可视为“总（①句）一分（②③④句）”结构）：④句乍看与末段更为契合，讲述问题的解决办法“改革限制性所有权结构”，但它借说明“改革障碍：内部虽有改革诉求，但监管者拒绝改变”亦可凸显①句“问题的严峻性：难以革新的限制性所有权结构使得法律服务费居高不下”。"
+      },
+      {
+       "number": 29,
+       "stem": "The guild-like ownership structure is considered “restrictive” partly because it",
+       "options": {
+        "A": "prevents lawyers from gaining due profits.",
+        "B": "bans outsiders’ involvement in the profession.",
+        "C": "aggravates the ethical situation in the trade.",
+        "D": "keeps lawyers from holding law-firm shares."
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| 29. The guild-like ownership structure is considered “restrictive” partly because it ____. | 29.行会般的所有权结构被认为是“限制性的”,部分原因在于它____。 |\n| --- | --- |\n| [A] prevents lawyers from gaining due profits | [A] 使律师无法获得应有的收益 |\n| [B] bans outsiders’ involvement in the profession | [B] 禁止非律师人员涉足这个行业 |\n| [C] aggravates the ethical situation in the trade | [C] 使该行业的道德状况恶化 |\n| [D] keeps lawyers from holding law-firm shares | [D] 不让律师持有律师事务所的股份 |\n\n[精准定位] 第五段②句解释①句所述概念“限制性所有权结构”:除了哥伦比亚特区，非律师身份的人不允许拥有律师事务所的股份；④句也提到“将非律师身份者排除在律师事务所之外”。可见，[B]正确。\n\n[命题解密] 正确项是对第五段②句 non-lawyers may not own any share of a law firm 以及④句 keeping outsiders out of a law firm 的同义替换。\n\n[A]反向曲解④句“这一限制性所有权结构让律师没有赚钱的压力”，且和题干不构成因果关联；[C]将④句“让律师很好地为委托人服务”曲解为“使得该行业道德恶化”，且和题干不构成因果关联；[D]将“非律师身份者(non-lawyers)”偷换为“律师(lawyers)”。\n\n[技巧总结] 本题形式上是不折不扣的因果细节题，但同28题，并不能在文中找寻到因果关联词；进而再仔细琢磨题干可发现，它实质上考查抽象概念“restrictive”;而解答抽象概念的关键在于“借助句群关联”。解答本题逻辑即为：第五段实为“总(①句)一分(②③④句)”结构，其中①句作者使用评注词 restrictive, ②④句 non-lawyers may not own any share of a law firm, keeping outsiders out of a law firm 在一定程度上即为 restrictive 的注解。\n\nVI ① In fact, allowing non-lawyers to own shares in law firms would reduce costs and improve services to customers, by encouraging law firms to use technology and to employ professional managers to focus on improving firms' efficiency. ② After all, other countries, such as Australia and Britain, have started liberalizing their legal professions. ③ America should follow. [418 words]\n\n事实上，通过鼓励律师事务所使用科技以及聘请职业经理人着力提高律所效率，允许非律师持有律师事务所股份能降低成本、为委托人提供更好的服务。毕竟，其他一些国家，如澳大利亚和英国，已经开始放宽对其法律行业的限制，美国应该效仿。\n\n**词汇注释与难句分析**\n\nliberalize v. 使自由化，放松对……的限制\n\n**经典搭配**\n\nlaw firm(律师事务所)\n\nprofessional manager(职业经理人)\n\nfocus on(聚焦于……)\n\nafter all(毕竟)\n\n**语篇分析**\n\n第六段提出相应解决办法：放宽行业限制。关键词为：liberalizing their legal professions。\n\n①句直陈好处：能降低成本、提供更好的服务。衔接词 In fact“(用于强调实际情况恰恰相反)事实上，实际上”实质借引出真实情况“让外来者涉足能降低费用、提高质量”驳斥改革反对派意见“外来者涉足会给行业内部成员带来挣钱压力，从而降低委托人服务质量”; would 同第四段首句，暗藏“虚拟想象”之意，反衬当局者执迷不悟、不愿改革的现状“服务差、成本高”; by 引出改革方式(allowing...为改革内容)。\n\n②说明理由：其他国家早已放宽限制(并已收到成效)。After all 语用功能为 used to say that sth should be remembered or considered, because it helps to explain what you have just said“(解释或说明理由)毕竟，别忘了”,套入文中，因果逻辑即为：“别的国家已经开始放宽了限制(②句)”有助解释“允许非律师持股可以降低服务费用、提高服务质量(①句)”,由此可果断推测此句作者意在表达：其他国家放宽限制后收到了相关成效。\n\n③句提出建议：美国也该效仿。should follow 言简意赅表明作者态度，其中 follow 意为“接受……为指导(或领导、榜样),仿效”。\n\n【深层解读】文末句言简意赅、升华全文主题：③句 America should follow 反衬文章结构“提出问题——解决问题”的同时，明确问题解决的关键在“美国法律行业当局者”，字里行间将作者对“美国法律行业当局者执迷不悟、因循守旧”的批判态度展露无遗。"
+      },
+      {
+       "number": 30,
+       "stem": "In this text, the author mainly discusses",
+       "options": {
+        "A": "the factors that help make a successful lawyer in America.",
+        "B": "a problem in America’s legal profession and solutions to it.",
+        "C": "the role of undergraduate studies in America’s legal education.",
+        "D": "flawed ownership of America’s law firms and its causes."
+       },
+       "answer": "B",
+       "explanation": "· 全局真题精解 ·\n\n> **答案：** B\n\n| 30. In this text, the author mainly discusses ____. | 30. 在本文中，作者主要探讨了____。 |\n| --- | --- |\n| [A] the factors that help make a successful lawyer in America | [A] 在美国成为成功律师的因素 |\n| [B] a problem in America's legal profession and solutions to it | [B] 美国律师行业的问题与对策 |\n| [C] the role of undergraduate studies in America's legal education | [C] 本科教育在美国法律教育中的作用 |\n| [D] flawed ownership of America's law firms and its causes | [D] 有缺陷的美国律师事务所所有权制度及其成因 |\n\n[精准定位] 首两段提出话题“美国法律服务费用高昂”; 末四段借助两个回合的“分析问题——给出解决办法”将美国法律服务费用为什么高昂以及如何解决这一问题做了详尽阐述。据此可知，文章的论述中心应该是“美国律师行业的问题与对策”，[B]正确。\n\n[命题解密] 正确项是对全文主述话题及内容的最有力概括，既不显得细节，也不显得脱节。\n\n[A]由第三段③句“想要成为一名律师所必须接受的教育路径”捏造出“在美国成为成功律师的影响因素”这个文中不存在的信息；[C]由第三段③句“成为律师首先必须学习四年非法律本科专业”及第四段③句“本科即可开始学习法律”衍生出文章在探讨“本科教育在美国法律教育中的作用”，而这并非文意重点；[D]将第五六段“美国律师事务所所有权制度有一定缺陷”这一局部内容夸大为文章核心内容。\n\n[技巧总结]解答主旨题的关键在从主题、脉络、尤其首末段展开。如本文，主题即为美国法律行业（由首段①句 with the possible exception of journalism 即可推知），纵观四个选项发现每个选项都跟法律沾边；故而再看首末段，借首段“美国律师饱受诟病(问题)”及末段“美国应效仿他国(建议)”可初步推断[B]“问题—解决”符合全文结构；然后再根据中间段落逻辑链一 There are many reasons→one→the other reason、逻辑链二 reforming the system would help both lawyers and their customers→allowing non-lawyers...would reduce costs and improve services to customers 可知全文着力“问题原因分析—有效解决途径”可最终敲定[B]正确。"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Text 3",
+     "passage": [
+      "The US$3-million Fundamental Physics Prize is indeed an interesting\nexperiment, as Alexander Polyakov said when he accepted this year’s award in\nMarch. And it is far from the only one of its type. As a News Feature article in\nNature discusses, a string of lucrative awards for researchers have joined the\nNobel Prizes in recent years. Many, like the Fundamental Physics Prize, are funded\nfrom the telephone-number-sized bank accounts of Internet entrepreneurs.These\nbenefactors have succeeded in their chosen fields, they say, and they want to use\ntheir wealth to draw attention to those who have succeeded in science.",
+      "What’s not to like? Quite a lot, according to a handful of scientists quoted in the\nNews Feature. You cannot buy class, as the old saying goes, and these upstart\nentrepreneurs cannot buy their prizes the prestige of the Nobels. The new awards\nare an exercise in self-promotion for those behind them, say scientists. They could\ndistort the achievement-based system of peer-review-led research. They could cement\nthe status quo of peer-reviewed research. They do not fund peer-reviewed research.\nThey perpetuate the myth of the lone genius.",
+      "The goals of the prize-givers seem as scattered as the criticism. Some want to\nshock, others to draw people into science, or to better reward those who have\nmade their careers in research.",
+      "As Nature has pointed out before, there are some legitimate concerns about\nhow science prizes – both new and old – are distributed. The Breakthrough Prize\nin Life Sciences, launched this year, takes an unrepresentative view of what the\nlife sciences include. But the Nobel Foundation’s limit of three recipients per\nprize, each of whom must still be living, has long been outgrown by the\ncollaborative nature of modern research – as will be demonstrated by the\ninevitable row over who is ignored when it comes to acknowledging the discovery\nof the Higgs boson. The Nobels were, of course, themselves set up by a very rich\nindividual who had decided what he wanted to do with his own money. Time,\nrather than intention, has given them legitimacy.",
+      "As much as some scientists may complain about the new awards, two things\nseem clear. First, most researchers would accept such a prize if they were offered\none. Second, it is surely a good thing that the money and attention come to science\nrather than go elsewhere. It is fair to criticize and question the mechanism – that\nis the culture of research, after all – but it is the prize-givers’ money to do with as they\nplease. It is wise to take such gifts with gratitude and grace."
+     ],
+     "questions": [
+      {
+       "number": 31,
+       "stem": "The Fundamental Physics Prize is seen as",
+       "options": {
+        "A": "a symbol of the entrepreneurs’ wealth.",
+        "B": "a handsome reward for researchers.",
+        "C": "a possible replacement of the Nobel Prizes.",
+        "D": "an example of bankers’ investments."
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 31. The Fundamental Physics Prize is seen as ____. | 31. 基础物理学奖被视作____。 |\n| --- | --- |\n| [A] a symbol of the entrepreneurs' wealth | [A] 企业家财富的一种象征 |\n| [B] a handsome reward for researchers | [B] 对研究人员的丰厚奖赏 |\n| [C] a possible replacement of the Nobel Prizes | [C] 诺贝尔奖可能的替代者 |\n| [D] an example of bankers' investments | [D] 银行家投资的一项实例 |\n\n[精准定位]首句开门见山指出300万美元奖金的 Fundamental Physics Prize(FPP)是个有吸引力的尝试。②③句接着说明一系列类似的奖金丰厚奖项(lucrative awards)已经加入诺贝尔奖队列当中。④句进一步说明 FPP 资金来源：拥有巨额资产(the telephone-number-sized bank accounts)的互联网大鳄。可见，该奖项是对获得成就的研究者的一笔丰厚奖赏，[B]正确。\n\n[命题解密][B]中 a handsome reward for researchers 是对原文 US $3-million、lucrative awards for researchers 的同义表达。\n\n[A]源于④⑤句中“奖项经费来自互联网大佬的巨额资产”、“他们在事业上获得了成功，想用财富去吸引公众关注科研能人”，但两句旨在介绍包括 FPP 在内的新奖项的设立背景，而非“FPP 是企业家财富的标志”。[C]从③句“近年来许多奖金丰厚的奖项加入诺贝尔奖行列”过度推出“FPP 可能会取代诺贝尔奖”。[D]将④句 are funded from...bank accounts...误读为“银行家对 FPP 投资”，但此处 bank\n\naccounts 与银行家无关，其次“捐资”≠“投资”。\n\n[技巧总结] 开篇就某专有事物发问，则该内容绝非简单细节，而是关乎全文话题，即该事物/例往往充当全文引子的作用，应利用“主题一致”的原则考量选项。本题针对“基础物理学奖”设题，提示其为全文引子，再由其他几个题干 (涉及“新奖项、诺贝尔奖”), 以及首段第二句“远非唯一”、每段首句均涉及“新奖项”可明确这一推测：全文围绕科学界新奖项展开论述。正确项不会脱离主题，应与“科研”相关，[A] 和 [D] 分别聚焦“企业家”和“银行家”, 属于社会经济类范畴，首先排除。[C] 干扰较强，但文章主要介绍“新事物”, 并非探讨“两者博弈”。\n\nⅡ ① What's not to like? ② Quite a lot, according to a handful of scientists quoted in the News Feature. ③ You cannot buy class, as the old saying goes, and these upstart entrepreneurs cannot buy their prizes the prestige of the Nobels. ④ The new awards are an exercise in self-promotion for those behind them, say scientists. ⑤ They could distort the achievement-based system of peer-review -led research. ⑥ They could cement the status quo of peer-reviewed research. ⑦ They do not fund peer-reviewed research. ⑧ They perpetuate the myth of the lone genius.\n\n（既然如此，）有什么理由不喜欢呢？据该新闻专题文章引用的少数科学家所说，不喜欢的理由很多。俗话说，金钱买不来地位，这些暴富的企业家不能为自己设立的奖项买来诺贝尔奖的声望。有科学家说，这些新奖项专为其背后的人实现自我炒作而设。它们可能会扭曲以同行评审为指导、基于研究成果的研究体系。它们可能会使同行评审的研究的状况止步不前。它们不对同行评审的研究提供资助。它们让个人天才的神话长存。\n\n**词汇注释与难句分析**\n\na handful of 几个，少数\n\nclass n. 阶级，社会等级\n\nupstart a. 暴富的\n\nexercise n. (为达到某种结果而进行的) 活动，任务\n\nself-promotion 自我宣传\n\ndistort v. 扭曲，使失真\n\npeer review 同行评审，专家相互评阅\n\ncement v. 加强，巩固\n\nstatus quo 现状\n\nperpetuate v. 使持续\n\n**经典搭配**\n\nnews feature(新闻专题、特写)\n\nyou cannot buy class(金钱买不来地位)\n\n**语篇分析**\n\n第二至四段讨论现象：分别论述批评者对新奖项的看法、新奖项设立目的以及新旧奖项的局限性。\n\n第二段介绍少数科学家对新奖项的质疑。关键词为：Quite a lot。\n\n①句承上启下设问：既然新奖丰厚、还能引导公众关注科研进步，那还有什么不好的？What's not to like 常见于口语，本为反问句，意在强调人或事挑不出什么毛病，非常招人喜欢；此处反其意而用之，引出下文一些人对新奖项的异议。\n\n②至⑧句回答①句设问，阐释少数人眼中新奖项的问题所在。\n\n②句直铺观点：新奖项的问题相当多。Quite a lot 短小精悍，直接回应首句发问，开启下文探讨。a handful of 指“一只手抓起的数量”,形象表明这类人只是少数，与首段①句暗合，反向暗示文章对新奖项“基本肯定”的总基调。\n\n③至⑥句例证②句，列举少数科学家认为的新奖项局限性。\n\n③句对比传统奖项，指出新奖项无法买来同样的声望和地位。俗语 You cannot buy class(class 指“阶层”,对应后半句 the prestige)引出新奖项局限性。其中，upstart(自命不凡的新上任者、暴发户)修饰 entrepreneurs，侧面反映出少数科学家对捐资者的负面定位：徒有金钱，不自量力。\n\n④句指出新奖项设立目的不纯：旨在商业炒作(而非促进科研进步)。句中 exercise(in sth)取僻义，指 an activity that is designed to achieve a particular result “为达到某特定结果的行为”; an exercise in self-promotion for... (self-promotion 一语双关，既指“自我抬高”,又指“自我推广、推销”)意即“捐资企业家旨在自我商业炒作的行为”; those behind them 代指“为新奖捐资的企业家”。\n\n⑤至⑧句指出新奖项对科研的不利影响(四句句首 They 均代指④句 The new awards)。\n\n⑤句指出新奖项对科研体系的威胁。system 同时被 the achievement-based 和 of peer-review-led research(后缀-led 表示“由……引导/影响的”)限定，概括出科研体系的两大客观性特点：以科研成果为基础、由同行评审指导。distort(使变形)一词暗示新奖项可能由于掺杂人为因素而损害这种客观性。\n\n⑥⑦句指出新奖项无益于同行评审研究的发展。cement(加强，巩固)本为“褒词”,但宾语 status quo(一直以来的状况)使其传达贬义：同行评审研究的革新和发展可能会停滞不前。do not fund...表明原因：对同行评审研究毫无资金支持。\n\n⑧句指出新奖项不利于打破“重个人、轻团队”的陈规。perpetuate(使长久持续[尤指不好的事物])与 myth(许多人认定但事实上并不存在或错误的)暗示 the lone genius(即“科研成果归于个人”)是科研界历来所推崇的，但事实上新奖项非但不能遏制，反而会怂恿这一态势。\n\n【深层解读】段中④至⑧句构成的排比从“目的不纯”到“损害科研体系的客观公正性”再到“挫伤团队志气，阻碍科研发展”，步步为营，层层深入，仿佛已经对新奖项“判了死刑”，但阅读时切记大局意识，②句的 according to a handful of...暗示全段为少数科学家观点，提示后文会客观阐释作者自身看法。"
+      },
+      {
+       "number": 32,
+       "stem": "The critics think that the new awards will most benefit",
+       "options": {
+        "A": "the profit-oriented scientists.",
+        "B": "the achievement-based system.",
+        "C": "the founders of the new awards.",
+        "D": "peer-review-led research."
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n| 32. The critics think that the new awards will most benefit _. | 32. 批评者认为，新奖项最大的获益者是_。 |\n| --- | --- |\n| [A] the profit-oriented scientists | [A] 逐利的科学家 |\n| [B] the achievement-based system | [B] 基于成果的体系 |\n| [C] the founders of the new awards | [C] 新奖项的设立者 |\n| [D] peer-review-led research | [D] 以同行评审为指导的研究 |\n\n[精准定位] 根据 The critics 可定位至第二段，前两句以“设问—回答(What's not to like? Quite a lot.)”形式引出批评者的看法。④句指出，(批评者认为) 设奖是为了实现自我推销炒作 (an exercise in self-promotion for those behind them), 也即出于利益驱使，设奖者自然是最大的获益者，[C] 正确。\n\n[命题解密] 题干 + [C] 是对第二段④句的合理推导，题干中 most benefit 和选项中 the founders... 分别对应文中 self-promotion 和 those behind them。\n\n[A]把文中 those behind them 误认为是“科研工作者”，而其实际指代“设奖者”。[B]和[D]反向曲解⑤句，该句意为“新奖项可能会扭曲(distort)基于成果的、以同行评审为导向的科研体系，既然整个体系受损，那么体系下的“同行评审导向的研究”也不可能受益。\n\n[技巧总结] 本题考查批评者的观点(The critics think)，既然是“批评”，则“获益最大者”一定是违背常情，不被接受的，[B]和[D]属于科研相关的内容，获益理所当然，所以先行排除；再从[A] (科学家)和[C] (奖项设立者)之间选择，但第二、三段乃至全文都未将矛头对准过“科学家”：开篇就介绍新奖项的设立背景，再到第二、三段提及设奖目的（分别是“批评者眼中”和“作者眼中”的），可知“捐资授奖者的用意（而非奖项本身弊端，让一些目的不纯的科研者钻了空子）”属于文中争议内容。\n\nThe goals of the prize-givers seem as scattered as the criticism. Some want to shock, others to draw people into science, or to better reward those who have made their careers in research.\n\n授奖者的目的似乎和批评一样分散。有的想要引起轰动，其他人想吸引公众走进科学，或者想要更好地奖励那些在研究中有所成就的人们。\n\n**词汇注释与难句分析**\n\nscattered a. 分散的\n\n**经典搭配**\n\ndraw...into...(把……吸引人……)\n\nmake one's career(在事业上有所成就)\n\n**语篇分析**\n\n第三段介绍新奖项被设立的目的。关键词为：goals。\n\n①句过渡，承上指出奖项出资者的目的和批评一样多样。the criticism 回应第二段少数科学家对新奖项的批评；as scattered as... 开启本段对设奖者目的的论述，scattered 本意为“四散的，散乱的”，此处形容企业家设奖目的不一，各不相同。\n\n②句例证①句，列举几种主要目的。Some want to... 先引出一些不纯目的；shock 略去宾语（即“受众”），泛指“震惊所有人”，即旨在快速成名。others want to..., or(want)to... 引出其他人的积极目的：引大众关注科研、鼓励科研成就者；句中 career 并非“职业”，而是指“事业的（成就、成功）”。\n\n【深层解读】本段表面上客观介绍了互联网大佬设立新奖项的各种目的，但 Some...，others...，or... 中 some 仅为“少数人”，others...，or... 实为“其余大多数人”，故作者传递的信息为：“居心不良者”只是少数，大多数用意是好的，所以侧面驳斥了上段一些人的质疑（设奖目的在于自我炒作）。\n\nIV ① As Nature has pointed out before, there are some legitimate concerns about how science prizes — both new and old — are distributed. ② The Breakthrough Prize in Life Sciences, launched this year, takes an unrepresentative view of what the life sciences include. ③ But the Nobel Foundation's limit of three recipients per prize, each of whom must still be living, has long been outgrown by the collaborative nature of modern research — as will be demonstrated by the inevitable row over who is ignored when it comes to acknowledging the discovery of the Higgs boson. ④ The Nobels were, of course, themselves set up by a very rich individual who had decided what he wanted to do with his own money. ⑤ Time, rather than intention, has given them legitimacy.\n\n正如《自然》曾指出的，人们在科学奖项——无论新旧——如何分配的问题上有些顾虑是合理的。今年推出的“生命科学突破奖”对生命科学这一学科的内涵认定就不具有代表性。但是诺贝尔基金会的限定——每个奖项获奖人数不超三人，且必须都在世——早就因为现代研究的协作性质而不再适用了，这一点会在确认希格斯玻色子的发现时得到证明，因为届时必然会出现关于“哪位（科学家）遭到忽视”的争论。当然，诺贝尔奖本身也是由非常富有的个人设立，由他决定想用自己的钱做什么。（不过）赋予诺贝尔奖正统地位的是时间，而非动机。\n\n**词汇注释与难句分析**\n\ndistribute v. 分配，分散\n\nrecipient n. 接受者，领受者\n\noutgrow v. 长得太大了而不适用\n\ncollaborative a. 合力的，协作的\n\nrow n. 争论，争议\n\nboson n. 玻色子\n\nlegitimacy n. 合法性，正统性\n\n**经典搭配**\n\nsome legitimate concerns about...（一些关于……的合理担忧）\n\nwhen it comes to(当提及……的时候，涉及……的时候)\n\nset up(设立)\n\ntake a...view of sth(以……的眼光看某事)\n\nBut the Nobel Foundation's limit of three recipients per prize, each of whom must still be living, has long been outgrown by the collaborative nature of modern research — as will be demonstrated by the inevitable row over who is ignored when it comes to acknowledging the discovery of the Higgs boson.\n\n功能注释：句子主干为 the Nobel Foundation's limit... has long been outgrown by the collaborative nature...。句中 of three recipients per prize 限定 limit,说明限制的具体内容；each of whom...为非限制性定语从句修饰 three recipients,继续说明三名受奖者必须达到的条件。破折号后 as will be demonstrated by...为非限制性定语从句，对破折号前整体内容作出说明：“对人数的限制已经不适用于当前科研的合作性质”这一情况将由……所证明。介词结构 over who is ignored...后置修饰 the inevitable row,说明争论的内容；宾语从句 who is ignored...嵌套时间状语从句 when it comes to...,表明争议将会发生的背景。\n\n**语篇分析**\n\n第四段分析新旧奖项共同的局限性：分配不尽合理。关键词为：①legitimate;②distributed。\n\n①句为段落主旨句：新旧奖项在分配上都有问题。concerns([尤指许多人共同的]担心，忧虑)以 legitimate(fair or reasonable “正当的，合理的”)修饰，实际表明作者观点：新旧奖项确实都存在问题。about...引出问题核心：奖项分配的方式；distribute(to share things among a group of people, especially in a planned way)一词暗示理应的获奖者并非单一个体，而人们的“担忧点”在于奖项是否能够在参与者之间得到公平分配。\n\n②③句分述新旧奖项在分配方面的问题所在。\n\n②句以新奖“生命科学突破奖”为例说明奖项分配问题：不能昭示学科内涵。take a/an...view of sth 意为“以……的眼光看待某物”;unrepresentative(不具代表性的，不典型的)修饰 view,传达“该奖的分配未能体现生命科学这一学科所涵盖的内容”之意(详情见背景知识)。\n\n③句以传统奖诺贝尔奖为例说明奖项分配问题：忽略团队协作。But 与首句 both new and old 暗合：新奖固然有其分配问题，但传统奖项同样存有弊端。A outgrows B 指“A 长得太大，以至于 B 不适用于 A 了(如，They outgrow their clothes so quickly. 他们长得太快，衣服很快就穿不下了。)”,文中为被动句式，“A”为 the collaborative nature of modern research,“B”为 the Nobel Foundation's limit,文意即：诺贝尔基金会对获奖人数及必须健在的限制(多年未变),早已不适用于“当代科研的协作性质”。\n\n破折号后 as will be demonstrated by(demonstrate 意为 to show or prove sth clearly “明确证实”) 引出“诺贝尔奖颁奖原则已不合时宜”的例证[注：诺贝尔奖对参与发现 Higgs boson 的颁奖时间为 2013 年 10 月，本文写于 6 月，故为将来时态 as will...];row 意为 a situation in which people disagree strongly about important public matters;inevitable 限定 row([对重要公众事件的]巨大争议),暗示希格斯玻色子的发现为团队成果，而诺奖仅限三人，争议在所难免。\n\n④⑤句转而以类比方式侧面对新奖项加以肯定：其价值最终会由时间积淀决定。④句 of course 退步展示人所共知的内容：诺贝尔奖同现在的新奖一样，当年也是由富裕的个人设立。do with 意为“处置，利用”。⑤句 them 指代诺贝尔奖；legitimacy 意为 undisputed credibility“无可争辩的可信性地位”;选择句式 Time, rather than intention, has... 突显诺奖的这一正统地位与设奖意图无关(intention 一词与第三段 goals 呼应),因而两句看似聚焦“诺贝尔奖”,实际侧面强调“新奖项不应基于任何设立目的而备受批评，应被给予更多时间验证其价值”。\n\n【深层解读】继上段介绍少数科学家对奖项的质疑之后，本段开启作者对“新奖项存在问题”的探讨，不过段首句破折号之间的 both new and old 暗示作者的“批判立场”并不绝对：新的固然有，但旧的也有同样问题；③句虽揭示了诺奖的问题“不合时宜”，但末句仍充分肯定了其价值和地位，所以作者更想为新奖项提供比上文（大多数设立者初衷良好）更深一层的支持：无论其设立出于何种目的，都不会妨碍新奖项日后可能也成为像诺贝尔奖一样的经典。"
+      },
+      {
+       "number": 33,
+       "stem": "The discovery of the Higgs boson is a typical case which involves",
+       "options": {
+        "A": "legitimate concerns over the new prizes.",
+        "B": "controversies over the recipients’ status.",
+        "C": "the joint effort of modern researchers.",
+        "D": "the demonstration of research findings."
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n| 33. The discovery of the Higgs boson is a typical case which involves _. | 33.希格斯玻色子的发现是一个涉及到_的典型案例。 |\n| --- | --- |\n| [A] legitimate concerns over the new prizes | [A] 对新奖项的合理担忧 |\n| [B] controversies over the recipients' status | [B] 对获奖者地位的争议 |\n| [C] the joint effort of modern researchers | [C] 现代研究者的共同努力 |\n| [D] the demonstration of research findings | [D] 研究成果的展示 |\n\n[精准定位] 第四段③句前半句指出，授奖对人数的限制早已与现代科研通力合作的性质相脱节 (the Nobel Foundation's limit... has long been outgrown by the collaborative nature...); 破折号引出证实该情况的事例：为 Higgs boson 的发现者授奖时势必会引发“哪位科学家被遗漏”的争议。也就是说，“Higgs boson 的发现”是团队协作的结果，即，该科研案例彰显出当代科研的典型特点：科研成就仰仗研究者共同努力(而非少数个体),故[C]正确。\n\n[命题解密] [C] 是对第四段③句的合理推断，the joint effort of modern researchers 是对文中 the collaborative nature of modern research 的同义替换。\n\n[A]源自①句 there are legitimate concerns about...（新旧奖项在分配方面都存在问题，人们的担忧是合理的），但题干中“Higgs boson 的发现”由③句可知将获诺贝尔奖（旧奖），所以其典型性不会涉及“对新奖的合理担忧”。[B]源自③句中信息碎片 as will... by the inevitable row over who is ignored...，但争议对象有别：选项是“获奖者的威望/地位(status)”，原文是“获奖者的数量（不足以涵盖所有参与发现者）”。[D]是对 Higgs boson 事例本身的常识性说明，即“(新发现)展现了物理学界的新发现”，并没有传达实质性内容，而且也不属于“典型特点(typical)”。注：文中 demonstrate 意为“证实、例证（宾语为事实、情形）”，选项中意为“展示（宾语为某事/物）”。\n\n[技巧总结]解读题干是解题相当重要的一环。本题题干看似轻描淡写：“Higgs boson 的发现”是个典型案例，它涉及到什么？但应读出 which 定语从句与 typical 的潜在关联，即正确项必须是文中提及的这一发现的典型性特征，且着墨不会少，与段落或目标句群的主旨相关。“研究者的共同努力”是③句“(现代研究的)合作性质”的同义转述，契合前三句的要义：科研奖项存在分配不合理的问题，即忽略了科研如今已不是个人的成果。"
+      },
+      {
+       "number": 34,
+       "stem": "According to Paragraph 4, which of the following is true of the Nobels?",
+       "options": {
+        "A": "History has never cast doubt on them.",
+        "B": "Their endurance has done justice to them.",
+        "C": "They are the most representative honor.",
+        "D": "Their legitimacy has long been in dispute."
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| 34. According to Paragraph 4, which of the following is true of the Nobels? | 34.第四段中有关诺贝尔奖的内容以下哪项正确？|\n| --- | --- |\n| [A] History has never cast doubt on them. | [A] 历史从来没有怀疑过它们。 |\n| [B] Their endurance has done justice to them. | [B] 它们延续至今的事实彰显出其真正价值。 |\n| [C] They are the most representative honor. | [C] 它们是最具代表性的荣誉。 |\n| [D] Their legitimacy has long been in dispute. | [D] 长期以来它们的合理性一直受到争议。 |\n\n[精准定位]第四段④句指出，诺贝尔奖和新奖项一样，当年也是由有钱的私人设立，⑤句随后表明：诺奖现在在人们心目中的正统地位及其合理性是经过时间的洗礼而成，与设立者的初衷无关。即，正是“奖项延续至今”这一事实赋予了诺奖今天的尊贵品质，因此[B]正确。注：endurance 意为“(时间上的)持久性，耐久力”;do justice to 此处意为 to reflect or express the worth of sth to full advantage“完全、彻底地体现/发挥出某物的内在价值”。\n\n[命题解密] [B]是对第四段④⑤句内容的合理概括。选项 endurance 和 has done justice to them 分别对应文中 Time 和 has given them legitimacy。\n\n[A]与原文不符：虽然诺奖一直备受推崇，但第四段论述了新旧奖项的通病，③句提及“诺奖基金会对获奖人数的限制”早已与时代脱节。[C]从“诺奖一直享有尊贵地位”过度推出“是最具代表性的荣誉”，无法从第四段中找出佐证。[D]利用③句“对诺奖局限性的说明（人数不超三人，且都要健在）”设置干扰，但段末最终肯定了诺奖：时间赋予其合理性地位，举世公认其价值。\n\n[技巧总结] 段落事实题的四个选项对应的原文范围较大，不易定位至某个点，可以结合题干锁定的“核心点”先明确段落重心(首句、末句、语意转折处是重点), 再大致判断几个选项的方向。\n\n本题考查第四段中有关“诺贝尔奖”的信息，首句谈及“新旧奖项存在的问题”，且③句语义转折突显“诺奖的局限性”，但末句 given them legitimacy 又表明“作者最终认可诺奖地位”，可见，“绝对的推崇或否定”都不正确，[A] (has never...)和[C] (the most representative)是“绝对肯定”，[D] (has long been)是“绝对否定”，不符合全段重心——有保留地肯定诺奖（提请人们能包容地看待新奖项的局限性）。\n\nV ① As much as some scientists may complain about the new awards, two things seem clear. ② First, most researchers would accept such a prize if they were offered one. ③ Second, it is surely a good thing that the money and attention come to science rather than go elsewhere. ④ It is fair to criticize and question the mechanism — that is the culture of research, after all — but it is the prize-givers' money to do with as they please. ⑤ It is wise to take such gifts with gratitude and grace. [432 words]\n\n虽然一些科学家可能对新奖项有诸多不满，但有两件事似乎很明了。第一，如果被授予这样一个奖项，大多数研究者都会接受。第二，金钱和关注流向科学而不是别的地方，这当然是好事。对机制的批评和质疑都有其合理性——毕竟科学研究的文化就是如此——但授奖者随意支配的是自己的钱。感激大方地接受此类赠与才是明智之举。\n\n**词汇注释与难句分析**\n\nmechanism n. 机制\n\ngratitude n. 感激，感谢\n\ngrace n. 优美，优雅\n\n**经典搭配**\n\nas much as(尽管很……)\n\ncomplain about(对……抱怨)\n\nrather than(而不是)\n\n第五段收束全篇，明确对新奖项的态度：值得接受。关键词为：It is wise to take such gifts。\n\n句以“总—分”形式说明新奖项的可取之处。\n\n句先退后进：新奖虽招致一些不满，但有两点值得肯定。As much as 位于句首，意为 however much 或 despite how much“虽然很……”,等同于 Although (some scientists may...); some scientists 回应第二段提及的“对新奖持质疑态度的少数科学家”。\n\n句罗列两点好处：大部分获奖者愿意接受新奖、金钱和关注转向科学是好事。②句 most researchers would... if they were offered one 为虚拟语气，对“和当前事实相反的情况做出假设”,即，当前还没有多少人获过这类新奖，但如果有机会获得，大多数人都愿意接受，因为是对自身科研成就的认可。③句 rather than(而不是)引出舍弃对象：与其“金钱和(公众)关注投向其他领域”,倒不如投向科学；因此退一步说，就算新奖项的设奖目的不一，但对科研本身来说，只要结果好就好。\n\n句先抑后扬归纳全文观点：新奖纵然在机制方面有局限性，但总体值得接受。\n\n句分句一先退：“关于新奖的质疑和批评”无可厚非。fair 意为 reasonable, acceptable and right “合理、可接受、正确的”。criticize and question the mechanism (mechanism 意为 the way that sth works “工作方式，运行机制”) 是对上文“一些科学家对新奖项不满”以及“新奖确实和传统奖项都有忽视团队协作的问题”的总结；破折号之间解释为何 fair: “批评和质疑”本就是科研工作的性质，其中 culture 指“(组织或团体的)习惯和行为方式”; after all 语用功能为 used when you are explaining sth, or giving a reason“(解释或说明理由)别忘了，毕竟”，强调“人们的质疑”有其道理，并不突兀。\n\n分句二再进：企业家有权支配自身财富。it is... to... 结构中，it 为形式主语，不定式 to do with... 是真正主语，该结构使 the prize-givers' money 凸显，着力强调“企业家自己的钱，他们有权按自己意愿进行支配，即设奖以奖励科研成就突出者”, 奖励本身无可厚非。本句照应了第四段④句 had decided what he wanted to do with his own money, as they please 指“随其自身意愿”。\n\n句表明作者观点：应该感恩和大方地接受新奖项。such gifts 喻指“新奖项”。gratitude 指“感谢/感激的心情”, grace 意为 polite and pleasant behaviour“礼貌、优雅的举止”, 两词由“表方式”的介词 with 引出，提出对科研者的建议——不要扭捏于新奖项可能有的问题，而应大方接纳这份对自身科研成果的肯定和奖励，由此也明确全文态度。\n\n【深层解读】议论文的末段往往是观点总结段，作者常采取委婉方式(一定程度上认可/承认相反看法的合理性，再转而总结自己的观点),因此尽管段首 As much as... 可能不解其意，但根据句内“有不满、两个问题很明确”以及②③句的积极内涵可知，段首句意在让步引出观点；④句句内也以 It's fair... But...再次重复这一委婉逻辑，体现论述客观的同时也更好地突显自身观点。"
+      },
+      {
+       "number": 35,
+       "stem": "The author believes that the new awards are",
+       "options": {
+        "A": "unworthy of public attention.",
+        "B": "subject to undesirable changes.",
+        "C": "harmful to the culture of research.",
+        "D": "acceptable despite the criticism."
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 35. The author believes that the new awards are ____. | 35. 作者认为新奖项____。 |\n| --- | --- |\n| [A] unworthy of public attention | [A] 不值得公众关注 |\n| [B] subject to undesirable changes | [B] 容易受到不利变化的影响 |\n| [C] harmful to the culture of research | [C] 有损于科研文化 |\n| [D] acceptable despite the criticism | [D] 尽管受到批评却仍然值得接受 |\n\n[精准定位] 首段①句...is indeed an interesting experiment 即奠定作者对新奖项“总体肯定”的基调；第二段虽围绕新奖项问题展开论述，但全段内容实为“极少数科学家(a handful of scientists)”观点。\n\n第三、四段就新奖项设立的目的以及新旧奖项各自存在的问题进行了客观介绍，末段最终明确作者态度：大方感恩地接纳此类奖项是明智之举（It is wise to...）。综上可知，[D]正确。\n\n[命题解密] [D]是对作者态度的合理概括。末段④句前半部分 It is fair to criticize 让步表明作者对外界批评的理解，对应选项 despite the criticism；后半部分以 but 转折提出看法：捐资者用自己的钱做喜欢的事，无可厚非；末句进一步明确认可新奖项，对应选项 acceptable。\n\n[A]与作者对新奖项总体持肯定态度矛盾。[B]源于第五段④句 it is the prize-givers' money to do with as they wish, 但作者着力点不在于“捐资者随意、任性(因而新奖会有诸多可变因素)”, 而是强调“授奖者有权支配自己的钱，奖项本身无可厚非”。[C]是由④句破折号之间信息 that is the culture of research, 结合第二段⑤⑥句 They could distort the... of research, cement the status quo of... research (少数批评人士看法)捏造的干扰，与原文整体导向以及题干(作者看法)均不符。\n\n[技巧总结] 本题为文章最后一道题目，针对作者观点态度提问，实际变相考查全文主旨，所以除重点审视末段之外，也要结合整篇文章字里行间作者对“新奖项”的态度流露，把握价值判断相关词汇(interesting、surely good、wise 等)。其次应学习“过滤”选项，明确各项的方向性，体味选项内涵：[A]和[C]完全否定新奖，unworthy 和 harmful 有“武断、绝对”之感；[B]属于“阐释性内容”,不涉及明确的态度导向；[D]总体上认可，但通过让步结构表达了些许保留的态度，突显“合理、客观”,更符合正确项特征。\n\n**知识补充**"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Text 4",
+     "passage": [
+      "“The Heart of the Matter,” the just-released report by the American Academy\nof Arts and Sciences (AAAS), deserves praise for affirming the importance of the\nhumanities and social sciences to the prosperity and security of liberal democracy\nin America. Regrettably, however, the report’s failure to address the true nature of\nthe crisis facing liberal education may cause more harm than good.",
+      "In 2010, leading congressional Democrats and Republicans sent letters to the\nAAAS asking that it identify actions that could be taken by “federal, state and local\ngovernments, universities, foundations, educators, individual benefactors and others”\nto “maintain national excellence in humanities and social scientific scholarship\nand education.” In response, the American Academy formed the Commission\non the Humanities and Social Sciences. Among the commission’s 51 members are\ntop-tier-university presidents, scholars, lawyers, judges, and business executives,\nas well as prominent figures from diplomacy, filmmaking, music and journalism.",
+      "The goals identified in the report are generally admirable. Because\nrepresentative government presupposes an informed citizenry, the report supports\nfull literacy; stresses the study of history and government, particularly American\nhistory and American government; and encourages the use of new digital\ntechnologies. To encourage innovation and competition, the report calls for\nincreased investment in research, the crafting of coherent curricula that improve\nstudents’ ability to solve problems and communicate effectively in the 21st century,\nincreased funding for teachers and the encouragement of scholars to bring their\nlearning to bear on the great challenges of the day. The report also advocates greater\nstudy of foreign languages, international affairs and the expansion of study abroad\nprograms.",
+      "Unfortunately, despite 21/2 years in the making, “The Heart of the Matter”\nnever gets to the heart of the matter: the illiberal nature of liberal education at our\nleading colleges and universities. The commission ignores that for several decades\nAmerica’s colleges and universities have produced graduates who don’t know the\ncontent and character of liberal education and are thus deprived of its benefits.\nSadly, the spirit of inquiry once at home on campus has been replaced by the use\nof the humanities and social sciences as vehicles for publicizing “progressive,” or\nleft-liberal propaganda.",
+      "Today, professors routinely treat the progressive interpretation of history and\nprogressive public policy as the proper subject of study while portraying conservative\nor classical liberal ideas – such as free markets and self-reliance – as falling\noutside the boundaries of routine, and sometimes legitimate, intellectual investigation.",
+      "The AAAS displays great enthusiasm for liberal education. Yet its report may\nwell set back reform by obscuring the depth and breadth of the challenge that\nCongress asked it to illuminate."
+     ],
+     "questions": [
+      {
+       "number": 36,
+       "stem": "According to Paragraph 1, what is the author’s attitude toward the AAAS’s report?",
+       "options": {
+        "A": "Critical.",
+        "B": "Appreciative.",
+        "C": "Contemptuous.",
+        "D": "Tolerant."
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n| 36. According to Paragraph 1, what is the author's attitude toward the AAAS's report? | 36. 根据第一段，作者对美国人文与科学院报告的态度是什么？|\n| --- | --- |\n| [A] Critical. | [A] 批判的。 |\n| [B] Appreciative. | [B] 欣赏的。 |\n| [C] Contemptuous. | [C] 蔑视的。 |\n| [D] Tolerant. | [D] 宽容的。 |\n\n[精准定位] 首段采取欲抑先扬手法，先退而指出报告优点：肯定了人文社科的重要性；后进而指出其缺点：未能触及人文教育危机的实质，最终可能是弊大于利。优点的推出旨在引出缺点的所在，故 [A] 正确。\n\n[命题解密] 正确项[A]是对开篇欲抑先扬、先褒后贬写作手法的正确把握。\n\n[B]只见首句肯定之意未见末句批评之吻，单纯从“肯定”放大为“欣赏”；[C]只见末句批评之吻未见首句肯定之意，单纯由“批判”放大为“蔑视”；[D]由“优缺点兼具”推导出“宽容”，而事实上文意重心在末句。\n\n[技巧总结]作者态度题的解题关键在抓取情感色彩表达词/评注性表达词、语义逻辑表达词等，切忌断章取义（含褒义词不一定表明“赞同/欣赏”、含贬义词不一定表明“蔑视/批评”，以转折词将褒义词、贬义词相连不一定代表“中立/宽容”）。如本题，首先根据情感色彩表达词 Regrettably 可先排除[B]；再借评注性表达 deserves praise、may cause more harm than good 可再排除[C]，锁定[A]；最后再借语义逻辑词 however(将语义重点落于后者)可敲定[A]。\n\nⅡ ① In 2010, leading congressional Democrats and Republicans sent letters to the AAAS asking that it identify actions that could be taken by “federal, state and local governments, universities, foundations, educators, individual benefactors and others” to “maintain national excellence in humanities and social scientific scholarship and education.” ② In response, the American Academy formed the Commission on the Humanities and Social Sciences. ③ Among the commission’s 51 members are top-tier -university presidents, scholars, lawyers, judges, and business executives, as well as prominent figures from diplomacy, filmmaking, music and journalism.\n\n2010年，国会民主党及共和党要员向美国人文与科学院致函，要求其界定出能够被“联邦/州/地方政府、大学、基金会、教育工作者、私人捐助者等”采取的行动，以“维护国家在人文与社会科学学术研究及教育领域的卓越地位”。作为回应，美国人文与科学院成立了人文与社会科学委员会。该委员会的51位成员中，有顶尖大学的校长、学者、律师、法官和企业高管，以及来自外交、电影制作、音乐和新闻界的杰出人物。\n\n**词汇注释与难句分析**\n\ncongressional a. 国会的，议会的\n\nexcellence n. 优点，卓越\n\ntop-tier 顶尖的，一流的\n\nprominent a. 突出的，杰出的\n\n**经典搭配**\n\ntake actions(采取行动)\n\nindividual benefactor(个人捐助者)\n\ntop-tier-university president(顶尖大学校长)\n\nbusiness executive(企业高管)\n\nprominent figure(重要人物)\n\nsend letters to... (给……写信)\n\n功能注释：句子结构复杂，可简化为 A sent letters to B asking B do sth. (即“A 要求 B 做某事”; A=leading congressional Democrats and Republicans; B=the AAAS)。注意：句内第一个 that 从句做 asking 的宾语，此处 asking 表示“要求(≈demand)”,其后从句使用虚拟语气(should+动词原形，should 可省略),用以表示说话人(即“国会重要人物”)的主观愿望或假想(即“AAAS 要对行动/措施做出界定”);第二个 that 从句做定语，用以修饰 actions,限定指出 AAAS 要界定的行动/措施“能够为各级政府、机构等采取”;动词不定式 to “maintain...education”做状语，解释说明采取行动/措施的目的(即“维持美国在人文与社科研究、教育领域的领先地位”)。\n\n第二段(过渡段)补充 AAAS 报告的生成背景。关键词为：In 2010。\n\n句说明报告的缘起：国会要员对 AAAS 的要求——就“如何维持美国在人文教育领域的领先地位”做出报告。全句简化结构实为 A asked B to...to...“为了……,A 要求 B 做……”,套入即知具体要求为“AAAS 界定可供各级政府及其他机构采取的措施”、要求要旨为“维持美国在人文社科教育研究领域的卓越地位”。时间词 In 2010(本文写于 2013 年 6 月)反衬首段人文教育危机年深日久、根盘厚重、解决难度之大；leading...AAAS 两者重量级身份暗传美国当局对该问题的重视程度。\n\n句说明报告的拟定机构：由各行业杰出人物组建而成的人文与社科科学委员会。In response 呼应①句 asking,实现句群之间逻辑衔接；formed the Commission...、Among the commission's 51 members are... 实现句群内部逻辑衔接。③句 top-tier-university, prominent figures 以委员会组成成员的高精尖反衬 AAAS 为完成国会要员指示而做出的有力行动。\n\n【深层解读】本段为背景段：全段借助时间词(In 2010)、动词链(asking→In response)以及特定指代(the commission)将 AAAS 报告的发起者“国会两党要员”、内容“界定各级政府及其他机构或人员可以采取的行动”、要旨“以维持美国人文教育领先地位”、制作方“人文与社会科学委员会”及制作方组成人员“各行业杰出人物”一一呈现。"
+      },
+      {
+       "number": 37,
+       "stem": "Influential figures in the Congress required that the AAAS report on how to",
+       "options": {
+        "A": "define the government’s role in education.",
+        "B": "safeguard individuals’ rights to education.",
+        "C": "retain people’s interest in liberal education.",
+        "D": "keep a leading position in liberal education."
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 37. Influential figures in the Congress required that the AAAS report on how to ____. | 37. 国会重要人物要求美国人文与科学院就如何____给出报告。 |\n| --- | --- |\n| [A] define the government's role in education | [A] 界定政府在教育中的作用 |\n| [B] safeguard individuals' rights to education | [B] 保护个人接受教育的权利 |\n| [C] retain people's interest in liberal education | [C] 保持人们对人文教育的兴趣 |\n| [D] keep a leading position in liberal education | [D] 维持在人文教育中的领先地位 |\n\n[精准定位] 第二段首句明确指出：国会重要人物要求 AAAS 确定相关措施以维持国家在人文与社会科学教育研究领域的卓越地位，可见 [D] 正确。\n\n[命题解密]题干+正确项[D]是第二段首句的同义改写。\n\n[A]、[B]、[C]利用首句个别词汇 government，educators/education，individual benefactors 等设置陷阱，但文意实为国会重要人物要求 AAAS“界定出各级政府等可以采取的行动”，并没有要求界定“政府在教育中的作用”或“保护个人受教育的权利”或“保持人们对人文教育的兴趣”。\n\n[技巧总结]细节题解答思路有两个，一个是“根据题干定位原文，并于定位处找寻与题干考查相一致的信息，最后寻找与之相匹配的选项”,另一个是“无法根据题干定位解题的，则根据选项定位解题，或者两种定位兼顾”。本题采取第一种解题思路即可：由题干 Congress 和 required 可直接定位至第二段首句，再由 how to 可知考查重点在行动目标，锁定首句末 to maintain national excellence in humanities and social scientific scholarship and education 并进行选项比对，唯有[D]与之匹配。\n\nⅢ ① The goals identified in the report are generally admirable. ② Because representative government presupposes an informed citizenry, the report supports full literacy; stresses the study of history and government, particularly American history and American government; and encourages the use of new digital technologies. ③ To encourage innovation and competition, the report calls for increased investment in research, the crafting of coherent curricula that improve students' ability to solve problems and communicate effectively in the 21st century, increased funding for teachers and the encouragement of scholars to bring their learning to bear on the great challenges of the day. ④ The report also advocates greater study of foreign languages, international affairs and the expansion of study abroad programs.\n\n报告所定目标总体值得赞赏。因为代议制政府预设知情公民，所以报告支持全民教育，强调历史政体学习，尤其美国历史、美国政体，鼓励新数字技术使用。为鼓励创新和竞争，报告呼吁加大科研投资、精心制定协调一致的课程以提高21世纪学生解决问题及有效沟通的能力、增加对教师的资助、鼓励学者应用自己学识来应对当今的巨大挑战。报告还提倡加大对外语和国际事务的研究力度、扩展留学项目的规模。\n\n**词汇注释与难句分析**\n\nadmirable a. 值得赞扬的，可贵的\n\npresuppose v. 预先设定，以……为先决条件\n\ninformed a. 了解情况的，见多识广的\n\ncitizenry n. 公民，市民（集合称）\n\ncraft v. 精制\n\ncoherent a. 连贯的\n\ncurricula n. 课程，课程体系(curriculum 的复数)\n\n**经典搭配**\n\nrepresentative government(代议制政府)\n\nan informed citizenry(开明的公民群体)\n\nfull literacy(全民教育)\n\ndigital technology(数字技术)\n\ncall for(呼吁)\n\ncoherent curricula(连贯的课程)\n\nbring sth to bear on/upon sth(用某物对某物施加压\n\ninternational affairs(国际事务)\n\nstudy abroad program(留学项目)\n\nTo encourage innovation and competition, the report calls for increased investment in research, the crafting of coherent curricula that improve students' ability to solve problems and communicate effectively in the 21st century, increased funding for teachers and the encouragement of scholars to bring their learning to bear on the great challenges of the day.\n\n功能注释：本句主干为... the report calls for increased investment in research, the crafting of coherent curricula..., increased funding for teachers and the encouragement of scholars...。谓语 calls for 后接四个并列宾语，由 and 相连接；宾语 2 中嵌套一个 that improve...21st century 定语从句，修饰\n\n第三至五段阐明观点。\n\n第三段阐明报告值得赞扬处。关键词为：generally admirable。\n\n句概述：报告所设目标总体值得赞赏。goals 锁定 generally admirable 范围“目标”，暗示报告所界定的行动措施无力恭维，为后文批驳设伏。\n\n句细述报告所设具体目标建议。借平行结构 the report supports... stresses... and encourages... calls for... also advocates... 展现报告所支持、强调、鼓励、呼吁及倡导的内容，实现句间衔接。\n\n句说明值得赞赏内容之一：支持全民教育、重视历史政体学习、鼓励新数字技术使用。句中连用两个分号，because 看似仅与第一分句构成因果关联，实则辖域全句，即同为 the report supports... stresses... and encourages... 的原因：代议制政府以“知情公民”为前提(形容词 informed“消息灵通的，见多识广的”修饰集合名词 citizenry“全体公民”, 实质蕴藏“全体公民接受教育”之意)。插入语 particularly American history and American government 并非将历史和政体局限在美国范围内，而是以美国历史、政体为重。\n\n句说明值得赞赏内容之二：呼吁“加大科研投资、精心打造连贯课程、增加教师投资、鼓励学者运用自己学识应对挑战”。To encourage innovation and competition 辖域衔接四个并列宾语 A, B, C and D 的 calls for, 表明报告如此呼吁的目的；improves students' ability to solve problems and... in the 21st century 暗示当前课程设置背景下学生问题解决能力、有效沟通能力的缺失，铺垫下文“高校教育失责”; 固定表达 bring sth to bear on sth“(用某事物对另一事物)施加影响/压力”套入文意即指“学者们用自己的学识来对当今的巨大挑战施加影响”,也即“运用自身学识来应对挑战”,强调“学者们要将理论与实际相结合。\n\n句说明值得赞赏内容之三：提倡加大对外语、国际事务的研究力度，扩展留学项目规模。also advocates 实质对应③句 calls for,表明此句实乃③句顺承，共同辖域在③句句首 To encourage...competition 之下；greater study、expansion 反衬当前对外语、国际事务等的研究力度不够大、留学项目的规模也有待拓展。\n\n【深层解读】本段为“总(①句)一分(②③④句)”结构，借多个内容表达词(supports/stresses/encourages/calls for/advocates)详细阐明报告所提细节性建议：全民教育、历史政体学习、新数字技术使用、加大科研投资、精心设置课程、加大对教师的投资、加大对外语、国际事务的研究力度、扩展留学项目的规模等。之于这种细节信息丰富的段落，谨防命题人就此设置细节知识考查点。"
+      },
+      {
+       "number": 38,
+       "stem": "According to Paragraph 3, the report suggests",
+       "options": {
+        "A": "an exclusive study of American history.",
+        "B": "a greater emphasis on theoretical subjects.",
+        "C": "the application of emerging technologies.",
+        "D": "funding for the study of foreign languages."
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| 38. According to Paragraph 3, the report suggests ____. | 38. 根据第三段，报告建议____。 |\n| --- | --- |\n| [A] an exclusive study of American history | [A] 专注美国历史研究 |\n| [B] a greater emphasis on theoretical subjects | [B] 更加重视理论科目 |\n| [C] the application of emerging technologies | [C] 应用新兴技术 |\n| [D] funding for the study of foreign languages | [D] 资助外语研究 |\n\n[精准定位] 第三段②句指出：报告鼓励使用新数字技术。可见[C]正确。\n\n[命题解密] 正确项[C]是对段中②句 encourages the use of new digital technologies 的同义改写。\n\n[A]利用②句“美国历史”设置陷阱，却将插入说明“尤其要（particularly）”偷换为“专注于(exclusive)”;[B]利用③句“精心设计连贯课程”设置陷阱，而该句并没有说“更注重理论科目”，相反强调“学者们要将学识运用到实际以迎接挑战”，即“注重理论联系实际”;[D]杂糅③句“加大对教师的资助”及④句“加大外语研究力度”而成，却将资助对象由“教师”偷换为“外语研究”。\n\n[技巧总结] 本题为名副其实的细节题，解答关键也为细节题的典型思路“将选项回文定位并一一比对以判断对错”: 先根据各选项核心关键词([A] American history、[B] subjects、[C] emerging technologies、[D] foreign languages)分别定位②句、③句、②句、④句；再仔细比对原文发现[A] exclusive 篡改 particularly 之意、[B] theoretical 无从对应、[D] funding(源自③句而非④句，其)对象实为 teachers 而非 study of foreign languages，唯有 [C] application 对应 use、emerging 对应 digital，故正确。\n\nIV Unfortunately, despite 2½ years in the making, “The Heart of the Matter” never gets to the heart of the matter: the illiberal nature of liberal education at our leading colleges and universities. The commission ignores that for several decades America’s colleges and universities have produced graduates who don’t know the content and character of liberal education and are thus deprived of its benefits. Sadly, the spirit of inquiry once at home on campus has been replaced by the use of the humanities and social sciences as vehicles for publicizing “progressive,” or left-liberal propaganda.\n\n不幸的是，虽历时两年半才拟定完成，《问题的核心》并未触及问题的核心：我们顶级高等院校中人文教育“非人文”的本质。人文与社会科学委员会忽视了这样一个事实：几十年来，美国高等院校培养出的毕业生并不知道人文教育的内涵和特征，因此也无法从中受益。令人痛心的是，一度在校园里盛行的探索精神已经被“将人文和社会科学用作宣传‘革新的’或者说左翼自由思想的工具”取代。\n\n**词汇注释与难句分析**\n\nilliberal a. 缺少人文教育的；无需人文教育的\n\ndeprive v. 剥夺，夺去，使丧失\n\ninquiry n. 调查，质询，探究\n\nvehicle n. 工具，传播媒介\n\nprogressive a. 进步的，不断前进的\n\n**经典搭配**\n\nin the making(在发展中，在形成中)\n\nget to the heart of the matter(直击问题核心)\n\nbe deprived of(丧失，被剥夺)\n\nat home(驾轻就熟，运用自如)\n\n**语篇分析**\n\n第四五段阐明报告严重问题。\n\n第四段阐释报告未触及问题核心“人文教育非人文”。关键词为：never gets to the heart of the matter。\n\n①句(段群总起句)总括问题。句首评注性副词 Unfortunately 一反上段 generally admirable 赞扬基调，开启下文批判口吻；despite 让步逻辑“虽历时两年半之久却从未触及问题核心”深层暗示“报告所定目标尽管值得称道，但很有可能于事无补，甚至可能得不偿失”; illiberal nature of liberal education 为矛盾修辞，鲜明传达“美国所谓的人文教育已然严重缺乏人文教育本该有的内涵及特点，其人文本质业已荡然无存”。注：2 years in the making 源自相关表达 be a long time/ 10 years etc in the making“制作时间很长/长达 10 年之久等”,故其意为“制作长达两年半之久”。\n\n②句借“报告拟定机构忽略‘数十年来，高校所培育的毕业生不懂人文教育、更无需说受益人文教育’这一严重事实”说明①句。ignores“(故意对知道的事)置之不理”明示拟定机构规避问题，暗示其报告“表面光鲜、内里糟粕，不仅无益问题解决，甚至可能带来更为严重后果”; for several decades 强调人文教育非人文这一事实年淹日久，进一步凸显示拟定机构的“熟视无睹”，反衬作者强烈批驳意味。\n\n③句借“当前高校教育弊端：探索精神严重缺失，人文社科已被用作左翼自由思想的宣传工具”说明②句“严重事实”。Sadly 传递作者惋惜之情；once at home on campus“曾经在校园里如鱼得水的”用以表示探索精神过去在高校被广为流传，发挥得淋漓尽致，而如今却灰飞烟灭；“progressive”加引号暗传讽刺意味：所谓“革新”,实则左翼自由思想的化身。\n\n【深层解读】一、②③句实含因果关联：③句说明当前美国高等教育弊端“将人文和社会科学用作宣扬进步主义或左翼自由思想的工具，而曾经根深叶茂的探索精神却被弃置一边”；②句指出该教育做法后果“高校毕业生不知人文教育为何物，丝毫不具探索精神，无法受益终身”。二、阐述部分（第三至五段）同首段开篇部分，亦为欲抑先扬写作手法：第三段先扬，阐明报告值得赞赏之处（generally admirable），第四五段后抑，阐释报告严重问题（unfortunately, despite, sadly, routinely）。\n\nV 1 Today, professors routinely treat the progressive interpretation of history and progressive public policy as the proper subject of study while portraying conservative or classical liberal ideas—such as free markets and self-reliance —as falling outside the boundaries of routine, and sometimes legitimate, intellectual investigation.\n\n现如今，教授们通常将对历史的革新性解读以及革新性公共政策视为合适的研究课题，而将传统或古典人文思想——如自由市场和自力更生——描述为超出常规界限，有时甚至被描绘为超出正当的学术研究范畴。\n\n**词汇注释与难句分析**\n\nroutinely ad. 例行公事地，惯常地\n\nportray v. 描述，描绘\n\nself-reliance 自力更生，自给自足\n\n**经典搭配**\n\nliberal idea(人文思想)\n\nfree market(自由市场)\n\n**语篇分析**\n\n第五段借“高校教授对传统人文思想持偏见态度”说明上段③句。关键词：routinely...portraying...as。\n\n独句成段，先借负面情感色彩表达词 routinely 表明“教授们这一做法年深月久、不良影响深远”及作者态度“应加以改革”；再借暗藏取舍的 while 对比结构 treat A as B while portraying X as Y 明示该做法具体内容“将 A 视为 B 却将 X 视为 Y”及作者站位“应将 X 视为 B 而非 Y：传统人文思想不该被视为超出常规、超出正当学术研究范畴，而应被视为正当的研究课题”。falling outside the boundaries of routine, and sometimes legitimate, intellectual investigation 突出强调教授们对传统人文思想的严重偏见“不仅将其视为超出常规界线，而且甚至将其视为非正当的学术研究范畴”，其中 and sometimes 暗藏语义递进“甚至”之意。\n\n【深层解读】一、本段实为上段末句的解释说明：暗藏取舍的对比结构 routinely treat A as B while portraying X as Y 实质对应上段末句 has been replaced by the use of X as A,圆满阐明“高校为何不再风行探索精神、人文社科缘何被用作宣传革新或左翼自由思想的工具”:人文社科教授们的研究核心已经由原有的、能激发探索精神的传统人文思想转向对历史的革新性解读以及革新性公共政策(即，由人文思想转为左翼自由思想)。二、本段与上段②③句形成一条逆向因果链条解释上段①句(段群总起句):本段美国高校教授们研究焦点“革新思想/革新政策而非传统人文思想”解释上段③句高校行为弊端“人文社科已被沦为革新思想的宣传工具”,上段③句进而以此高校行为弊端解释②句后果“高校所培育的毕业生不知人文教育为何物”,②句最后再以“报告拟定机构未认清此后果”而解释①句。"
+      },
+      {
+       "number": 39,
+       "stem": "The author implies in Paragraph 5 that professors are",
+       "options": {
+        "A": "supportive of free markets.",
+        "B": "conservative about public policy.",
+        "C": "biased against classical liberal ideas.",
+        "D": "cautious about intellectual investigation."
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| 39. The author implies in Paragraph 5 that professors are ____. | 39.作者在第五段中暗示教授们____。 |\n| --- | --- |\n| [A] supportive of free markets | [A] 支持自由市场 |\n| [B] conservative about public policy | [B] 在公共政策上立场保守 |\n| [C] biased against classical liberal ideas | [C] 对古典人文思想持有偏见 |\n| [D] cautious about intellectual investigation | [D] 对学术研究持谨慎态度 |\n\n[精准定位] 第五段指出教授们认为古典人文思想属于非常规、非正当合理的学术研究范围，而作者对人文思想是持积极肯定态度。由此可知，作者实质暗示教授们对古典人文思想持有偏见，[C]正确。\n\n[命题解密] 正确项[C]中 biased 是对段中 portraying conservative or classical liberal ideas—such as free markets and self-reliance—as falling outside the boundaries of routine, and sometimes legitimate, intellectual investigation 所蕴藏作者观点的最合理推断。\n\n[A]与“教授们对古典人文思想(包括自由市场)的偏见态度”相悖；[B]与“教授们支持进步的公共政策”相悖；[D]将“教授们认为古典人文思想不属于学术研究范畴”曲解为“他们对学术研究持谨慎态度”。\n\n[技巧总结] 本题形式上考查作者对人物的看法，直接考点实为长难句正确解读。首先读题，发现四个干扰项均为“态度词+介词+对象”结构，也即本题考查教授们对不同事物的不同态度；随后借助语法知识解读全句，发现该句实为(professors) treat A as B while portraying X as Y 结构，也即选项[A]、[C]均对应 X, 选项[B]对应 A, 选项[D]对应 Y; 最后再借形容词 progressive、proper、动名词 falling outside the boundaries... and sometimes legitimate, intellectual investigation 所蕴藏的情感色彩，得知教授们对 [A]自由市场持反对态度、对[B]公共政策持进步革新态度、对[C]古典人文思想持排斥态度，对[D]学术研究则分门别论(对合理的学术研究持支持中性或正面态度，对不合理的学术研究才会持谨慎态度)。\n\nVI ① The AAAS displays great enthusiasm for liberal education. ② Yet its report may well set back reform by obscuring the depth and breadth of the challenge that Congress asked it to illuminate. [429 words]\n\n美国人文与科学院虽对人文教育表现出了极大的热情，但其报告由于掩盖了国会要求它阐明的挑战的深度和广度，极有可能阻碍改革。\n\n**词汇注释与难句分析**\n\ndisplay v. 显示，展示\n\nobscure v. 掩盖\n\nilluminate v. 阐明，说明\n\n**经典搭配**\n\nmay well(可能，或许，也许)\n\nset back(阻碍)\n\nthe depth and breadth of... (……的深度和广度)\n\n**语篇分析**\n\n末段升华观点：AAAS 虽对人文教育极为热情，但其报告并未深刻全面阐明问题，很可能阻碍改革。关键词为：may well set back reform。\n\n①句先扬：AAAS 对人文教育极度热情。great enthusiasm 突出强调 AAAS 对人文教育的热情之高，为下句批驳其掩盖问题深度、广度做铺垫。\n\n②句后抑：AAAS 报告模糊问题深度及广度，极有可能阻碍人文教育改革。obscuring“遮蔽，使朦胧，使听不清”复现第四段②句 ignores，再度传递作者对 AAAS 报告遮人耳目、未清晰阐明人文教育问题实质的批评态度；may well 表明 AAAS 报告阻碍改革之说绝非空穴来风、凭空捏造，而是有充分证据/理由；the depth and breadth 从深度、广度两方面凸显报告未能阐明问题根本。\n\n【深层解读】收篇再度欲抑先扬，实现全文首尾圆合：两句借对比词(Yet)、对比组(displays great enthusiasm VS set back reform)呈现一幅矛盾画面：AAAS 一方面对人文教育表现出了极大热情，另一方面却可能因其未能看清问题实质的 AAAS 报告而引发不良后果“阻碍人文教育改革”。在肯定其热情之余更是将语义重点落于其报告的致命性危害之上，复现开篇作者对其报告的批评态度，圆满完成对开篇作者态度的阐释说明。"
+      },
+      {
+       "number": 40,
+       "stem": "Which of the following would be the best title for the text?",
+       "options": {
+        "A": "Ways to Grasp “The Heart of the Matter”",
+        "B": "Illiberal Education and “The Heart of the Matter”",
+        "C": "The AAAS’s Contribution to Liberal Education",
+        "D": "Progressive Policy vs. Liberal Education"
+       },
+       "answer": "B",
+       "explanation": "· 全局真题精解 ·\n\n> **答案：** B\n\n| 40. Which of the following would be the best title for the text? | 40. 下列哪项最适合做本文的标题？|\n| --- | --- |\n| [A] Ways to Grasp “The Heart of the Matter” | [A] 理解《问题的核心》的方法。 |\n| [B] Illiberal Education and “The Heart of the Matter” | [B] 非人文教育与《问题的核心》。 |\n| [C] The AAAS's Contribution to Liberal Education | [C] 美国人文与科学院对人文教育的贡献。 |\n| [D] Progressive Policy vs. Liberal Education | [D] 进步政策 VS 人文教育。 |\n\n[精准定位] 文首段点题：《问题的核心》虽值得赞赏，却未触及当前美国人文教育危机的本质，其结果最终可能是弊大于利；第二段退而补充《问题的核心》的出台背景；第三至五段详细阐述主题：《问题的核心》所设目标总体而言值得欣赏，但它从未触及“人文教育非人文的本质”这一问题核心；文末段重申主题：《问题的核心》未能深刻全面分析“人文教育非人文”这一挑战性难题，其结果很可能阻碍人文教育改革。由此可见，[B]最能概括文意。\n\n[命题解密] 正确项[B]是对文章主旨的最佳概括。\n\n[A]纯属无中生有，文章重点评述《问题的核心》的缺点，并未介绍如何理解《问题的核心》;[C]利用文首句“美国人文与科学院证实人文教育的重要性”设置干扰，虽有一定正确成分，却并非文意重点；[D]利用第五段“教授重进步政策、轻/弃人文教育”设置陷阱，虽有一定正确成分，却并非文意重点。\n\n[技巧总结] 标题题的解答关键在把握全文话题(借高频词锁定)、主题(借文首、文尾、情感色彩表达词揣度)。如本题，先借文中高频词 the report(即“The Heart of the Matter”《问题的核心》)、liberal education“人文教育”即可初步锁定[B];再借文首、文尾作者观点态度“报告虽肯定了人文教育的重要性，却未能揭示人文教育危机这一问题的实质，结果将弊大于利”、“AAAS 虽对人文教育极度热情，但其报告未能深刻全面分析问题，极可能阻碍改革”及中间第四段同位表达 the heart of the matter: the illiberal nature of liberal education“问题核心即指人文教育非人文的本质”可敲定[B]。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part B",
+   "instructions": "Part B\nDirections:\nThe following paragraphs are given in a wrong order. For Questions 41-45, you\nare required to reorganize these paragraphs into a coherent text by choosing from\nthe list A-G and filling them into the numbered boxes. Paragraphs A and E have\nbeen correctly placed. Mark your answers on the ANSWER SHEET. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "ordering",
+     "options": {
+      "A": "Some archaeological sites have always been easily observable – for example,\nthe Parthenon in Athens, Greece; the pyramids of Giza in Egypt; and the\nmegaliths of Stonehenge in southern England. But these sites are exceptions\nto the norm. Most archaeological sites have been located by means of careful\nsearching, while many others have been discovered by accident. Olduvai Gorge,\nan early hominid site in Tanzania, was found by a butterfly hunter who literally\nfell into its deep valley in 1911. Thousands of Aztec artifacts came to light\nduring the digging of the Mexico City subway in the 1970s.",
+      "B": "In another case, American archaeologists René Million and George Cowgill\nspent years systematically mapping the entire city of Teotihuacán in the\nValley of Mexico near what is now Mexico City. At its peak around AD 600,\nthis city was one of the largest human settlements in the world. The\nresearchers mapped not only the city’s vast and ornate ceremonial areas, but\nalso hundreds of simpler apartment complexes where common people lived.",
+      "C": "How do archaeologists know where to find what they are looking for when\nthere is nothing visible on the surface of the ground? Typically, they survey\nand sample (make test excavations on) large areas of terrain to determine\nwhere excavation will yield useful information. Surveys and test samples have\nalso become important for understanding the larger landscapes that contain\narchaeological sites.",
+      "D": "Surveys can cover a single large settlement or entire landscapes. In one case,\nmany researchers working around the ancient Maya city of Copán, Honduras,\nhave located hundreds of small rural villages and individual dwellings by\nusing aerial photographs and by making surveys on foot. The resulting\nsettlement maps show how the distribution and density of the rural population\naround the city changed dramatically between AD 500 and 850, when Copán\ncollapsed.",
+      "E": "To find their sites, archaeologists today rely heavily on systematic survey\nmethods and a variety of high-technology tools and techniques. Airborne\ntechnologies, such as different types of radar and photographic equipment\ncarried by airplanes or spacecraft, allow archaeologists to learn about what\nlies beneath the ground without digging. Aerial surveys locate general areas\nof interest or larger buried features, such as ancient buildings or fields.",
+      "F": "Most archaeological sites, however, are discovered by archaeologists who\nhave set out to look for them. Such searches can take years. British\narchaeologist Howard Carter knew that the tomb of the Egyptian pharaoh\nTutankhamun existed from information found in other sites. Carter sifted\nthrough rubble in the Valley of the Kings for seven years before he located\nthe tomb in 1922. In the late 1800s British archaeologist Sir Arthur Evans\ncombed antique dealers’ stores in Athens, Greece. He was searching for tiny\nengraved seals attributed to the ancient Mycenaean culture that dominated\nGreece from the 1400s to 1200s BC. Evans’s interpretations of these\nengravings eventually led him to find the Minoan palace at Knossos (Knosós),\non the island of Crete, in 1900.",
+      "G": "Ground surveys allow archaeologists to pinpoint the places where digs will be\nsuccessful. Most ground surveys involve a lot of walking, looking for surface\nclues such as small fragments of pottery. They often include a certain amount\nof digging to test for buried materials at selected points across a landscape.\nArchaeologists also may locate buried remains by using such technologies as\nground radar, magnetic-field recording, and metal detectors. Archaeologists\ncommonly use computers to map sites and the landscapes around sites. Two-\nand three-dimensional maps are helpful tools in planning excavations,\nillustrating how sites look, and presenting the results of archaeological\nresearch."
+     },
+     "order": [
+      {
+       "number": 41
+      },
+      {
+       "given": "A"
+      },
+      {
+       "number": 42
+      },
+      {
+       "given": "E"
+      },
+      {
+       "number": 43
+      },
+      {
+       "number": 44
+      },
+      {
+       "number": 45
+      }
+     ],
+     "questions": [
+      {
+       "number": 41,
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n**41. 本题考查知识点：首段特点及作用**\n\n[选项推测] 文首段通常用于引入主题或交代与主题相关的背景，内容相对独立，不应存在与上文相衔接的内容，也不应存在文意缺漏现象。纵观各段，[A]、[E]段已确定位置，[B]段段首 In another case 和[F]段首句 however 均体现与上文衔接关系，不能作为首段；而[D]段首句 Surveys 一词指代不明，作为首段过于突兀。\n\n[答案敲定] 由上文分析可知，[C]、[G]段为备选项。\n\n若[C]段为首段，可与[A]段构成“设问引题一铺垫背景”的逻辑顺序：[C]段设问引题“考古学家遗址搜寻办法”,并暗示指出“有迹可循条件下可肉眼观测，无迹可寻条件下则通过勘测及抽样(即试掘)方式”,[A]随后铺陈背景，明晰三种遗址发现方式(一、地表有迹可循，二、仔细搜寻，三、偶然发现),其中第一种完全对应[C]段 nothing visible on the surface of the ground 暗藏之意。另外，设问也是常用的开篇方法。\n\n若[G]段为首段，那么与[A]段构成“地面勘测及其高科技手段→考古遗址三种发现途径”衔接。而仔细研读会发现，[G]段 ground surveys 应该涵盖在[A]段第二种方式“仔细搜查”当中，故排除。"
+      },
+      {
+       "number": 42,
+       "answer": "F",
+       "explanation": "> **答案：** F\n\n**42. 本题考查知识点：上下文衔接**\n\n[选项推测] 本段位于已定位的[A]、[E]段之间，故应从这两个已知段落入手。[A]段介绍的三种途径中，第一、三种都以事例加以说明，而占比很大的第二种却并未被佐证，暗示下文将具体介绍“考古学家如何费时费力仔细搜寻发现遗址”；[E]段介绍现在考古用到的方法和手段，提示上文可能涉及以前考古用到的方法和手段。纵观剩余段落（[F]、[B]、[D]、[G]段），[F]段所示事例及考古方法手段更为贴近。\n\n[答案敲定] 由上文分析可知，[F]段可能与[A]段衔接。\n\n[F]段指出“大多数遗址需要考古学家花费数年专门仔细搜寻才最终被发现”，与[A]段所述两种考古捷径正好形成转折关系，[F]段首句 however 所示段际逻辑关系成立。同时，[F]段列举的例子中，过去的考古学家只能通过仔细考察碎石瓦砾、排查古董商店等传统方法来寻找遗址的蛛丝马迹，与[E]段“现在考古学家主要依靠系统的勘测方法和高科技手段搜寻遗址”在时间上、内容上都衔接紧密，合乎逻辑。"
+      },
+      {
+       "number": 43,
+       "answer": "G",
+       "explanation": "> **答案：** G\n\n**43. 本题考查知识点：上下文衔接**\n\n[选项推测] 根据已定位的[E]段内容“当代考古高科技手段，并列举空中勘测技术手段及可定位大致目标区域”可知，本段可能探及更为精准的定位手段。纵观剩余段落（[B]、[D]、[G]段），[G]段所示“地面勘测可准确定位有效挖掘位置”更为贴合。\n\n[答案敲定] 由上文分析可知，[G]段可能与[E]段衔接。\n\n[G]段首 Ground surveys 与 [E] 段末句 Aerial surveys 相对，分别介绍“用于大致定位考古遗址的空中勘测”和“用于准确定位考古遗址的地面勘测”, 两者衔接符合考古勘测的一般步骤“先粗略后精准”, 照应 [E] 首句中 systematic survey (系统性勘测); 另外，两段均涉及两种勘测方法所用到的高科技技术，也与 [E] 首句中 a variety of high-technology tools and techniques 相照应，两段构成“总—分”结构。\n\n**44-45. 本题考查知识点：上下文衔接和逻辑衔接词**\n\n[选项推测] 在前文[E]、[G]两段已经准确定位考古遗址的基础上，下文很可能涉及在考古遗址上的具体勘测工作。\n\n[答案敲定] [B]、[D]可能与上文衔接。\n\n剩余两个备选项[B]、[D]由逻辑衔接词 In another case、In one case 即可确定顺序为 [D] → [B]。从内容上看，[D]段首句总述“勘测可以覆盖某一居住点，也可以覆盖整个区域”，其后以 In one case 引出例证“勘测覆盖某一居住地(a single large settlement)”，[B]段以 In another case 引出例证“勘测覆盖整个区域(entire landscapes)”，两段构成“总—分”结构。另外，上文[E]、[G]两段侧重介绍“考古遗址的定位”，[D]、[B]两段侧重介绍“考古勘测的范围”，两者衔接符合“先定位，后勤测”的做事步骤，故[D][B]与前文衔接顺畅。\n\n至此，全文的顺序确定为 [C] → [A] → [F] → [E] → [G] → [D] → [B]。在上述排序的基础之上，再通读一遍，检查思路是否清晰连贯，结构是否完整，段间层次关系是否恰当。在整体审视之后，方可最终确定。"
+      },
+      {
+       "number": 44,
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n**校对补充：** G 段谈地面调查和制图，D 段进一步概括 **Surveys can cover a single large settlement or entire landscapes**，然后以 Copán 周边调查为 *In one case* 的实例。它自然承接前文调查方法并引出具体大型案例，所以 D正确。"
+      },
+      {
+       "number": 45,
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n**校对补充：** D 段已经用 *In one case* 举 Copán 调查的例子，B 段紧接 **In another case**，再举 Teotihuacán 城市系统制图的案例，逻辑衔接非常明确。因此 B 应放在最后。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part C",
+   "instructions": "Part C\nDirections:\nRead the following text carefully and then translate the underlined segments into\nChinese. Your translation should be written neatly on the ANSWER SHEET. (10\npoints)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "translation_sentences",
+     "passage": [
+      "Music means different things to different people and sometimes even different things to the same person at different moments of his life. It might be poetic, philosophical, sensual, or mathematical, but in any case it must, in my view, have something to do with the soul of the human being. Hence it is metaphysical; but the means of expression is purely and exclusively physical: sound. I believe it is precisely this permanent coexistence of metaphysical message through physical means that is the strength of music. (46) <u>It is also the reason why when we try to describe music with words, all we can do is articulate our reactions to it , and not grasp music itself .</u>",
+      "Beethoven’s importance in music has been principally defined by the revolutionary nature of his compositions. He freed music from hitherto prevailing conventions of harmony and structure. Sometimes I feel in his late works a will to break all signs of continuity. The music is abrupt and seemingly disconnected, as in the last piano sonata. In musical expression, he did not feel restrained by the weight of convention. (47) <u>By all accounts he was a freethinking person, and a courageous one, and I find courage an essential quality for the understanding, let alone the performance, of his works .</u>",
+      "This courageous attitude in fact becomes a requirement for the performers of Beethoven’s music. His compositions demand the performer to show courage, for example in the use of dynamics. (48) <u>Beethoven’s habit of increasing the volume with an extreme intensity and then abruptly following it with a sudden soft passage was only rarely used by composers before him .</u>",
+      "Beethoven was a deeply political man in the broadest sense of the word. He was not interested in daily politics, but concerned with questions of moral behavior and the larger questions of right and wrong affecting the entire society. (49) <u>Especially significant was his view of freedom, which, for him, was associated with the rights and responsibilities of the individual: he advocated freedom of thought and of personal expression.</u>",
+      "Beethoven’s music tends to move from chaos to order as if order were an imperative of human existence. For him, order does not result from forgetting or ignoring the disorders that plague our existence; order is a necessary development, an improvement that may lead to the Greek ideal of spiritual elevation. It is not by chance that the Funeral March is not the last movement of the Eroica Symphony, but the second, so that suffering does not have the last word. (50) <u>One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living .</u>"
+     ],
+     "questions": [
+      {
+       "number": 46,
+       "stem": "It is also the reason why when we try to describe music with words, all we can do is articulate our reactions to it , and not grasp music itself .",
+       "answer": "这也解释了为什么当我们试图用语言去描述音乐的时候，充其量只能是说清楚自己的感受，而无法抓住音乐本身。",
+       "explanation": "> **答案：** 这也解释了为什么当我们试图用语言去描述音乐的时候，充其量只能是说清楚自己的感受，而无法抓住音乐本身。\n\n(46) It is also the reason why (0.5 分)//when we try to describe music with words, (0.5 分)//all we can do is articulate our reactions to it, and not grasp music itself. (1 分)\n\n本题考核的知识点是：定语从句、时间状语从句、从句嵌套。正确率：64%\n\n**1. 句法分析**\n\n**2. 句子注释**\n\nIt is also the reason why...可直接译为“这也是为什么……的原因”，但英文多用名词，而中文多用动词，故把名词 the reason 活译为动词“解释”更佳。all we can do 表示做最大限度的估计，可处理为“我们所能做的就是”、“至多”或“充其量”。句中反身代词 itself 相当重要，漏译会无法彰显音乐的双重特性。\n\n**3. 词义确定**\n\n(1) articulate 意为“用语言清楚地表达思想或感情”，可处理成“描述”、“说出”、“表达”等；可根据句中 describe music with words 以及 all we can do 确定其大致含义。\n\n(2) reaction 意为 “(因发生某事)你的所感、所说或所为”，文中 to it 与 music itself 相对，根据语境，可以翻译成语义较窄的“感受”或者更宽泛的“反应”。\n\n(3)grasp 有“领悟、理解”之意，但结合语境对音乐“抽象玄妙”特点的说明可知，此处表现的是“难以（像抓取实体事物般）抓住音乐”。\n\n**4. 全句调整，得出译文**\n\n这也解释了为什么当我们试图用语言去描述音乐的时候，充其量只能是说清楚自己的感受，而无法抓住音乐本身。\n\nII Beethoven's importance in music has been principally defined by the revolutionary nature of his compositions. He freed music from hitherto prevailing conventions of harmony and structure. Sometimes I feel in his late works a will to break all signs of continuity. The music is abrupt and seemingly disconnected, as in the last piano sonata. In musical expression, he did not feel restrained by the weight of convention. (47) By all accounts he was a freethinking person, and a courageous one, and I find courage an essential quality for the understanding, let alone the performance, of his works.\n\n贝多芬在音乐上的重要性主要体现在其作品的革命性方面。他将音乐从至今依然流行的和声与结构常规中解放了出来。从其晚期作品中我有时能感受到一种欲打破一切连续性符号的决心。正如他的最后一首钢琴奏鸣曲那样，他的晚期曲作中常有遽然骤变，且似乎没有连贯性。他的音乐表达不受制于常规。(47)总而言之，他是一个思想不受束缚的人，而且是一个富有勇气的人。我认为勇气是理解——更是演奏——其作品不可或缺的品格。\n\n**词汇注释与亮点表达**\n\nprincipally ad. 主要地\n\nconvention n. 常规，惯例\n\nrevolutionary a. 革命性的\n\nharmony n. 和声\n\ncomposition n. 作曲，创作\n\nhitherto ad. 迄今\n\ncontinuity n. 连续性\n\nprevailing a. 普遍的，盛行的\n\nabrupt a. 突然的，意外的\n\nsonata n. 奏鸣曲\n\nfree A from B“将 A 从 B 中解放出来”。This drug can free people from pain. 这种药物可止痛。\n\n**语篇分析**\n\n第二至五段说明贝多芬音乐所蕴含的主要精神——革命性的勇气。\n\n第二段介绍贝多芬作曲特点“突破常规”并补充观点“其听众以及演奏者也需具备这一精神气质”。\n\n第一句总述贝多芬音乐的主要价值。principally defined by(define 意为“说明事物性质或本质”) 引出核心价值所在，revolutionary nature 点明价值内涵：革命性。\n\n第二至五句例证首句，体现贝多芬作品的革命性特点。第二句总说贝多芬在创作方面打破常规的特点。free 做动词“解放”,凸显积极涵义；hitherto prevailing conventions 提示常规(convention)的普遍和强大，反向凸显“打破常规”的勇气。第三、四句以贝多芬后期作品例证上句。第三句以 will 凸显其作品包含的勇气和意志，以 break 与上句 free 相照应，点出“破旧”之意。第四句以 abrupt 与 disconnected(与 continuity“连贯性”相对)展现贝多芬音乐不走寻常路，颠覆陈规旧例的创新之举。第五句总结重申贝多芬作品特点：表达不受常规限制。weight 取僻义“影响力”。\n\n第六句升华全段，引出观点。freethinking、courageous、courage、essential quality 总结全段对贝多芬音乐创作“大胆革新”的赞赏之情；同时以 I find... for the understanding, let alone the performance... 对欣赏者，更对演奏者进行呼吁和鼓励：也要具备同样的精神气质才能演绎贝多芬的作品。"
+      },
+      {
+       "number": 47,
+       "stem": "By all accounts he was a freethinking person, and a courageous one, and I find courage an essential quality for the understanding, let alone the performance, of his works .",
+       "answer": "总而言之，他是一个思想不受束缚的人，而且是一个富有勇气的人。我认为勇气是理解——更是演奏——其作品不可或缺的品格。",
+       "explanation": "**真题精解**\n\n> **答案：** 总而言之，他是一个思想不受束缚的人，而且是一个富有勇气的人。我认为勇气是理解——更是演奏——其作品不可或缺的品格。\n\n(47) By all accounts (0.5 分) // he was a freethinking person, and a courageous one, (0.5 分) // and I find courage an essential quality for the understanding, (0.5 分) // let alone the performance, of his works. (0.5 分)\n\n本题考核的知识点是：并列结构，固定用法，插入语。正确率：43%\n\n**1. 句法分析**\n\n分句①: By all accounts he was a freethinking person, and a courageous one, 分句②: and I find courage an essential quality for the understanding, let alone the performance, of his works.\n\n状语 后置定语修饰 essential quality(包含 let alone 插入语)\n\n**2. 句子注释**\n\n**3. 词义确定**\n\n(1) by all accounts: 固定短语“据各方面所说”可直接采取“人们都说”的译法，也可灵活处理为“对外界评论作结”的总结性用语：总而言之。\n\n(2) let alone: 作用类似于并列连词，意为“何况、遑论、更不必说”, 从 understanding 与 performance 难度上的递进可判断该短语含义。\n\n(3) quality: 针对贝多芬作品的欣赏者以及演奏者，因此不是“性质”, 而是“精神特质、品格”。\n\n**4. 全句调整，得出译文**\n\n总而言之，他是一个思想不受束缚的人，而且是一个富有勇气的人。我认为勇气是理解——更是演奏——其作品不可或缺的品格。\n\nIII This courageous attitude in fact becomes a requirement for the performers of Beethoven's music. His compositions demand the performer to show courage, for example in the use of dynamics. (48) Beethoven's habit of increasing the volume with an extreme intensity and then abruptly following it with a sudden soft passage was only rarely used by composers before him.\n\n这种勇敢的态度实际上成为了演奏贝多芬乐曲的一个必要条件。他的作品要求演奏者展现出勇气，比如在力度的运用上。(48)贝多芬惯以超凡的力度加大音响，随后突然进入一个意想不到的柔和乐段，这种手法在前人的作品中极为罕见。\n\n**词汇注释与亮点表达**\n\ndynamics n. (音乐中的)力度变化\n\nvolume n. 音量\n\nintensity n. 强度\n\npassage n. (音乐、文章等中的)一小段\n\n1. a requirement for“……的必要条件”。A master's degree is a requirement for the post. 这个职位的起码条件是拥有硕士学位。\n\n**语篇分析**\n\n第三段承上段末解释为何贝多芬曲目的演奏者必须具有勇敢特质。\n\n首句表明观点：“勇气”是贝多芬音乐演奏者的必要条件。in fact becomes a requirement 继上段“鼓励、呼吁”之后更进一步强化观点：勇气是必备品。\n\n第二、三句从乐曲特点切入，解释为何演奏者必需展现勇气。\n\n第二句前半句重申首句以示强调，demand 与首句 requirement 同义，后半句以 for example 列举需要勇气的一个具体方面：力度的运用。第三句具体解释。句子以 increase the volume with an extreme intensity 与 abruptly following it with a sudden soft passage 形成强烈对比，凸显演奏贝多芬音乐需要极强的力度突转，并以 rarely used by composers before him 体现其打破常规，再次侧面印证本段观点。"
+      },
+      {
+       "number": 48,
+       "stem": "Beethoven’s habit of increasing the volume with an extreme intensity and then abruptly following it with a sudden soft passage was only rarely used by composers before him .",
+       "answer": "贝多芬惯以超凡的力度加大音响，随后突然进入一个意想不到的柔和乐段，这种手法在前人的作品中极为罕见。",
+       "explanation": "> **答案：** 贝多芬惯以超凡的力度加大音响，随后突然进入一个意想不到的柔和乐段，这种手法在前人的作品中极为罕见。\n\n(48) Beethoven's habit of (0.5 分) // increasing the volume with an extreme intensity and then abruptly following it with a sudden soft passage (1 分) // was only rarely used by composers before him. (0.5 分)\n\n本题考核的知识点是：介词、动名词结构做后置定语、词义辨析、被动语态、词性转换。正确率：38%\n\n**1. 句法分析**\n\n**2. 句子注释**\n\n本句需拆分成几个短句，其中涉及的翻译要点有：(1)词性的转换：中心语 habit 的后置定语过长，可结合汉语的块状结构、以及多用动词的特点，将 habit 转译为动词“习惯于”,将 increasing 与 following 两个动名词还原其动词本意。(2)语态转换：was only rarely used 这种被动语态在英语中使用频率较高，但汉语一般应尽量避免“被”的使用，可以化被动为主动，并增译“这种手法”实现衔接。\n\n**3. 词义确定**\n\n(1) intensity: 该词在句中取术语意义“力度、强度”，与 volume（音的响度）搭配，表示音量增大的程度。\n\n(2) soft passage: 上下文语境为“音乐、作曲”，故 passage 表示“乐段”；soft 意为“轻柔的、柔和的”。\n\n**4. 全句调整，得出译文**\n\n贝多芬惯以超凡的力度加大音响，随后突然进入一个意想不到的柔和乐段，这种手法在前人的作品中极为罕见。\n\nIV Beethoven was a deeply political man in the broadest sense of the word. He was not interested in daily politics, but concerned with questions of moral behavior and the larger questions of right and wrong affecting the entire society. (49) Especially significant was his view of freedom, which, for him, was associated with the rights and responsibilities of the individual: he advocated freedom of thought and of personal expression.\n\n从最广义的角度来说，贝多芬是一个热衷政治的人。但他对日常政务并不感兴趣，他所关心的是道德行为问题，以及更大的、影响整个社会的是非正义问题。(49)尤具深意的是他的自由观，在他看来自由关系到个人的权利和责任：他主张思想和个人表达的自由。\n\n**亮点表达**\n\nin the broadest sense“在最广泛的意义上”。The play is a comedy, in the broadest sense of the word. 这个剧本从广义上说是喜剧。\n\nbe concerned with“对……关心的”。Many politicians are more concerned with power than with the good of the people. 许多政客更关心权力，而不是人民的利益。\n\n**语篇分析**\n\n第四、五段从贝多芬的政治思想层面，说明勇气对于贝多芬音乐的意义。其中第四段说明贝多芬的政治观点之一：提倡自由。\n\n第一句总述：贝多芬热衷政治。最高级形式 in the broadest sense of the word (the word = political) 暗含之意为：这里所说的“政治”不同于通常所说的狭义上的“政治”。\n\n第二句解释首句。not...daily politics(politics 指“政治活动/事务”), but...(不是……,而是……)揭示 broadest 内涵，强调贝多芬追求的是更高层次的道德人文关怀。\n\n第三句将“政治关注”进一步聚焦至“自由观”并予以解释。significant 提前并辅以强调性副词 Especially，除衔接上文外，更强调贝多芬价值观的正面影响力，同时侧面解释了其作品为何从内容到形式都竭力追求“不拘传统，自由创新”：个人的权利及义务紧系于此特质。"
+      },
+      {
+       "number": 49,
+       "stem": "Especially significant was his view of freedom, which, for him, was associated with the rights and responsibilities of the individual: he advocated freedom of thought and of personal expression.",
+       "answer": "尤具深意的是他的自由观，在他看来自由关系到个人的权利和责任：他主张思想和个人表达的自由。",
+       "explanation": "> **答案：** 尤具深意的是他的自由观，在他看来自由关系到个人的权利和责任：他主张思想和个人表达的自由。\n\n(49) Especially significant was his view of freedom, (0.5 分) // which, for him, was associated with the rights and responsibilities of the individual: (1 分) // he advocated freedom of thought and of personal expression. (0.5 分)\n\n本题考核的知识点是：定语从句，倒装结构。正确率：56%\n\n**1. 句法分析**\n\n**2. 句子注释**\n\n冒号将全句分为两个分句，前一个分句将表语 especially significant 提前旨在强调，注意 which 引导非限制性定语从句修饰 freedom 而非 view of freedom；分句二是对定语从句内容的进一步解释说明。\n\n**3. 词义确定**\n\n（1）advocate: 意为“主张、提倡”，可根据上文“思想自由、勇敢”以及本句“他的自由观”推测其对于“思想和个人表达的自由”是支持和推崇的。\n\n**4. 全句调整，得出译文**\n\n尤具深意的是他的自由观，在他看来自由关系到个人的权利和责任：他主张思想和个人表达的自由。\n\nV Beethoven's music tends to move from chaos to order as if order were an imperative of human existence. For him, order does not result from forgetting or ignoring the disorders that plague our existence; order is a necessary development, an improvement that may lead to the Greek ideal of spiritual elevation. It is not by chance that the Funeral March is not the last movement of the Eroica Symphony, but the second, so that suffering does not have the last word. (50) One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living. [415 words]\n\n贝多芬的音乐往往是从混乱走向秩序，就好像秩序是人类生存所必须的。在他看来，遗忘或无视困扰我们生存的混乱并不能为我们带来秩序；秩序是一种必要的发展，是一种可以引领人类走向希腊理想中的精神升华的进步。《葬礼进行曲》不是《英雄交响曲》的最后乐章，而是第二乐章，这绝非偶然为之：为的是不让苦难成为最终的胜利者。(50)苦难是不可避免的，但与之抗争的勇气正是生活的意义所在。对贝多芬的诸多作品，我们都可做此解读。\n\n① chaos n. 混乱，紊乱\n\n② imperative n. 必要的事\n\n③ plague v. 使痛苦，造成麻烦\n\n**词汇注释**\n\nelevation n. 提升\n\nrender v. 使得\n\n**语篇分析**\n\n第五段以贝多芬乐曲特点表明其政治观点之二：苦难不可避免，但与之抗争的勇气赋予生命价值。\n\n首句指出贝多芬作曲的惯常特征：由混乱走向秩序。as if orders were... 借委婉语气传递肯定用意：如此创作正是基于其眼中的人生正是如此，混乱难以避免，但最终归于秩序，从而人类得以存续。\n\n第二句阐释贝多芬对于“秩序何以实现”的看法。分号前以 not result from 否定许多人的惯常做法，plague(折磨、使苦恼)暗示 forgetting or ignoring the disorders 实指“我们对混乱（困难）无意以及有意的逃避”。分号后 order is... 引出贝多芬观点，necessary development、improvement 间接表明“必须经历混乱的过程才能实现理想的秩序”。\n\n第三句介绍贝多芬这一理念如何体现于其作品中。句首 It is not by chance 明确“将《葬礼进行曲》置于第二乐章而非通常的末尾乐章”的安排方式是“蓄意为之、别有深意”; so that 既表“目的”, 又表“结果”, 引出这一安排的用意：不让痛苦(或痛苦不会)成为最后的胜利者，印证其对秩序何以实现的看法。\n\n末句总结全段并升华主题，道出贝多芬音乐的精神内涵。much of 强调这一特点基本贯穿贝多芬大部分作品，suffering is evitable 对应上文“忘却或无视混乱于事无补”；but the courage to fight it 点明全文主题词“勇气”，以 renders life worth living 收尾，肯定其对人生苦难的重要意义。"
+      },
+      {
+       "number": 50,
+       "stem": "One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living .",
+       "answer": "苦难是不可避免的，但与之抗争的勇气正是生活的意义所在。对贝多芬的诸多作品，我们都可做此解读。",
+       "explanation": "**真题精解**\n\n> **答案：** 苦难是不可避免的，但与之抗争的勇气正是生活的意义所在。对贝多芬的诸多作品，我们都可做此解读。\n\n(50) One could interpret much of the work of Beethoven (0.5 分) // by saying that suffering is inevitable, (0.5 分) // but the courage to fight it renders life worth living. (1 分)\n\n本题考核的知识点是：动名词结构做状语，宾语从句。正确率：37%\n\n**1. 句法分析**\n\n**1. 句法分析**\n\n**2. 句子注释**\n\n句中 by + doing 结构作方式状语，并嵌套包含两个并列句的宾语从句，可将长句拆成短句，并适当调整语序以符合汉语表达。全句主要说明解读贝多芬作品的方式，interpret 与 saying 为同义复现，saying 可以省译。it 指代 suffering；worth living 做宾语 life 的补足语，需结合谓语 renders 整合翻译。\n\n**3. 词义确定**\n\n(1) interpret 意为“解释、阐释、解读”，可由 saying 以及其后的宾语从句内涵判断词义。\n\n(2) render 意为 “使变得，使处于某状态”, 同 make; 句中可灵活处理为 “是生活的意义/价值所在”。\n\n**4. 全句调整，得出译文**\n\n苦难是不可避免的，但与之抗争的勇气正是生活的意义所在。对贝多芬的诸多作品，我们都可做此解读。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section III Writing — Part A",
+   "score": 10,
+   "groups": [
+    {
+     "type": "writing",
+     "questions": [
+      {
+       "number": 51,
+       "stem": "51. Directions:\nWrite a letter of about 100 words to the president of your university,\nsuggesting how to improve students’ physical condition.\nYou should include the details you think necessary.\nYou should write neatly on the ANSWER SHEET.\nDo not sign your own name at the end of the letter. Use “Li Ming” instead.\nDo not write the address. (10 points)",
+       "score": 10,
+       "answer": "Dear Sir,\nI am a senior student in this university. I'm writing to express my humble opinions about physical health problem among college students.\nStudents' deteriorating physical condition has become a burning issue. A recent report mentions that there are stunningly 6000 times of medical treatment for 3500 students in one new students' military training. The root of the problem, I think, lies in the over-emphasis on test scores. So it is imperative that the exam-driven system be reformed and the value of health be stressed. Physical education should be compulsory for all students. Meanwhile, opportunities for students to exercise, such as sports meeting, would be of great value for students.\nI hope you find the above suggestions helpful and utilize them in our university.\nYours faithfully,\nLi Ming",
+       "explanation": "**一、审题引导**\n\n| | | | |\n| --- | --- | --- | --- |\n| 抓取指令关键词 | 梳理信息 | 归纳要点 | |\n| 情景&要求 | Write a letter of about 100 words to the president of your university , suggesting how to improve students' physical condition . | 1. 写作类型：书信。2. 写信人身份：大学生。3. 写作对象：校长。4. 交际目的：为改善学生体质提供建议。5. 写作话题：改善学生体质。 | 1. 格式：书信(建议信)。2. 语域：给校长的信件属于公务信函，应使用正式语体，措辞要礼貌、客气。3. 内容要点：1指出学生体质堪忧的现实问题；2提出改善建议。 |\n\n**二、优秀范文赏析**\n\n**优秀范文**\n\nDear Sir,\n\n①I am a senior student in this university. ②I'm writing to express my humble opinions about physical health problem among college students.\n\n①Students' deteriorating physical condition has become a burning issue. ②A recent report mentions that there are stunningly 6000 times of medical treatment for 3500 students in one new students' military training. ③The root of the problem, I think, lies in the over-emphasis on test scores. ④So it is imperative that the exam-driven system be reformed and the value of health be stressed. ⑤Physical education should be compulsory for all students. ⑥Meanwhile, opportunities for students to exercise, such as sports meeting, would be of great value for students.\n\n①I hope you find the above suggestions helpful and utilize them in our university.\n\n**参考译文**\n\nYours faithfully,\n\n尊敬的先生：①我是本校大四的学生。②我写信是为就大学生的健康问题提出自己的拙见。\n\n①学生日益糟糕的身体素质已经变成一个紧急的问题。②最近有报道称在一次新生军训中，3500名学生的就医次数令人震惊地达到了6000次。③我认为问题的根源在于过度强调考试分数。④因此有必要改革应试体系、强调健康的价值。⑤应将体育设置为所有学生的必修课。⑥此外，诸如运动会等锻炼机会对学生来说会是价值非凡的。\n\n①希望您觉得上述建议有用并在我校予以实施。\n\n诚挚的，\n\nLi Ming\n\n李明\n\n[必备表达]\n\n1. express my humble opinions about 就……发表自己的拙见\n\n2. deteriorate [v.] 恶化，下降\n\n3. stunningly [ad.] 令人震惊地\n\n4. military training 军训\n\n5. It is imperative that ……有必要\n\n[活用外刊]\n\n1. Climate change may be a burning issue — but election campaign tells another story. — The Guardian\n\n译文：气候变化问题迫在眉睫——而大选体现的却是另外一回事。\n\n点拨：burning 意为“重要而迫切的”, a burning issue 可用于表示亟待解决的紧迫问题。\n\n2. In this irrational age, one example of irrationality is the over-emphasis on winning titles, which is actually a rare occurrence.\n\n——Toronto Star\n\n译文：在这个非理性时代，荒谬之一就是过度强调赢取冠军头衔，(但)这实际上是极少发生的。\n\n点拨：over 表示“过度、过分”, over-emphasize on / the over-emphasis on 意为“过度强调……”, 用于引出意在批驳的事物。\n\n**篇章衔接**\n\n引言部分(2句):自我介绍并表明写作目的。①句自我介绍。②句表明写作目的：就大学生的健康问题说明看法。\n\n主体部分(6句):指出学生体质问题的具体表现、分析原因并提出建议。①②句指出学生身体素质不佳的现状并以数据力证。③句分析问题产生的原因：过度强调考试分数。④至⑥句提出建议：设置体育为必修课并为学生积极提供体育锻炼机会。\n\n结尾部分(1句): 表达期待，希望建议被采纳。\n\n[模板提炼]本模板由【优秀范文】提炼而来，适用于各种情形下的建议信。\n\nDear ____,\n\nI am （自我介绍）. I'm writing to express my humble opinions about （某种问题）.\n\n（某种问题）has become a burning issue. A recent report mentions that ____. The root of the problem, I think, lies in （分析原因）. So It is imperative that ____. （建议一）should be compulsory for ____. Meanwhile, （建议二）would be of great value for ____.\n\nI hope you find the above suggestions helpful and utilize them in ____.\n\nYours faithfully,\n\nLi Ming\n\n**三、写作储备**\n\n**建议信常用表达**\n\n**(1) 开篇：说明写作目的**\n\n...is expected to... 希望……能…… As..., I am writing this letter to make some suggestions for...。作为……，我写信希望就……提出几点建议。 I write this letter on behalf of... to suggest... 我谨代表……写这封信，提议……。\n\n(2) 中间段：分析现状并罗列建议\n\n...is a matter of great urgency.……迫在眉睫。 These problems all stem from....这些问题皆源于……。 I believe that it might be beneficial to...我认为……也许是有益的。 May I suggest that...? 我可以提议……吗？\n\n(3) 结尾：表达期待\n\nHopefully, these suggestions can be considered. 希望可以考虑这些建议。 Thank you for hearing me out on my suggestions. 感谢您听取我的意见。 I hope you will adopt the above suggestions. 我希望您能采纳上述建议。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section III Writing — Part B",
+   "score": 20,
+   "groups": [
+    {
+     "type": "writing",
+     "images": [
+      "assets/2014-1-q52.jpg"
+     ],
+     "questions": [
+      {
+       "number": 52,
+       "stem": "52. Directions:\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n1) describe the drawing briefly,\n2) interpret its intended meaning, and\n3) give your comments.\nYou should write neatly on the ANSWER SHEET. (20 points)",
+       "score": 20,
+       "answer": "There are two photos of a mother and a daughter.\nOne was taken 30 years ago showing the young mother holding her daughter's hand and the other has been recently gotten recording the daughter supporting her mother with hand.  Scenes have changed; but what remains unchanged is their sweet and contented smile.\nThe two photos reflect the deep love between the mother and the daughter, bringing comforting relief from frequently reported stay-at-home children and elder mistreatment cases.  As the world becomes materially rich, wealth accumulation and pursuit of comfort have become a fashion trend.  Many young adults influenced have become irresponsible parents or unfilial children.  Some leave their children at hometown where living cost is lower and their parents can help deal with tiring child raising.  They intentionally or unintentionally ignore the detrimental effects of the lack of parental involvement on their children.  Some turn a blind eye to their responsibility towards parents.  They selfishly think taking care of parents will disturb their vibrant personal life and increase their economic burden.\nThese young people discard the most important element for happiness—the mutual love within a family and unwisely get temporary comfort at the expense of long-term happiness.  A person of wisdom should place experiencing family love at the top of his life's priorities.",
+       "explanation": "**一、审题引导**\n\n| | | |\n| --- | --- | --- |\n| 提示信息 | 信息解析 | 推导寓意 |\n| 图上方文字：“三十年前”和“现在” | 两幅图呈现时间流逝或不同时间的对比。 | 三十年前妈妈牵着孩子，现在孩子搀扶母亲。她们之间互相扶持的场景宣扬了家庭中爱的传承以及尊老爱幼的中国传统美德。 |\n| 左图：一个妇女牵着一个小孩，她们笑容满面 | 代表母亲抚育、照顾孩子。 | |\n| 右图：一位年轻妇女搀扶着一位年老的妇女 | 代表孩子对母亲的反哺。 | |\n| 标题：相携 | 寓意两人间的互相扶持。 | |\n\n**二、优秀范文赏析**\n\n**优秀范文**\n\n① There are two photos of a mother and a daughter.\n\n② One was taken 30 years ago showing the young mother holding her daughter's hand and the other has been recently gotten recording the daughter supporting her mother with hand. ③ Scenes have changed; but what remains unchanged is their sweet and contented smile.\n\n① The two photos reflect the deep love between the mother and the daughter, bringing comforting relief from frequently reported stay-at-home children and elder mistreatment cases. ② As the world becomes materially rich, wealth accumulation and pursuit of comfort have become a fashion trend. ③ Many young adults influenced have become irresponsible parents or unfilial children. ④ Some leave their children at hometown where living cost is lower and their parents can help deal with tiring child raising. ⑤ They intentionally or unintentionally ignore the detrimental effects of the lack of parental involvement on their children. ⑥ Some turn a blind eye to their responsibility towards parents. ⑦ They selfishly think taking care of parents will disturb their vibrant personal life and increase their economic burden.\n\n① These young people discard the most important element for happiness—the mutual love within a family and unwisely get temporary comfort at the expense of long-term happiness. ② A person of wisdom should place experiencing family love at the top of his life's priorities.\n\n**参考译文**\n\n①有一对母女的两张照片。②一张拍摄于30年前，上面是年轻的妈妈牵着女儿的手；另一张是最近拍摄的，上面是女儿搀扶着母亲。③场景发生了变化，但不变的是她们甜美、满足的笑容。\n\n①两张照片反映了母女之间深厚的爱，使经常报道的留守儿童和虐待老人事件带来的负面心情得到一定缓解。②随着世界变得物质充裕，财富积累和对舒适的追求成为流行趋势。③许多受流行趋势影响的年轻人成为不负责任的父母或者不孝顺的孩子。④一些人将孩子留在老家，在那儿生活成本更低，也有自己的父母帮着分担带孩子的累人任务。⑤他们有意或者无意忽略养育过程中父母缺位给孩子带来的有害影响。⑥一些人无视对父母的责任。⑦他们自私地认为照顾父母会影响他们充满活力的个人生活，并增加他们的经济负担。\n\n[必备表达]①这些年轻人舍弃了幸福最重要的因素——家人之间的亲情，不明智地为得到暂时的舒适而牺牲长期的幸福。②一个明智的人应该将感受天伦之乐列于人生优先排序列表中靠前的位置。\n\n1. comforting [a.]让人舒服的\n\n3. stay-at-home children 留守儿童\n\n4. elder mistreatment 虐待老人\n\n5. wealth accumulation 财富积累\n\n10. ignore the detrimental effects of...忽略……的有害影响\n\n11. the lack of parental involvement 父母缺位\n\n6. fashion trend 流行时尚\n\n7. unfilial [a.] 不孝的\n\n12. selfishly [ad.] 自私地\n\n13. vibrant [a.] 充满活力的\n\n8. living cost 生活成本\n\n14. discard [v.] 舍弃\n\n9. intentionally [ad.] 有意地\n\n**活用外刊**\n\n1. Police in Britain increasingly turn a blind eye to assisted suicide.\n\n——The Economist\n\n译文：英国警方对医助自杀越发视而不见。\n\n点拨：turn a blind eye to 意为 to ignore something and pretend you do not see it(忽视某事物，假装没看见), 可替换常用表达 pay no attention to。\n\n2. Whilst these jurisdictions undoubtedly benefit some rich individuals and multinational corporations, this benefit is at the expense of others, and they therefore serve to increase inequality. —Independent\n\n译文：这些司法辖区无疑对富人和跨国公司有利，但这种益处是以牺牲他人利益为代价的，它们由此助长了不平等。\n\n点拨：at the expense of 意为 to the disadvantage of someone(对某人不利，以某人利益为代价), 可替换常用表达 to the harm of。\n\n[篇章衔接]第一段(3句):描述图片。①句明确图片中人物关系。②句对比展现两幅照片的区别。③句分析照片体现的情感共性，为归纳主题做铺垫。\n\n第二段(7句):论述图片主旨，从图片宣扬的道德观出发，揭露当前社会背景。①句明确图片情感主题，并由情感的抚慰作用引出当前的社会问题。②句指出社会问题的背景。③至⑦句阐述社会问题的表现：③句总述两种表现，④⑤句具体说明第一种表现，⑥⑦句具体说明第二种表现。\n\n第三段(2句):明确观点，发出呼吁。①句评论当前社会问题。②句提出应该采取的行为。\n\n[思路拓展]针对道德宣扬的话题，如诚信、互助等，在第一段描述图片后，第二段可如范文所示，从反面入手指出当前社会问题，说明社会背景并阐述问题表现；也可正面论述传统美德的积极影响等。第三段亦可如范文所示，批驳此种不良社会问题并发出呼吁。\n\n[应用模板]\n\n①There are two photos of ____. ②One was taken ____ years ago showing ____ and the other has been recently gotten recording ____. ③Scenes have changed but what remains unchanged is ____. ①有____的两张照片。②一张拍摄于____年前，表现了____;另一张是最近拍摄的，表现了____。③场景发生了变化，但不变的是____。 ① The two photos reflect ____, bringing a comforting relief from frequently reported ____ cases.\n\n② As ____, ____ become a fashion trend. ③ Many young adults influenced become ____. ④ Some ____.\n\n⑤ They intentionally or unintentionally deny the detrimental effects of ____ on ____. ⑥ Some ____.\n\n⑦ They selfishly think ____.\n\n| | |\n| --- | --- |\n| 1These young people discard the most important element for happiness — ____ and unwisely get temporary ____ at the expense of long-term ____.2A person of wisdom should list ____ at the top of his life's priorities. | 1这些年轻人舍弃了幸福最重要的因素——____,极度不明智地为得到暂时的____而牺牲____。2一个明智的人应该将____列于人生优先排序列表中靠前的位置。 |\n\n模板注释：第二段以“一些人……,另一些人……”引出两个角度展现当前社会问题。第三段总结全文，强调主题。\n\n**三、写作储备**\n\n**话题表述补充**\n\ndemographic ageing/population ageing 人口老龄化；grow frail 变得体弱；lose mental acuity 思维不再敏捷；help parents financially 给父母提供经济帮助；visit parents regularly 定期看望父母\n\n**写作素材积累**\n\nConfucius said that while a man's parents were alive, he should not travel far afield.\n\n孔子曰“父母在不远游。”\n\nOn July 1st, 2013 the government introduced a law to require children to visit or keep in touch with their elderly parents.\n\n2013年7月1日政府颁布了一项法律，规定孩子必须看望年迈父母或者与他们沟通、交流。\n\nThere are 185m people over 60 today, and that figure will grow to 487m by 2053, according to the China National Committee on Ageing. 据中国全国老龄协会报道，今天60岁以上的人口有1亿8500万，到2053年这一数字会到4亿8700万。"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

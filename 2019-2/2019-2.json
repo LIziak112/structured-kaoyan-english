@@ -1,0 +1,729 @@
+{
+ "year": 2019,
+ "exam": "英语二",
+ "sections": [
+  {
+   "title": "Section I Use of English",
+   "instructions": "Read the following text. Choose the best word (s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "cloze",
+     "passage": [
+      "Weighing yourself regularly is a wonderful way to stay aware of any significant weight fluctuations. {{1}} , when done too often, this habit can sometimes hurt more than it {{2}} .",
+      "As for me, weighing myself every day caused me to shift my focus from being generally healthy and physically active, to focusing {{3}} on the scale. That was bad to my overall fitness goals. I had gained weight in the form of muscle mass, but thinking only of {{4}} the number on the scale, I altered my training program. That conflicted with how I needed to train to {{5}} my goals.",
+      "I also found that weighing myself daily did not provide an accurate {{6}} of the hard work and progress I was making in the gym. It takes about three weeks to a month to notice significant changes in your weight {{7}} altering your training program. The most {{8}} changes will be observed in skill level, strength and inches lost.",
+      "For these {{9}} , I stopped weighing myself every day and switched to a bimonthly weighing schedule {{10}} . Since weight loss is not my goal, it is less important for me to {{11}} my weight each week. Weighing every other week allows me to observe and {{12}} any significant weight changes. That tells me whether I need to {{13}} my training program.",
+      "I use my bimonthly weigh-in {{14}} to get information about my nutrition as well. If my training intensity remains the same, but I’m constantly {{15}} and dropping weight, this is a {{16}} that I need to increase my daily caloricintake.",
+      "The {{17}} to stop weighing myself every day has done wonders for my overall health, fitness and well-being. I’m experiencing increased zeal for working out since I no longer carry the burden of a {{18}} morning weigh-in. I’ve also experienced greater success in achieving my specific fitness goals, {{19}} I’m training according to those goals, not the numbers on a scale.",
+      "Rather than {{20}} over the scale, turn your focus to how you look, feel, how your clothes fit and your overall energy level."
+     ],
+     "questions": [
+      {
+       "number": 1,
+       "score": 0.5,
+       "options": {
+        "A": "Besides",
+        "B": "Therefore",
+        "C": "Otherwise",
+        "D": "However"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n1. [A] Besides 此外\n\n[B] Therefore 因此\n\n[C] Otherwise 否则；在其他方面；以不同方式\n\n[D] However 然而\n\n[考点提炼] 句间语义逻辑。\n\n[解题思路] 首句指出，定期称体重是关注体重变化的好办法 (wonderful way)。下句指出，如果称得过于频繁，这种习惯 (this habit 回指首句“定期称重”) 会造成伤害多过……(can sometimes hurt more 为句子主干)。可见开篇欲抑先扬，即“由(公认的)利转而切入弊”, 进而开启全文论述，[D] 正确体现这一语义转折。\n\n[错项排除] [A] Besides 用于补充并列的信息(原因、论据等); [B] Therefore 用于引出某事/情况导致的结果；[C] Otherwise 用于引出若不做某事会造成的后果，均不符合①②句间语义逻辑。"
+      },
+      {
+       "number": 2,
+       "score": 0.5,
+       "options": {
+        "A": "helps",
+        "B": "cares",
+        "C": "warns",
+        "D": "reduces"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n2. [A] helps 有益，帮助\n\n[B] cares 关心；照顾；喜爱\n\n[C] warns 警告；提醒\n\n[D] reduces 减少；减重，节食\n\n[考点提炼] 句内语义。\n\n[解题思路] 已知②句承①句“定期称重的利”引出其“弊”，可知句中比较状语从句（can sometimes hurt more）than it ____ 是在“比较合理称重与过度称重的影响”：（合理称重有利，而）称重一旦过度，则弊大于利。选项中能体现“利”的只有[A]。\n\n[错项排除] [B]、[C]虽体现“积极”含义，但与 hurt（意为“造成损害、产生不良影响”）均不在一个层面，无法比较。[D]利用其“减轻体重”的含义干扰，但比较的对象为“有害(hurt)”，而非“增重”；其次该词通常用于“某人 + reduce to + 体重数字（意为“体重减至……”）”结构，文中主语 it 指代“过度称重”，语法上无法搭配。\n\n**词汇注释与难句分析**\n\nstay aware of 保持……的意识；随时留意……\n\nfluctuation n. 起伏，波动\n\n**语篇分析**\n\n首段为总起段，明确全文主旨：(合理)定期称重有利，过度频繁称重弊大于利。两句欲抑先扬，先肯定定期称重之利(wonderful),再以 However 转而引出其弊(hurt more than it helps;其中 helps 呼应 a wonderful way... )。when done too often 提示问题的关键在于“称重频度是否合理有度”。this habit、it 均回指首句 Weighing yourself regularly,明确全文论述焦点：指导人们正确称重。\n\nⅡ ① As for me, weighing myself every day caused me to shift my focus from being generally healthy and physically active to focusing 3 on the scale. ② That was bad to my overall fitness goals. ③ I had gained weight in the form of muscle mass, but thinking only of 4 the number on the scale, I altered my training program. ④ That conflicted with how I needed to train to 5 my goals.\n\n对我而言，每日称重使我的注意力从“保持整体健康和精力充沛”转移到“只关注体重计数字”上。②这不利于我的总体健身目标。③我的体重以肌肉重量的形式增加了，但因为只想着降低体重计上的数字，我改变了训练计划。④这与我需要的实现目标的训练方式相悖。"
+      },
+      {
+       "number": 3,
+       "score": 0.5,
+       "options": {
+        "A": "initially",
+        "B": "solely",
+        "C": "occasionally",
+        "D": "formally"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n3. [A] initially 最初，首先\n\n[B] solely 仅仅，只\n\n[C] occasionally 偶尔；间或\n\n[D] formally 正式地；形式上；理论上\n\n[考点提炼]句内语义。\n\n[解题思路] 空格句意为：对“我”来说，每日称重让“我”的关注焦点从保持整体健康、精力充沛转向 ____ 关注体重计数字 (As for me,... caused me to...)。可见本段作者开启自身经历的介绍，以佐证上文结论“过度称重弊大于利”。而从“身心、精力”转至“体重数字”, 可见关注点变得“片面、狭窄”, 只有 solely(义同 only) 对这种变化特点起到强化作用，能体现“弊端”, [B] 正确。\n\n[错项排除] [A] initially 用于表示“(与中途、当前有别的)起初情形”, 而文中 shift... from A to B 结构中，B(focusing—on the scale)为转变后的当前情形，A 才是起初情形。[C] occasionally 表示“偶尔为之”, 限定 focusing—on 不足以体现“称重过度”, 因而不能佐证“有害”这一结论。[D] formally 利用中文释义“形式上”干扰，将文意解读为“关注表面、形式上的数字”, 但 focusing formally on... 实际意为 “在形式上关注体重数字”, 不合逻辑。"
+      },
+      {
+       "number": 4,
+       "score": 0.5,
+       "options": {
+        "A": "recording",
+        "B": "lowering",
+        "C": "explaining",
+        "D": "accepting"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n4. [A] recording 记录，录音 [B] lowering 减少，降低\n\n[C] explaining 解释，说明 [D] accepting 接受，同意\n\n[考点提炼]句内语义。\n\n[解题思路]空格所在句以 but 实现两分句间语义转折，but 前分句 1 指出“我”以肌肉的形式增加了体重，暗示分句 2 应涉及与之相反的情形——减重。altered my training program 进一步表明“我”并不想增加体重，综合可知空格词应表示“减轻(体重)”, [B] 正确。\n\n[错项排除] 空格所在的分词结构 thinking only of... 实为原因状语，解释主句行为 I altered...。换言之，改变训练计划的目的是实现空格处行为。而“记录/解释/接受体重计上的数字”与“改变训练计划”之间均无法形成“目标→途径”链条，也不符合 but 所体现的“体重增长 VS 降低体重”语义对比。"
+      },
+      {
+       "number": 5,
+       "score": 0.5,
+       "options": {
+        "A": "modify",
+        "B": "set",
+        "C": "review",
+        "D": "reach"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n5. [A] modify 修改，修饰 [B] set 树立，设置\n\n[C] review 回顾，检查 [D] reach 实现、达到(目标); 延伸\n\n[考点提炼]上下文语义+动词辨析。\n\n[解题思路]段中②③④句形成“总分总”意群：空格所在句 That conflicted with... to ____ my goals 与②句 That was bad to my overall fitness goals 在结构、内容上均相互呼应，③句具体解释②句(过度称重如何不利于健身目标的达成），④句重申观点，故空格处应表示“实现、达成”之意，[D]正确。\n\n[错项排除] to 提示 train 与 ____ my goals 为“条件→结果”关联，而“修改/设立/回顾目标”与“训练”之间无法构成这种关联，也不符合上下文“通过训练以实现整体健身目标”的语境。\n\nshift from 从……转移\n\ngenerally healthy 整体健康的\n\nphysically active 精力富足；身体活跃\n\nscale n. 天平；秤\n\n**第二、三段细述过度(每日)称重的弊端。**\n\n第二段说明弊端之一：误导健身方向。①句总说过度称重对心态的影响，②至④句具体阐释这一心态对健身的负面影响。①句 weighing...every day 呼应首段 when done too often,提示下文开启对问题表象、影响等的论述。变化链 shift...from...to...借助三个副词 generally、physically、solely 突显健身心态转变/健身目标“退化”:从全面、切实变得片面、形式。②句 That 回指上句情形(心态转变),并以 bad to my overall fitness goals 概说其问题，并在③句详述、④句归总(conflicted with、my goals)。③句转折信息 but thinking only of...the scale,I altered...串起“心态影响行为”的因果动作链：以肌肉的形式增重(暗示这类增重是有益的)→只想到减重→改变训练计划(以降低体重)。\n\nⅢ ① I also found that weighing myself daily did not provide an accurate 6 of the hard work and progress I was making in the gym. ② It takes about three weeks to a month to notice any significant changes in your weight 7 altering your training program. ③ The most 8 changes will be observed in skill level, strength and inches lost.\n\n我还发现，每日称重无法为我在健身房付出的努力和取得的进步提供准确的描述。②因改变训练计划而产生的明显体重变化需要大约三周到一个月的时间才能被注意到。③最直接的变化将体现在技能水平、力量和减少的(身体)维度上。"
+      },
+      {
+       "number": 6,
+       "score": 0.5,
+       "options": {
+        "A": "definition",
+        "B": "depiction",
+        "C": "distribution",
+        "D": "prediction"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n6. [A] definition 定义，(词条) 释义\n\n[B] depiction 描述；形容；说明\n\n[C] distribution 分配；分布；经销\n\n[D] prediction 预测\n\n[考点提炼]句内语义+名词词义辨析。\n\n[解题思路] 空格词实际体现“称重(weighing)和“锻炼成果(the hard work and progress)”二者的作用关系。①②句“I was making(当下每刻)”与“about three weeks(三周之后)”暗示两句在对比“每日称的效果(看不出什么变化)VS 三周后称重的效果(会看到明显变化)”，再结合常识“称重为的是监测锻炼/节食成果”，可见二者作用关系是“称重为锻炼成果提供依据/说明”，而首句旨在说明“每日称重数字难以准确反映锻炼成果”，[B]正确。\n\n[错项排除][A]“下定义”是对事物基本属性及本质特征的说明，文中显然无意于解释“努力和进步(hard work and progress)”的概念。[C]利用中文“让锻炼和进步更科学、更有规划(合理安排/分配时间、强度等)”干扰，但 distribution 实际表示“将物资、援助等分发/共享至某个大群体(the act of sharing things among a large group of people in a planned way)”。[D] prediction + of 其后所接内容是“未来情形”，如a prediction of a Republican victory(对于共和党获胜的预测)，而文中 hard work and progress I was making 是当下情形，不存在“预测”一说。"
+      },
+      {
+       "number": 7,
+       "score": 0.5,
+       "options": {
+        "A": "due to",
+        "B": "regardless of",
+        "C": "aside from",
+        "D": "along with"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n7. [A] due to 由于\n\n[B] regardless of 不顾，不管\n\n[C] aside from 除……以外 [考点提炼] 句内语义逻辑。\n\n[D] along with 与……一道\n\n[解题思路] 本题解题关键在于联系上下文辨明空格后“改变训练方案”和其前内容的逻辑关联。第二段提到作者陷入健身误区——执迷于体重数字而试图通过改变训练计划减重（thinking only of...，I altered my training program）；第三段转而指出训练效果无法即时体现在体重波动上（即，体重不会因训练加强而随即减少）。可见句中“改变训练计划”和“体重变化”之间是“途径/原因→目标/结果”的关联（同时契合4题分析），空格句意在强调/纠正人们对“因/由改变锻炼方案而实现的体重变化”的认知误区（并不会即刻显现，但健身成果在暗暗推进），[A]正确。\n\n[错项排除] 由选项逻辑词的内涵及语用功能可知，其余三项体现“体重变化显现/(to notice...)”和“改变训练方案”之间关联，[B]表明二者无关联(无论训练计划如何改变，体重波动都需三周左右时间才能显现),背离文意；[C]表明二者为补充关系(需三周左右才会显现除“改变方案”之外引起的体重波动),两者显然不在一个维度，逻辑不通。[D]利用中文释义“随着”干扰，但该短语并非传递因果逻辑，而是单纯表示“同……一起”,且其后常接名词而非分词形式，如 The baby's mother escaped from the fire along with two other children.(婴儿的母亲和其他两个孩子一起从火里逃了出来。)。"
+      },
+      {
+       "number": 8,
+       "score": 0.5,
+       "options": {
+        "A": "orderly",
+        "B": "rigid",
+        "C": "precise",
+        "D": "immediate"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n8. [A] orderly 有序的，整齐的\n\n[B] rigid（规定、办法）严格死板的；(人)不通融的\n\n[C] precise 精确的\n\n[D] immediate 立即的，直接的\n\n[考点提炼]句内语义。\n\n[解题思路] 段落②③句意为：明显的体重变化需三周到一个月才能显现。最 ____ 的变化将体现在技能水平、力量和减少的身体维度上。notice...changes in...weight 与 changes be observed in skill level, strength and inches lost 完全对仗，但明显涉及两类变化(体重 VS 技能、力量、身材), 推知两句在对比呈现“较慢显现的变化 VS 最快显现的变化”, 选项中只有 immediate 能与 about three weeks 形成 “远期 VS 近期”的对比，[D] 正确。\n\n[错项排除] [A] orderly 可以与 change 搭配，表示“变化的有序性”, 但上文并非探讨“(某事)无序变化”的情况。[C] precise 利用“技能水平、力量和身体围度方面的变化相对于体重数字来说是较为准确、科学的参考”干扰，但文意并非“在……方面发现精准变化”; 其次从语法角度来看 precise 与 [B] rigid 通常不修饰 change(不构成有效语义)。\n\n①accurate a. 精确的\n\n②hard work 努力锻炼\n\n③gym n. 健身房\n\n④observe v. 观察\n\n⑤inch n. 英寸；(身体)尺寸\n\n第三段说明弊端之二：无法准确体现当下健身成效。首句 I also found 提示本段承上继续说明弊端。②③句中的对比关系“takes about three weeks... to notice significant changes in weight...(三周才能看出体重大变化)VS The most immediate changes will be observed in skill level...(最快看到的(不是体重，而)是技能、力量等方面的变化)”凸显问题实质，佐证首句结论：每日称重数值不代表健身成果(后者才是健身的根本)。\n\nIV ① For these 9, I stopped weighing myself every day and switched to a bimonthly weighing schedule 10. ② Since weight loss is not my goal, it is less important for me to 11 my weight each week. ③ Weighing every other week allows me to observe and 12 any significant weight changes. ④ That tells me whether I need to 13 my training program.\n\n①由于这些原因，我不再每日称重，而是改为每个月称两次。②既然减肥不是我的目标，那么每周记录体重对我来说就不那么重要了。③每隔一周称重一次让我能够发现并解释体重的任何明显变化。④这提示我是否需要调整训练计划。"
+      },
+      {
+       "number": 9,
+       "score": 0.5,
+       "options": {
+        "A": "claims",
+        "B": "judgments",
+        "C": "reasons",
+        "D": "methods"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n9. [A] claims 声称，主张\n\n[B] judgments 判断力；评价，意见\n\n[C] reasons 原因，理由\n\n[D] methods 方法\n\n[考点提炼]句内语义+固定搭配。\n\n[解题思路] 主句大意为：“我”改变了原先频繁称重的习惯...。状语中 these ____ 紧承上文，而上文(第二、三段)论述了过度称重的弊端，“做法有弊端”和“改变做法”之间是因果关联，可见 For these ____ 作原因状语，for...reason(s)为常见搭配，表示“出于……的原因”, [C] 正确。\n\n[错项排除][A]、[B]通常表示某人的主观态度、观点，而上文并非“声称、判断的具体内容”，其次 for...claims/judgments 表意不明，不能用作修饰整个句子的状语。[D]表示解决问题的办法，同样语义上脱离上文，用法上表意不明。"
+      },
+      {
+       "number": 10,
+       "score": 0.5,
+       "options": {
+        "A": "instead",
+        "B": "though",
+        "C": "again",
+        "D": "indeed"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n10. [A] instead 代替；相反，却\n\n[B] though 虽然；然而\n\n[C] again 又，再一次\n\n[D] indeed 的确；其实；真正地\n\n[考点提炼] 句内逻辑。\n\n[解题思路]选项均体现逻辑关联，解题应着力辨明句内或上下文信息间的逻辑关系。句意“从原先每日称重改为每月称两次”内含两个元素“旧方式、新方式”,switched to 表明两者关联：后者取代前者。instead 表“取舍/替代”时形式有二：其一是与 of 构成复合介词(后接“被替代的内容”)、其二是作为副词位于句末(sb doesn't do sth, but does sth else instead),表现前述两件事的取舍/替代关联，故[A]正确。\n\n[错项排除][B]though 位于句末时取“不过(表转折)”之意，用于补充主句/前句信息，弱化其重要性。如I have never been to Australia. I'd love to, though. (我从未去过澳大利亚。不过我很想去)。句中两层信息(“放弃做A,改为做B”表述的是一种过程)、全句与上文之间均不存在“孰轻孰重、后者补充弱化前者”的逻辑。[C]用于表示行动、现象的重复，但由上文可知，这是作者首次调整称重频率。[D]用于强调本句(陈述、真实性等)或对前述内容进行补充强调，不符合文中语境。"
+      },
+      {
+       "number": 11,
+       "score": 0.5,
+       "options": {
+        "A": "track",
+        "B": "overlook",
+        "C": "conceal",
+        "D": "report"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n11. [A] track 跟踪；追踪\n\n[B] overlook 忽视；俯视；监督\n\n[C] conceal 隐藏；隐瞒\n\n[D] report 汇报；公布；报道\n\n[考点提炼] 句内语义逻辑。\n\n[解题思路] 空格所在句指出，既然减肥不是目标，那么每周 ____ 体重就不那么重要了。否定性表述 less important 表明“____ my weight each week”应与①句“每日称重(weighing myself every day)”对应，而这种“频繁的观察和记录”等同于“跟踪体重的任何变化”,也与开篇 stay aware of any... fluctuations 契合，[A] track 可表示“跟踪(表现或进展情况)”,符合文意。\n\n[错项排除][B]overlook 有“督查”之意，但词义内涵为“查找问题/错误、(受上级命)监督管理（他人工作或表现)”。[C]conceal 主观臆想“我”减重压力大，怕外界知晓体重变化情况，但现在转变心态。[D]report 表示“(向上级)汇报(工作进展)，(向公众)公布(某信息)”，与原文“自我检测”的语境不符。"
+      },
+      {
+       "number": 12,
+       "score": 0.5,
+       "options": {
+        "A": "depend on",
+        "B": "approve of",
+        "C": "hold onto",
+        "D": "account for"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n12. [A] depend on 取决于；依赖\n\n[B] approve of 赞成，同意\n\n[C] hold onto 抓紧；保存\n\n[D] account for 解释；了解，查明\n\n[考点提炼] 句内语义逻辑。\n\n[解题思路] 空格所在句解释“隔周称重”的好处(allows me to...):让人能够发现并____体重的任何显著变化。这应该与上文第三段所述“每日称重”的弊端(训练改变所致的体重变化要一个月才显现，每天称重的数字说明不了问题)相对，故每月两次称重应有助于“了解体重明显变化的原因(，是否是由于锻炼不合理，避免盲目调整方案)”,[D] account for 符合文意。\n\n[错项排除][A] depend on 引出“做某事的依据”或“信赖、依靠的对象”，空格后内容为“任何明显体重变化”，前文并没有“据此变化而做出的举动”，更没有“依赖变化所达成的事”。[B] approve of 源于惯性思维“科学称重让人能理性看待/认可体重(正常)波动”，但首先文中 significant(大幅的)表明这一推断错误，其次该短语后为明确性内容，如 approve of her marriage(认可她的婚姻)，而空格后“体重变化”则为不确定性内容(上涨或下降)，搭配使用语义不明。[C] hold onto sth 利用中文释义“守住、保住”臆断语义为“能让人保持体重不变”，但空格后实为“体重变化”，其次短语内涵为“保住/保留（不丢弃/放弃/转送）某事”，不接“体重”作宾语。"
+      },
+      {
+       "number": 13,
+       "score": 0.5,
+       "options": {
+        "A": "share",
+        "B": "adjust",
+        "C": "confirm",
+        "D": "prepare"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n13. [A] share 共享；分享；分担\n\n[B] adjust 调整；适应\n\n[C] confirm 证实；确认\n\n[D] prepare 准备；筹备\n\n[考点提炼]上下文语义+动词辨析。\n\n[解题思路] 句首 That 回指③句“发现任何明显的体重变化、并明确变化原因”。由第二段③句“一味关注怎样把体重计上的数字降下来，使我改变了训练计划”可知，作者称重是为了指导健身方案，而本句意在强调隔周称重的好处“不会因任何小变化而改变健身方案/会依据两周称重一次的结果决定是否调整方案”，[B] adjust 与第二段③句 altered 近义，符合文意。\n\n[错项排除] [A] share 脱离语境“‘我’的体重变化与训练计划”，并不涉及与他人的交流分享。[C] confirm 意为“证实某事为真”或“肯定，确认（安排、日期或情况）”，如 confirm the date(确认日期)。但文中所聚焦的健身问题不在于“计划的确认”、而在于“计划的调整”得当与否；同理可排除[D]prepare，该词暗示作者考虑的是“是否训练”，而非“是否调整训练”，有悖文意。\n\n**词汇注释与难句分析**\n\nswitch to 切换到；转变成\n\nbimonthly a. 两月一次的；一月两次的\n\nschedule n. 计划表，进度表，日程表\n\nsignificant a. 相当数量的；影响显著的；重要的\n\n**语篇分析**\n\n第四段承上指出适度称重的好处：为训练计划提供更准确的参考。①句 For these reasons, I stopped... and switched to... 承上引出作者“知错而改”之举，同时开启下文对合理做法的解释。②句以 Since..., it is less important for me to... 以描画作者心态铺垫改变的原因。③④句表明改变的影响(合理称重的好处)。③句 allows me to observe and account for any significant weight changes 反向回应上段 did not provide an accurate depiction..., 凸显新习惯的好处：发现问题且能搞明白问题原因(是否确实跟训练方案有关)。④句以 That tells me whether I need to... 进一步明示好处：不再因每日变化而盲目调整训练计划，误导健身方向。\n\nV ① I use my bimonthly weigh-in 14 to get information about my nutrition as well. ② If my training intensity remains the same, but I'm constantly 15 and dropping weight, this is a 16 that I need to increase my daily caloric intake.\n\n①我也用每月两次的称重结果来获得有关营养方面的信息。②如果训练强度保持不变，却总是感到饥饿并且体重下降，这表明我需要增加每日热量摄入了。"
+      },
+      {
+       "number": 14,
+       "score": 0.5,
+       "options": {
+        "A": "results",
+        "B": "features",
+        "C": "rules",
+        "D": "tests"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n14. [A] results 结果；成绩\n\n[B] features 特点，特征；专题节目\n\n[C] rules 习惯，惯常做法；规则\n\n[D] tests 检查；考验\n\n[考点提炼]句内语义逻辑。\n\n[解题思路] as well 提示空格句与上段为并列关系。上段末两句指出，隔周称重能让人发现并解释体重的明显变化，有助于判断是否该调整训练计划。故空格句应表示“明显体重变化（即称重结果）还可以作为营养摄入的参考”，[A] results 符合文意。\n\n[错项排除] [B] features、[C] rules 分别利用“每月两次称重是称重特点/习惯做法”的语义进行干扰，但“用特点获取信息”明显不合逻辑，rules 作“惯例”讲时，更多是一种惯性、常态（sth that is normal or usually true），如 As a general rule vegetable oils are better for you than animal fats.（一般来说，植物油比动物脂肪对人更好。），若该惯例是自我强加，也侧重“约束、自律”，体现一种“原则性”，如 He makes it a rule never to borrow money.（他的规矩是从不向人借钱。），文中只是一种称重方式，谈不上“严格约束（以成习惯）”。[D] tests 利用常识“体重检测能反映健康状况，指导饮食”干扰，但 test 涉及“身体健康”时指（大夫、研究者等）针对身体某部分做一些简单检测/研究测试以便了解问题，而称重行为简单易行；其次“指导营养摄入”的是“发现、结论”，而不是“检测”这一行为动作。"
+      },
+      {
+       "number": 15,
+       "score": 0.5,
+       "options": {
+        "A": "bored",
+        "B": "anxious",
+        "C": "hungry",
+        "D": "sick"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n15. [A] bored 厌烦的；烦闷的\n\n[B] anxious 焦虑的，不安的；急切的\n\n[C] hungry 饥饿的；挨饿的\n\n[D] sick 生病的；恶心的\n\n[考点提炼]句内语义逻辑。\n\n[解题思路]由空格后并列连词 and 可知，constantly ____ 与 dropping weight 语义同向，各项似乎都可以与“体重下降”并列，但上下文 nutrition、increase my daily caloric intake 提示此处与“营养、热量摄入”相关，可见空格部分应表示“热量摄入不足(即会有饥饿感)”, [C] hungry 符合文意。\n\n[错项排除] 其余三项属于常见情形：烦闷、焦虑、生病→体重下降，但脱离上下文“用称重结果来衡量营养状况、每日热量摄入”所构建的语义场。"
+      },
+      {
+       "number": 16,
+       "score": 0.5,
+       "options": {
+        "A": "principle",
+        "B": "secret",
+        "C": "belief",
+        "D": "sign"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n16. [A] principle 规范；原则；理由\n\n[B] secret 秘密；秘诀，诀窍\n\n[C] belief 信心；信念；信任\n\n[D] sign 标记；迹象，征兆\n\n[考点提炼]句内语义逻辑。\n\n[解题思路] that 从句内容完整，判断其为同位语从句，说明空格词的内涵，也即空格词是对 that 从句内容特征的概括。由 If 引导条件状语从句可知，“训练强度保持不变，但经常感到饥饿并且体重下降”为前提(If...),“这(种情况)是需要增加每日热量摄入的 ____”为结果/结论(this is a...)。关联内容可知句意为“这种情况的出现表明需要增加热量摄入了”,[D] sign 符合文意。\n\n[错项排除] 其他三项均可作同位语从句的先行词，[A]principle 作“理由”讲时内涵为“某行动、思想所依据的观念、信条(a belief that is accepted as a reason for doing sth)”，如 the principle that free education should be available for all children(所有儿童都应该能享受免费教育的观念)，而文中“体重持续下降”为现象而非理念信条；同理可以排除[C]belief。[B]secret 之后应该是“秘密、诀窍”的具体内容，文中“需要做某事”不符合该推断。\n\n**词汇注释与难句分析**\n\nweigh-in n. 称体重\n\nconstantly ad. 持续不断地；经常地\n\nnutrition n. 营养(作用);滋养\n\ncaloric a. 热量的\n\nintensity n. 强度；强烈\n\nintake n. [食物、饮料等的]摄入量，摄取量\n\n**语篇分析**\n\n第五段补充指出适度称重的好处之二：为营养摄入提供参考。①句 as well 引出对上述“能指导锻炼计划”的补充信息：还能指导饮食。②句详释上述好处。If 从句通过矛盾逻辑链 training intensity remains the same、constantly hungry & dropping weight 凸显主句结论，明确合理称重的价值所在：能提示是否需要增加热量摄入(a sign...)。\n\nVI ① The 17 to stop weighing myself every day has done wonders for my overall health, fitness and well-being. ② I'm experiencing increased zeal for working out since I no longer carry the burden of a 18 morning weigh-in. ③ I've also experienced greater success in achieving my specific fitness goals, 19 I'm training according to those goals, not the numbers on a scale.\n\n①停止每日称重这一决定对我的整体健康、强健状况以及幸福产生了奇妙的影响。②我对锻炼的热情越来越高，因为不再背负早晨称重(结果)令人失望的负担。③在实现具体健身目标上，我也获得了更大的成功，因为我的训练是基于这些目标，而非体重计上的数字。"
+      },
+      {
+       "number": 17,
+       "score": 0.5,
+       "options": {
+        "A": "request",
+        "B": "necessity",
+        "C": "decision",
+        "D": "wish"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n17. [A] request 要求，请求\n\n[B] necessity 必需品；必要；需要\n\n[C] decision 决定，执择；果断\n\n[D] wish 希望；愿望；许愿\n\n[考点提炼] 句内语义逻辑。\n\n[解题思路] 不定式 to stop weighing myself every day 为空格词的后置定语(“停止每日称重的____对身心健康产生了奇妙影响”),由第四段首句可知“我”意识到问题后停止了每日称重，故空格词应表示“(经过一段时间观察或思考后对如何做更好的)判断、抉择”,[C] decision 符合文意。\n\n[错项排除] [A] request、[D] wish 均含“某事尚未发生”之意，与上文“停止每日称重已是既定方案”不符。[B] necessity 表示“必要性”，常用于 the necessity of (doing) sth 结构，如 the necessity of keeping accurate records of your work(有必要准确记录你的工作情况)，且“必要性产生影响”不合逻辑。"
+      },
+      {
+       "number": 18,
+       "score": 0.5,
+       "options": {
+        "A": "disappointing",
+        "B": "surprising",
+        "C": "restricting",
+        "D": "consuming"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n18. [A] disappointing 令人失望的，令人沮丧的 [B] surprising 使人吃惊的\n\n[C] restricting 限制的 [D] consuming 强烈的，支配人的\n\n[考点提炼]句内语义逻辑。\n\n[解题思路] 由句中 no longer carry the burden of... (不再有……的负担)以及文中“对之前频繁称重的弊端、如今隔周称重的好处”的论述可以判断句意为：现在“我”摆脱了“日日关注体重、却看不到明显体重变化而失望”的负担，[A] disappointing 符合文意。\n\n[错项排除] [B]从作者先前“锻炼期间每日称重，发现自己体重增加（后改变锻炼计划）”臆断出“称重结果出乎意料（没降反增）”，但 surprising morning weigh-in 可能包含“好、坏”情形，与负面信息 burden 不能匹配。[C] restricting 源于动词 restrict，后接受限的对象，如 restricting elements/factors（限制性因素），文中后接“称重”逻辑不通。[D] consuming 多用于“形容感情/兴趣的强烈，且强过其他事情”，如 a consuming hatred（强烈的仇恨），与“称重”不能搭配。"
+      },
+      {
+       "number": 19,
+       "score": 0.5,
+       "options": {
+        "A": "if",
+        "B": "unless",
+        "C": "until",
+        "D": "because"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n19. [A] if 假若，如果 [B] unless 如果不……, 除非……\n\n[C] until 直到……为止 [D] because 因为，由于\n\n[考点提炼] 句内语义逻辑。\n\n[解题思路] 空格前为“我更好地达成了我的健身目标”，空格后为“我基于目标，而非体重秤上的数字进行锻炼”，且前者为完成时(I've...)，后者为进行时(I'm training)，很显然前后为“结果→原因”的逻辑，[D] because 符合文意。\n\n[错项排除] [A] if 虽体现因果关联，但属于假设情形，原文主句为现在完成时，表明是已有事实。[B] unless 引出主句所述事件不会发生的唯一条件，而“要是我的训练基于这些目标，我就不会获得更大成功”与文意相悖。[C] until 用于表示“某事持续进行，一直到某刻终止”, 如 Let's wait until the rain stops. (咱们等雨停了吧。即：雨停，等待就终止。), 而文中“基于目标安排训练”为表持续性的进行时态，不能体现“某一时刻”, 且主句“获得更大成功”也不因该内容而终止。\n\n**词汇注释与难句分析**\n\ndo/work wonders 创造奇迹/取得惊人成效\n\nzeal n. 热情，热忱\n\noverall a. 总的，全部的\n\nwork out 锻炼\n\nfitness n. 健壮，健康\n\nburden n. 重担，负担\n\nI've also experienced greater success in achieving my specific fitness goals, because I'm training according to those goals, not the numbers on a scale.\n\n功能注释：本句主干为 I've also experienced greater success, 后置定语 in achieving... goals 修饰 success, because 引导的原因状语从句说明作者“在实现健身目标方面取得更大成功”的原因，其内包含一个由 according to... not... 引导的取舍结构，指出锻炼是基于健身目标，而非体重计上的数值。\n\n**语篇分析**\n\n第六段总括适度称重的益处：能提高整体健康、健壮和幸福感。首句总述好处。②③句从斗志和成果两个角度进行分述。my overall health, fitness and well-being 从身心到体格再到整体安康，层层递进，与 has done wonders 一起彰显作用之大。鲜明对比 increased zeal 与 burden、disappointing、比较级 greater success 共同突显当前状态的积极。because..., not the numbers on a scale 与②句 since I no longer... morning weigh-in 在语义逻辑上呼应。\n\nVII Rather than 20 over the scale, turn your focus to how you look, feel, how your clothes fit and your overall energy level. [357 words]\n\n与其纠结于体重计(上的数字),不如将注意力转移到你的外观和感觉、衣服是否合身以及整体能量水平上。"
+      },
+      {
+       "number": 20,
+       "score": 0.5,
+       "options": {
+        "A": "obsessing",
+        "B": "dominating",
+        "C": "puzzling",
+        "D": "triumphing"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n20. [A] obsessing 使迷恋，使心神不宁\n\n[B] dominating 支配，控制，主宰\n\n[C] puzzling 使困惑，使迷惑\n\n[D] triumphing 战胜，获胜\n\n[考点提炼]句内语义逻辑+动词短语辨析。\n\n[解题思路] Rather than(而不是)表明前后语义“____在体重计上”与“将注意力转移到你的外观和感觉……上”为“舍前取后”的关系，再结合第二段首句“每日称重时唯一的关注点为体重计上的数值”,可知前者应表示“只关注体重计上的数值”之意，obsessing over the scale 与第二段首句 focusing solely on the scale 一致，故[A]符合文意，obsess over sth/sb 为固定搭配，表示“对某事/某人过分担心”。\n\n[错项排除] dominate over sth/sb 意为“支配，控制某事物/某人”，但空格后 the scale 为客观事物，不在主观支配的范畴，排除 [B]。puzzle over 内涵为“(因无法理解或解决某事而)仔细琢磨，冥思苦想”，如 The class puzzled over a poem by Shakespeare.（全班同学仔细琢磨着莎士比亚的一首诗。），the scale 并非“无法理解或解决之事”，排除 [C]。文中作者“战胜”的对象应为“不健康状态，健身障碍”，而非“体重计数字”，排除 [D]。\n\n① rather than 而不是\n\n②focus n. 焦点；(注意力的)集中点，中心点\n\n**语篇分析**\n\n第七段总结全文，提出建议：健身应聚焦于外观、感觉、体型和整体能量水平，而非体重数值。取舍结构 Rather than..., do...(不要……,而是要……)明确作者立场；obsess over the scale、turn your focus on how...分别代指开篇“过度称重”之举以及“适度称重”的做法，实现首尾圆合。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part A",
+   "instructions": "Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET.（40 points）",
+   "score": 40,
+   "groups": [
+    {
+     "type": "reading",
+     "title": "Text 1",
+     "passage": [
+      "Unlike so-called basic emotions such as sadness, fear, and anger, guilt emerges a little later, in conjunction with a child’s growing grasp of social and moral norms. Children aren’t born knowing how to say “I’m sorry”; rather, they learn over time that such statements appease parents and friends – and their own consciences. This is why researchers generally regardso-called moral guilt, in the right amount, to be a good thing.",
+      "In the popular imagination, of course, guilt still gets a bad rap. It is deeply uncomfortable – it’s the emotional equivalent of wearing a jacket weighted with stones. Yet this understanding is outdated. “There has been a kind of revival or a rethinking about what guilt is and what role guilt can serve,” says Amrisha Vaish, a psychology researcher at the University of Virginia, adding that this revival is part of a larger recognition that emotions aren’t binary – feelings that may be advantageous in one context may be harmful in another. Jealousy and anger, for example, may have evolved to alert us to important inequalities. Too much happiness can be destructive.",
+      "And guilt, by prompting us to think more deeply about our goodness, can encourage humans to make up for errors and fix relationships. Guilt, in other words, can help hold a cooperative species together. It is a kind of social glue.",
+      "Viewed in this light, guilt is an opportunity. Work by Tina Malti, a psychology professor at the University of Toronto, suggests that guilt may compensate for an emotional deficiency. In a number of studies, Malti and others have shown that guilt and sympathy may represent different pathways to cooperation and sharing. Some kids who are low in sympathy may make up for that shortfall by experiencing more guilt, which can rein in their nastier impulses. And vice versa: High sympathy can substitute for low guilt.",
+      "In a 2014 study, for example, Malti looked at 244 children. Using caregiver assessments and the children’s self-observations, she rated each child’s overall sympathy level and his or her tendency to feel negative emotions after moral transgressions. Then the kids were handed chocolate coins, and given a chance to share them with an anonymous child. For the low-sympathy kids, how much they shared appeared to turn on how inclined they were to feel guilty. The guilt-prone ones shared more, even though they hadn’t magically become more sympathetic to the other child’s deprivation.",
+      "“That’s good news, ” Malti says. “We can be prosocial because we caused harm and we feel regret.”"
+     ],
+     "questions": [
+      {
+       "number": 21,
+       "score": 2.0,
+       "stem": "Researchers think that guilt can be a good thing because it may help .",
+       "options": {
+        "A": "regulate a child’s basic emotions",
+        "B": "improve a child’s intellectual ability",
+        "C": "foster a child’s moral development",
+        "D": "intensify a child’s positive feelings"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 21. Researchers think that guilt can be a good thing because it may help ____. | 21. 研究人员认为内疚感可能是好事，因为它可能会帮助____。 |\n| [A] regulate a child's basic emotions | [A] 调节孩子的基本情绪 |\n| [B] improve a child's intellectual ability | [B] 提高孩子的智力 |\n| [C] foster a child's moral development | [C] 促进孩子的道德发展 |\n| [D] intensify a child's positive feelings | [D] 强化孩子的积极情绪 |\n\n[精准定位]由题干信息 guilt can be a good thing because...定位至首段③句 This is why... moral guilt... to be a good thing,且可明确 This 指代内容即为题目所问。①②句指出，内疚感并非天生，而是与对社会道德规范的领会相伴相生；孩子并非生来便知道说“对不起”；而是随时间推移才明白这种表达可以安抚他人及自己的道德心。概括两句主要内容：内疚感与道德心相辅相成，[C]正确。\n\n[命题解密] 正确项[C]是对首段“因(①②句)——果(③句)关系”的正确把握，其中 foster a child's moral development 明确首句 in conjunction with a child's growing grasp of social and moral norms、②句 such statements appease...consciences 暗含的因果关系。\n\n[A]将第一段①句中内疚感(guilt)与基本情绪(basic emotions)的“比较关系(前者出现较晚，后者生来就有)”窜改为“调节与被调节关系(前者调节后者)”。[B]由第一段②句 they learn over time 捏造出“智力提升(improve...intellectual ability)”,但文中意为“逐渐学会表达歉意/生成内疚感”,与“智力提升”无关。[D]源自第二段末句 Too much happiness,但该句是以“高兴太盛可能有害”说明“情绪的两面性(内疚感虽常被视为负面情绪，但也可有益)”,并非说明“内疚感可以强化积极情绪”。\n\n[技巧总结] 本题针对关系复杂的第一段考查因果细节，解题关键在于两点：一、分析定位信息中的 “因果关系”, 锁定答案具体来源：借助因果标记 This is why 明确：why 之后内容为题干中的 “果”; This 指代内容即为正确项应体现的 “因”; 二、明确具体来源中暗含的关系，找到与之一致的选项：①②句以 in conjunction with(与……一起)和 appease(平息，缓和)说明“内疚感/表达歉意”和“道德心/理解社会及道德标准”之间的关系：二者相伴相生，相辅相成。\n\nⅡ ① In the popular imagination, of course, guilt still gets a bad rap. ② It is deeply uncomfortable—it's the emotional equivalent of wearing a jacket weighted with stones. ③ Yet this understanding is outdated. ④ “There has been a kind of revival or a rethinking about what guilt is and what role guilt can serve,” says Amrisha Vaish, a psychology researcher at the University of Virginia, adding that this revival is part of a larger recognition that emotions aren't binary —feelings that may be advantageous in one context may be harmful in another. ⑤ Jealousy and anger, for example, may have evolved to alert us to important inequalities. ⑥ Too much happiness can be destructive.\n\nⅢ ① And guilt, by prompting us to think more deeply about our goodness, can encourage humans to make up for errors and fix relationships. ② Guilt, in other words, can help hold a cooperative species together. ③ It is a kind of social glue.\n\n当然，在大众想象中内疚感可不是件好事。它令人深感不安——它是“身负重甲的情感”。然而这种看法已经过时。“现在已再度兴起，或者说人们已开始重新思考内疚感到底是什么，又可以起到什么作用，”弗吉尼亚大学心理学研究者阿姆瑞沙·瓦依希说道，且补充指出，这种复兴属于一种更宏观认识的一部分，即，情绪并不是二元对立的（并不是非好即坏的；并非是只能二者择一的）——在一种情境下有利的情绪在另一情境下可能有害。例如，嫉妒和愤怒可能已经进化到能够提醒我们注意影响重大的不平等。而太过愉悦可能具有毁灭性。\n\n而内疚感，通过刺激我们深入挖掘人性之善，可以鼓励人们弥补错误并修复关系。换言之，内疚感有助于将一个合作性物种凝聚在一起。它是一种社会粘合剂。\n\n**词汇注释与难句分析**\n\nequivalent n. 相等的东西\n\nrevival n. 复苏，复兴\n\nbinary a. 二进制的；二元的\n\nadvantageous a. 有利的，有好处的\n\ndestructive a. 破坏性的，引起破坏的\n\nprompt v. 促使，导致\n\nspecies n. 物种\n\nglue n. 胶水，胶\n\n**经典搭配**\n\nin the popular imagination（在大众眼中）\n\nbad rap（口碑差，无理指责）\n\nalert sb to sth（使认识到，使意识到）\n\nmake up for (弥补，补偿)\n\nhold...together（使保持团结）\n\n\"There has been a kind of revival or a rethinking about what guilt is and what role guilt can serve,\" says Amrisha Vaish, a psychology researcher at the University of Virginia, adding that this revival is part of a larger recognition that emotions aren't binary—feelings that may be advantageous in one context may be harmful in another.\n\n功能注释：本句主干为 says Amrisha Vaish, 引语部分作 says 的宾语，a psychology researcher... 作 Amrisha Vaish 的同位语，说明其身份。adding that... 作伴随状语，补充 Amrisha Vaish 观点。that emotions aren't binary 和 feelings that... 共作 a larger recognition 的同位语，说明其内容。\n\n**语篇分析**\n\n**第二、三段阐释主旨：内疚感是一种社会粘合剂。**\n\n第二段由“人们对内疚感的惯常看法”进入“人们对内疚感的反思”，且说明这种反思的大背景。关键词：rethinking(反思)。\n\n①②句指出人们对内疚感的惯常认知(沉重的情感负担)。\n\n①句总述：内疚感口碑不佳。In the popular imagination 引出惯常看法，of course 强调该看法极为普遍；still 一方面强调该看法根深蒂固，另一方面体现对上文（研究者看法）的转折。gets a bad rap 为本句核心，意为“评价非常负面，口碑很差（但这种评价往往是不公正的）”，说明常人眼中的内疚感是负面、消极之物，同时暗示作者即将反驳。\n\n②句详述：内疚感令人深感不安、是沉重的情感负担。It is...it's...两个主系表结构一虚一实，共同说明大众对内疚感的定性：deeply uncomfortable 直接指出这种情感令人极为不安；emotional equivalent of wearing a jacket weighted with stones 以比喻凸显这种不安：情感像是穿上了装满石头的夹克=不堪重负。\n\n③句过渡：这种认知已经过时。Yet 承上转折；this understanding 回指①②句惯常看法；outdated 否定惯常认识，引发下文“新看法”。\n\n④⑤⑥句为作者语义重点，援引研究者话语，指出人们已开始对内疚感的本质及作用进行反思，并指出这种反思的源起(大背景)。\n\n④句指出人们已经开始重新思考内疚感的本质及作用。理解此长难句可将其一分为二。\n\n主句指出人们对内疚感的反思已然开始。There has been... 强调反思已然开始，回应上句 outdated (惯常认识已经过时); revival or a rethinking about... and... 说明反思内容：内疚感的本质 (what guilt is) 及作用 (what role guilt can serve)。\n\n伴随状语 adding that... 补充说明这种反思的源起：属于一种更宏观认识的一部分。核心词 a larger recognition(recognition 意为 the act of realizing and accepting that something is true or important “认识，承认”) 暗含褒义，体现“认知大范围的增进”。emotions aren't binary(binary 意为“二进制的/非 0 即 1 的；非黑即白的/只能二者择一的”) 概述这种宏观认识：情绪并不是非好即坏。破折号后予以解释：在一种情境下有利的情绪在另一种情境下可能有害(即：同一情绪可起相反作用)。\n\n⑤⑥句从正反两面分别举例说明情绪的双面性。⑤句指出通常被视为“坏情绪”的嫉妒和愤怒(Jealousy and anger)可能有益。⑥句指出通常被视为“好情绪”的快乐(happiness)可能有害。二者共同论证④句 emotions aren't binary。evolved to 暗示不同情境、不同阶段下同一情绪的作用会发生变化；Too much 表明情绪的具体作用与“是否适量”相关(回应上文 in the right amount)。\n\n第三段回归内疚感，明确反思结果：内疚感也可有益(是一种社会粘合剂)。关键词：social glue(社会粘合剂）。\n\n①句着眼“个人”，说明内疚感的积极作用。by prompting us to think more deeply about our goodness 说明内疚感的积极功用：刺激人们挖掘人性之善（即：内疚感实际源于内心的善良）；make up for errors、fix relationships 说明内疚感起到的积极效果：鼓励人们弥补错误、修复关系。\n\n②句扩至“社会”，说明内疚感的巨大功用。in other words 实现从“个人”到“社会”的递进。hold a cooperative species together 指出内疚感可以(通过促使人们“弥补错误、修复关系”，)将一个个独立的个体凝聚为一个合作性的社会。\n\n③句以判断句式(It is sth)总结内疚感的作用：社会粘合剂。social glue 作为内疚感的标签，以比喻凸显其促进合作的粘合作用。\n\n[段落整体解读] 第二、三段视角几经开合变化：从对内疚感的惯常看法（In the popular imagination)转入当前对内疚感的反思(revival or a rethinking about what guilt...），再扩大至对所有情感的重新认识(a larger recognition...），最后聚焦对内疚感的新认识(And guilt...）。文中语义对应：prompting... goodness 说明内疚感的本质，回应 what guilt is; encourage humans to... help hold a cooperative species together... social glue 说明内疚感的作用，回应 what role guilt can serve。段间逻辑关系：第二、三段阐释首段末句提出的文章主旨“内疚感可以是好事(to be a good thing)”。"
+      },
+      {
+       "number": 22,
+       "score": 2.0,
+       "stem": "According to Paragraph 2, many people still consider guilt to be .",
+       "options": {
+        "A": "deceptive",
+        "B": "burdensome",
+        "C": "addictive",
+        "D": "inexcusable"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 22. According to Paragraph 2, many people still consider guilt to be ____. | 22. 根据第二段，许多人仍然认为内疚感是____。 |\n| [A] deceptive | [A] 欺骗性的 |\n| [B] burdensome | [B] 沉重的 |\n| [C] addictive | [C] 使人上瘾的 |\n| [D] inexcusable | [D] 不可原谅的 |\n\n[精准定位] 根据题干中 many people still consider 定位至第二段前两句：在常人眼中，内疚感是件坏事 (a bad rap)。它令人深感不安 (deeply uncomfortable)——它是让人身负重甲的情感 (the emotional equivalent of wearing a jacket weighted with stones)。即：内疚感是沉重的情感负担，[B] 正确。\n\n[命题解密]正确项[B]burdensome 是对第二段②句 deeply uncomfortable、the emotional equivalent of wearing a jacket weighted with stones 的正确理解、概括。\n\n[A]利用第二段④句 feelings that may be advantageous... may be harmful... 捏造出 deceptive, 但此处是论证“情绪的双面性(可以有益，也会有害)”而非“欺骗性”。[C]由首段末句 in the right amount, to be a good thing(适量内疚感是好事)臆造出文中没有的信息“内疚感容易过量/上瘾”。[D]利用 rap 字面含义“罪名”捏造干扰，但原文指“内疚感名声差/不受人认可”, 并非“内疚感是不可原谅的罪过”。\n\n[技巧总结] 本题表面考查人物(大众)观点，实则考查对修辞表达的理解，解题关键在于：1. 合理划分句群，锁定解题范围；2. 对其中修辞性描述进行关联、推理，得出其确切含义。首先根据题干中 many people still consider guilt 定位至第二段 In the popular imagination...;随后借助 Yet this understanding is outdated 的转折过渡将正确项来源锁定为①②句；此时发现两句中涉及晦涩修辞表述 a bad rap、the emotional equivalent of...,但通过 deeply uncomfortable 可推测出人们对内疚感的否定态度，且借助想象具体场景“情感像穿着装满石头的夹克”可感知“负担沉重”,从而确定[B]正确。"
+      },
+      {
+       "number": 23,
+       "score": 2.0,
+       "stem": "Vaish holds that the rethinking about guilt comes from an awareness that .",
+       "options": {
+        "A": "emotions are context-independent",
+        "B": "emotions are socially constructive",
+        "C": "emotional stability can benefit health",
+        "D": "an emotion can play opposing roles"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 23. Vaish holds that the rethinking about guilt comes from an awareness that _. | 23. 瓦依希认为对内疚感的反思源自这一认识。 |\n| [A] emotions are context-independent | [A] 情绪与情境无关 |\n| [B] emotions are socially constructive | [B] 情绪具有社会建设性 |\n| [C] emotional stability can benefit health | [C] 情绪稳定有利于健康 |\n| [D] an emotion can play opposing roles | [D] 同一情绪可以起相反的作用 |\n\n[精准定位]根据题干定位至第二段④句，该句指出：这一复兴(this revival 回指 rethinking about guilt)属于一种更宏观认识的一部分，即，情绪并非非好即坏(binary)——在一种情境下有利的情绪在另一情境下可能有害。⑤⑥句进一步论证：通常认为有害的情绪(嫉妒和愤怒)可能有利，通常认为有利的情绪(快乐)也可能有害。可见[D]正确。\n\n[命题解密]正确项[D]是结合第二段⑤⑥句例证、对④句做出的正确解读；题干中 rethinking about guilt 和 revival 对应，awareness 同义替换 recognition。\n\n[A]与第二段④句“在一种情境下有利的情绪在另一情境下可能有害”蕴含之意“情绪与情境紧密相关”相悖。[B]利用第三段②③句 hold a cooperative species together、social glue 推理得出 socially constructive，却答非所问：这是人们对内疚感进行反思的结果——就内疚感(guilt)作用的新认识；而非反思的源起——就情绪(emotions)作用的新认识。[C]源自第二段⑥句“太过愉悦可能具有毁灭性”，但该内容是为了和⑤句共同论证④句“情绪的双面性”，与“情绪稳定、身体健康”无关。\n\n[技巧总结] 本题表面考查人物观点，实质考查对关键词 emotions aren't binary 的理解，解题思路为：对随后的“解释信息”及“例证内容”进行概括推理。第二段④句破折号后内容(同一种情绪可能有利有弊)、⑤⑥句举例论证(嫉妒和愤怒可以发挥积极作用；快乐过多也会大有害处)、以及跨越前三段的核心信息(内疚感会造成情感负担，但也是社会粘合剂)清晰解释 emotions aren't binary 含义“情绪并非二元对立/非好即坏，而是具有双面性/可好可坏”,确定[D]正确。\n\nIV ① Viewed in this light, guilt is an opportunity. ② Work by Tina Malti, a psychology professor at the University of Toronto, suggests that guilt may compensate for an emotional deficiency. ③ In a number of studies, Malti and others have shown that guilt and sympathy may represent different pathways to cooperation and sharing. ④ Some kids who are low in sympathy may make up for that shortfall by experiencing more guilt, which can rein in their nastier impulses. ⑤ And vice versa: High sympathy can substitute for low guilt.\n\n从这一角度来看，内疚感是一种机会。多伦多大学心理学教授蒂娜·马尔蒂的研究表明，内疚感可以弥补某种情感缺失。马尔蒂等多次研究发现，内疚感和同情心可能代表着通往合作与分享的不同路径。同情心较低的孩子可以通过体验更多的内疚感来弥补这一不足，这种内疚感可以遏制他们的恶意冲动。反之亦然：富有同情心可以替代缺乏内疚感。\n\n**词汇注释与难句分析**\n\ncompensate v. 补偿，弥补\n\ndeficiency n. 缺乏；缺陷\n\nrepresent v. 代表\n\npathway n. 路径，途径\n\nshortfall n. 不足，差额\n\nimpulse n. 冲动\n\n**经典搭配**\n\nrein in（严格控制，抑制）\n\nvice versa（反之亦然）\n\nsubstitute for（替代，取代）\n\n**语篇分析**\n\n第四至六段具体研究论证：内疚感可以弥补同情心缺失，带来合作与分享。\n\n第四段概述研究发现：内疚感可弥补同情心缺失、生成合作与分享。关键词：compensate for an emotional deficiency(弥补情感缺失)。\n\n①句承上启下：内疚感是一种机会。Viewed in this light 承接上文理论“内疚感是社会粘合剂”; guilt is an opportunity 引发下文更具体的论证。\n\n②句解释①句：内疚感可以弥补某种情感缺失。compensate for an emotional deficiency 解释上句 an opportunity,同时引领下文：弥补哪种情感的缺失？\n\n③④⑤句解释②句：内疚感可以弥补同情心的缺失，生成合作与分享。\n\n③句指出“内疚感”和“同情心”为通往“合作与分享”的不同路径。represent different pathways to 表明“内疚感或同情心(guilt and sympathy)”与“合作和分享(cooperation and sharing)”的因果关联：前者乃后者之源。a number of studies 表明这是多项研究的发现，具有可信性。\n\n④句进一步指出内疚感可弥补同情心缺失，克制恶意冲动。low in sympathy/that shortfall、make up for、by experiencing more guilt 分别回应②句 an emotional deficiency、compensate for、guilt,明确内疚感弥补同情心的功用；which 从句修饰 guilt,补充内疚感弥补同情心缺失的方式：抑制恶意冲动。\n\n⑤句补充指出，同情心也可弥补内疚感缺失。And vice versa（反之亦然）体现方向转换；High sympathy VS low guilt 对比凸显流动补充关系。\n\n[段落整体解读] 一、本段以 is an opportunity→compensate for an emotional deficiency→make up for that shortfall(low in sympathy)层层剥茧，从抽象到具体，说明内疚感的作用。其中近义复现 compensate for、make up for、substitute for 凸显内疚感和同情心的互补关系；represent different pathways to...体现“同情心/内疚感”和“合作与分享”的因果关系。 二、本段 which can rein in their nastier impulses 与上段 prompting us to think more deeply about our goodness 一正一反，指向内疚感本质：激发善意、抑制恶意。"
+      },
+      {
+       "number": 24,
+       "score": 2.0,
+       "stem": "Malti and others have shown that cooperation and sharing .",
+       "options": {
+        "A": "may help correct emotional deficiencies",
+        "B": "can result from either sympathy or guilt",
+        "C": "can bring about emotional satisfaction",
+        "D": "may be the outcome of impulsive acts"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 24. Malti and others have shown that cooperation and sharing ____. | 24. 马尔蒂等已经证明合作和分享____。 |\n| [A] may help correct emotional deficiencies | [A] 可以帮助矫正情感缺失 |\n| [B] can result from either sympathy or guilt | [B] 可源于同情心或内疚感 |\n| [C] can bring about emotional satisfaction | [C] 可以带来情感上的满足 |\n| [D] may be the outcome of impulsive acts | [D] 可能是冲动行为的结果 |\n\n[精准定位]根据题干关键词 cooperation and sharing 定位至第四段③句。该句指出马尔蒂等研究发现，内疚感和同情心可能代表了通往合作和分享的不同路径（guilt and sympathy may represent different pathways to cooperation and sharing），即：合作和分享可来源于同情心或内疚感，[B]正确。\n\n[命题解密] 正确项 [B] 是对第四段③句 guilt and sympathy may represent different pathways to cooperation and sharing 的同义改写。\n\n[A]将第四段②句信息“内疚感可以弥补某种情感缺失”窜改为“合作和分享可以矫正(多种)情感缺失”。[C]将第四段 compensate for an emotional deficiency 和 pathways to cooperation and sharing 杂糅，并逆向推出“合作和分享可以弥补情感缺失、带来情感满足”，但实则因果颠倒（文中合作分享是“果”），且夸大其词（将“弥补缺陷”夸大为“带来满足”）。[D]曲解第四段④句 which can rein in their nastier impulses 所含关系：结合上句可理解该句所含关系为“内疚感可抑制恶意冲动（生成合作与分享）”，绝非“冲动行为可以带来合作与分享”。\n\n[技巧总结] 事实细节题考查对文章细节的理解和概括能力，解题关键在于：1. 把握细节信息的整体方向(段落主旨句); 2. 借助叙述中的“动词”得出完整的关系链。首先借主旨句明确第四段内容大方向：内疚是一种机会(有益)。随后借 compensate for... represent different pathways... make up for... can rein in... can substitute for 明确其中多重关系：内疚感和同情心都可产生合作与分享行为，且内疚感可(通过抑制恶意冲动)替代同情心；同情心也可替代内疚感，[B]符合这组关系，正确。\n\nV ① In a 2014 study, for example, Malti looked at 244 children. ② Using caregiver assessments and the children's self-observations, she rated each child's overall sympathy level and his or her tendency to feel negative emotions after moral transgressions. ③ Then the kids were handed chocolate coins, and given a chance to share them with an anonymous child. ④ For the low-sympathy kids, how much they shared appeared to turn on how inclined they were to feel guilty. ⑤ The guilt-prone ones shared more, even though they hadn't magically become more sympathetic to the other child's deprivation.\n\nVI ① “That’s good news,” Malti says. ② “We can be prosocial because we caused harm and we feel regret.” [416 words]\n\n例如，在2014年的一项研究中，马尔蒂调查了244个孩子。根据看护人的评价和孩子的自我观察（注：“自我观察”是对自我所感所知、所思所想等的观察和分析，并将结果报告出来。它是研究人的心理活动的基本方法），她评估了每个孩子总体的同情心水平，以及他或她在道德越轨后产生负面情绪的倾向。然后研究者分发给孩子们一些金币巧克力，并给他们一次与一个不知姓名的孩子分享巧克力的机会。对于那些缺乏同情心的孩子，他们分享出多少（巧克力）取决于他们感到内疚的倾向。容易感到内疚的孩子会拿出更多分享，虽然他们并没有魔法般地变得更加同情对方的贫乏。\n\n“这是好消息，”马尔蒂说。“我们可能会因为自己造成伤害并感到懊悔而变得亲社会。”\n\n**词汇注释与难句分析**\n\nassessment n. 评价，看法\n\nrate v. 评估，评价\n\ntransgression n. 越轨，违背道德\n\nanonymous a. 名字不公开的，匿名的\n\ninclined a. 有……的倾向\n\ndeprivation n. 匣乏，缺少\n\nprone a. 有做……倾向的，易于遭受……的\n\nprosocial a. 亲社会的，忠实于既定社会道德准则的\n\n**经典搭配**\n\nturn on sth (依靠，取决于)\n\n**语篇分析**\n\n第五、六段介绍一项具体研究，验证内疚感的积极作用。\n\n第五段具体介绍一项研究。关键词：The guilt-prone ones shared more(容易内疚的孩子会分享出更多)。\n\n①句由上文“多项研究发现”锁定“一项具体研究”。for example 用于锁定具体研究；In a 2014 study 说明研究时间；244 children 介绍研究对象。\n\n②③句介绍研究过程：先评估被试者的同情心和内疚感水平，随后测试他们的分享倾向(Then 标志先后步骤)。\n\n②句介绍研究第一步：评估被试者的同情心水平和内疚倾向。Using 引出评估数据来源：看护人的评价(caregiver assessments)和孩子的自我观察(self-observations);rated A and B 介绍评估的两个方面：孩子们的同情心水平以及道德越轨后产生负面情绪的倾向，即：内疚感倾向。\n\n③句介绍研究第二步：测试被试者将自己的巧克力分享给他人的程度。整句话以被动语态展开，聚焦“受试者(the kids)”;anonymous child 强调被试者与其分享对象之间没有关联，保证研究的有效性。\n\n④⑤句介绍研究发现：内疚感弥补同情心缺失，促进孩子的分享行为。\n\n④句指出对于低同情心的孩子，分享程度取决于其内疚倾向。For the low-sympathy kids 聚焦部分受试者：同情心低的孩子。A appeared to turn on B (turn on 此处意为“取决于某物，依某物而定”)结构说明对于这部分孩子，分享行为(how much they shared 呼应③句 share them with an anonymous child)取决于内疚倾向(how inclined they were to feel guilty 回指②句 tendency to feel negative emotions)。\n\n⑤句解释④句，进一步凸显内疚倾向对分享行为的决定性。主句以直接对应关系 guilt-prone→shared more(-prone 意为“易于发生/做出某事，……倾向明显”)清晰呈现“内疚感促进分享行为”。even though 从句引发让步：（虽然）他们并未变得更加同情对方的匮乏。magically 此处有两重作用：一、以 hadn't magically 凸显本文对内疚感作用的界定：可替代/弥补同情心（生成合作、分享行为），但并不能激发同情心；二、以 magically 暗示内疚感的神奇作用、凸显本文主旨：令缺乏同情心的孩子愿意与他人分享。\n\n第六段以马尔蒂对这一研究发现的评论收束全篇。关键词：prosocial(亲社会的)。\n\nThat's good news 对上述研究发现作出总体评价。随后以因果关系语义解释：because 从句指向内疚感；主句以 We can be prosocial(亲社会的，忠实于既定社会道德准则的，与 antisocial“反社会的，危害社会的”相对) 明确内疚感对个人、对社会的“益处”。\n\n[段落整体解读]一、第五段以 Malti looked at... Using... she rated... Then the kids were... For... 串起对整个实验的介绍。二、第六段 prosocial 一词可视为对文中作者态度关键词 a good thing、social glue、an opportunity 的高度概括，凸显全文主旨观点“内疚感有益”。"
+      },
+      {
+       "number": 25,
+       "score": 2.0,
+       "stem": "The word “transgressions” (Line 4, Para.5) is closest in meaning to .",
+       "options": {
+        "A": "teachings",
+        "B": "discussions",
+        "C": "restrictions",
+        "D": "wrongdoings"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| | |\n| --- | --- |\n| 25. The word “transgressions” (Line 4, Para. 5) is closest in meaning to _. | 25. transgressions 一词(第5段，第4行)的含义最接近_。 |\n| [A] teachings | [A] 教导 |\n| [B] discussions | [B] 讨论 |\n| [C] restrictions | [C] 限制 |\n| [D] wrongdoings | [D] 错误行为 |\n\n[精准定位] 第五段②句指出，Malti 评估了每个孩子的整体同情心水平及他或她在道德 ____ 后产生负面情绪的倾向。由此可知，moral transgressions 导致负面情绪 (negative emotions)。再由上文的研究发现和下文的具体实例可知，negative emotions 指内疚感 (guilt)。推理可知：人在做出“不道德行为”后会产生“内疚感”，[D] 意为“错误行为，违背道德或法律的行为”，合乎逻辑。\n\n[命题解密] 正确项 [D] 是对第五段 ② 句 tendency to feel negative emotions after moral transgressions 逻辑关系及 negative emotions 具体所指 (guilt) 的合理推断。\n\n[A][B]均属中性词，moral teachings/discussions(道德教导/讨论)甚至带有积极、正向含义，无法产生“负面情绪”，故排除。[C]虽本身带贬义，但 moral restrictions(道德制约/道德约束)往往导向“正向行为”，不会产生“负面情绪”，且与 after 无法直接搭配，也可排除。\n\n[技巧总结] 句内逻辑关系、上下文论证关系、特殊句型等均为词义推断题重要的解题线索。首先由考查词所在句中 after 传递的先后(因果)之意可知，moral transgressions 会使孩子产生 negative emotions(负面情绪)。随后借该段④⑤句以及上段反复提到 sympathy、guilt, 可推知此处 negative emotions 指内疚感(guilt)。最后结合这些信息进行推理：“不道德行为”可导致“内疚感”, 研究者意在借 “孩子做错事/不道德行为后的表现”先判断其“内疚感倾向”, 再观察二者之间的替换弥补效应，确定 [D] 完全符合逻辑。"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Text 2",
+     "passage": [
+      "Forests give us shade, quiet and one of the harder challenges in the fight against climate change. Even as we humans count on forests to soak up a good share of the carbon dioxide we produce, we are threatening their ability to do so. The climate change we are hastening could one day leave us with forests that emit more carbon than they absorb.",
+      "Thankfully, there is a way out of this trap – but it involves striking a subtle balance. Helping forests flourish as valuable “carbon sinks” long into the future may require reducing their capacity to absorb carbon now. California is leading the way, as it does on so many climate efforts, in figuring out the details.",
+      "The state’s proposed Forest Carbon Plan aims to double efforts to thin out young trees and clear brush in parts of the forest. This temporarily lowers carbon-carrying capacity. But the remaining trees draw a greater share of the available moisture, so they grow and thrive, restoring the forest’s capacity to pull carbon from the air. Healthy trees are also better able to fend off insects. The landscape is rendered less easily burnable. Even in the event of a fire, fewer trees are consumed.",
+      "The need for such planning is increasingly urgent. Already, since 2010, drought and insects have killed over 100 million trees in California, most of them in 2016 alone, and wildfires have burned hundreds of thousands of acres.",
+      "California plans to treat 35, 000 acres of forest a year by 2020, and 60,000 by 2030 – financed from the proceeds of the state’s emissions-permit auctions. That’s only a small share of the total acreage that could benefit, about half a million acres in all, so it will be vital to prioritize areas at greatest risk of fire or drought.",
+      "The strategy also aims to ensure that carbon in woody material removed from the forests is locked away in the form of solid lumber or burned as biofuel in vehicles that would otherwise run on fossil fuels. New research on transportation biofuels is already under way.",
+      "State governments are well accustomed to managing forests, but traditionally they’ve focused on wildlife, watersheds and opportunities for recreation. Only recently have they come to see the vital part forests will have to play in storing carbon. California’s plan, which is expected to be finalized by the governor next year, should serve as a model."
+     ],
+     "questions": [
+      {
+       "number": 26,
+       "score": 2.0,
+       "stem": "By saying “one of the harder challenges,” the author implies that .",
+       "options": {
+        "A": "global climate change may get out of control",
+        "B": "people may misunderstand global warming",
+        "C": "extreme weather conditions may arise",
+        "D": "forests may become a potential threat"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 26. By saying “one of the harder challenges,” the author implies that ____. | 26. 作者言及“一项更严峻的挑战”是在暗示____。 |\n| [A] global climate change may get out of control | [A] 全球气候变化可能会失控 |\n| [B] people may misunderstand global warming | [B] 人们可能误解了全球变暖 |\n| [C] extreme weather conditions may arise | [C] 极端天气状况可能会出现 |\n| [D] forests may become a potential threat | [D] 森林可能成为潜在的威胁 |\n\n[精准定位]首段①句指出，森林为应对气候变化的斗争带来一项更严峻的挑战。②③句具体阐释挑战内涵：人类活动威胁/削弱森林的吸碳能力，气候变化可能终会导致森林的碳排放量超过吸收量。可见，作者言及“一项更大的挑战”意在表明森林对于对抗气候变化问题的潜在威胁：从“碳吸收者”转变为“碳排放源”（进而进一步加剧气候变化），[D]正确。\n\n[命题解密]正确项[D]是对首段③句的正确解读，其中 threat(威胁)是对 emit more carbon than they absorb(碳排放量超过吸收量)的合理推断与归纳。\n\n[A]将挑战的影响对象“(这一挑战会加剧)气候变化”偷换为挑战本身，且将“气候变化加剧”夸大为“气候变化失控”。[B]由②句“人们依靠森林吸收二氧化碳，却不断破坏森林的吸碳能力”曲解而来，但文意重在说明人类对森林的吸碳能力未加以保护，而非对全球变暖存在误解。[C]由 climate change、carbon dioxide 等气候、污染相关词汇臆测得出，文中并未涉及“极端天气”相关信息。\n\n[技巧总结]开篇写作目的题往往与主旨直接相关，考查对象可能是某个例子、谚语、现象、有内涵的名词或短语等，通常都起到“引出话题”的作用，故解题需微观结合宏观。作者开篇以森林的“好(shade、quiet)”反衬其“引发的挑战(harder challenges)”,暗示作者很可能要引出森林的“不好”,解题先就近解读下文(②③句):人类在威胁森林吸碳能力；森林早晚会变得“吸”不抵“排”;初步判定[D]“森林(反成)威胁”正确，随后纵览文章发现作者聚焦“重新规划森林、修复森林的吸碳能力”,[A]、[B]、[D]三项均脱离主题关键词“森林”,核心信息“失控”、“公众误区”、“极端天气”很符合常识，却均未在文中提及，更未重点论述，最终确定[D]正确。\n\nII ① Thankfully, there is a way out of this trap —but it involves striking a subtle balance. ② Helping forests flourish as valuable “carbon sinks” long into the future may require reducing their capacity to absorb carbon now. ③ California is leading the way, as it does on so many climate efforts, in figuring out the details.\n\n值得庆幸的是，有一种方法可以摆脱这一困境——但这需要达成一种微妙的平衡。要促使森林发展成为宝贵的“碳汇”并一直持续下去，可能需要降低它们现有的碳吸收能力。加州在明确细节方面做出了示范，正如它在诸多应对气候变化的运动中所做的一样。\n\n**词汇注释与难句分析**\n\ntrap n. 陷阱；困境\n\ninvolve v. 包含，需要；牵涉\n\nsubtle a. 微妙的；机智的\n\nflourish v. 繁荣，兴旺\n\ncarbon sink 碳汇\n\ncapacity n. 能力；容量\n\neffort n. 有组织的活动\n\n**经典搭配**\n\na way out（摆脱困难的方法）\n\nstrike a balance（达成平衡）\n\nlead the way(带路，示范)\n\nfigure out（想出；弄明白；解决）\n\n**语篇分析**\n\n第二段概述问题的解决办法，并引出加州做法。关键词：① a way out（摆脱困境的方法）；② California is leading the way(加州正在做出示范)。\n\n①句承上启下，由问题分析转入对策说明。this trap(trap 意为 an unpleasant or difficult situation that is difficult to escape from“难以逃脱的困境”)指代首段所述的恶性循环。句首 Thankfully 转换论述基调，引出解决气候问题的希望所在；破折号后再以 but it involves(involve 意为 to include or contain as an important or necessary part“使成为重要或必需的部分”)转折语义，强调难点所在，balance 暗示问题的关键在于正视和权衡一对矛盾，修饰语 subtle 一词双关，既有 not immediately obvious or noticeable“不能立马显现、不易察觉”之意，还含有 behaving in a clever way, and using indirect methods, in order to achieve sth“机智的、迂回的”的内涵，暗示不能再依靠简单粗暴的传统思路，而是必须要智取、“曲线救国”,甚至是牺牲眼前为长远打算。\n\n②句具体解释“微妙平衡”内涵：削弱森林短期吸碳力，以提升其长期吸碳力。句中以“flourish VS reducing”、“long into the future VS now”两组对比明确“平衡(balance)”两端主体“森林长期吸碳力 VS 森林现有/短期吸碳力\", valuable 表明前者价值，解答“削弱后者以平衡两者”的必要性。\n\n注：碳汇(carbon sink)是指通过植树造林、森林管理、植被恢复等措施，利用植物光合作用吸收大气中的二氧化碳，并将其固定在植被和土壤中，从而减少温室气体在大气中浓度的过程或机制。\n\n③句引出加州的做法。leading the way、figuring out the details(details 指代“实现微妙平衡”细节举措）、状语从句 as it does on so many climate efforts(effort 此处意为“为达成某目标而开展的有组织的活动/特别行动”)一同肯定加州在全球气候变化问题上的贡献/成绩：不仅是此次，一直以来都在带头示范，提出并施行切实的创新举措。"
+      },
+      {
+       "number": 27,
+       "score": 2.0,
+       "stem": "To maintain forests as valuable “carbon sinks,” we may need to .",
+       "options": {
+        "A": "preserve the diversity of species in them",
+        "B": "accelerate the growth of young trees",
+        "C": "strike a balance among different plants",
+        "D": "lower their present carbon-absorbing capacity"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 27. To maintain forests as valuable “carbon sinks,” we may need to ____. | 27. 为了将森林养护成有价值的“碳汇”,我们需要____。 |\n| [A] preserve the diversity of species in them | [A] 保护森林生物多样性 |\n| [B] accelerate the growth of young trees | [B] 加快幼树生长的速度 |\n| [C] strike a balance among different plants | [C] 在不同植物间取得平衡 |\n| [D] lower their present carbon-absorbing capacity | [D] 降低它们现有的吸碳能力 |\n\n[精准定位] 根据题干关键词 carbon sinks 定位至第二段。该段②句指出，要使森林在未来发展成为有价值的“碳汇”，需要降低它们现有的吸碳能力，[D]正确。\n\n[命题解密] 正确项 [D] 是对第二段 ② 句 Helping forests flourish as valuable “carbon sinks”... require reducing their capacity to absorb carbon now 的同义表述。\n\n[A]、[C]从第三段提及的两种植物 young trees、brush 分别曲解出“保护生物多样性”、“实现不同植物间的平衡”，而文意实为“减少幼树及灌木数量（以暂时降低森林的碳承载力）”。[B]与第三段①句 thin out young trees(thin out 指“使稀疏”)相悖。\n\n[技巧总结] 本题虽涉及专业名词 carbon sinks, 但只需过滤出考点“将森林养护成……的条件/途径是什么”便可解题，无需纠结词汇内涵。细节题的干扰往往来自对定位信息之外内容的加工，故解题关键是“准确定位”, 表述上进行同义/近义替换而语义一致的选项即为正确项。[D] lower their present carbon-absorbing capacity 与定位句(第二段②句)中 reducing their capacity to absorb carbon now 完全对应。\n\nⅢ ① The state's proposed Forest Carbon Plan aims to double efforts to thin out young trees and clear brush in parts of the forest. ② This temporarily lowers carbon-carrying capacity. ③ But the remaining trees draw a greater share of the available moisture, so they grow and thrive, restoring the forest's capacity to pull carbon from the air. ④ Healthy trees are also better able to fend off insects. ⑤ The landscape is rendered less easily burnable. ⑥ Even in the event of a fire, fewer trees are consumed.\n\n该州提出的森林碳计划致力于在部分森林里加倍疏伐幼树、清除灌木的力度。这会暂时降低碳容纳量。但剩余的树木会吸收更多可用水分，从而茁壮成长，修复森林从空气中吸收碳的能力。健康的树木还能更好地防御昆虫。林地的易燃性会降低，即使发生火灾，烧毁的树木也更少。\n\n③ temporarily ad. 临时地，临时\n\n⑪consume v. 耗尽，毁灭\n\n④draw v. 获取；吸取\n\n⑤moisture n. 水分\n\n**经典搭配**\n\n⑥ thrive v. 苗壮成长\n\n①double efforts(加倍努力)\n\n⑦ restore v. 恢复；修复\n\n②thin out(修剪)\n\n⑧landscape n. 自然景色\n\n③a share of(一份；份额)\n\n⑨render v. 致使\n\n④pull from(分离；取出)\n\n⑩burnable a. 可燃的；易燃的\n\n⑤fend off(避开；挡住)\n\n⑥in the event of sth(如果某事发生，万一)\n\n第三至七段具体介绍加州森林碳计划。\n\n第三段介绍加州森林碳计划的直接目的：降低森林密度，修复森林吸碳力。关键词：①aims to(致力于);②thin out(疏伐)。\n\n①句介绍计划的目的：加倍努力清理幼树、灌木。double efforts 表明该州原先已有疏伐之举，新计划要将这一力度翻倍。thin out(使稀薄/变少)、clear(清除不需要的东西)均指向“降低林木密度”, young trees、brush 表明疏伐对象主要是“吸碳力较低的树木”。\n\n②至⑤句说明措施的作用。\n\n②③句说明主要作用：修复森林的长期吸碳力。两句中 temporarily lowers carbon-carrying capacity、grow and thrive, restoring the forest's capacity... 由 But..., so... 串起“迂回解决问题”的逻辑链：疏伐树木，整体吸碳力暂时降低→剩余树木有更多水分成长，长远吸碳力修复/提升，从而呼应上段②句对“达成(眼下吸碳力 VS 长远吸碳力)微妙平衡”的说明。动词 pull(意为 to remove from a place or situation“去除”)复现前文 absorb、soak up,均表示“吸走/收(二氧化碳)”之意。\n\n④句及⑤⑥句补充说明另外两项作用：提高森林抗虫力和防火性。healthy 回应上文 grow and thrive, 强调剩余林木更健康壮硕。better able to、rendered less easily burnable(“render + sb/sth + adj.”表示“使变得/处于某种状态”)、fewer...consumed 均体现措施的积极效应；landscape 本指“(陆上的)风景、景色”, 此处实际指代“广袤的森林区域”。"
+      },
+      {
+       "number": 28,
+       "score": 2.0,
+       "stem": "California’s Forest Carbon Plan endeavors to .",
+       "options": {
+        "A": "cultivate more drought-resistant trees",
+        "B": "reduce the density of some of its forests",
+        "C": "find more effective ways to kill insects",
+        "D": "restore its forests quickly after wildfires"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| | |\n| --- | --- |\n| 28. California's Forest Carbon Plan endeavors to ____. | 28. 加利福尼亚州森林碳计划致力于____。 |\n| [A] cultivate more drought-resistant trees | [A] 培育更多抗旱树木 |\n| [B] reduce the density of some of its forests | [B] 减少部分森林的密度 |\n| [C] find more effective ways to kill insects | [C] 寻找更有效的杀虫方法 |\n| [D] restore its forests quickly after wildfires | [D] 在野火后迅速恢复森林 |\n\n[精准定位]由题干关键词 endeavors to“致力于”可知，本题考查加州森林碳计划的目的，对应第三段①句 Forest Carbon Plan aims to...。该句指出，加州的森林碳计划旨在疏伐幼树、清理森林灌木，②③句继而指出“这一做法能让剩余林木茁壮成长，修复森林吸碳能力”。可见，计划旨在“去除部分吸碳力较弱的林木，即降低部分森林的密度”,[B]正确。\n\n[命题解密]正确项[B]是对第三段①句 thin out young trees and clear brush in parts of the forest 的合理归纳，其中 thin out 意为“除去(苗床、苗圃、林地中)多余的植物或树木，使余下的长得更好。”\n\n干扰项均由第四段列举的破坏森林的因素(干旱、昆虫、野火)捏造出相应的解决对策，其中[A]、[C]皆由②句“干旱和昆虫导致加州1亿多棵树木死亡”而来；[D]由“野火烧毁数十万亩森林”而来，但文中实际以这些因素对森林的巨大破坏性，凸显制定森林碳计划的紧迫性，而无关加州计划的目的。\n\n[技巧总结] (计划、活动等)目的细节题常将实现目的的措施、目的背景等偷换为目的本身进行干扰，解题关键在于理清文章逻辑脉络，辨析计划各方面信息的联系与差异。本题应先根据“定位句中 thin out、clear 与 young trees、brush 分别对应[B]项 reduce the density 与 some of its forests”基本确定答案，再观察并明晰剩余选项的干扰点。发现三项均源自第四段，但由段首句可知段落主旨为“为何亟需此类计划”,干旱、昆虫、野火等均属于计划的外在促因(之所以迫切的具体表现),而非计划本身要做的事(重新规划和管理森林)。\n\nIV ① The need for such planning is increasingly urgent. ② Already, since 2010, drought and insects have killed over 100 million trees in California, most of them in 2016 alone, and wildfires have burned hundreds of thousands of acres.\n\n对于这类计划的需求正变得越来越迫切。干旱和昆虫自2010年起就已经导致加州1亿多棵树木死亡，其中绝大多数都发生在2016年短短一年间，野火已经烧毁了数十万英亩森林。\n\n**词汇注释与难句分析**\n\nurgent a. 紧急的；急迫的\n\ndrought n. 干旱\n\nwildfire n. 野火\n\nacre n. 英亩\n\n**语篇分析**\n\n第四段承上补充加州疏伐森林的合理性以及必要性。关键词：increasingly urgent (日益迫切)。\n\n①句总括指出当前形势亟需加州计划的同类举措出台。such planning 指代加州森林碳计划，表渐增趋势的副词 increasingly 侧面突显森林吸碳力破坏的问题在不断加剧，迫切需要解决。\n\n②句援引具体数字例证①句。句中两处时间状语 Already, since 2010、in 2016 alone 分别凸显森林破坏问题的“持续性(一直未受重视)”和“爆发性(如今后果瞬时显现)”。drought、insects、wildfires 明确森林的三大“杀手”，同时对应第三段措施的三项作用“减少幼树和灌木，为剩余树木留出更多可用水分”、“提高森林的抗虫力”、“提高森林的防火性”，再次体现加州计划对森林保护的重要意义。\n\nV ① California plans to treat 35,000 acres of forest a year by 2020, and 60,000 by 2030—financed from the proceeds of the state's emissions-permit auctions. ② That's only a small share of the total acreage that could benefit, about half a million acres in all, so it will be vital to prioritize areas at greatest risk of fire or drought.\n\n加州计划到2020年每年处理森林面积达到35000英亩；2030年则达到60000英亩——资金来源于该州(碳)排放许可证拍卖的收益。这在总面积约50万英亩的可受益森林中仅占很小的比例，因此优先处理火灾或干旱风险最大的区域是至关重要的。\n\n**词汇注释与难句分析**\n\nproceed n. 收入，获利\n\nemissions-permit 排放许可证\n\nauction n. 拍卖\n\nprioritize v. 优先处理；优先考虑\n\n**经典搭配**\n\nbe financed from(从……中获得资金)\n\nin all(总共，合计)\n\nat risk of(处于……的风险之中)\n\n**语篇分析**\n\n第五、六段介绍加州疏伐森林的两项目标。\n\n第五段介绍目标一：逐步提高森林的年处理量，且关键要优先处理风险最大的地区。关键词：① plans to(计划);② prioritize areas at greatest risk(优先处理风险最大的区域)。\n\n①句介绍林木疏伐在量上的“两段式”目标。treat 对应第三段 thin out... and clear..., 即“对林木的疏伐工作”。by 2020、by 2030 分别明确预期计划：十年为周期，年处理面积要实现几乎翻倍。破折号后补充表明资金来源。注：碳排放许可证拍卖（emission-permit auctions）是碳排放权交易所面向控排企业，将二氧化碳排放的权利作为一种商品在市场上进行出售的方式，以此达到减少碳排放的目标，进而实现经济发展与环境保护的双赢。由首段可知，二氧化碳是造成气候变化的主要原因，因此可推知加州已形成气候变化的综合控制模式、实现良性循环：实行碳拍卖机制→产生收益用于处理森林→改善森林吸碳力→进一步减少二氧化碳→改善气候变化。\n\n②句转而表明量的局限性，由此引出森林计划成功的关键所在：优先处理高风险区域。句首 That 回指①句所定年处理目标面积，total acreage that could benefit 字面意思为“可(从加州计划中)受益的森林总面积”,即需要处理的森林总面积。only a small share of 以及具体数字 half a million 凸显“年处理面积”与“需处理总面积”之间的巨大差距。so 实现“挑战”到“应对办法”的因果衔接：既然待处理的森林面积庞大，就权衡选取最重要的/风险最大的区域优先处理。其中 fire、drought 呼应第四段的两项森林“杀手”,重申加州计划的针对性。"
+      },
+      {
+       "number": 29,
+       "score": 2.0,
+       "stem": "What is essential to California’s plan according to Paragraph 5?",
+       "options": {
+        "A": "To handle the areas in serious danger first.",
+        "B": "To carry it out before the year of 2020.",
+        "C": "To perfect the emissions-permit auctions.",
+        "D": "To obtain enough financial support."
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n| 29. What is essential to California's plan according to Paragraph 5? | 29. 根据第五段，加利福尼亚州计划的关键是什么？|\n| --- | --- |\n| [A] To handle the areas in serious danger first. | [A] 首先处理有严重危险的区域。 |\n| [B] To carry it out before the year of 2020. | [B] 在2020年前实施计划。 |\n| [C] To perfect the emissions-permit auctions. | [C] 完善排放许可证拍卖会。 |\n| [D] To obtain enough financial support. | [D] 获取充足的财政支持。 |\n\n[精准定位] 由题干关键词 essential 定位至第五段②句 so it will be vital to...。该句指出，在总面积 50 万英亩的可受益森林中，加州计划每年可处理的森林面积仅占很小的比例。因此，优先处理火灾或干旱风险最大的区域至关重要，[A]正确。\n\n[命题解密]正确项[A]是对第五段②句 it will be vital to prioritize areas at greatest risk of fire or drought 的合理解读，其中 handle...first 是原文 prioritize 的同义表达，areas in serious danger 是对 areas at greatest risk of fire or drought 的合理归纳。\n\n[B]将加州计划设置的“森林年处理面积达到35000英亩的时间节点”窜改为“计划落实的最后期限”。[C]、[D]干扰均源于第五段①句“(处理森林的)资金来源于加州排放许可证拍卖的收益”,但该内容仅简单提及，无从证实其为计划的关键。\n\n[技巧总结]“计划/举措的关键点”实际等同于“其难点、突破点”。第五段核心内容为：①句说明加州设定的年处理面积目标；②句指出这一目标面积在总体中占比很小。由此可推知，计划面临的主要难点/突破点/矛盾点为“每年可处理面积”与“需处理面积”的差距。段末提出的计划关键点“优先处理干旱、火灾风险最大的区域”恰是针对上述矛盾点的解决对策。而其中涉及的时间点2020、资金来源 emissions-permit auctions 均是对主干信息的延伸，并非计划的关键所在。\n\nVI ① The strategy also aims to ensure that carbon in woody material removed from the forests is locked away in the form of solid lumber or burned as biofuel in vehicles that would otherwise run on fossil fuels. ② New research on transportation biofuels is already under way.\n\n该战略的另一目标是，确保从森林中移除的木本材料内的碳以固体木材的形式封存起来，或作为生物燃料供那些原本使用化石燃料的车辆使用。关于交通用生物燃料的新研究已在进行中。\n\n① woody a. 木质的\n\n**经典搭配**\n\n② lumber n. 木材\n\n①lock away(把……锁起妥藏)\n\n③ biofuel n. 生物燃料\n\n② run on(用……驱动)\n\n④ fossil fuel 矿物燃料，化石燃料\n\n③under way(在进行中)\n\nThe strategy also aims to ensure that carbon in woody material removed from the forests is locked away in the form of solid lumber or burned as biofuel in vehicles that would otherwise run on fossil fuels.\n\nin woody material removed from the forests\n\n功能注释：本句主干为 The strategy also aims to ensure, that 引导的宾语从句作 ensure 的宾语，其中嵌套以 or 连接的两个并列结构，说明碳的两项用途。that 引导的定语从句修饰 vehicles, 表明这些车辆原本所用燃料的污染性。\n\n**语篇分析**\n\n第六段介绍目标二：有效利用被清理的林木。关键词：①also aims to(也致力于);②locked away... as biofuel(以固体木材形式封存或作为生物燃料)。\n\n①句介绍被清理林木的两项用途：固碳；用作生物/清洁燃料。woody material removed from the forests 即指第三段①句提到的“被清理的幼树和灌木”, carbon... locked away in the form of solid lumber 呼应第二段 carbon sinks 的用途，再次体现加州计划的作用“可使森林发展成为有价值的碳汇”。or 引出被清理木材的另一项用途，otherwise(要不然)体现 biofuel(生物燃料)对 fossil fuels(化石燃料)的替代作用，而前者(由生物体组成或转化的固体、液体或气体燃料，可以替代由石油制取的汽油和柴油，是可再生能源开发利用的重要方向)为清洁能源，后者(主要为煤炭、石油、天然气等不可再生能源)为污染性能源，可见加州想借森林计划尽可能普及清洁能源，以缓解气候变化。\n\n②句补充指出生物燃料用于交通的研究已开启。already under way 体现加州在行动方面的领先性，呼应第二段“加州在明确细节方面起到示范作用(leading the way...in figuring out the details)”。\n\n【段落梳理】综合分析五、六段的两项目标（plans to、also aims），可归纳出加州计划的两方面措施：一方面，逐步加快清除低矮树木，修复剩余树木的吸碳力；另一方面，将被清除的树木用于固碳、提供清洁能源等气候保护措施，减少碳排放，从而努力达成对森林资源的充分利用、对二氧化碳从“源头”到“传播”的全方位控制。\n\nVII ① State governments are well accustomed to managing forests, but traditionally they've focused on wildlife, watersheds and opportunities for recreation.\n\n② Only recently have they come to see the vital part forests will have to play in storing carbon. ③ California's plan, which is expected to be finalized by the governor next year, should serve as a model. [415 words]\n\n各州政府对于森林管理已驾轻就熟，但他们历来都把重点放在野生动物、水域及重建机遇上。直到最近，他们才意识到必须让森林在碳储存方面发挥重要作用。加州计划——预计于明年由州长最终敲定——应该成为一个典范。\n\n**词汇注释与难句分析**\n\nwildlife n. 野生动植物\n\nwatershed n. 流域\n\nrecreation n. 重现；重建\n\nstore v. 贮藏，储存\n\ngovernor n. 地方长官；州长\n\n**经典搭配**\n\nfinalize v. 把最后定下来；定案\n\nbe accustomed to(习惯于……)\n\ncome to（开始……；逐渐……）\n\n**语篇分析**\n\n第七段借“批评各州因循守旧、认可加州新计划”呼吁各州效仿加州开启森林碳计划。关键词：① Only recently(直到最近)；② serve as a model(作为典范)。\n\n①②句昔今对比(traditionally VS Only recently)，指出各州政府在森林管理方面墨守成规，最近终于意识到森林在固碳减排方面的关键作用。traditionally 一词限定 focused on，由转折词 but 引出，实际传达“贬义”色彩，暗示过往经验反而成了掣肘，在森林规划管理方面思维固化，从未从碳处理的角度加以考量。Only recently 置于句首，暗中责备各州政府觉悟、行动之慢，反向凸显加州政府的前瞻性。\n\n③句总结重申加州计划的示范作用，侧面呼吁各州效仿。finalized... next year(即将敲定)与②句 Only recently... come to see(最近才意识到)形成对比，再度突显加州不止先行一步而已。serve as a model 呼应第二段 leading the way,再度明示作者对加州计划的肯定，同时暗含对“其他州借鉴加州经验、合力发挥森林碳汇作用”的呼吁，实现与文首“解决森林挑战，应对气候难题”的圆合。"
+      },
+      {
+       "number": 30,
+       "score": 2.0,
+       "stem": "The author’s attitude to California’s plan can best bedescribed as .",
+       "options": {
+        "A": "ambiguous",
+        "B": "tolerant",
+        "C": "supportive",
+        "D": "cautious"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| | |\n| --- | --- |\n| 30. The author's attitude to California's plan can best be described as ____. | 30. 作者对于加利福尼亚州计划的态度是____。 |\n| [A] ambiguous | [A] 模棱两可的 |\n| [B] tolerant | [B] 宽容的 |\n| [C] supportive | [C] 支持的 |\n| [D] cautious | [D] 谨慎的 |\n\n[精准定位] 第二段段首 Thankfully(值得庆幸的是)、③句 leading the way, as it does on so many climate efforts(加州在明确细节方面做出了示范、如同它在气候问题上的诸多其他举措一样)、末段总评 should serve as a model(加州计划应成为一个典范)均体现作者对加州计划的肯定态度，[C]正确。\n\n[命题解密]正确项[C]合理概括了文中 Thankfully、leading the way、should serve as a model 等信息及文章主旨所传递的作者态度。\n\n[A]干扰源自第二段①句“这(森林碳计划)需要达成一种微妙的平衡(subtle balance)”，但此处是指巧妙权衡“(疏伐树木以降低)森林短期吸碳能力 VS(给剩余树木更多水分以提高)森林长期吸碳能力”，而非作者对计划的态度“微妙、不明晰”。[B]将计划的短期影响“降低森林碳承载力”、具体方案“年处理的森林面积比重小”曲解为计划的缺陷，进而得出作者包容缺陷的态度。但前者是提高森林长期吸碳能力的途径；后者是为了凸显优先处理高风险区域的必要性，二者均非计划缺陷。[D]“谨慎的”意味着作者对加州计划心存警惕，而全文并未提及计划可能造成的风险，可排除。\n\n[技巧总结] 观点态度题的基本解题步骤为：一、归纳主旨，把握写作意图；二、根据作者的评述性、总结性表达，明确语义重点；三、从情感性副词、情态词等体味褒贬态度。解题时，可以把重点锁定于常涉及评述性信息的文章首尾(关乎主旨)、段落首尾(关乎意群主旨)。本文开篇揭示严峻现状，紧接着以褒义词 Thankfully 引出一项可行性对策——加州计划，并展开具体论述，文末再以 should serve as a model 凸显褒奖情感，由此明了写作用意：以加州作为示范敦促各州积极行动，以共同应对危机。"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Text 3",
+     "passage": [
+      "American farmers have been complaining of labor shortages for several years. The complaints are unlikely to stop without an overhaul of immigration rules for farm workers.",
+      "Congress has obstructed efforts to create a more straightforward visa for agricultural workers that would let foreign workers stay longer in the U.S. and change jobs within the industry. If this doesn’t change, American businesses, communities, and consumers will be the losers.",
+      "Perhaps half of U.S. farm laborers are undocumented immigrants. As fewer such workers enter the country, the characteristics of the agricultural workforce are changing. Today’s farm laborers, while still predominantly born in Mexico, are more likely to be settled rather than migrating and more likely to be married than single. They’re also aging. At the start of this century, about one-third of crop workers were over the age of 35. Now more than half are. And picking crops is hard on older bodies. One oft-debated cure for this labor shortage remains as implausible as it’s been all along: Native U.S. workers won’t be returning to the farm.",
+      "Mechanization isn’t the answer, either – not yet, at least. Production of corn, cotton, rice, soybeans, and wheat has been largely mechanized, but many high-value, labor-intensive crops, such as strawberries, need labor. Even dairy farms, where robots do a small share of milking, have a long way to go before they’re automated.",
+      "As a result, farms have grown increasingly reliant on temporary guest workers using the H-2A visa to fill the gaps in the workforce. Starting around 2012, requests for the visas rose sharply; from 2011 to 2016 the number of visas issued more than doubled.",
+      "The H-2A visa has no numerical cap, unlike the H-2B visa for nonagricultural work, which is limited to 66,000 a year. Even so, employers complain they aren’t given all the workers they need. The process is cumbersome, expensive, and unreliable. One survey found that bureaucratic delays led the average H-2A worker to arrive on the job 22 days late. The shortage is compounded by federal immigration raids, which remove some workers and drive others underground.",
+      "In a 2012 survey, 71 percent of tree-fruit growers and almost 80 percent of raisin and berry growers said they were short of labor. Some western farmers have responded by moving operations to Mexico. From 1998 to 2000, 14.5 percent of the fruit Americans consumed was imported. Little more than a decade later, the share of imports was 25.8 percent.",
+      "In effect, the U.S. can import food or it can import the workers who pick it."
+     ],
+     "questions": [
+      {
+       "number": 31,
+       "score": 2.0,
+       "stem": "What problem should be addressed according to the first two paragraphs?",
+       "options": {
+        "A": "Discrimination against foreign workers in the U.S.",
+        "B": "Biased laws in favor of some American businesses.",
+        "C": "Flaws in U.S. immigration rules for farm workers.",
+        "D": "Decline of job opportunities in U.S. agriculture."
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n| 31. What problem should be addressed according to the first two paragraphs? | 31. 根据前两段所述，什么问题应该予以处理？|\n| --- | --- |\n| [A] Discrimination against foreign workers in the U.S. | [A] 对美国外籍劳工的歧视。 |\n| [B] Biased laws in favor of some American businesses. | [B] 偏袒某些美国企业的法律。 |\n| [C] Flaws in U.S. immigration rules for farm workers. | [C] 美国农工移民政策的缺点。 |\n| [D] Decline of job opportunities in U.S. agriculture. | [D] 美国农业就业机会的减少。 |\n\n[精准定位] 由首段“如果没有针对农工移民政策的彻底改革，农户对劳工短缺问题的抱怨将会永无休止”可知问题根源在于“农工移民政策”；再由第二段“国会阻挠创设更便捷签证的努力，而这一现状若不改变将后果严重”可知移民政策问题所在“签证办理繁琐困难”，由此因果链条即可推知，当前应当解决的严峻问题是美国农工移民政策问题，[C]正确。\n\n[命题解密] 正确项[C]是对 The complaints are unlikely to stop without an overhaul of immigration rules for farm workers, If this doesn't change,... will be the losers(this 回指其前“美国国会对农工新签证创设所做努力的阻扰”)中“条件—结果”逻辑的正确推断。\n\n[A]由首段末 immigration rules for farm workers“农工的移民政策”移花接木为 discrimination against foreign workers in the U.S.“歧视美国外籍劳工”，而“歧视外籍劳工”在文中无迹可寻。[B]利用文中 rules、American businesses 设障，文中只论及政策有碍美国引入外籍农工，而未提及政策偏袒部分美国企业。[D]将美国农业的问题“劳动力短缺”反向偷换为“就业机会减少”。\n\n[技巧总结] 由设问关键词 problem 锁定解答关键在“找出首两段中‘问题表达’并从中抽取问题核心”，即，根据 complaining of labor shortages、complaints are unlikely to stop without an overhaul of immigration rules for farm workers、If this doesn't change...will be the losers 推断问题指向“美国农业劳动力短缺”、“农工移民政策”、“外籍农工签证手续”，随后将此三者与选项逐一比对，锁定将三者关联起来的[C]。\n\nⅢ ① Perhaps half of U. S. farm laborers are undocumented immigrants. ② As fewer such workers enter the country, the characteristics of the agricultural workforce are changing. ③ Today's farm laborers, while still predominantly born in Mexico, are more likely to be settled rather than migrating and more likely to be married than single. ④ They're also aging. ⑤ At the start of this century, about one-third of crop workers were over the age of 35.\n\n也许一半的美国农工属于非法移民。随着此类劳工赴美数量的减少，农业劳动力的特征也正在发生变化。今天的农工，虽然仍然主要出生在墨西哥，但更有可能是定居而非移居，更有可能是已婚而非单身。他们正在老龄化。本世纪初，大约三分之一的农作物工人年龄超35岁。现在，\n\n⑥ Now more than half are. ⑦ And picking crops is hard on older bodies. ⑧ One oft-debated cure for this labor shortage remains as implausible as it's been all along: Native U. S. workers won't be returning to the farm.\n\n超35岁者过半。而且，收割庄稼对年老的人而言很难。针对这一劳动力短缺的一个常被争论的解决办法仍然一如既往地不现实：美国本土工人不会回归农场。\n\n**词汇注释与难句分析**\n\nundocumented a. 非法的，无证的\n\ncharacteristic n. 特征\n\npredominantly ad. 主要地\n\ncure n. 对策，措施\n\nimplausible a. 似乎不合情理的\n\n**经典搭配**\n\noft-debated(备受争议的)\n\nall along(自始至终，一直)\n\n**语篇分析**\n\n第三至六段为第二部分，阐述主题（层层剥笋，由不可行措施逐渐过渡到可行性措施，最后落脚到H-2A签证这一当前措施的局限(暗示其亟待改革）。\n\n第三段由美国农业劳动力的特征变化引出一种不可行解决措施。关键词为：①changing(正在发生变化);②One oft-debated cure(一种常被争论的解决办法);③implausible(难以置信的，不像真实的)。\n\n①②句概述引出变化。undocumented immigrants, such workers 的互指实现句群内部强关联。\n\n①句承上“移民签证”引出当前农工移民构成：约一半为非法移民。Perhaps“也许，大概（用于表示某个数字仅仅是猜测）”体现作者用词严谨；undocumented 照应上文 visa，表明这一群体未获签证，为非法移民。句子实际借“非法外籍农工占比高”暗示“移民签证工作繁琐复杂，致使合法外籍农工占比低”。\n\n②句由“非法移民的渐少”引出当前农工特征变化。As 从句表面说明非法移民渐少，实则表明劳工短缺与非法移民渐少有关(such workers 即指 undocumented immigrants，由“非法移民”过渡到“劳动力”，明确非法移民是农业劳动力的一个重要组成部分)，同时又预设问题“非法移民缘何会更少”，聪明读者或许会想到移民政策的打压、也会想到政府对非法移民的清赶等。\n\n①②句结合上段实际从赴美外籍劳工减少的角度指出了当前美国农业劳动力不足的一个原因“非法移民减少，合法移民因签证制度的繁琐而受限”。\n\n③至⑦句详述具体变化。are more likely to...、are also aging 所体现的变化趋势为②句 are changing 的下义词，体现两句群间“概说—具化”语义关联。\n\n③句介绍变化一：趋于稳定。插入语 While still... 先表明不变：仍以墨西哥人为主，predominantly(意为 mostly and largely)深层暗示美国农工以外籍劳工为主力，本土农工占比很少；主句并列结构 are more likely to... rather than... and more likely to... than...(比较级、取舍结构双管齐下)后强调变化：更倾向于定居、结婚，而非移居、单身，而由“定居、结婚”可进一步推断当前劳工稳定性增强、流动性降低。\n\n④至⑦句介绍变化二：老龄化。aging、over the age of 35、older bodies 形成的语义场“年龄老化”实现句群内部强联接。⑤⑥句中今昔对比(At the start of this century, about one-third VS Now more than half)强调当前人口老龄化趋势的严重性；⑦句中 And 表语义递进，引出老龄化趋势对农业劳作的不利：年纪大者难以从事庄稼收割等农事。本句群实际从农工老龄化角度指出了当前美国农业劳动力不足的另一个原因“现有在美外籍劳工无力胜任”。\n\n⑧句引出某个解决方案并否定其可行性。oft-debated(为 often-debated 的缩略形式)强调方案的可行性备受争议；remains as implausible as it's been all along 在明确作者站位“一如既往不可行”的同时，也借 all along(all along 意为 all the time from the beginning, while something was happening)暗示这一站位实际建立在事实基础上：在长期的争论过程中，这一方案并未朝着支持方的预期方向趋近，即一直以来本土工人并未回归农场；冒号后则在明确作者观点“美本土工人不会回归农场”的同时，侧面指出该争议性解决方案的具体内容“(期待)本土工人回归农场”。\n\n【段落梳理】本段由“非法移民渐少”到“现有农工特征变化”再到“备受争议的办法行不通”，实现了写作视角由“问题：农工短缺”到“问题解决方法”的过渡，并且预示下文将分析其他非争议性解决办法并最终导向移民签证这一解决方法的缺陷。"
+      },
+      {
+       "number": 32,
+       "score": 2.0,
+       "stem": "One trouble with U.S. agricultural workforce is .",
+       "options": {
+        "A": "the rising number of illegal immigrants",
+        "B": "the high mobility of crop workers",
+        "C": "the lack of experienced laborers",
+        "D": "the aging of immigrant farm workers"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 32. One trouble with U. S. agricultural workforce is _. | 32. 美国农业劳动力的一个问题是 _。 |\n| [A] the rising number of illegal immigrants | [A] 非法移民的增加 |\n| [B] the high mobility of crop workers | [B] 农作物工人的高流动性 |\n| [C] the lack of experienced laborers | [C] 有经验工人的短缺 |\n| [D] the aging of immigrant farm workers | [D] 外籍农工的老龄化 |\n\n[精准定位] 由题干关键词 U. S. agricultural workforce 定位至第三段。该段④⑤⑥⑦句指出：美国农业劳动力正在老龄化，而庄稼收割对于年纪大的劳工而言很困难。由此可初步判断，美国农业劳动力存在的一个问题是“老龄化”。再根据③句“当前农工仍主要出生于墨西哥”以及⑧句“本土工人不可能回归农业”可推断“当前美国农业劳动力以外籍工人占主导”,也即“老龄化问题”主要指的是“外籍劳工的老龄化问题”,从而敲定[D]。\n\n[命题解密]正确项是对第三段④句 They're also aging.、⑦句 And picking crops is hard on older bodies. 所反映出的“老龄化对农业生产不利”的正确解读。\n\n[A]与②句“来美国的这种工人(②句中 such workers 指代首句 undocumented immigrants, 与选项中的 illegal immigrants 同义)越来越少”相悖。[B]与③句“今天的农业劳动者更有可能定居而非移居，更可能已婚而非单身”所体现的“高稳定性”相悖。[C]中“有经验的工人”在文中无迹可寻。\n\n[技巧总结]思路1:本题同上题，由设问关键词 trouble 锁定本题解答关键在“找出定位段中‘困难/问题表达’”,即，根据段中负面表达 aging、hard on older bodies 可快速锁定[D]。思路2:各选项较短，可利用各选项核心关键词与文中核心关键词的比对快速解题，如[D]中 aging 很明显复现于段中，可初步锁定；再由“[A]中 rising number 有悖 fewer”、“[B]中 high mobility 有悖 more likely to be settled rather than migrating and more likely to be married than single 所传递的‘高稳定性’”以及“[C]中 lack 虽复现文中 shortages,但其中 experienced 却无迹可寻”逐一排除[A]、[B]、[C],最终敲定[D]。"
+      },
+      {
+       "number": 33,
+       "score": 2.0,
+       "stem": "What is the much-argued solution to the labor shortage in U.S. farming?",
+       "options": {
+        "A": "To attract younger laborers to farm work.",
+        "B": "To get native U.S. workers back to farming.",
+        "C": "To use more robots to grow high-value crops.",
+        "D": "To strengthen financial support for farmers."
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| 33. What is the much-argued solution to the labor shortage in U.S. farming? | 33. 那个备受争议的解决美国农业劳动力短缺的办法是什么？|\n| --- | --- |\n| [A] To attract younger laborers to farm work. | [A] 吸引更年轻的工人去务农。 |\n| [B] To get native U.S. workers back to farming. | [B] 让美国本土工人回归农业。 |\n| [C] To use more robots to grow high-value crops. | [C] 使用更多机器人种植高价值作物。 |\n| [D] To strengthen financial support for farmers. | [D] 加强对农户的财政支持。 |\n\n[精准定位] 由题干 the much-argued solution to the labor shortage 定位至第三段⑧句(One oft-debated cure for this labor shortage)。冒号前指出一个常被争议的解决办法依然是不现实的，冒号后指出美国本土工人不会回归农场。由此可见，备受争议的解决办法是让美国本土工人回归农业，[B]正确。\n\n[命题解密]正确项[B]是基于 Native U.S. workers won't be returning to the farm 的正确推理。\n\n[A]由第三段提到的问题“农工老龄化”捏造出解决办法“吸引更年轻劳动力去务农”，但文中并没有相关信息做支撑。[C]利用第四段提到的解决办法“机械化、机器人”干扰，但这并非题干所问“备受争议”的解决办法。[D]中 financial support“财政支持”在文中未被提及。\n\n[技巧总结] 本题由于定位极度明晰(由题干 much-argued solution 与文中 oft-debated cure 近义即可精准定位至第三段⑧句)，故解答关键实则是对特殊标点符号“冒号”语用功能的解读：认识到冒号后既解释了解决办法一如既往不现实的原因（美国本土工人不会回农场），也指出了解决办法是什么（让美国本土工人回农场）。\n\nIV ① Mechanization isn't the answer, either — not yet, at least. ② Production of corn, cotton, rice, soybeans, and wheat has been largely mechanized, but many high-value, labor-intensive crops, such as strawberries, need labor. ③ Even dairy farms, where robots do a small share of milking, have a long way to go before they're automated.\n\n机械化也不是解决办法，至少现在还不是。玉米、棉花、水稻、大豆和小麦的生产已基本实现机械化，但许多高价值、劳动密集型农作物需要劳动力，比如草莓。即使是机器人承担小部分挤奶工作的乳牛场，在实现自动化之前也还有很长的路要走。\n\n**词汇注释与难句分析**\n\nmechanization n. 机械化\n\nsoybean n. 大豆\n\nstrawberry n. 草莓\n\ndairy a. 生产乳品的\n\n2019\n\nautomated a. 自动化的\n\n**经典搭配**\n\nhigh-value(高价值的)\n\nlabor-intensive(劳动密集型的)\n\n**语篇分析**\n\n第四段介绍另一种不可行解决措施：机械化。关键词为：①Mechanization(机械化);②isn't the answer, either(也不是解决之策)。\n\n句(段落主旨句)直接指出：机械化也非解决之策。Either 明示本段与上段并列逻辑关联：均意在分析农工短缺问题的不可行性解决办法。at least“至少，起码[用于纠正或改变刚说过的话]”结合 not yet,就 isn't the answer 所传递出的绝对语气予以缓冲，在明确这一解决措施当前不可行(不排除未来可行)的同时，预设下文内容：当前为何不可行。\n\n句解释说明：机械化尚有很长一段路要走。\n\n句从种植场角度说明：许多农作物的种植尚需劳动力。but 形成句内对比，其前借 largely mechanized 肯定当前机械化水平：玉米、棉花、水稻、大豆、小麦(注：这些农作物属土地密集型作物)的生产大体已机械化，其后则借 need labor 强调当前机械化不可及之处：劳动密集型、高价值农作物(注：蔬菜、水果、花卉、观赏植物、调味品等属高价值农作物)仍需劳动力，且 many 与前半句屈指可数的五种机械化农作物形成鲜明对比，强调这一解决当前农工短缺问题的路子尚不可行。\n\n句从养殖场角度说明：机械自动化水平尚低。Even 与上句形成语义递进，句内 a small share 与 a long way 形成对比，以点“乳牛场挤奶工作机械化水平低”凸显“当前养殖场机械化程度之低及自动化路途之长”。\n\nV ① As a result, farms have grown increasingly reliant on temporary guest workers using the H-2A visa to fill the gaps in the workforce. ② Starting around 2012, requests for the visas rose sharply; from 2011 to 2016 the number of visas issued more than doubled.\n\nVI ① The H-2A visa has no numerical cap, unlike the H-2B visa for nonagricultural work, which is limited to 66,000 a year. ② Even so, employers complain they aren't given all the workers they need. ③ The process is cumbersome, expensive, and unreliable. ④ One survey found that bureaucratic delays led the average H-2A worker to arrive on the job 22 days late. ⑤ The shortage is compounded by federal immigration raids, which remove some workers and drive others underground.\n\n因此，农场越来越依赖于使用 H-2A 签证的临时外籍工人来填补劳动力缺口。从 2012 年左右开始，申请此类签证的人数突然大幅上升；从 2011 年到 2016 年，签发的签证数量增加了一倍多。\n\n与非农工 H-2B 签证(每年上限为 6.6 万个)不同，H-2A 签证没有数量限制。即便如此，雇主仍抱怨未能获得足够劳工。这个过程繁琐、昂贵且不可靠。一项调查发现，官僚主义所致的迟滞使得 H-2A 签证工人的上工时间平均晚 22 天。\n\n联邦政府对移民的突击搜查也加剧了劳动力短缺，一些工人被驱逐出境，另一些则被迫转入地下。\n\n**词汇注释与难句分析**\n\ntemporary a. 暂时的，临时的\n\nsharply ad. 急剧地，突然大幅度地\n\nissue v. （正式）发出\n\nnumerical a. 数字的\n\ncap n. 最高限度\n\ncumbersome n. 缓慢复杂的\n\nbureaucratic a. 官僚的，官僚主义的\n\ncompound v. 加剧\n\nraid n. 突击搜查\n\n**经典搭配**\n\nguest worker(〔尤指来自穷国的〕外籍务工者)\n\nfill the gaps(填补空缺)\n\n**语篇分析**\n\n第五段介绍现行解决措施：借助 H-2A 签证引入外籍劳工。关键词为：reliant on temporary guest workers using the H-2A visa(依赖于使用 H-2A 签证的临时外籍工人)。\n\n①句承上“不可行措施”引出“当前所依赖措施”。As a result 明确本段与上两段间因果关联：既不能指望本土工人回归、也不能依赖机械化，那么只能依赖外籍工人，由此引出 H-2A 签证方式。increasingly reliant on 一方面借 increasingly 所隐藏的趋势之意明确解决思路走向“由指望本土工人回归、机械化，到渐渐依赖通过签证方式赴美的外籍劳工”，另一方面借 reliant on（意为 needing sb/sth in order to survive, be successful, etc.）强调这一签证方式的至关重要性“关乎农工短缺问题的成功解决”；the gaps in the workforce 即指 labor shortages。\n\n②句援引数据予以说明：近年 H-2A 签发数量骤升。sharply、more than doubled 经由时间辖域词 Starting around 2012、from 2011 to 2016 分别从速度、数量角度强调此类签证签发数量之多（短短几年内就翻番），说明上句 increasingly reliant on。\n\n第六段进而分析 H-2A 签证这一解决措施的缺陷。关键词为：cumbersome, expensive, and unreliable(繁琐、昂贵且不可靠)。\n\n①②句由 H-2A 签发数量不受限引出农户抱怨(暗示此类签证的缺陷)。①句中类比词 unlike 引出对比组 no numerical cap VS is limited to 66,000 a year, 借助 H-2A 签证数量不受限这一优势暗示此类路径应能解决农工短缺问题；②句 Even so 发生语义转折，并借 complain 所引出的农户 (employers 此处即指 farmers) 抱怨“农工短缺未能得以解决”暗示这一路径依然无法解决问题。此两句实际侧面说明农工短缺问题的严重性：即便 H-2A 签证不受限，近年来签发数量骤升，但依然无法满足农户需求、农户抱怨不断，由此预设问题“这一签证方式也有其缺陷”, 预示下文将展开说明。\n\n③④句进而明确 H-2A 签证的缺陷：流程繁琐、昂贵且不可靠(借此说明农户抱怨原因)。③句中 The process 结合上文 H-2A 可知其指该签证的颁发流程；cumbersome(意为 slow and complicated“缓慢复杂的”)、expensive、unreliable(意为 unable to be trusted or depended on“不可信赖的，不可靠的”)分别从程序上、成本上、可靠度上分析了这一签证的缺陷：又慢又复杂、又贵又不可靠，暗示其亟待改革，呼应首段内容“唯有彻底改革，方能解决农户抱怨”。④句进而以某项调查数据予以说明，其中 bureaucratic delays 实则为 cumbersome 的具体阐释：繁琐官僚主义做派所致的缓慢复杂，average...22 days late 则为 unreliable 的具体解释：平均上工时间延后 22 天，而之于时效性很强的农作业而言，单纯依赖这种方式增加劳工实在很不可靠。\n\n⑤句补充美国农业劳动力不足的另一个因素：联邦政府对移民的突击搜查(非法移民减少)。The shortage 即指 labor shortages“(农业)劳工短缺”;is compounded by(compound 意为 to make a difficult situation worse by adding more problems“使恶化，加重”)明确因果关联：联邦政府突击搜查→农工短缺，其间似乎有个逻辑跳跃，which 从句弥补这一跳跃：突击搜查→非法移民或被驱逐、或被迫转入地下→劳工减少，借此呼应第三段首两句所述“近半美国农工属非法移民，而近来此类移民在逐渐减少”, 明示其原因。\n\n【段群梳理】第三至六段层层剥笋，将问题的解决方法一一呈现，由不可行方法到现行方法存在的问题，由本土劳工不回归到赴美劳工受政策所限，最后归结到“H-2A签证流程存在的不足”，从而得以说明首两段所提出的主题“当前能够用以解决农工短缺问题的H-2A签证移民政策存在诸多弊端，如若不对其加以改革，那么长期以来存在的农工短缺问题将难以得到解决”。"
+      },
+      {
+       "number": 34,
+       "score": 2.0,
+       "stem": "Agricultural employers complain about the H-2A visa for its .",
+       "options": {
+        "A": "slow granting procedures",
+        "B": "limit on duration of stay",
+        "C": "tightened requirements",
+        "D": "control of annual admissions"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 34. Agricultural employers complain about the H-2A visa for its ____. | 34. 农业雇主抱怨 H-2A 签证，因为它____。 |\n| [A] slow granting procedures | [A] 签发过程缓慢 |\n| [B] limit on duration of stay | [B] 限制停留时间 |\n| [C] tightened requirements | [C] 要求严格 |\n| [D] control of annual admissions | [D] 控制年度签发人数 |\n\n[精准定位] 根据题干 Agricultural employers、complain 定位至第六段②句(employers complain)。该句指出：即便 H-2A 签证签发数量不受限，农业雇主依然抱怨劳工短缺；③④句随后解释原因：签证签发繁琐、昂贵、不可靠，官僚主义所致的迟滞使得 H-2A 签证工人的平均上工时间晚 22 天。综上可知，雇主的抱怨源于 H-2A 签证的签发繁琐缓慢，即[A]正确。\n\n[命题解密] 正确项 [A] 中 procedures 近义替换文中 process, slow granting 是基于文中 cumbersome、expensive、unreliable、delays、late 的高度概括。\n\n[B]中 duration of stay 源自第二段①句 would let foreign workers stay longer in the U.S.,虽由文意可知当前签证所允许的停留时间有限，但第六段中并未指出这是农业雇主抱怨H-2A签证的原因。[C]由③句中 cumbersome“[过程或系统]耗时的，累赘的”曲解出 tightened requirements“要求多、标准多(所以耗时)”,但该词在文中意在突出“慢、难”而非“高标准”。[D]与①句 no numerical cap“没有数量限制”相悖。\n\n[技巧总结] 由设问关键词“complain...for its ____”锁定本题解答关键在“找出定位段中与‘抱怨’相关的内容(多为负面情感色彩表达词)”，即，根据 cumbersome、expensive、unreliable、delays、late 这些负面表达中反复出现的信息“慢”即可初步锁定含有该核心信息的[A] (slow)。接下来，可再由这些负面表达所指向的主体 The process 契合[A]中 granting procedures 而敲定正确选项。\n\nⅦ ① In a 2012 survey, 71 percent of tree-fruit growers and almost 80 percent of raisin and berry growers said they were short of labor. ② Some western farmers have responded by moving operations to Mexico. ③ From 1998 to 2000, 14.5 percent of the fruit Americans consumed was imported. ④ Little more than a decade later, the share of imports was 25.8 percent.\n\nVIII ① In effect, the U. S. can import food or it can import the workers who pick it. [421 words]\n\n在2012年一项调查中， 71% 的果农和近 80% 的葡萄干和浆果种植者说他们缺少劳动力。一些西部农户则将生产转移至墨西哥以作应对。从1998年到2000年，美国人消费的水果中有 14.5% 是进口的。仅仅十年后，进口占比为 25.8%。\n\n实际上，美国可以进口食品，也可以进口采摘食品的工人。\n\n①raisin n. 葡萄干\n\n②berry n. 浆果，莓\n\n③operation n. 业务\n\n④share n. (分担的)一部分\n\n**经典搭配**\n\n①in effect(实际上)\n\n末两段为第三部分，收束全篇，重申主题。\n\n第七段补充其他相关解决措施：转移生产、进口食品。关键词为：①moving operations(转移生产);②imported/imports(进口)。\n\n①句借由某项调查数据重申当前农工短缺问题。71 percent、80 percent 以其高比例凸显农工短缺问题的严峻性。\n\n②③④句介绍其他相关解决办法：出口生产、进口食品。②句中 responded 隐藏对象为 labor shortage; by 通过方式引出对策“将生产转移至国外”。③④句借助 imported/imports 复现，实现关联，引出另一种对策“引进食品”, 两句以时间为线索 (From 1998 to 2000→Little more than a decade later), 以数字对比 (14.5 percent VS 25.8 percent) 强调如今进口量之多和增长之快。\n\n【段落梳理】结合段中 growers、farmers、Americans consumed 可推知本段看似在说明对策，实则借助此类对策所述对象“企业、消费者、社会各界”明示劳工问题不足造成农业生产困难所带来的社会不良影响，从而得以说明第二段末句。\n\n第八段总结收篇，重申主题：借外籍劳工解决当前农工短缺问题。关键词为：import the workers(进口)。\n\n独句成段，In effect 相当于 basically, in actuality, 引出作者所认定的事实；or 引出的两种策略看似并列，对上段所述策略表示肯定，实则语义重心偏向后者，对其予以一定程度的否定，即相对于靠依赖外来食品而言，更应该依赖外来劳工，深层暗示当前当务之急更应该是对给农业生产带来桎梏的农工移民政策予以改革，从而解决当前严峻的农工短缺问题，以免造成严重社会影响，从而首尾呼应，收束全篇。\n\n【段群梳理】第七段无论从形式上，还是从语义角度上，更像是在讲述“农工短缺问题的解决方式”，与第三至六段内容连接更为紧密，但据由其内部所隐藏信息“(农民)企业家、消费者、社会各界被迫转移运营地点、消费进口食品”可知其实际也在讲述签证政策不改革、农工问题不解决的不良社会影响，并且结合末段 In effect, the U.S. can import food 可知两段之间也存在“分说—总评”语义关联，从而与首两段之间形成一一呼应关系，故本【语篇分析】将末两段视为一个整体。"
+      },
+      {
+       "number": 35,
+       "score": 2.0,
+       "stem": "Which of the following could be the best title for this text?",
+       "options": {
+        "A": "U.S. Agriculture in Decline?",
+        "B": "Import Food or Labor?",
+        "C": "America Saved by Mexico?",
+        "D": "Manpower vs. Automation?"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| 35. Which of the following could be the best title for this text? | 35.以下哪项为本文最佳标题？|\n| --- | --- |\n| [A] U.S. Agriculture in Decline? | [A] 衰落中的美国农业？|\n| [B] Import Food or Labor? | [B] 进口食物还是进口劳力？|\n| [C] America Saved by Mexico? | [C] 被墨西哥拯救的美国？|\n| [D] Manpower vs. Automation? | [D] 人力 vs. 自动化？|\n\n[精准定位]文章首先引出美国农业劳动力短缺问题及其根源“农工移民政策欠缺”；随后分析当前移民政策（繁琐、昂贵、不可靠）及劳动力短缺问题的相关解决办法（既包括并不可行的“让美国本土工人回归农业”、“用机器人代替人力”，也包括现行的“签发H-2A农工签证”、“引入农产品”）；最后总结指出美国农工短缺问题的解决思路是“要么引入食品、要么引入劳工”。由此可知，[B]正确。\n\n[命题解密]正确项[B]是对全文内容的准确概括，其中 Import Food 基于第七段所述可行办法，(Import)Labor 基于第五、六段所述可行办法，且 Import Food or Labor? 整体与全文话题相吻合。\n\n[A]中 U.S. Agriculture 与文章话题相关，但 in Decline(走向衰落)与文章核心问题 labor shortages 有太大出入。[C]利用第三段中提到的美国农业劳动力主要输入国“墨西哥”干扰，但 Saved(拯救)言过其实；且劳动力短缺问题根源在于美国移民政策，而与墨西哥无关。[D]无力概括全文，“机械化/自动化”仅在第四段作为美国农业劳动力短缺问题(暂不可行)的解决方案被提及。\n\n[技巧总结] 主旨题需要从宏观把握文章内容，一般文章开头和结尾的概括或总结性内容是抓住文章主旨的重要线索。文章首末段其实都对问题予以了解答，首段末句“如果不彻底改革农工移民政策，"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Text 4",
+     "passage": [
+      "Arnold Schwarzenegger, Dia Mirza and Adrian Grenier have a message for you: It’s easy to beat plastic. They’re part of a bunch of celebrities starring in a new video for World Environment Day – encouraging you, the consumer, to swap out your single-use plastic staples like straws and cutlery to combat the plastics crisis.",
+      "The key messages that have been put together for World Environment Day do include a call for governments to enact legislation to curb single-use plastics. But the overarching message is directed at individuals.",
+      "My concern with leaving it up to the individual, however, is our limited sense of what needs to be achieved. On their own, taking our own bags to the grocery store or quitting plastic straws, for example, will accomplish little and require very little of us. They could even be detrimental, satisfying a need to have “done our bit” without ever progressing onto bigger, bolder, more effective actions – a kind of “moral licensing” that allays our concerns and stops us doing more and asking more of those in charge.",
+      "While the conversation around our environment and our responsibility toward it remains centered on shopping bags and straws, we’re ignoring the balance of power that implies that as “consumers” we must shop sustainably, rather than as “citizens” hold our governments and industries to account to push for real systemic change.",
+      "It’s important to acknowledge that the environment isn’t everyone’s priority – or even most people’s. We shouldn’t expect it to be. In her latest book, Why Good People Do Bad Environmental Things, Wellesley College professor Elizabeth R. DeSombre argues that the best way to collectively change the behavior of large numbers of people is for the change to be structural.",
+      "This might mean implementing policy such as a plastic tax that adds a cost to environmentally problematic action, or banning single-use plastics altogether. India has just announced it will “eliminate all single-use plastic in the country by 2022.” There are also incentive-based ways of making better environmental choices easier, such as ensuring recycling is at least as easy as trash disposal.",
+      "DeSombre isn’t saying people should stop caring about the environment. It’s just that individual actions are too slow, she says, for that to be the only, or even primary, approach to changing widespread behavior.",
+      "None of this is about writing off the individual. It’s just about putting things into perspective. We don’t have time to wait. We need progressive policies that shape collective action (and rein in polluting businesses), alongside engaged citizens pushing for change."
+     ],
+     "questions": [
+      {
+       "number": 36,
+       "score": 2.0,
+       "stem": "Some celebrities star in a new video to .",
+       "options": {
+        "A": "demand new laws on the use of plastics",
+        "B": "urge consumers to cut the use of plastics",
+        "C": "invite public opinion on the plastics crisis",
+        "D": "disclose the causes of the plastics crisis"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| | |\n| --- | --- |\n| 36. Some celebrities star in a new video to ____. | 36.一些明星主演了一部新短片来____。 |\n| [A] demand new laws on the use of plastics | [A] 要求就塑料使用制定新法 |\n| [B] urge consumers to cut the use of plastics | [B] 敦促消费者减少使用塑料制品 |\n| [C] invite public opinion on the plastics crisis | [C] 征求公众对塑料危机的看法 |\n| [D] disclose the causes of the plastics crisis | [D] 揭露塑料危机的起因 |\n\n[精准定位]第一段先指出“一众明星主演了一部为世界环境日拍摄的新短片”，②句破折号后随即明确众明星出演该短片的目的“鼓励消费者换掉一次性塑料用品、以抗击塑料危机”，[B]正确。\n\n[命题解密][B]同义改写第一段②句 encouraging you... to swap out your single-use plastic staples。\n\n[A]源自第二段①句 a call... to enact legislation to curb single-use plastics, 但“呼吁政府立法”属于“为环境日汇总的关键信息”，而非“明星拍摄新短片的目的”。[C]将第一段②句“呼吁公众以行动抗击塑料危机 (swap out... to combat...)”篡改为“征求公众对塑料危机的看法”。[D]由第一段②句 single-use plastic staples、the plastics crisis 推出二者可能存在因果关系“一次性塑料用品引发塑料危机”，但忽略动词 swap out，将该句重心“抗击塑料危机的手段”曲解为“揭露塑料危机的起因”。\n\n[技巧总结]事实细节题的常规解题思路为“定位+排除法”，解题需注意：一、关注文中论述主体的转换/论述范围的扩大，当论述范围扩大时，应通读上下文、划定不同论述主体的对应关系；二、熟悉标点符号特殊作用（如破折号常起补充说明或加强语气之用）。\n\n如本题，首先由题干关键词 Some celebrities star in a new video 定位至第一段②句，该句前半部分与题干高度吻合，破折号后即为“明星出演新短片的目的/答案线索”,抓取其主干 encouraging... consumer, to swap out... single-use plastic staples,确定[B]正确；随后由[A]中 new laws on the use of plastics 定位至第二段①句，注意到第二段论述范围已扩大“为环境日拍摄的新短片→为环境日汇总的关键/核心信息”,联系两段可发现“呼吁立法针对政府仅为关键信息之一(key messages... for governments),而短片针对个人传递的是核心信息(a message for you、encouraging you、overarching message... directed at individuals)”,二者毫不相干，因而拍摄短片不可能是为了呼吁立法，而[C]“公众对塑料危机的看法”、[D]“塑料危机的起因”文中均未论及，一并排除。\n\nIII ① My concern with leaving it up to the individual, however, is our limited sense of what needs to be achieved. ② On their own, taking our own bags to the grocery store or quitting plastic straws, for example, will accomplish little and require very little of us. ③ They could even be harmful, satisfying a need to have “done our bit” without ever progressing onto bigger, bolder, more effective actions—a kind of “moral licensing” that eases our concerns and stops us doing more and asking more of those in charge.\n\n然而，对于将应对塑料危机的重任留给个人的做法，我的担忧在于人们对需要达成的目标认识有限。例如，仅仅提着自己的购物袋逛超市或停止使用塑料吸管，这种做法本身收效甚微，而且对人们提出的要求太低。它们甚至可能产生危害，满足人们“已尽本分”的（心理）需求，使人们不愿进一步采取更重大、更果敢、更有效的行动——这一“道德许可（效应）”会减轻人们的顾虑，让人们止步不前，不去做更多的事、对当权者提出更多的要求。\n\n**词汇注释与难句分析**\n\nconcern n. 忧虑，担心\n\nbold a. 果敢的，无畏的\n\n**经典搭配**\n\ngrocery store(食品杂货店)\n\ndo one's bit(尽本分)\n\nmoral licensing(道德许可效应，指人们在做出积极正面的事之后，往往会放纵自己、降低对自己的道德要求)\n\nin charge(主管的，负责的)\n\nThey could even be detrimental, satisfying a need to have “done our bit” without ever progressing onto bigger, bolder, more effective actions—a kind of “moral licensing” that allays our concerns and stops us doing more and asking more of those in charge.\n\n| | | | |\n| --- | --- | --- | --- |\n| 破折号引出总结性内容定语从句 | | | |\n\n功能注释：本句主干为 They could even be detrimental(They 回指②句“改变个人消费行为”taking... or quitting...),伴随状语 satisfying a need... without ever progressing onto...说明改变个人消费行为害处所在；破折号引出 a kind of “moral licensing”,总结 satisfying a need to...的实质“觉得‘尽到本分’其实相当于‘获得道德上的许可’”;that 引导定语从句修饰 moral licensing,其中谓语 1 说明道德许可的作用“减轻(道德)顾虑，使人可以心安理得地放弃努力”,谓语 2 阐释进一步努力内涵“自身环保行为+监督当权者环保行为”。\n\n**语篇分析**\n\n第三至六段打靶(展开批驳)，指出“对抗塑料不能主要依靠个人行动，更需政府推行结构性变革”。\n\n第三段通过分析个人行动的局限性反驳世界环境日的宣传理念。关键词为：①accomplish little(收效甚微); ②even be detrimental(甚至有害)。\n\n①句为段落主旨句，明示作者对“战胜塑料主要依靠个人行动”这一宣传理念的质疑态度并说明原因：个人对环保目标认识有限。leaving it up to the individual(it 回指 beat plastic, combat the plastics crisis)回指第二段世界环境日宣传理念“战胜塑料主要依靠个人行动”。My concern with...辅以 however 的转折逻辑，则体现出作者对该理念的质疑态度，奠定下文批驳基调。our limited sense 总述担忧原因“个人对环保目标认识有限”，即仅仅改变个人消费行为远远达不到战胜塑料的目标。\n\n②③句例证①句，说明仅仅依靠个人行动不仅收效甚微，甚至可能产生危害。\n\n②句以“改变个人消费行为”为例说明个人行动的缺陷一：收效甚微、要求过低。for example 体现例证逻辑。taking our own bags... or quitting plastic straws 则是个人环保行动的两个例子，呼应首段“一众明星鼓励消费者停止使用塑料吸管”等个人行动；而 accomplish little、require very little 中通过 little 的复现，分别从成效、要求两方面对这种做法予以否定（成效不高，要求过低），从而表明仅仅依靠个人行动来战胜塑料危机实则很难实现（反驳首段中 It's easy to beat plastic）。\n\n③句递进指出个人行动的缺陷二：个人容易自满，觉得自己已尽本分便会停止进一步努力。They 回指②句中两个“个人行动”的例子，even be detrimental 体现本句与上句的递进逻辑，即个人行动不仅收效甚微，甚至可能产生危害；两组对比 satisfying a need... VS without ever progressing... 和 allays our concerns VS stops us doing more... 具体说明危害所在：个人行动满足了人们“已尽本分”的心理需求，导致人们懒于进一步努力；个人在做出环保努力的同时会降低对环境的担忧，从而导致自己止步不前，不去做出更大努力。其中 little、bit VS bigger, bolder, more effective(此处 bit 兼具“本分”和“一小块”之意)传达作者讽刺“民众认为自己已经尽到环保责任，但实际上他们做的事简直微不足道”。综上，②③句通过递进逻辑证明首句中作者态度：依靠个人行动战胜塑料危机的理念很难实现(这种做法不仅收效甚微，甚至可能使危机进一步恶化)。段末 asking more of those in charge 暗示战胜塑料危机正确的努力方向之一“监督当权者”,为下文论及政府、行业责任做好铺垫。"
+      },
+      {
+       "number": 37,
+       "score": 2.0,
+       "stem": "The author is concerned that “moral licensing” may .",
+       "options": {
+        "A": "mislead us into doing worthless things",
+        "B": "prevent us from making further efforts",
+        "C": "weaken our sense of accomplishment",
+        "D": "suppress our desire for success"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| | |\n| --- | --- |\n| 37. The author is concerned that “moral licensing” may ____. | 37. 作者担心“道德许可”可能____。 |\n| [A] mislead us into doing worthless things | [A] 误导我们去做毫无价值的事 |\n| [B] prevent us from making further efforts | [B] 阻碍我们付出更多的努力 |\n| [C] weaken our sense of accomplishment | [C] 削弱我们的成就感 |\n| [D] suppress our desire for success | [D] 压抑我们对成功的渴望 |\n\n[精准定位]第三段③句先指出“‘仅停用一次性塑料品’可能产生危害：满足人们‘已尽本分’的心理需求，使人们不愿做出进一步行动”;随后以同位语进一步说明这种心理需求被满足即“(获得)道德许可”,它让我们止步不前，不去做更多的事，[B]契合此意。\n\n[命题解密][B]契合第三段③句“道德许可”含义 satisfying a need to have “done our bit” without ever progressing onto bigger, bolder, more effective actions(同位语 a kind of “moral licensing”修饰的内容),也符合 that 定语从句对“道德许可”的补充说明 stops us doing more。\n\n[A]由第三段③句“道德许可使我们止步不前，不去付出进一步行动(without ever progressing、stops us doing more)”过度推出“道德许可误导我们去做毫无价值的事”。[C]将第三段②句“仅停用一次性塑料制品收效甚微”(On their own, taking... or quitting... accomplish little)窜改为“道德许可削弱自我成就感”，首先两者论述主题不同，其次由③句 satisfying a need to have “done our bit”可知“人们自认为已尽本分、成就感满满（成就感并未削减）”。[D]将第三段③句“人们止步不前”的原因“认为自己已尽本分”曲解为“对成功的渴望减弱”。\n\n[技巧总结]本题实际是以“(影响类)事实细节题”形式考查长难句(第三段③句)，更涉及专业术语“道德许可”。解题需：一、由题干关键词定位原文，借助定语(从句)、同位语(从句)或同位语所修饰名词等理解专业术语；二、搜寻结果状语、表影响/结果之意的词汇、动宾短语等锁定答案。\n\n如本题，首先由 moral licensing 可定位至第三段③句，分析句子成分发现“moral licensing”即指 satisfying a need to have “done our bit”,可知“道德许可”指“满足‘尽本分’的心理需求”;然后注意到 without ever progressing、stops us doing more 语义相近，强调“道德许可阻碍我们做更多的事”,[B] 正确。\n\nIV While the conversation around our environment and our responsibility toward it remains centered on shopping bags and straws, we're ignoring the balance of power that implies that as “consumers” we must shop sustainably, rather than as “citizens” hold our governments and industries to account to push for real systemic change.\n\n当围绕“我们的环境及我们对它的责任”这一讨论仍然聚焦于购物袋和吸管时，我们忽视了对一种力量的制衡，这股力量暗示，作为“消费者”我们必须可持续地消费，而不是以“公民”身份去追究政府和产业的责任以推动真正的系统性变革。\n\n**词汇注释与难句分析**\n\nignore v. 忽视，置之不理\n\nimply v. 暗示，暗指\n\nsustainably ad. 可持续地\n\n**经典搭配**\n\nhold sb to account(追究……的责任)\n\npush for sth(努力争取……,一再要求……)\n\nWhile the conversation around our environment and our responsibility toward it remains centered on shopping bags and straws, we're ignoring the balance of power that implies that as “consumers” we must shop sustainably, rather than as “citizens” hold our governments and industries to account to push for real systemic change.\n\n功能注释：本句主要由“主句+时间状语从句”结构组成，指出“我们一方面重视个人消费行为，一方面却忽视对一种势力的制衡”。that...定语从句修饰 power,批评这股势力“强化我们作为消费者的消费责任，弱化我们作为公民的监督权利”,制衡这种势力也即“监督政府履行环保责任”。\n\n**语篇分析**\n\n第四段承上明确观点：我们在强调个人环保之举的同时，更应监督政府和行业履行环保责任、推行结构性变革”。关键词为：as “citizens” (we must) hold our governments and industries to account(作为公民我们必须问责政府和行业)。\n\nWhile 从句界定现状：我们将环保责任加诸于“个体消费者”、以“可持续消费”为核心环保举措。conversation around our environment and our responsibility toward it 继续锁定本文“环保”主题；remains centered on 承接第三段“个人行动的种种局限”, 传递作者否定态度“个体消费行为影响甚小，我们却依旧以其为环保重心”(shopping bags and straws 属借代手法，代指“[停用]塑料制品、改变消费习惯”)。\n\nwe're...主句亮明观点：我们应以公民身份问责政府及行业。ignoring 体现作者对现行理念的质疑批判态度，balance 加以 rather than 取舍结构暗示“我们不应一味强调个人行动(as “consumers” we must shop sustainably),而应追究政府和产业责任(as “citizens” hold our governments and industries to account)”,第三、四段间“个体和政府/产业环保举措成效对比：收效甚微(will accomplish little)VS 真正的系统性变革(real systemic change)”更进一步明确“政府/行业行动才是实现环保目标之关键”。"
+      },
+      {
+       "number": 38,
+       "score": 2.0,
+       "stem": "By pointing out our identity “citizens”, the author indicates that .",
+       "options": {
+        "A": "our focus should be shifted to community welfare",
+        "B": "our relationship with local industries is improving",
+        "C": "we have been actively exercising our civil rights",
+        "D": "we should press our government to lead the combat"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| | |\n| --- | --- |\n| 38. By pointing out our identity as “citizens”, the author indicates that _. | 38.通过指出我们的“公民”身份，作者暗示_。 |\n| [A] our focus should be shifted to community welfare | [A] 我们的焦点应该转移到社会福利上 |\n| [B] our relationship with local industries is improving | [B] 我们与地方产业的关系正在改善 |\n| [C] we have been actively exercising our civil rights | [C] 我们一直在积极行使公民权利 |\n| [D] we should press our government to lead the combat | [D] 我们应敦促政府领导这场战斗 |\n\n[精准定位]第四段先揭露“我们一直强调个体消费责任”，随后指出“我们忽视了对一股力量的制衡，这股力量暗示作为消费者我们必须可持续消费，而不强调作为公民应问责政府及产业、以推动真正的系统变革”，也即，我们应制衡“过度强调个人作为消费者责任”的力量，同时意识到自身作为公民“应对政府及产业进行环保问责”，[D]符合“让政府发挥作用、承担责任”之意。\n\n[命题解密][D]契合第四段 as “citizens”（we must）hold our governments and industries to account。\n\n[A]由“我们的公民身份(as “citizens”)”主观臆断出“我们应关注社会福利”，但文中并未涉及“公民社会福利”相关内容。[B]窜改公民与产业间关系，将“我们(作为公民)应敦促产业承担环保责任”窜改为“我们正修缮与地方产业的关系”。[C]与文意“我们过度强调自身消费者责任，却未能行使公民权利、追究政府和产业的环保责任”相悖。\n\n[技巧总结]本题考查推理引申能力(indicate 为标志词)及长难句分析能力(第四段单句)。解题需分解句子结构、理解句中隐含深意并结合文章主旨作答。\n\n具体来看本题，首先分析句子成分：While 从句陈述现状，we're...主句亮明作者观点，其中 we're ignoring 暗示当前做法不对，应反其道而行之，再结合 rather than 所表取舍关系可知，作者认为我们“应以公民身份敦促政府和产业履职”,锁定[D];然后梳理上下文语义，前三段指出“不应过于强调消费者个体环保责任”,后四段强调“应作出结构变革：执行政策或推行禁令”,可见文章主旨为“政府应在环保上发挥作用”,[D]符合。\n\nV ① It's important to acknowledge that the environment isn't everyone's priority —or even most people's. ② We shouldn't expect it to be. ③ In her latest book, Why Good People Do Bad Environmental Things, Wellesley College professor Elizabeth R. DeSombre argues that the best way to collectively change the behavior of large numbers of people is for the change to be structural.\n\nVI ① This might mean implementing policy such as a plastic tax that adds a cost to environmentally problematic action, or banning single-use plastics altogether. ② India has just announced it will “eliminate all single-use plastic in the country by 2022.” ③ There are also incentive-based ways of making better environmental choices easier, such as ensuring recycling is at least as easy as trash disposal.\n\n承认环境不是每个人——甚至不是多数人——优先考虑的事情，这一点很重要。我们也不应该指望它成为每个人的优先事项。在其新作《为什么好人会做对环境有害的事》中，韦尔斯利学院教授伊丽莎白·R·德松布尔主张，集中改变大众行为的最佳方式是进行结构性改变。\n\n这可以是执行某项政策，比如对危害环境的行为增收一笔塑料税，或者完全禁止一次性塑料制品。印度刚刚宣布将“于2022年前消灭国内所有一次性塑料制品”。此外，还有更便于人们作出更好的环保选择的激励式手段，比如确保回收利用至少同丢垃圾一样方便。\n\n**词汇注释与难句分析**\n\nacknowledge v. 承认(事实或情况)\n\npriority n. 优先考虑、处理的事，当务之急\n\ncollectively ad. 集体地，共同地\n\nimplement v. 贯彻，执行\n\nproblematic a. 难对付的，成问题的\n\naltogether ad. 完全地\n\neliminate v. 消灭，根除\n\nban v. 禁止，取缔\n\nincentive-based a. 激励性的\n\nrecycling n. 再利用，回收利用\n\ntrash n. 废物，垃圾\n\ndisposal n. 丢弃，清除\n\n**语篇分析**\n\n第五段证实第四段观点，指出为何更应依靠政府推行结构性变革：结构性变革才是实现集体转变的最佳方式。关键词为：for the change to be structural(结构性变革)。\n\n①②句以社会现实为依据，反对过分依赖个人行动：环保并非所有人的优先事项。It's important to acknowledge that... We shouldn't expect... 指出必须承认的现实“环保并非所有人/多数人的优先事项（即个人不太可能为环保倾尽全力）”，以证实第四段 remains centered on... 暗含观点“个人行动收效甚微，未来也难以取得巨大进步，因此不能过分依赖个人行动”。\n\n③句援引德松布尔之言，正面论证应强化政府作用：（政府推行）结构性变革才是实现集体转变最佳方式。Elizabeth R. DeSombre argues that 标明本句逻辑功能“援引他人观点以证实自身观点”。collectively change the behavior of large numbers of people (collectively 意为 as a group“集体地”) 承接①②句指出目前塑料问题的关键在于“集中改变大众行为”，the best way... 借德松布尔之口传递作者肯定态度“结构性变革才是集中改变众人行为，从而战胜塑料的最佳方式”。for the change to be structural 近义复现第四段 systemic change，在社会领域指代“制度统治（自上而下，集体改变）”，与第一至三段“个人自治（自下而上，积少成多）”形成对比，暗示其优势在于“大手笔，高效率”。\n\n第六段举例说明怎样实现结构性变革：政府既要限制产业污染行为，也要引导个人环保之举。关键词为：①implementing policy...tax...banning(执行塑料税或禁令); ②incentive-based ways(激励式手段)。\n\n本段以 This might mean.... There are also.... 与上段③句形成“观点-阐述”结构，其中 This 回指上文 the change to be structural(即 structural change)。\n\n①②句介绍第一类措施“控制或禁止产业污染”。such as... or... 列举两类政策“税收和禁令”，并以印度为例加以说明。其中 implementing policy such as... tax、banning... altogether、India 呼应第四段重申“应由政府推行结构性变革”。\n\n③句介绍第二类措施“引导民众作出环保之举”。incentive-based ways、making... easier（鼓励、给予方便）与①②句 tax、banning/eliminate（限制、完全禁止）对比，突出正面引导作用。ensuring... at least as easy as... 暗中批评现有垃圾管理制度不合理、印证“结构性变革”之必要。"
+      },
+      {
+       "number": 39,
+       "score": 2.0,
+       "stem": "DeSombre argues that the best way for a collective change should be .",
+       "options": {
+        "A": "a win-win arrangement",
+        "B": "a self-driven mechanism",
+        "C": "a cost-effective approach",
+        "D": "a top-down process"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 39. DeSombre argues that the best way for a collective change should be _. | 39.德松布尔认为，集体改变的最佳方式应该是_。 |\n| [A] a win-win arrangement | [A] 一个双赢的办法 |\n| [B] a self-driven mechanism | [B] 一种自律的机制 |\n| [C] a cost-effective approach | [C] 一个经济有效的方法 |\n| [D] a top-down process | [D] 一种自上而下的方式 |\n\n[精准定位]第五段③句指出“德松布尔主张，集中改变众人行为的最佳方式是做出结构性变革”，第六段①句举例阐释“结构性改变”所指——征收塑料税、发布塑料禁令、鼓励塑料回收等，这些均属“政府采取的、自上而下的结构性改革”，[D]正确。\n\n[命题解密][D]符合第五段③句 for the change to be structural 之意(“结构性/系统性变革”在社会领域即为自上而下的制度变革)。\n\n[A]由第六段“结构性变革”涉及塑料生产者(污染者)、使用者臆测出“这种变革应对双方都有利”，但文中所提塑料税显然不利于塑料生产者。[B]与第五段①②句“不该指望每个人都把环境放在首位/保护环境不能靠个人自律”相悖。[C]源自第六段 adds a cost，但此举旨在强调“通过征收塑料税来遏制污染、有效对抗塑料危机”，而非“增加政府税收/提高政府效益”。\n\n[技巧总结]本题实际考查对抽象术语的理解，需要考生借助语法知识和语义逻辑把握抽象表达含义。具体来看，首先由题干关键词 the best way for a collective change 定位至第五段②句，由判断句式 A is B 直接锁定答案 for the change to be structural(即 structural change);然后，由第五段 We shouldn't...the best way...is...明确“个体环保行动 VS 结构性变革”对比关系，再借助第六段段首 This 回指功能明确 implementing policy、banning...altogether 即为 structural change,而政策、禁令均属“政府自上而下、统一推广改革”,恰与“个体自下而上、实现全民环保”相对，确定[D]正确。\n\nVII ① DeSombre isn't saying people should stop caring about the environment. ② It's just that individual actions are too slow, she says, for that to be the only, or even primary, approach to changing widespread behavior.\n\n德松布尔并不是说人们不再需要关心环境。只是个体行动过于缓慢，她说，不足以成为改变某种普遍行为的唯一、乃至首要方法。\n\nVIII ① None of this is about writing off the individual. ② It's just about putting things into perspective. ③ We don't have time to wait. ④ We need progressive policies that shape collective action, alongside engaged citizens pushing for change. [412 words]\n\n这全无否定个体之意。不过是正确地认识形势。我们没有时间去等。除了推动变革的积极公民，我们还需要影响集体行动的进步政策。\n\n**词汇注释与难句分析**\n\nprimary a. 首要的，主要的\n\nperspective n. 合理判断，正确认识\n\nprogressive a. 进步的，先进的\n\nshape v. 塑造\n\nalongside prep. 与……一起/同时\n\nengaged [ɪn'ɡeɪdʒd] a. 被卷入的，参与的\n\n**经典搭配**\n\nwrite off（认为……不重要，忽视）\n\nrein in(控制)\n\n**语篇分析**\n\n第七、八段总结塑料之战应以政府引领为主、个人参与为辅。\n\n第七段总结评论德松布尔(第五段)的观点：德松布尔提倡的“结构性变革”并不排斥个人行动，只是个人行动过于缓慢，难以有效改变集体行为。关键词为：too slow... to be the only, or even primary approach([个人行动]过于缓慢，不足以成为唯一或首要方式)。\n\n①句指出德松布尔(提倡的“结构性变革”)并不排斥个人行动。isn't saying people should stop...回应第五段③句德松布尔观点 the best way...is for the change to be structural,表明她在倡导“结构性变革”的同时并不否认个人行动的价值(即，承认个人行动可能会有一定效果)。\n\n②句转而指出，(但是)个人行动太过缓慢，不足以成为改变集体行为的唯一、甚至首要方法。individual actions are too slow 承接第三段 accomplish little, without ever progressing 总结个人行动最根本的问题在于“效果不佳、进展缓慢”，changing widespread behavior 呼应第四、五段 systemic change, for the change to be structural 再次表明当前的塑料危机需要“系统性、结构性的集体改变”，即依靠个人行动很难奏效；for that to be the only, or even primary, approach 一面明确“个人行动不应成为抗击塑料主要方式”，一面暗示“可将其作为补充、次要方式”。\n\n第八段明确作者结论“塑料之战需以政府引领为主、个人参与为辅”。关键词为：progressive policies... alongside... engaged citizens(进步政策，公民参与)。\n\n①句承接上段负面评价“个人行动过慢”退而指出：这并非意味着要忽视个人行动的价值(write off 意为“认为某事物不重要，忽视”)。\n\n②③句转而指出，但是我们要客观地看待问题：目前形势紧迫，依靠缓慢的个人行动难以解决塑料危机。putting things into perspective(意为“正确看待形势”,此处 things 为复数名词，泛指“情况、形势”)由个体主观行动转向社会客观形势，暗示当前“应对塑料危机主要依靠个人行动”这一环保理念脱离现实；we don't have time to wait 与第七段②句 individual actions are too slow 形成鲜明对比，凸显“效果缓慢的个人行动”与“形势严峻的塑料危机”之格格不入，再次反驳当前主要依靠个人行动解决塑料危机的环保理念。本段前三句结构(None of this is about... It's just about...)与第七段两句(isn't saying... It's just that...)功能类似，看似承认个人行动有其价值，实则暗示不应过分依赖个人行动，从而为下文总结作者观点做铺垫。\n\n④句高度总结观点：对抗塑料之战应以政府引领为主、个人参与为辅。alongside(alongside 前一般为新信息、重点信息，后为旧信息、次要信息)从结构上明确主次对比，shape、rein in VS engaged、pushing for 从语义上体现政府主导作用及个人配合作用，最终托出作者观点“主要靠政府推行政策，以转变集体行为，控制产业污染，次要靠公民配合政策，推动转变”。"
+      },
+      {
+       "number": 40,
+       "score": 2.0,
+       "stem": "The author concludes that individual efforts .",
+       "options": {
+        "A": "can be too aggressive",
+        "B": "can be too inconsistent",
+        "C": "are far from sufficient",
+        "D": "are far from rational"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| | |\n| --- | --- |\n| 40. The author concludes that individual efforts ____. | 40.作者断定，个人的努力____。 |\n| [A] can be too aggressive | [A] 可能太过激进 |\n| [B] can be too inconsistent | [B] 可能太不稳定 |\n| [C] are far from sufficient | [C] 远远不够 |\n| [D] are far from rational | [D] 远非理性 |\n\n[精准定位]第七段指出德松布尔观点“个体行动过于缓慢，不足以成为改变集体行为的唯一、乃至首要方法”，第八段进而阐释“除了积极参与的公民，我们更需要影响集体行动的进步政策”。可见，作者认为“环保问题上，个人努力远远不够，更需要政府的政策推动”。[C]正确。\n\n[命题解密][C]契合第七段 individual actions are too slow... to be the only, or even primary, approach、第八段 We need... alongside engaged citizens 含义。\n\n[A]源自第八段 progressive 一词，但将其所修饰名词由“policies(政府政策)”偷换为“citizens(公民个体)”。[B]将文中“个人环保行为：自带购物袋、不用塑料吸管等”与“破坏环境行为(environmentally problematic action)”杂糅，得出“人们有时保护环境、有时破坏环境”,但文中两种行为实际源自不同群体。[D]将第三段①句 our limited sense 断章取义为“不够理性”,但结合其后定语 of what needs to be achieved 及下句举例可知，此处实指个人对“需要实现怎样的环保目标”认识有限。\n\n[技巧总结] 本题考查“作者对个人行动的看法”，实际影射全文主旨。解答此类题时应：一、敏锐抓取表达作者或文中专家观点、立场的句子，如包含强烈否定/肯定语气的 too...to.../cannot...too...句式、体现建议/呼吁的 we should/must/need 句式等；二、梳理文章论证结构，把握作者核心观点。\n\n如本题，首先由第七段②句 too... to... for that to be... 句式以及第八段③句 We need... alongside... 明确德松布尔/作者观点“不能把个人行动作为对抗塑料危机的唯一方法，而要结合政府政策”,初步选定[C];然后，统观全文论证结构，第一至三段作者以“树靶一批驳”结构指出“个人行动收效甚微、止步不前”,第四至八段进而提出“应结合政府政策与个人行动”,确定[C]正确。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part B",
+   "instructions": "Read the following text and match each of the numbered items in the left column to its corresponding information in the right column. There are two extra choices in the right column. Mark your answers on the ANSWER SHEET. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "matching",
+     "passage": [
+      "In choosing a new home, Camille McClain’s kids have a single demand: a backyard.",
+      "McClain’s little ones aren’t the only kids who have an opinion when it comes to housing, and in many cases youngsters’ views weigh heavily on parents’ real estate decisions, according to a 2018 Harris Poll survey of more than 2,000 U.S. adults.",
+      "While more families buck an older-generation proclivity to leave kids in the dark about real estate decisions, realty agents and psychologists have mixed views about the financial, personal and long-term effects kids’ opinions mayhave.",
+      "The idea of involving children in a big decision is a great idea because it can help them feel a sense of control and ownership in what can be an overwhelming process, said Ryan Hooper, clinical psychologist in Chicago.",
+      "“Children may face serious difficulties in coping with significant moves, especially if it removes them from their current school or support system,” he said.",
+      "Greg Jaroszewski, real estate broker with Gagliardo Realty Associates, said he’s not convinced that kids should be involved in selecting a home – but their opinions should be considered in regards to proximity to friends and social activities, if possible.",
+      "Younger children should feel like they’re choosing their home – without actually getting a choice in the matter, said Adam Bailey, real estate attorney based in New York.",
+      "Asking them questions about what they like about the backyard of a potential home will make them feel like they’re being included in the decision-making process, Bailey said.",
+      "Many of the aspects of homebuying aren’t a consideration for children, said Tracey Hampson, a real estate agent based in Santa Clarita, Calif. And placing too much emphasis on their opinions can ruin a fantastic home purchase.",
+      "“Speaking with your children before you make a real estate decision is wise, but I wouldn’t base the purchasing decision solely on their opinions.” Hampsonsaid.",
+      "The other issue is that many children – especially older ones – may base their real state knowledge on HGTV shows, said Aaron Norris of The Norris Group in Riverside, Calif.",
+      "“They love Chip and Joanna Gaines just as much as the rest of us,” he said. “HGTV has seriously changed how people view real estate. It’s not shelter, it’s a lifestyle. With that mindset change come some serious money consequences.”",
+      "Kids tend to get stuck in the features and the immediate benefits to them personally, Norris said.",
+      "Parents need to remind their children that their needs and desires may change over time, said Julie Gurner, a real estate analyst with FitSmallBusiness.com.",
+      "“Their opinions can change tomorrow,” Gurner said. “Harsh as it may be to say, that decision should likely not be made contingent on a child’s opinions, but rather made for them with great consideration into what home can meet their needs best–and give them an opportunity to customize it a bit and make it their own.”",
+      "This advice is more relevant now than ever before, even as more parents want to embrace the ideas of their children, despite the current housing crunch."
+     ],
+     "options": {
+      "A": "remarks that significant moves may pose challenges to children.",
+      "B": "says that it is wise to leave kids in the dark about real estate decisions.",
+      "C": "advises that home purchases should not be based only on children’s opinions.",
+      "D": "thinks that children should be given a sense of involvement in homebuying decisions.",
+      "E": "notes that aspects like children’s friends and social activities should be considered upon homebuying.",
+      "F": "believes that homebuying decisions should be based on children’s needs rather than their opinions.",
+      "G": "assumes that many children’s views on real estate are influenced by the media."
+     },
+     "questions": [
+      {
+       "number": 41,
+       "score": 2.0,
+       "stem": "Ryan Hooper",
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n41.[答案] A [精解] 根据题干 Ryan Hooper 定位到第四、五段(said Ryan Hooper、“...”he said)。两段分别指出其观点“让孩子参与重大决定是个很好的想法”以及理由“孩子们在应对重大变动时会面临严重困难”。[A]与第五段所述 Ryan Hooper 观点一致，选项复现关键词 significant moves; challenges 同义替换 serious difficulties; pose...to...是 face 的反向表达(pose A to B=B face A)。\n\n[干扰项排除] [D]项 children should... involvement in homebuying decisions 看似与第四段 The idea of involving children in a big decision is a great idea 相符，但仔细对比可发现[D]项语义重点实则在于 a sense of involvement, 强调“给孩子参与的感觉(即不一定真让孩子参与)”, 而第四段建议为“让孩子实际上参与”, 二者有明显区别。"
+      },
+      {
+       "number": 42,
+       "score": 2.0,
+       "stem": "Adam Bailey",
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n42.[答案] D [精解] 根据题干 Adam Bailey 定位到第七、八段(said Adam Bailey, Bailey said)。 两段共同提出建议：应该给孩子一种“参与购房决定”的感觉(第七段概括提出建议，第八段具体说明应如何做);[D]是对 Adam Bailey 建议的概括，其中 should be given a sense of involvement 对应 make them feel like they're being included、children should feel like they're choosing their home; homebuying decisions 对应 choosing their home、the decision-making process。"
+      },
+      {
+       "number": 43,
+       "score": 2.0,
+       "stem": "Tracey Hampson",
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n43.[答案] C [精解] 根据题干 Tracey Hampson 定位到第九、十段 (said Tracey Hampson, Hampson said)。两段共同指出：购房的许多方面都不是孩子会考虑的问题，过于注重他们的意见会毁掉极佳的购房机会；(因此)在做出购房决定前有必要和孩子聊聊，但不应仅基于孩子的意见作出决定。[C] 与 Tracey Hampson 观点相符，选项复现关键词 base...on;only 与 solely 同义；home purchases 对应 purchasing decision;children's 与 their 同指。"
+      },
+      {
+       "number": 44,
+       "score": 2.0,
+       "stem": "Aaron Norris",
+       "answer": "G",
+       "explanation": "> **答案：** G\n\n44.[答案]G [精解]根据题干 Aaron Norris 定位到第十一至第十三段(said Aaron Norris、“...”he said、Norris said)。其中前两段指出，许多孩子关于房地产的观点受到 HGTV 节目的巨大影响，这会带来财务上的严重后果。可见[G]与 Aaron Norris 观点一致，其中关键词 many children 复现；influenced 对应 base...on.../changed;the media(媒体)说明 HGTV 节目的性质。"
+      },
+      {
+       "number": 45,
+       "score": 2.0,
+       "stem": "Julie Gurner",
+       "answer": "F",
+       "explanation": "> **答案：** F\n\n45.[答案] F [精解] 根据题干 Julie Gurner 定位到第十四、十五段(said Julie Gurner、“...”Gurner said.“...”)。两段以因果逻辑阐释观点：孩子的想法随时在变，因此购房决定不应取决于孩子的意见，而应尽量满足他们的需求。[F]与此观点匹配，其中 homebuying decisions 对应 that decision;be based on 与 be made contingent on 近义；rather than 和 not... but rather... 都表取舍(B rather than A=not A but rather B)。\n\n[干扰项排除] [C]项看似与第十五段 that decision should likely not be made contingent on a child's opinions 吻合；但仔细对比可知，[C]项语义重点在 only，意在强调“购房决定不应仅基于孩子看法（，还要考虑其他因素）”，而第十五段以 not... but rather... 结构强调取舍“购房不应取决于孩子意见，而应取决于其他因素”，二者不能等同。\n\n[干扰项设置] [B]: 由其关键词 leave kids in the dark about real estate decisions“不向孩子透露有关房地产的决定”定位至第三段，锁定该观点持有人为“前代人”（an older-generation proclivity to...），与各题题干无关。\n\n[E]:由其关键词 children's friends and social activities should be considered“在孩子的朋友及社交活动上应该考虑孩子的意见”定位至第六段，锁定该观点持有人为 Greg Jaroszewski，与各题题干无关。\n\n[技巧总结] 多项匹配往往同时呈现针对一个问题的多方观点，因此各方观点关键词很可能重合，使考生混淆(如 41 题很容易将[D]项 Adam Bailey 观点误认为 Ryan Cooper 观点；45 题很容易将[C]项误认为 Julie Gurner 观点)。此时可根据“一题对应一项”原则判定只有一个备选项那题的对应关系，其他排除(即根据 41—[A]or [D],42—[D]直接得出 41—[A],42—[D]);若还无把握，可根据某项可能对应的几个人物回文定位，仔细比较各人物观点差异，作出选择。如本题需回到 41 题 Ryan Hooper 所在的第四、五段和 42 题 Adam Bailey 所在的第七、八段，发现两人观点区别主要在于“客观事实/主观感觉”,Adam Bailey 观点更接近[D],故 42 题选[D]。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section III Translation",
+   "instructions": "Translate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)",
+   "score": 15,
+   "groups": [
+    {
+     "type": "translation_full",
+     "passage": [
+      "It is easy to underestimate English writer James Herriot. He had such a pleasant, readable style that one might think that anyone could imitate it. How many times have I heard people say, “I could write a book. I just haven’t the time.” Easily said. Not so easily done. James Herriot, contrary to popular opinion, did not find it easy in his early days of, as he put it, “having a go at the writing game”. While he obviously had an abundance of natural talent, the final, polished work that he gave to the world was the result of years of practicing, re-writing and reading. Like the majority of authors, he had to suffer many disappointments and rejections along the way, but these made him all the more determined to succeed. Everything he achieved in life was earned the hard way and his success in the literary field was no exception."
+     ],
+     "questions": [
+      {
+       "number": 46,
+       "score": 15,
+       "answer": "英国作家詹姆斯·海里厄特容易被人低估。他的作品风格欢快易读，让人觉得谁都可以模仿。有多少次我都听人说：“我也能写书。我只是没那时间。”说起来轻巧，做起来就没那么简单了。和一般人的想法相反，用詹姆斯·海里厄特的话说，在“玩写作这种游戏”之初，他可没觉得很容易。虽然他显然天分极高，但他最终呈现给世人的精湛作品却是多年写作练习、不断重写和阅读的结果。跟大多数作家一样，他一路走来也不得不遭受了许多失望和被拒之苦，但这些更坚定了他要成功的决心。他一生的所有成就都是艰苦努力的结果，他在文学领域的成功也不例外。",
+       "explanation": "> **答案：** 参考译文见下文\n\n**詹姆斯·海里厄特的文学造诣**\n\n**一、文章总体分析**\n\n本文选自：The Real James Herriot: A Memoir of My Father(1999)。文章围绕 James Herriot(詹姆斯·海里厄特)展开，指出海里厄特虽天资颇丰，但其所获成就乃历尽千辛而非一蹴而就，其通俗易懂、饶有趣味的作品并不易被模仿。文章整体用词比较简单，但复杂句较多，翻译时应注意理清各成分间的逻辑关系，同时结合上下文使表达更加贴切准确。\n\n**二、语篇分析**\n\n① It is easy to underestimate English writer James Herriot. ② He had such a pleasant, readable style that one might think that anyone could imitate it. ③ How many times have I heard people say “I could write a book. I just haven’t the time.” ④ Easily said. ⑤ Not so easily done. ⑥ James Herriot, contrary to popular opinion, did not find it easy in his early days of, as he put it, “having a go at the writing game”. ⑦ While he obviously had an abundance of natural talent, the final, polished work that he gave to the world was the result of years of practising, re-writing and reading. ⑧ Like the majority of authors, he had to suffer many disappointments and rejections along the way, but these made him all the more determined to succeed. ⑨ Everything he achieved in life was earned the hard way and his success in the literary field was no exception.\n\n英国作家詹姆斯·海里厄特容易被人低估。他的作品风格欢快易读，让人觉得谁都可以模仿。有多少次我都听人说：“我也能写书。我只是没那时间。”说起来轻巧，做起来就没那么简单了。和一般人的想法相反，用詹姆斯·海里厄特的话说，在“玩写作这种游戏”之初，他可没觉得很容易。虽然他显然天分极高，但他最终呈现给世人的精湛作品却是多年写作练习、不断重写和阅读的结果。跟大多数作家一样，他一路走来也不得不遭受了许多失望和被拒之苦，但这些更坚定了他要成功的决心。他一生的所有成就都是艰苦努力的结果，他在文学领域的成功也不例外。\n\n**词汇注释与难句分析**\n\nunderestimate v. 低估\n\nreadable a. 可读的，易读的\n\nimitate v. 模仿\n\nabundance n. 充裕，丰富\n\npolished a. 精致的，精彩的\n\nsuffer v. 遭受，蒙受\n\ndetermined a. 意志坚定的\n\n**经典搭配**\n\ncontrary to(与……相反)\n\nhave a go at(尝试)\n\nthe majority of(大部分，大多数)\n\nalong the way(一路上，沿途)\n\nearn... the hard way(来之不易)\n\nliterary field(文学领域)\n\n**语篇分析**\n\n本文段核心：英国作家詹姆斯·海里厄特文学造诣与其个人勤奋努力、不懈追求息息相关；虽文风朴实、通俗易懂但并不易模仿。\n\n①至⑤句为第一层，概述指出大众对海里厄特(作品)的认知有误。easy to underestimate、Easily said、Not so easily done 组建的语义场实现本层次强关联。\n\n①句先借评述句型 it is easy to do sth 总括人们对海里厄特(作品)的态度：轻视。underestimate 表明大众(it is easy 后实际隐藏 for people)低估海里厄特实力之余，也暗示实际海里厄特创作成就非凡，由此奠定全文段基调：肯定海里厄特文学造诣，纠正大众错误看法。编者注：James Herriot 这个作家尽管已约定翻译为吉米·哈利，但鉴于多数非文学专业同学并非十分熟悉，故音译为“詹姆斯·海里厄特”。\n\n②③句再借叙述结构 one might think、people say 说明大众看法，从而解释其轻视原因：作品太过平实而极易模仿。②句 such...that“如此……以至于……”结构以其内部因果关联明确大众低估的原因：认为这种平实风趣的文风极易模仿，作品创作难度低；情态动词 might、could 实际借其可能性传递出作者对大众看法的质疑；pleasant、readable 形似修饰作品风格，实则修饰作品内容，分别从读者阅后愉悦角度以及作品自身可读性角度说明了海里厄特作品的朴实易懂、轻松有趣。③句 How many times 并非表疑问“多少次”,而表感叹强调“无数次”,借此说明人们对海里厄特文学创作难度的低估屡见不鲜。\n\n④⑤句最后借习语 Easily said. Not so easily done 对大众看法做出点评：说易做难(虽平实但难以模仿)。结构上，两句起承上启下作用：④句承上总结上文大众对海里厄特文学创作的整体认知，即“创作一事说起来很容易”;⑤句启下说明下文创作的实际状况与人们所想不同，即创作具有相当的难度。语义上，两句实为同义复现，共同强调指出海里厄特作品并不易模仿，创作难度并不低。两句实为省略句，源自 easily said than done(说起来比做起来容易),原句为 It is easily said. It is not so easily done。\n\n⑥至⑨句为第二层，阐述海里厄特毕生成就的由来：天赋异禀+多年打磨+历尽失意冷眼。did not find it easy、years of practicing, re-writing and reading, suffer many disappointments and rejections, earned the hard way 所形成的语义场实现本层次强联接。\n\n⑥⑦句指出海里厄特作品并非一蹴而就。⑥句插入语 contrary to popular opinion 一方面借 popular opinion 表明①至③句所述为“大众看法”，另一方面借 contrary to 表明本层次已由“大众错误看法”过渡到“正确看法”；did not find it easy 一反上文大众看法“平实作品极易创作”，指出海里厄特本人看法；插入语 as he put it“正如他说的那样”明确其后引号起引述功能，强调该内容为海里厄特本人所言。⑦句让步转折词 While 将 an abundance of natural talent 与 years of practising, re-writing and reading 这一组对比语相连，形似矛盾，实则传递出创作之艰难：纵然天赋异禀的海里厄特，尚且需要多年磨练才能打造出如此平实风趣之作品（暗示文意为：没有任何高超天赋的普通大众岂能简单模仿而成）；polished（意为 done with great skill and style）传递出“大众所读海里厄特作品实际乃精雕细琢、精湛完美的杰作，并非其眼中简单的通俗风趣之作”之意。\n\n⑧⑨句指出海里厄特作品是其艰苦努力与不懈付出的结果。⑧句类比结构 Like the majority of authors 以及对比词 but 明确海里厄特与大多数作者的相似与不同：相似在“创作之路上屡遭失意与冷眼”, 不同在“他并未因此而选择放弃，相反更加坚定了必胜的决心”; many disappointments and rejections along the way 强调写作路上的艰辛；all the more“格外，愈发，更加”以比较之形影射出“道路艰辛”与“必胜决心”之间的因果关联：越艰辛→越拼搏，从而彰显出海里厄特的坚韧品质。⑨句绝对表达词 Everything 及 no exception 以及概括词 the hard way (为上文 did not find it easy, years of practicing, re-writing and reading, suffer many disappointments and rejections 的上义词) 收束全篇，突出强调海里厄特一生所获成就(包括文学造诣)皆来之不易。\n\n【深层解读】本文段语义逻辑链亦可视为“介绍大众看法(①②③句)→点评大众看法(④⑤句)→给出理据(即正确看法)(⑥至⑨句)”，意在两点：一、批驳大众对海里厄特的误解，二、强调海里厄特文学创作难度(以进一步反驳大众观点：虽平实但很难模仿)。\n\n**三、难句分析**\n\n1. He had such a pleasant, readable style that one might think that anyone could imitate it.\n\n本句难点：such...that...结果状语从句、宾语从句。\n\n[句法分析][要点注释]①a pleasant, readable style 中 pleasant, readable 借助句子主语 He 所指代内容“作家詹姆斯·海里厄特”可知其实际指向的是作家作品（的写作风格），因此翻译 style 时，既可以采取增译法，将其补充完整，译为“他的文风/写作风格”，也可采取移位转译法，译为“他的作品……”。\n\n②句尾 it 回指 a pleasant, readable style, 其翻译应根据上文对 style 的处理而做相应处理，若上文采取的是转译法“他的作品……”, 此处则应将其补充完整为“这种(写作/创作)风格”。\n\n2. James Herriot, contrary to popular opinion, did not find it easy in his early days of, as he put it, \"having a go at the writing game\".\n\n本句难点：插入语、方式状语从句、固定短语。\n\n**句法分析**\n\n**要点注释**\n\n①popular opinion 结合语境“海里厄特本人与普罗大众看法的不同”，更应解读为“大众/一般人的观点/看法/想法”而非“流行观点/看法/想法”。\n\n②contrary to popular opinion“与一般人的想法相反”作为插入语将主谓分割，as he puts it“如他所言”(put 为熟词僻意，意为“说，表达”)作为插入语将介宾(of “having a go at the writing game”)分隔，翻译时应按照汉语表达习惯将插入语提前。\n\n③介宾结构 of... 做后置定语修饰 his early days, 可处理为汉语“的”字结构，但要注意，early days 应结合其后“写作历程”处理为“早期/初期(阶段)”而非“早年”。\n\n④have a go 为固定表达“尝试”，通常用以表示开始做某事时的那种玩一玩、试一试的心态，根据其后 writing game“写作游戏”可取“玩”之意。\n\n3. While he obviously had an abundance of natural talent, the final, polished work that he gave to the world was the result of years of practising, re-writing and reading.\n\n本句难点：让步状语从句、定语从句、固定短语。\n\n[句法分析]\n\n**要点注释**\n\n①while 既可以引导时间状语从句表示“当……时”，相当于 when；也可以引导让步状语从句表示“虽然，即使”，相当于 although。此处根据上下文语义关联（天赋异禀与多年练习、反复重写、阅读之间存在先天能力与后天努力之间的对比关联）可知其取让步之用，故将其译为“即使，虽然”更恰当。\n\n②that 定语从句修饰 work, 由于句子较为简短，故可处理成汉语“的”字偏正结构；其中 the world 直译为“世界/社会”, 此处根据 give sth to sb/give sb sth 结构可知其更倾向指“活在这个世界/社会上的人”, 故亦可意译为“世人”。\n\n③an abundance of“充裕的，丰富的”后搭配 natural talent“天赋”，可糅合翻译为“天资颇丰/天赋异禀/天分极高”。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section IV Writing — Part A",
+   "score": 10,
+   "groups": [
+    {
+     "type": "writing",
+     "questions": [
+      {
+       "number": 47,
+       "score": 10,
+       "stem": "Suppose Professor Smith asked you to plan a debate on the theme of city traffic.\nWrite him an email to\n1) suggest a specific topic with your reasons, and\n2) tell him about your arrangements.\nYou should write about 100 words on the ANSWER SHEET.\nDo not use your one name. Use “Li Ming” instead.\nDo not write your address. (10 points)",
+       "answer": "Dear Professor Smith,\n\nThank you for trusting me to arrange the debate. Now the competition is ready except for the debate topic, so I am writing to offer my advice regarding the topic.\n\nI suggest making “Is Traffic Jam Caused by Inadequate Transport Infrastructure or Poor Management” our debate topic. This topic is debatable as it contains two major reasons of traffic paralysis. And given that urban planning and public policies involved are taught in this semester, I think the argumentation surrounding this topic will deepen students’ understanding of their courses. Finally, this topic which includes hot issues concerning every student, like shared bikes, is a great way to get them think and talk.\n\nThe debate will be held at school hall from 6:00 p. m. to 8:00 p. m. on Friday. I will be waiting for your response on this matter.\n\nYours sincerely,\nLi Ming",
+       "explanation": "**一、审题谋篇**\n\n**1. 解析题目指令，确定行文要点**\n\n| | | | |\n| --- | --- | --- | --- |\n| 抓取指令关键词 | 梳理信息 | 归纳要点 | |\n| 情景 | Suppose Professor Smith asked you to plan a debate on the theme of city traffic | 1.写作对象：史密斯教授2.写信人身份：大学生3.写作话题：筹划以“城市交通”为主题的辩论赛。 | 1.格式：书信(建议信)。2.语域：收信人的身份为老师，用语应比较正式、礼貌，不可过于随意。3.内容要点：1提出一个辩题；2说明理由；3告知比赛安排。 |\n| 要求 | Write him an email to1) suggest a specific topic with your reasons , and2) tell him about your arrangements . | 4.写作类型：书信5.交际目的：就“辩论赛选题”向教授提出建议，并说明选题理由；告知教授辩论赛的安排。 | |\n\n**2. 罗列关键词**\n\ndebate topic 辩题，express one's opinions/ideas 发表观点，traffic 交通状况，infrastructure 基础设施，relevant policy 相关政策\n\n**3. 行文思路**\n\n第一段：说明来信目的。\n\n第二段：给出一个“城市交通”相关的辩题，并说明选题理由。\n\n第三段：告知辩论赛日程安排并表达期待回复。\n\n**二、优秀范文赏析**\n\n**优秀范文**\n\nDear Professor Smith, ① Thank you for trusting me to arrange the debate.\n\n② Now the competition is ready except for the debate topic, so I am writing to offer my advice regarding the topic.\n\n① I suggest making “Is Traffic Jam Caused by Inadequate Transport Infrastructure or Poor Management” our debate topic. ② This topic is debatable as it contains two major reasons of traffic paralysis. ③ And given that urban planning and public policies involved are taught in this semester, I think the argumentation surrounding this topic will deepen students’ understanding of their courses. ④ Finally, this topic which includes hot issues concerning every student, like shared bikes, is a great way to get them think and talk.\n\n①The debate will be held at school hall from 6:00 p. m. to 8:00 p. m. on Friday. ②I will be waiting for your response on this matter.\n\nYours sincerely,\n\n**参考译文**\n\n亲爱史密斯教授：\n\nLi Ming\n\n①感谢您信任我来组织本次辩论赛。②目前，比赛各项事宜已准备就绪，只剩辩题尚未确定，所以我写信来告诉您我对选题的建议。\n\n①我建议将“城市交通堵塞是基础设施问题还是管理问题”作为辩题。②此辩题涵盖交通堵塞两大主要原因，具有辩论性。③同时辩题涉及的城市规划、公共政策内容与本学期课程相关，我认为就此进行辩论可加深同学们对课程内容的理解。④最后，这个辩题囊括了同学们关注的一些热点问题，如共享单车等，非常适合用来引发思考与讨论。\n\n①本次辩论赛安排在周五晚上六点到八点，在学校礼堂举行。②期待您对此事的回复。\n\n诚挚的，\n\n李明\n\n**必备表达**\n\n1. competition [n.] 竞赛，比赛\n\n6. argumentation [n.]辩论；论证\n\n2. except for 除了……之外\n\n3. inadequate [a.] 不足的\n\n7. surround [v.] 与(某情况或事件)密切相关；围绕\n\n4. paralysis [n.]瘫痪，停顿\n\n8. concerning [prep.] 关于，涉及\n\n5. involve [v.] 包含，涉及\n\n**活用外刊**\n\nI write regarding the call for a ban on trophy hunting imports to the UK. While I recognise the good intentions of the signatories, I am concerned that they may not be aware of the consequences of what they propose.\n\n——The Guardian\n\n译文：我就号召禁止英国运动狩猎进口一事来信。虽然我承认签署方是好意，但我担心他们可能并不知道其倡议会带来的影响。\n\n点拨：regarding 意为“关于”,多用于信函或演说中，引出相关事件。可替换为 concerning/with regard to 等。\n\n[精彩句式]连词 衔接词 主语 后置定语 被动谓语\n\n**句子成形步骤：**\n\n①写出简单句\n\nThe topic includes urban planning and public policies.\n\nWe are learning the courses about urban planning and public policies in this semester.\n\nStudents can better understand their courses through the debate.\n\n②调整语态，并利用衔接词、介词将简单句整合\n\nBecause urban planning and public policies in the topic are taught in this semester, students can better understand their courses through the debate.\n\n**③通过替换词语、增加修饰语来增加表达精确性和美感，调整主语以突出重点**\n\nGiven that urban planning and public policies involved are taught in this semester, I think the argumentation surrounding this topic will deepen students' understanding of their courses.\n\n**④增加衔接成分，连贯上下文**\n\nAnd given that...\n\n**篇章衔接**\n\n开头部分(2句)。①句进行寒暄；②句说明活动准备情况并引出写作目的：提议辩论赛选题。\n\n主体部分(4句)。①句提出一个辩题；②句说明选题理由一：辩题具有可辩论性；③句说明选题理由二：辩题涉及本学期课程，能加深同学们对课程内容的理解；④句说明选题理由三：辩题涵盖同学们关注的热点事件，适合讨论。\n\n结尾部分(2句)。①句告知老师辩论赛安排；②句表达期待老师回复。\n\n[模板提炼]本模板由【优秀范文】提炼而来，适用于撰写以“建议某项活动”为切入点的建议信。Dear ____\n\nThank you for trusting me to arrange 活动. Now the 活动 is ready except for 主题，so I'm writing to offer my advice regarding 主题.\n\nI suggest 建议内容. Given that 原因一，people/students will surely benefit from it in terms of 益处. Moreover, 原因二，which is a great way to 目的.\n\n活动 will be held from 时间 to 时间 at/in 地点. I am waiting for your response on this matter.\n\nYours sincerely,\n\nLi Ming\n\n**三、写作储备**\n\n**回复邀请信常用表达**\n\n(1) 开篇：寒暄并说明写作目的\n\n- I am flattered that you would request my advice regarding...您询问我对……的建议，我感到受宠若惊。\n\n- I believe I have enough understanding of... to offer some suggestions.\n\n我认为自己足够了解……，能就此提一些建议。\n\n(2) 中间段：提出建议，并给出建议理由\n\n- If I were you, I would...如果我是你，我就会……。\n\n- It seems better that... /I believe it will be better if... (做)……会更佳。\n\n(3) 结尾：表达祝愿及继续帮忙的善意\n\n- Thank you for your time to read my letter. Please let me know if...\n\n感谢您抽时间阅读我的来信，如果……，烦请告知。\n\n- If you would like to discuss any of these issues further, don't hesitate to call.\n\n如果您想继续讨论这些事项，请随时联系我。\n\n**四、写作练习**\n\n请根据下列要求进行写作。\n\n**Directions:**\n\nWrite a letter of about 100 words to the local government, suggesting how to better regulate shared bikes in your city.\n\nYou should write neatly on the ANSWER SHEET.\n\nDo not sign your name at the end of the letter. Use \"Li Ming\" instead.\n\nDo not write the address. (10 points)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section IV Writing — Part B",
+   "score": 15,
+   "groups": [
+    {
+     "type": "writing",
+     "images": [
+      "assets/2019-2-q48.jpg"
+     ],
+     "questions": [
+      {
+       "number": 48,
+       "score": 15,
+       "stem": "Write an essay based on the chart below. In your writing, you should\n1) interpret the chart, and\n2) give your comments.\nYou should write about 150 words on the ANSWER SHEET. (15 points)",
+       "answer": "The bar chart displays dramatic changes in terms of college graduates' choices these years. Specifically, the proportion of those who entered the field of employment after graduation declined hugely from 68.1% in 2013 to 60.7% in 2018, whereas that of those pursuing further education ascended enormously from 26.3% to 34.0% during the same time span. In the meanwhile, the five years also witnessed a slight increase from 1.3% to 2.6% in the percentage of starting a business.\n\nThe data reflects a shift in graduates' view regarding post-university life. On the one hand, as graduates are mostly expected to support themselves, start a family and climb up the career ladder, joining the workforce often becomes their first choice. On the other hand, with people's living improving, this idea is changing gradually. Owing to less financial stress, graduates are increasingly willing to undertake postgraduate study for higher goals in a world with greater demand for professionals. Meanwhile, going self-employed gets more popular as the threshold of starting a business lowers in digital economy.\n\nPredictably, with economic growth, graduates will enjoy more and diverse options. And only by creating the social atmosphere of respecting individual choices can more graduates fearlessly embark on the path that fits them most.",
+       "explanation": "**一、审题谋篇**\n\n**1. 分析图表数据，解读背后现象**\n\n| | | |\n| --- | --- | --- |\n| 图表信息 | 信息解析 | 推导寓意 |\n| 图表下方标题为“某高校2013年和2018年本科生毕业去向统计”。 | 数据显示13年和18年，本科毕业生大多选择就业，但18年就业人数占比相比13年出现大幅下降。升学人数占比次之；与13年相比，18年选择升学人数显著攀升。毕业后创业的学生最少，18年创业人数比例比13年略有增加。 | 就业人数下降，而升学和创业人数增长，折射出新一代大学毕业生就业观发生变化：更注重提升自我，或以其他方式实现自身价值而不急于就业。 |\n| 图表中显示：2013年本科毕业生就业、升学、创业的人数占比分别为68.1%、26.3%、1.3%;而2018年这三个数据分别为60.7%、34.0%和2.6%。 | | |\n\n**2. 罗列关键词**\n\n描写关键词：bar chart 柱状图(条形图); graduate [尤指完成学士学位课程的]毕业生；career path 职业道路；survey 调查，统计；get/find/land a job, join/enter the workforce 就业；pursue further/postgraduate study 升学，深造；start/set up a business 创业 话题关键词：employment rate 就业率；salary/wage/pay cheque 薪水；postgraduate degree 研究生学位；become self-employed 自主创业\n\n**3. 行文思路**\n\n第一段：描述图表。\n\n第二段：概括图表所揭示的现象，并分析原因。\n\n第三段：指出未来发展趋势，总结收篇。\n\n**二、优秀范文赏析**\n\n**优秀范文**\n\n① The bar chart displays dramatic changes in terms of college graduates' choices these years. ② Specifically, the proportion of those who entered the field of employment after graduation declined hugely from 68.1% in 2013 to 60.7% in 2018, whereas that of those pursuing further education ascended enormously from 26.3% to 34.0% during the same time span. ③ In the meanwhile, the five years also witnessed a slight increase from 1.3% to 2.6% in the percentage of starting a business.\n\n①The data reflects a shift in graduates' view regarding post-university life. ②On the one hand, as graduates are mostly expected to support themselves, start a family and climb up the career ladder, joining the workforce often becomes their first choice. ③On the other hand, with people's living improving, this idea is changing gradually. ④Owing to less financial stress, graduates are increasingly willing to undertake postgraduate study for higher goals in a world with greater demand for professionals. ⑤Meanwhile, going self-employed gets more popular as the threshold of starting a business lowers in digital economy.\n\n①Predictably, with economic growth, graduates will enjoy more and diverse options. ②And only by creating the social atmosphere of respecting individual choices can more graduates fearlessly embark on the path that fits them most.\n\n[必备表达]\n\n1. display [v.] 显示(信息), 展露\n\n2. specifically [ad.] 具体来说；具体地，特定地\n\n3. whereas [conj.] 但是，却\n\n4. ascend [v.] 上升，升高\n\n5. witness [v.] 见证，证明\n\n**参考译文**\n\n①柱状图反映出近年来本科毕业生去向选择发生的巨大变化。②具体而言，毕业后选择就业的人数占比从2013年的68.1%大幅降至2018年的60.7%，而同一时期内，升学人数占比却从26.3%跃升至34.0%。③同时，创业人数比例在这五年中也有小幅攀升，占比从1.3%增加到2.6%。\n\n①该数据反映了毕业生对“毕业后何去何从”的观念正在发生变化。②一方面，由于社会普遍期待大学生毕业后自食其力、成家立业，找工作往往就成为他们的首选。③另一方面，随着人们生活水平的提高，这种观念也在悄然发生变化。④如今毕业生经济负担减轻，在这个对专业人才需求愈增的世界中，他们自然更愿意继续深造以实现更高的人生追求。⑤同时，随着数字经济中创业门槛的降低，自主创业也愈加受到青睐。\n\n①可以预见，随着经济的发展，毕业生的选择也会日益多元化。②而只有全社会共同营造尊重个人选择的氛围，才能有更多高校毕业生勇敢选择最适合自己的发展道路。\n\n6. shift [n.] 转变，改变\n\n7. financial stress 经济压力\n\n8. increasingly [ad.] 越来越多地，渐增地\n\n9. undertake [v.] 承担，接受\n\n10. professional [n.] 专业人士，专家\n\n11. threshold [n.] 门槛 | 13. diverse [a.] 各种各样的，形形色色的\n\n12. lower [v.] 减少，降低\n\n14. option [n.] 选择\n\n**活用外刊**\n\n1. Employers also need to realize what an asset women are to the workforce and make sure they actively facilitate their ability to climb up the career ladder.\n\n——The Guardian\n\n译文：雇主们也需要认识到女性对于职场而言是多么宝贵的资产，并且要确保她们积极提升自己攀登事业阶梯的能力。\n\n点拨：climb up the career ladder 喻指“(在机构、职业或社会中)从较低处一步步往上爬升、晋升”, 其中 climb 可替换为 advance/move 等。\n\n2. It was also expected to offer South Sudanese an opportunity to embark on the path of much-needed economic development and political democratization.\n\n——BBC\n\n译文：预计这也能给南苏丹人民提供一个机会，走上他们迫切需要的经济发展和政治民主之路。\n\n点拨：embark on the path/road of... 指“走上……道路”，其中 embark on/upon 意为“开始，着手[尤指新的、有难度的或令人激动的事]”。\n\n[精彩句式]\n\n**句子成形步骤：**\n\n①写出简单句\n\nSome graduates chose to find a job after graduation.\n\nThe proportion of these graduates dropped from 68.1% in 2013 to 60.7% in 2018.\n\nOther graduates pursued further education.\n\nThe proportion of these graduates increased from 26.3% in 2013 to 34.0% in 2018.\n\n②利用连词、代词等将简单句整合\n\nThe proportion of those who chose to find a job after graduation dropped from 68.1% in 2013 to 60.7% in 2018, whereas that of those who pursued further education increased from 26.3% to 34.0%.\n\n③通过添加副词、介词及介词短语，替换动词来增加表达精确性、内容饱满度以及美感\n\nSpecifically, the proportion of those who entered the field of employment after graduation declined hugely from 68.1% in 2013 to 60.7% in 2018, whereas that of those pursuing further education ascended enormously from 26.3% to 34.0% during the same time span.\n\n**篇章衔接**\n\n第一段(3句):描述图表。①句概述图表内容。②句指出图表中的巨大变化：就业人数占比大幅下降而升学人数占比显著上升；③句补充说明创业人数比例的小幅变化。\n\n第二段(5句):概述图表所反映的现象，并分析现象和变化产生的原因。①句揭示图表反映的现象：毕业生就业观念发生变化。②至⑤句分析原因，其中②句说明“为何就业占比最高”;③④句说明“升学占比增加”的原因；⑤句说明“创业占比增加”的原因。\n\n第三段(2句):预测趋势，提出建议。①句说明未来发展趋势。②句提出应对建议。\n\n**应用模板**\n\n该模板适用于“反映数据变化趋势”的动态图(柱状图，线条图等),如“博物馆及参观人数变化”、“汽车品牌市场份额的变化”。\n\nI ① In the light of the chart above, it is evident that dramatic changes have taken place in terms of these years. ② Specifically, the proportion/number of those who declined hugely/moderately from while that of those ascended enormously/slightly from during the same time span.\n\nⅡ ① The data above illustrates a shift in people's view regarding On the one hand, because it's not surprising that the proportion/number of remains pretty high. ③ On the other hand, this trend/idea is also changing. ④ With the advancement of/decline in which allows/brings people becomes increasingly popular, leaving the number of those who dropping accordingly.\n\nⅢ①It can be predicted that as 影响因素 improves/ develops, 主题词 will be more 发展趋势. ②Therefore, only by 建议的做法，can we better embrace this new trend.\n\n**三、写作储备**\n\n[话题表述补充]\n\nbe not keen on more study 对继续深造不太感兴趣 fresh-faced graduate 初出茅庐的大学毕业生\n\n[写作素材积累]\n\nentrepreneurial [a.] 企业家的，创业者的 employment prospects 就业前景\n\n- A key reason to consider taking up graduate studies is the wage pay-off you are going to get after you are employed with this additional academic merit.\n\n考虑继续读研的一个关键原因就是，有了这个额外的学术优势，在找到工作后你会得到薪资上的回报。\n\n- Having invested a lot of time and money in their education, students can be quite risk-averse. Starting a business isn't always appealing when compared with a graduate job, since working on a business idea may require long hours and initial low pay. 学生们在教育中投入了大量的时间和金钱，可能会非常倾向于规避风险。相比于毕业后找工作，自主创业并不总是那么有吸引力，因为努力实现一个经营理念需要相当长的时间，且起步收入也低。\n\n**四、写作练习**\n\n请参考模板和话题词汇，按照下列要求，进行写作。\n\n**Directions:**\n\nWrite an essay. In your writing, you should\n\n1) describe the table, and\n\n2) give your comments.\n\nYou should write about 150 words on the ANSWER SHEET. (15 points)\n\n|  | 该工作是自己喜欢做的 | 自己认可的企业文化 | 较高的薪酬待遇 | 良好的晋升和成长空间 | 企业拥有卓越的产品或服务 | 企业拥有较高的知名度 | 工作与生活的平衡 | 其它 |\n| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |\n| 80-84年 | 15.8% | 5.1% | 20.0% | 35.5% | 1.3% | 2.6% | 18.7% | 0.9% |\n| 85-80年 | 21.9% | 3.9% | 16.0% | 37.7% | 1.5% | 2.0% | 15.4% | 1.6% |\n| 90后 | 29.3% | 3.6% | 12.1% | 31.3% | 2.0% | 1.6% | 17.6% | 2.5% |\n\n**话题词汇**\n\nchoose career 择业\n\npreference [n.] 喜好\n\nsalary and benefits 薪酬待遇\n\nproducts and services 产品与服务\n\npost 80s/85s/90s 80 后/85 后/90 后\n\npromotion [n.] 升职\n\ncorporate culture 企业文化\n\nwork-life balance 生活与工作平衡"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

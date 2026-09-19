@@ -1,0 +1,688 @@
+{
+ "year": 2007,
+ "exam": "英语",
+ "sections": [
+  {
+   "title": "Section I Use of English",
+   "instructions": "Directions:\nRead the following text. Choose the best word(s) for each numbered blank and mark\nA, B, C or D on ANSWER SHEET 1. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "cloze",
+     "passage": [
+      "By 1830 the former Spanish and Portuguese colonies had become independent nations. The roughly 20 million {{1}} of these nations looked {{2}} to the future. Born in the crisis of the old regime and Iberian colonialism, many of the leaders of independence {{3}} the ideals of representative government, careers {{4}} to talent, freedom of commerce and trade, the {{5}} to private property, and a belief in the individual as the basis of society. {{6}} there was a belief that the new nations should be sovereign and independent states, large enough to be economically viable and integrated by a {{7}} set of laws.",
+      "On the issue of {{8}} of religion and the position of the Church, {{9}}, there was less agreement {{10}} the leadership. Roman Catholicism had been the state religion and the only one {{11}} by the Spanish crown. {{12}} most leaders sought to maintain Catholicism {{13}} the official religion of the new states, some sought to end the {{14}} of other faiths. The defense of the Church became a rallying {{15}} for the conservative forces.",
+      "The ideals of the early leaders of independence were often egalitarian, valuing equality of everything. Bolivar had received aid from Haiti and had {{16}} in return to abolish slavery in the areas he liberated. By 1854 slavery had been abolished everywhere except Spain’ s {{17}} colonies. Early promises to end Indian tribute and taxes on people of mixed origin came much {{18}} because the new nations still needed the revenue such policies {{19}}. Egalitarian sentiments were often tempered by fears that the mass of the population was {{20}} self-rule and democracy."
+     ],
+     "questions": [
+      {
+       "number": 1,
+       "options": {
+        "A": "natives",
+        "B": "inhabitants",
+        "C": "peoples",
+        "D": "individuals"
+       },
+       "answer": "B",
+       "explanation": "· 全局真题精解 ·\n\n> **答案：** B) inhabitants\n\n1. [A] natives 本地人，当地人\n\n[B] inhabitants (某区域内的所有常住) 居民\n\n[C] peoples 民族，种族，部落\n\n[D] individuals 个人；有某种特点的人\n\n[考点提炼]名词辨析。正确率： 12%\n\n[解题思路] 空格句指出，这些国家的 2000 万____在展望未来。限定词 20 million 和 of these nations 表明空格词应表示“生活在这些国家的人”, 只有 [B] 能表示“生活于某地的人”, 故正确。\n\n[错项排除] [A]只表示“在某地出生并长大的原住民”，强调与“后来移民”相对立的概念；但原殖民地国家既然经历了“由殖民地转变为独立国”这一过程，其人民就不仅仅包括当地土生土长的人，还应该包括从其他国家来的移民。[C]利用 people 的“人们”含义进行干扰，但“people + s”表示“各民族、种族”（注：people 有两层含义：1、作“人(=persons)”讲时为集合名词，本身表示复数概念；2、表示“民族”，有单复数变化。），而“2000万个民族/种族”显然不是某一两个国家所能够拥有的，故排除该项。[D]强调“区别于群体概念的个体”，即便为复数形式，也不具备代表性或群体性，但文中显然欲表现“全民整体的心态”。"
+      },
+      {
+       "number": 2,
+       "options": {
+        "A": "confusedly",
+        "B": "cheerfully",
+        "C": "worriedly",
+        "D": "hopefully"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D) hopefully\n\n2. [A] confusedly 迷惑地，混乱地\n\n[B] cheerfully 兴高采烈地；满不在乎地；乐意地\n\n[C] worriedly 忧心忡忡地\n\n[D] hopefully 怀有希望地\n\n[考点提炼]上下文语义+副词辨析。正确率：57%\n\n[解题思路] 空格词修饰 looked to the future, 表明殖民地国家人民独立后对于未来的心态。由下文③句可大致推测，领导者怀揣好的治国理念，致力于使国家向好的方向发展；同时结合首句“殖民地变为独立国”这一背景，判断全民对于未来的态度应该是积极向上、满怀希望的；由此排除具有负面导向的 [A] 和 [C]。[D] 表示“对前景乐观、充满希望”，故正确。\n\n[错项排除] [B]主要有三层含义：一、用于修饰“笑、说、问候”等具体、实际的动作，表明动作发出者的愉快心情，cheerfully 虽然也能体现独立国家的人民的快乐心情，但文中“望向未来”为抽象动作，“兴高采烈地看未来”并不符合语言惯用习惯。二、用于说明某人的“乐观”心态，但暗含“过于乐观、冒失”的意味，与文中语境不符。三、用于说明“愿意做某事(而不抱怨、不害怕)”的欣然、坦然之情；但文中“展望未来”并非什么困难或尴尬之事，自然就不存在“甘愿”一说。"
+      },
+      {
+       "number": 3,
+       "options": {
+        "A": "shared",
+        "B": "forgot",
+        "C": "attained",
+        "D": "rejected"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) shared\n\n3. [A] shared 有同样的感情、想法、经历等 [B] forgot 忘记，遗忘；忽视，漠视\n\n[C] attained 获得，得到；达到(年龄、水平、状况等) [D] rejected 排斥，不予考虑，摒弃\n\n[考点提炼]上下文语义+动词辨析。正确率：42%\n\n[解题思路] 空格所在句主干为 many of the leaders ____ the ideals..., and a belief..., 空格后引出“先进民主的、符合时代发展的”治国理念。空格词体现“领导者”与“这些理念、信念”之间的关系，而文中 leaders 由 of independence 修饰，表明其领导了殖民地的独立运动，所以他们对这些民主理念一定是“普遍认同”的，[A]指“具有共同的”，符合文意。\n\n[错项排除] [B]、[D]利用前半句“出生于……的岌岌可危时期”编造出“遗忘/摒弃……的理想与信念”，然而这违背“殖民地独立运动领导者”和“民主、先进的理念和信仰”间应有的情感逻辑。[C]表示“通过一番努力成功完成某事”，而“各种先进理念在建国初始就得以实现”显然不符合常理，故排除。"
+      },
+      {
+       "number": 4,
+       "options": {
+        "A": "related",
+        "B": "close",
+        "C": "open",
+        "D": "devoted"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) open\n\n4. [A] related (to) 与……有联系 [B] close (to) 接近\n\n[C] open (to) 对特定群体开放 [D] devoted (to) 关于……的；专用于……的\n\n[考点提炼]上下文语义+形容词辨析。正确率：27%\n\n[解题思路] ③句中，careers ____ to talent 与 representative government、freedom of commerce and trade 等并列，解释治国理念的具体内容。能够和“民主制政体、自由商贸体制”相并列匹配，体现与“人才、职业”相关的积极国策只能是“重用人才，积极为其提供职业平台和发展方向”; open 与 to 连用表示“(机会或工作职位)为某人所敞开”, 故 [C] 正确。\n\n[错项排除] [A] related (to talent)“与人才有关的职业”、[B] close (to talent)“与人才关系密切的职业”，其重心落在“职业的具体性质”上，并不体现政策上的方向性，更无从表现 ideal 的积极蕴意。[D] devoted (to) 用于“强调被修饰成分唯一、专属的功能”；careers devoted to talent 表示“职位专为人才而设”，可这种做法将普通人排斥在外，既不现实，也与“积极、民主的理念”不符。"
+      },
+      {
+       "number": 5,
+       "options": {
+        "A": "access",
+        "B": "succession",
+        "C": "right",
+        "D": "return"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) right\n\n5. [A] access (to) (使用或见到……的) 机会、权利 [B] succession (to) 继承，继任\n\n[C] right (to) 正当的要求、权利 [D] return (to) 返回(先前的情况或活动)\n\n[考点提炼]上下文语义+名词辨析。正确率：54%\n\n[解题思路] ____ to private property 是先进民主的治国理念中的一项内容；而对于“私有财产”来讲，只有“从法律层面承认并保护它、让其变得神圣不可侵犯”才能体现对人权的尊重，从而契合 ideals 内涵，[C]能表示“法律认可的正当要求、权利”, 故正确。\n\n[错项排除] [A]干扰在于“access 可用于表示多种权利”，但这种权利主要指：一、进入、准入（某地）权；二、使用（设备）、查看（信息、资料等）权；三、接触（某人）权；与 to private property 不能构成合理搭配，其次 access 并不强调“法律层面的权利”。[B]指的是“对于政府公职或头衔，尤其是王位的继承（权）”，不合文意。[D]臆断出“新国家欲从返还私人财产开始治理国家”，但 the return(of A) to B 中，A 才表示“返还、恢复的具体内容”，B 表示“出借人、先前的情况或做法”等，故排除。"
+      },
+      {
+       "number": 6,
+       "options": {
+        "A": "Presumably",
+        "B": "Incidentally",
+        "C": "Obviously",
+        "D": "Generally"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D) Generally\n\n6. [A] Presumably 大概 [B] Incidentally 顺便提一句 [C] Obviously 明显地 [D] Generally 普遍地 [考点提炼] 上下文逻辑衔接。正确率：39%\n\n[解题思路] ③句介绍领导者治国理念涉及政治、经济、法律等的具体细节；④句 sovereign and independent、economically viable 以及 integrated by a ____ set of laws 则是从政治、经济、法律大层面概括说明，且句中 a belief 复现上句 ideals/a belief，说明两句均针对领导者理念而展开；选项中能体现这种紧密衔接，引出对上文的概括总结内容的，只有 [D] Generally，其语用功能为“用于对上文情况、观点的笼统总结”。\n\n[错项排除] [A]用于引出某种主观推测，而“独立自主，经济自立”等由 there was(a belief)...(客观存在)引出，与上文客观介绍的领导者理念一致，显然不是作者推测的内容。[B]用于“引出新话题、附加信息”,引出的内容相比前述信息并不那么重要，而文中④句对上述内容是“重要的总结性内容”,而非“次要的附加内容”。[C]引出的内容为“认为听/读者已经知晓的事”,表明某情况的显而易见性；作者在此处意在“客观展示领导者的积极治国理念”,而非“强调某个众所皆知的事实”。"
+      },
+      {
+       "number": 7,
+       "options": {
+        "A": "unique",
+        "B": "common",
+        "C": "particular",
+        "D": "typical"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B) common\n\n7. [A] unique 独特的\n\n[B] common 共同的\n\n[C] particular 特指的\n\n[D] typical 典型的\n\n[考点提炼]上下文语义+形容词辨析。正确率：27%\n\n[解题思路] integrated by a ____ set of laws 修饰 states, 强调“一套……的法律”应该作为新国家统一的基础；integrate 指“合并，结合”; 而新国家想要成为一个高效的统一体，法律层面上要共享一套法律体系。选项中能表示“共有、共用的”的词只有 [B]。\n\n[错项排除] [A]、[C]与文中 shared、integrated 等体现的“共性、统一”相矛盾。[D]侧重说明“某类人群或事物中最具代表性的特征”，而“最具代表性的一套法律”这种说法显然不合逻辑。\n\nⅡ ① On the issue of 8 of religion and the position of the Church, 9, there was less agreement 10 the leadership. ② Roman Catholicism had been the state religion and the only one 11 by the Spanish crown. ③ 12 most leaders sought to maintain Catholicism 13 the official religion of the new states, some sought to end the 14 of other faiths. ④ The defense of the Church became a rallying 15 for the conservative forces.\n\n①不过，在宗教自由以及教会地位问题上，领导人之间却不那么一致。②罗马天主教过去是西班牙国教，而且是西班牙王室认可的唯一宗教。③多数领导人试图继续将天主教作为新国家的官方宗教，而一部分领导人却力图结束这种排斥其他宗教信仰的局面。④捍卫教会逐渐成为保守势力的战斗口号。\n\n**词汇注释**\n\ncrown n. 王冠；王国；王位，王权\n\nfaith n. 宗教信仰；(某一)宗教\n\nrally v. 召集；集合\n\nconservative a. 保守的，守旧的"
+      },
+      {
+       "number": 8,
+       "options": {
+        "A": "freedom",
+        "B": "origin",
+        "C": "impact",
+        "D": "reform"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) freedom\n\n8. [A] freedom 自由\n\n[B] origin 起源\n\n[C] impact 影响\n\n[D] reform 改革\n\n[考点提炼]上下文语义。正确率：32%\n\n[解题思路] 空格所在句的含义为：在宗教____和教会地位问题上，……意见就不那么一致了。(注：____ of religion 与 the position of the Church 并列，共同作为 the issue 的后置定语，表示“在这两方面问题上”。)从下文内容看，领导层的争论焦点主要围绕“是否继续将天主教作为国教，即强制性的官方宗教”展开，由此推知①句为段落主旨句，争议主要在于“是否实行宗教自由制度”, [A] 正确。\n\n[错项排除] 三个干扰项与第二段的总分结构不符：分述部分并未提及宗教的起源、影响、改革等问题。[B]干扰来自段中反复出现的(历史悠久的)天主教，但“宗教起源”并非领导者关注对象。[C]利用常识“宗教会对各方面产生影响”设置干扰，但后文并未涉及天主教对于各方面的影响。[D]从③句“一些人想要继续将天主教作为官方宗教，还有一些人试图结束……”过度推出“天主教，需要改革，从而引发争议”, 却忽略了争议的本质还是“天主教国教地位是否要保留”。"
+      },
+      {
+       "number": 9,
+       "options": {
+        "A": "therefore",
+        "B": "however",
+        "C": "indeed",
+        "D": "moreover"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B) however\n\n9. [A] therefore 因此\n\n[B] however 然而\n\n[C] indeed 的确\n\n[D] moreover 而且\n\n[考点提炼]上下文逻辑衔接。正确率：76%\n\n[解题思路] 上段提到，领导人在政治、经济、法律方面观点一致；本段①句指出，在宗教自由和教会地位问题上，他们存在分歧(less agreement)。从“共识”到“分歧”,体现转折逻辑，[B]正确。\n\n[错项排除] “在政治、经济、法律方面的看法一致”显然不是造成“宗教问题上分歧”的原因，所以排除[A]。[C]强调刚刚陈述内容的真实性，[D]用于引出上述内容的新信息补充，均不合逻辑。"
+      },
+      {
+       "number": 10,
+       "options": {
+        "A": "with",
+        "B": "about",
+        "C": "among",
+        "D": "by"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) among\n\n10. [A] with\n\n[B] about\n\n[C] among\n\n[D] by\n\n[考点提炼]句子结构+介词辨析。正确率：38%\n\n[解题思路] 空格词连接 less agreement 和 the leadership, 表明两者关系。第一段指出领导人在一些方面观点一致，第二段转而指出在宗教方面意见不太一致，且由 most leaders... some (leaders)... 可知意见不一致发生在领导层当中，[D] 着重引出施动者，凸显动态；而文中 there was less agreement... 凸显静态，强调“有不同看法”; [C] 语用功能为“用于指出某一群体有相同的理念”, 符合文意。\n\n[错项排除] [A] with 后可引出“行为或活动涉及的对象”，如 I used to play chess with him.（我以前常和他下棋。）；less agreement with the leadership 指“与领导层意见不一致”，但上下文并不存在与领导层意见不一致的主体。[B] 表示“关于”，less agreement about the leadership 指在“领导层人员选择、设置方面意见不一致”，后文并未涉及此信息。"
+      },
+      {
+       "number": 11,
+       "options": {
+        "A": "allowed",
+        "B": "preached",
+        "C": "granted",
+        "D": "funded"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) allowed\n\n11. [A] allowed 允许，准许，承认 [B] preached 宣扬（教义、信仰、某事的优点）\n\n[C] granted 同意，准予（某人提出的要求） [D] funded 为……提供资金，拨款给\n\n[考点提炼] 动词辨析。正确率：24%\n\n[解题思路] the state religion 和 the only one... 为并列顺承逻辑，性质相同；而 state religion 指“由国家官方公开支持、认可的宗教团体或教义”, 因此空格词也应体现出官方(即西班牙王室)对于作为国教的罗马天主教的“赞同和认可”, [A] 可作正式用语，表示“(法律上)接受，认可，承认”, 符合文意。\n\n[错项排除] [B]利用其“宣扬、宣讲”等释义制造干扰，但其后宾语多为“宗教教义、信仰或做法”，但文中宾语为 only one（即 Roman Catholicism），并非具体的教义内容。[D]指 to provide money for an activity, organization, event etc，可用来表示资助宗教活动，却不能“资助宗教本身”。[C]虽有“准予，准许”这一含义，但多表示“同意，准予他人的请求”；该词也可以表“承认”，用于“强调某情况属实，但该事实不影响自己的想法”，这两层含义均不能和 only one（即 religion）构成合理的动宾逻辑。"
+      },
+      {
+       "number": 12,
+       "options": {
+        "A": "Since",
+        "B": "If",
+        "C": "Unless",
+        "D": "While"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D) While\n\n12. [A] Since 既然\n\n[B] If 如果\n\n[C] Unless 除非\n\n[D] While 然而\n\n[考点提炼]句内逻辑关系。正确率： 60%\n\n[解题思路] 空格词表示两个分句之间的逻辑关系。前半句指出，多数领导者力求继续维持天主教……国家官方宗教；后半句指出，一些领导人试图结束……；其中，most leaders 与 some (leaders)、sought to maintain 与 sought to end、Catholicism 与 other faiths 分别形成对照，凸显差别，只有 [D] 符合这一逻辑，while 用于“对比两项内容”，展示领导层间就宗教问题的分歧，与段首主旨句契合。\n\n[错项排除] [A]既可表时间，也可表因果；但“大部分人想……”不涉及“时间”，也不是“一些想……”的原因。[B]多表“条件”，也可表“让步”（承认某事可能，但不很重要）。[C]引出某事不会发生的唯一情况，如 I sleep with the window open unless it's really cold.（若非天气很冷，我通常都开着窗户睡觉。）"
+      },
+      {
+       "number": 13,
+       "options": {
+        "A": "as",
+        "B": "for",
+        "C": "under",
+        "D": "against"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) as\n\n13. [A] as\n\n[B] for\n\n[C] under\n\n[D] against\n\n[考点提炼]句内逻辑+固定用法。正确率： 60%\n\n[解题思路] 空格句中 maintain 指“继续保持原来的状态，使其不发生变化”，也即，多数领导人主张“罗马天主教和过去殖民地时期一样，继续作为新国家的国教”；介词 as 有“作为”的用法，常用于 see/regard/perceive...as...结构中；文中 as 与动词 maintain 搭配，表示“维持……作为……”，符合文意，故[A]正确。\n\n[错项排除] [B]可表“原因”或“目的”，但“为了/因为新国家的官方宗教而维持天主教”都不合语意逻辑。[C]利用其“根据、按照（协议、法律或制度）”这层释义设置干扰，但“根据官方宗教来维持天主教（地位）”显然逻辑不通。[D]把天主教和新国家官方宗教的关系误认为是“对抗”关系，认为“许多人主张维持天主教对抗官方宗教”，与②句信息（天主教曾是国教，且是王室准许的唯一宗教）相矛盾。"
+      },
+      {
+       "number": 14,
+       "options": {
+        "A": "spread",
+        "B": "interference",
+        "C": "exclusion",
+        "D": "influence"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) exclusion\n\n14. [A] spread 传播 [B] interference 干涉 [C] exclusion 排斥 [D] influence 影响 [考点提炼] 上下文语义。正确率：21%\n\n[解题思路] 空格所在部分指出：一部分领导人力图结束____其他宗教信仰；空格前意为：多数领导人“想要保持天主教地位至高无上的局面”。而由第12题分析已知，这两部分人观点对立，因此 end the ____ of other faiths 只能表达“打破一家独大，终结排斥其他宗教信仰的局面”的逻辑，[C]符合文意。\n\n[错项排除] [A]、[B]、[D]均为反向干扰：“终止其他宗教信仰的传播/干涉/影响”体现的是对前半句“将天主教继续作为新国家的官方宗教”的正向补充说明，不能体现两部分对比反差的关系。"
+      },
+      {
+       "number": 15,
+       "options": {
+        "A": "support",
+        "B": "cry",
+        "C": "plea",
+        "D": "wish"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B) cry\n\n15. [A] support 支持\n\n[B] cry 叫喊\n\n[C] plea 请愿\n\n[D] wish 愿望\n\n[考点提炼]习惯搭配。正确率： 16%\n\n[解题思路] ③句表明，多数领导者主张继续保留天主教的国教地位，而有一些却想终结这一局面；④句继而指出，捍卫天主教成为了保守势力团结____。句中 conservative forces 回指上文 most leaders 所代表的保守势力；因此 a rallying ____一方面要对 The defense of the Church 这一行为定性，另一方面还应体现保守派想维护天主教地位的迫切心情；rallying cry 为固定搭配，指“(团结并鼓励人们支持某人/事的)战斗口号、信念”,[B]为正确项。\n\n[错项排除] rally 意为“集合、召集(人们以支持某人/事)”，[A]和[C]均可以与之构成合理的动宾搭配，分别表示“(为某人/物)争取支持”、“召集人们共同请愿”，介词 for 引出“支持、请愿的具体对象或目标”，如 They aimed at rallying support for the new plan.（他们的目的在于为这项新计划争取支持。）；而文中 rallying... 由不定冠词限定，说明 rallying“作定语修饰空格名词”而非“表示动作，引出宾语”；两词若由 rallying(意为“在唤起人们一起 [为某目标] 行动方面有效的”)修饰，行文逻辑就变为“支持、请愿有利于团结人们”，混淆“团结的目的(支持某人/事、为某人/事而请愿)”与“有助于团结的因素”。[D]利用字面含义“捍卫宗教成为了保守派的一致心愿”设置干扰，但 wish 同样不能由 rallying 修饰。\n\nIII The ideals of the early leaders of independence were often egalitarian, valuing equality of everything. Bolivar had received aid from Haiti and had 16 in return to abolish slavery in the areas he liberated. By 1854 slavery had been abolished everywhere except Spain's 17 colonies. Early promises to end Indian tribute and taxes on people of mixed origin came much 18 because the new nations still needed the revenue such policies 19. Egalitarian sentiments were often tempered by fears that the mass of the population was 20 self-rule and democracy. [268 words]\n\n早期独立运动领导者的理念往往是主张平等主义，即崇尚万物的平等。②玻利瓦尔得到海地的援助后，作为回报，承诺在其所解放的地区废除奴隶制。③到1854年时，除西班牙剩余的殖民地外，其他地区都已废除奴隶制。④取消印第安人贡税以及向混血人种征税的早期承诺却迟迟未能兑现，因为新国家仍然需要这些政策带来的税收。⑤平等主义情绪常常因为担忧大众对自治和民主未做好准备而有所冲淡。\n\n**词汇注释**\n\negalitarian （超纲）a. 平等主义的 temper 【僻义】v. 使缓和，使温和"
+      },
+      {
+       "number": 16,
+       "options": {
+        "A": "urged",
+        "B": "intended",
+        "C": "expected",
+        "D": "promised"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D) promised\n\n16. [A] urged 敦促\n\n[B] intended 打算\n\n[C] expected 指望\n\n[D] promised 承诺\n\n[考点提炼]上下文语义+动词辨析。正确率： 59%\n\n[解题思路] 空格句中 and 连接两个并列谓语，说明 Bolivar 的先后行为：得到了海地的援助，而后作为对这一援助的回报，他____在其解放地废除奴隶制度；而下文③句表明，到 1854 年除西班牙……殖民地外均废除了奴隶制(had been abolished);选项中只有[D] promised 能与下文(had been abolished)形成“作出承诺→履行承诺”的逻辑链条，充分体现 in return 所体现的“以实际行动来感恩、回报”的语义内涵，同时还和④句 Early promises to... 相复现(暗示 Bolivar 曾许下一系列承诺),所以[D]正确。\n\n[错项排除] [A]通常用法为 urge sb to do sth“敦促他人做某事”，不能体现“感恩、回报”的逻辑，且空格词后直接为行为内容，而非 sb，故排除。[B]“打算做某事”，不足以体现“回报、报答”；[C]用法为 expectsb to do sth(要求、期望某人做某事); expect to do... (预期、认为某事会发生), 显然与“报答”无关。"
+      },
+      {
+       "number": 17,
+       "options": {
+        "A": "controlling",
+        "B": "former",
+        "C": "remaining",
+        "D": "original"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C) remaining\n\n17. [A] controlling (现在分词) 控制的 [B] former 从前的，以前的\n\n[C] remaining 剩余的，残存的 [D] original 原来的，起初的；独创的\n\n[考点提炼]上下文语义。正确率：27%\n\n[解题思路] 上句已知“Bolivar 承诺在其解放地废除奴隶制”，由此可知未能废除奴隶制的地方只能是“尚未获得解放的殖民地”，也即，“剩余的/其他殖民地”，因此[C]为正确答案。\n\n[错项排除] [B]、[D]表示“以前的、最初的”，修饰 colonies 表示“现在已获解放”，与②句 Bolivar 承诺废除奴隶制的内容相矛盾。[A]是现在分词形式，表主动，而“殖民地”应该是“被控制”，故排除。"
+      },
+      {
+       "number": 18,
+       "options": {
+        "A": "slower",
+        "B": "faster",
+        "C": "easier",
+        "D": "tougher"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A) slower\n\n18. [A] slower 更慢\n\n[B] faster 更快\n\n[C] easier 更容易\n\n[D] tougher 更艰难的\n\n[考点提炼]上下文语义。正确率：43%\n\n[解题思路] ④句前半句为“事实说明”，其中 Early promises 回应②句“废除奴隶制”的承诺，介绍 Bolivar 早先的一些承诺；后半句为“原因分析”，still needed the revenue such policies...表明新国家仍然需要殖民地时期的税收政策，因而“终结它们”比起“终结奴隶制”肯定要更困难一些，选项中[D]含有“更艰难”之义，但该释义取自 tough 作形容词时的含义（文中空格词应为副词，修饰 came，说明实现的情况），其作副词时仅能表示“坚强地、坚定地”，不符合文意。“既然终结这些税收政策比废除奴隶制更困难，那么想要废止它们，从时间上来说势必更慢”，因此[A]正确。\n\n[错项排除] 既然新国家需要这部分税收，“将其废除”便不可能“更快、更容易”，故排除[B]、[C]。"
+      },
+      {
+       "number": 19,
+       "options": {
+        "A": "created",
+        "B": "produced",
+        "C": "contributed",
+        "D": "preferred"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B) produced\n\n19. [A] created 创造\n\n[B] produced 引起\n\n[C] contributed 有助于\n\n[D] preferred 更喜欢\n\n[考点提炼] 动词辨析。正确率：25%\n\n[错项排除] [C]利用其“促成、造成、有助于”这一释义设置干扰，但其用法为“A contribute to B”，但文中并无介词 to。[D]表示对某事物的偏爱，暗含比较意味，但“这些政策所偏好的收入”显然不合逻辑。"
+      },
+      {
+       "number": 20,
+       "options": {
+        "A": "puzzledby",
+        "B": "hostile to",
+        "C": "pessimistic about",
+        "D": "unprepared for"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D) unprepared for\n\n20. [A] puzzled by 困惑于……；困扰于…… [B] hostile to 与……敌对的；强烈反对\n\n[C] pessimistic about 对……感到悲观的 [D] unprepared for 对于……无准备的\n\n[考点提炼] 上下文语义。正确率：29%\n\n[解题思路] 末句指出，(领导者的)平等主义情绪常因担心“大众对自治和民主____”而有所淡化 (tempered); that... 明确担忧 (fears) 的具体内容，即“情绪淡化”的诱因。段首句明确指出独立运动的领导者崇尚万物平等，换句话说，他们处处以“人、人权”为中心，平等主义理念根深蒂固，若有“淡化、动摇”，也只能是出于人民大众的利益考虑，只有 [D] 会涉及到“对大众利益的影响”，unprepared for 表示“尚未做好准备应对某情况，因而当其发生时感到惊讶，或处于不利地位”，暗示新国家在各方面（经济、文化、教育等）均堪忧、人民整体素质有待提升的情况下，完全的“自治、民主”可能反而不利于国家发展，最终自然会殃及人民自身利益，因此 [D] 正确。\n\n[错项排除] [A]有一定干扰，puzzle 一词强调“因不理解某事而感到迷惑，或感到些许焦虑”，如：I am puzzled by his failure to reply.（他不回信让我感到困惑。）。而获得解放的人民大众不可能不明白“民主、自治”意味着什么，更不会为之所困扰。[B] hostile to（指“强烈反对某一计划或观点”）、[C] pessimistic about（指“预计坏事会发生或某事不会成功”）均不符合“人民希望民主、自治”这一基本常识逻辑，与首段中“人民大众因领导人先进的治国理念而对未来充满希望”相矛盾。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part A",
+   "instructions": "Part A\nDirections:\nRead the following four texts. Answer the questions below each text by choosing\nA, B, C or D. Mark your answers on ANSWER SHEET 1. (40 points)",
+   "score": 40,
+   "groups": [
+    {
+     "type": "reading",
+     "title": "Text 1",
+     "passage": [
+      "If you were to examine the birth certificates of every soccer player in 2006’s World Cup tournament, you would most likely find a noteworthy quirk: elite soccer players are more likely to have been born in the earlier months of the year than in the later months. If you then examined the European national youth teams that feed the World Cup and professional ranks, you would find this strange phenomenon to be even more pronounced.",
+      "What might account for this strange phenomenon? Here are a few guesses: a) certain astrological signs confer superior soccer skills; b) winter-born babies tend to have higher oxygen capacity, which increases soccer stamina; c) soccer-mad parents are more likely to conceive children in springtime, at the annual peak of soccer mania; d) none of the above.",
+      "Anders Ericsson, a 58-year-old psychology professor at Florida State University, says he believes strongly in “none of the above.” Ericsson grew up in Sweden, and studied nuclear engineering until he realized he would have more opportunity to conduct his own research if he switched to psychology. His first experiment, nearly 30 years ago, involved memory: training a person to hear and then repeat a random series of numbers. “With the first subject, after about 20 hours of training, his digit span had risen from 7 to 20,” Ericsson recalls. “He kept improving, and after about 200 hours of training he had risen to over 80 numbers.”",
+      "This success, coupled with later research showing that memory itself is not genetically determined, led Ericsson to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one. In other words, whatever inborn differences two people may exhibit in their abilities to memorize, those differences are swamped by how well each person “encodes” the information. And the best way to learn how to encode information meaningfully, Ericsson determined, was a process known as deliberate practice. Deliberate practice entails more than simply repeating a task. Rather, it involves setting specific goals, obtaining immediate feedback and concentrating as much on technique as on outcome.",
+      "Ericsson and his colleagues have thus taken to studying expert performers in a wide range of pursuits, including soccer. They gather all the data they can, not just performance statistics and biographical details but also the results of their own laboratory experiments with high achievers. Their work makes a rather startling assertion: the trait we commonly call talent is highly overrated. Or, put another way, expert performers – whether in memory or surgery, ballet or computer programming – are nearly always made, not born."
+     ],
+     "questions": [
+      {
+       "number": 21,
+       "stem": "The birthday phenomenon found among soccer players is mentioned to",
+       "options": {
+        "A": "stress the importance of professional training.",
+        "B": "spotlight the soccer superstars in the World Cup.",
+        "C": "introduce the topic of what makes expert performance.",
+        "D": "explain why some soccer teams play better than others."
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| | |\n| --- | --- |\n| 21. The birthday phenomenon found among soccer players is mentioned to ____. | 21. 提及足球运动员生日现象是为了____。 |\n| [A] stress the importance of professional training | [A] 强调专业训练的重要性 |\n| [B] spotlight the soccer superstars in the World Cup | [B] 聚焦世界杯比赛中的足球超级明星 |\n| [C] introduce the topic of what makes expert performance | [C] 引出出色表现缘何而来这一话题 |\n| [D] explain why some soccer teams play better than others | [D] 解释一些足球队表现更佳的原因 |\n\n[精准定位]文章前两段言及足球运动员生日现象并猜想其原因，后三段则以艾利克森研究为轴探究出色表现的决定性因素，可见文章试图从足球领域的出色表现延伸至记忆力等其他更多领域的出色表现，说明其背后原因。因此开篇现象意在引出对“究竟是什么造就出色表现”的探讨，[C]正确。\n\n[命题解密] 正确项[C]中 introduce the topic 综合概括了本文“以现象引话题”的开篇方式，expert performance 对应文中话题词汇 elite (soccer players), expert performers, high achievers。\n\n[A]由第三段③④⑤句中反复出现的 training 而来，但文章旨在借助“反复训练能极大提升记忆能力”说明“后天培养的重要性”,从而否定“优秀表现源于先天”的观点，而非强调“专业训练本身的重要性”。[B]由①②句中 2006's World Cup tournament、elite soccer players、the World Cup 而来，但该内容除前两段外下文未有涉及，显然文章旨在引领读者关注“球员生日怪象”而非“球星本人”。[D]利用首段句末 even more pronounced 设置干扰，但偷换了比较的对象：文中意在强调球员生日集中现象“颇为显著(不止世界杯，更大范围来看更是如此)”,而非“对球队的表现进行比较”。\n\n[技巧总结] 本题考查考生对开篇方式/开篇结构的把握。相对于开门见山论述话题的“直接式”开篇，“引入式开篇”（引子内容可为具体事例/现象、实验结论或哲理故事）更容易成为命题人的着眼点。此类题中，引入话题的现象/事例等本身往往并非关注点，而是扮演“引子”角色，引出正向或反向的观点或现象。解答此类题型时：①需要关注现象背后的内容/观点；②通览全篇，联系文章主旨大意判断。\n\n如本题，首先，关注现象背后的内容/观点：文章首段提出“球员生日”这一具体现象后，第二段对这一现象的几种解释均暗藏先天条件、既定因素的作用，由此暗示一种观点：“出色源于先天遗传”,初步断定“球员生日现象”可能是文章讨论话题的引子。其次，通览全篇，联系文章主旨：后三段不再继续讨论现象，而是借某人物研究实验探讨出色表现的决定性因素，并由尾句主旨句(are nearly always made, not born),最终确定文章讨论对象乃“出色表现”,文首现象仅为引出这一话题服务，敲定[C]正确。\n\n**校对补充：** 文章先用世界杯球员“出生月份偏前”的奇怪现象吸引读者，随后排除星座、氧气容量等猜测，并引出 Ericsson 关于训练、记忆和专家表现的研究。这个开头的真正作用是**引出“杰出表现究竟如何形成”这一主题**，所以C正确，而不是解释某支球队为什么更强。"
+      },
+      {
+       "number": 22,
+       "stem": "The word “mania” (Line 4, Paragraph 2) most probably means",
+       "options": {
+        "A": "fun.",
+        "B": "craze.",
+        "C": "hysteria.",
+        "D": "excitement."
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| | |\n| --- | --- |\n| 22. The word “mania” (Line 4, Paragraph 2) most probably means ____. | 22. “mania” (第二段，第四行)一词最有可能的含义是____。 |\n| [A] fun | [A] 乐趣 |\n| [B] craze | [B] 狂热 |\n| [C] hysteria | [C] 歇斯底里 |\n| [D] excitement | [D] 兴奋 |\n\n[精准定位] 被考查词上文指出“狂热的球迷父母容易在春天受孕”，所在部分解释“此时(springtime)”，正是“一年中足球……的巅峰”，由此可推知，soccer-mad 与 soccer-mania 应为同义复现，选项中 craze 最为接近 mad(非常喜欢、痴迷)之意，所以[B]正确。\n\n[命题解密] 正确项[B]craze 对应 mad, 从基本含义、感情色彩与感情强烈程度三个方面均实现了与 mania 的对等替换。\n\n[A]将文中“mad(疯狂)”扭曲为“fun(乐趣)”，感情强烈程度大大减弱。[C]强调一种“近乎病态的情绪失控、不可理喻的极端行为”，多含贬义色彩，而文中单纯想表现“对足球狂热、痴迷”的心情，未触及“异常激动而举止失常”这层含义。[D]将原文“mad(疯狂)”弱化为“excitement(兴奋、激动)”，减弱了感情强烈程度。\n\n[技巧总结] 本题考查学生根据句内逻辑关系确定语义关系(反义、同义、上下义等)的能力。被考查词 mania 所在部分与其前部分由逗号隔开，初步判断两部分为解释说明关系(逗号通常起着解释说明作用), 随后注意到前后两个时间表达：at the annual peak of... 紧接 in springtime, 显然是为解释前者服务，由此可断定 soccer-mania 与其前 soccer-mad 为同义关系，最终锁定答案为 [B]。\n\n③ Anders Ericsson, a 58-year-old psychology professor at Florida State University, says he believes strongly in “none of the above.” ② Ericsson grew up in Sweden, and studied nuclear engineering until he realized he would have more opportunity to conduct his own research if he switched to psychology. ③ His first experiment, nearly 30 years ago, involved memory: training a person to hear and then repeat a random series of numbers. ④ “With the first subject, after about 20 hours of training, his digit span had risen from 7 to 20,” Ericsson recalls. ⑤ “He kept improving, and after about 200 hours of training he had risen to over 80 numbers.”\n\n安德斯·艾利克森，佛罗里达州立大学一位58岁的心理学教授，称他坚信“以上都不对”。艾利克森在瑞典长大，起初攻读核能工程学，直到他意识到如果转学心理学，会有更多机会从事自己的研究。他的首次实验，大约在30年前，与记忆力相关：训练一个人听一组随机数字，随后进行复述。“在约20个小时训练之后，第一位被试者的数字记忆跨度从7个增加至20个，”艾利克森回忆道，“他不断地进步，约200个小时训练之后，他能记住80多个数字。”\n\n**校对补充：** *soccer mania* 出现在“足球狂热在一年中的高峰”语境里，表示人们对足球异常热衷、着迷。**craze** 即“狂热、风靡”，与 mania 最接近。hysteria 更强调失控的歇斯底里；excitement 只是一般兴奋；fun 是乐趣。"
+      },
+      {
+       "number": 23,
+       "stem": "According to Ericsson, good memory",
+       "options": {
+        "A": "depends on meaningful processing of information.",
+        "B": "results from intuitive rather than cognitive exercises.",
+        "C": "is determined by genetic rather than psychological factors.",
+        "D": "requires immediate feedback and a high degree of concentration."
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 23. According to Ericsson, good memory ____. | 23.根据艾利克森所说，好的记忆力____。 |\n| [A] depends on meaningful processing of information | [A] 取决于对信息进行有目的的处理 |\n| [B] results from intuitive rather than cognitive exercises | [B] 来源于直觉活动而不是认知活动 |\n| [C] is determined by genetic rather than psychological factors | [C] 由基因而非心理因素决定 |\n| [D] requires immediate feedback and a high degree of concentration | [D] 需要即时反馈和高度集中的注意力 |\n\n[精准定位] 第四段②③句明确指出艾利克森的研究结论(即观点):后天的信息编码能力完全能压倒先天因素，决定记忆能力的高低，而刻意练习又是提高有目的信息编码能力的最佳方法。也就是说，好的记忆力在于对信息进行有目的的处理，[A]正确。\n\n[命题解密] 正确项[A]是对第四段②③句内容的合理概括和改写。其中 depends on 对应 swamped by 所蕴含的强大力量(即信息编码能力的“决定性”作用); meaningful processing of information 对应②句 how well...encodes the information 以及③句 encode information meaningfully。\n\n[B]将段中①句“记忆行为是认知活动而非直觉(more of a cognitive exercise than an intuitive one)”反向曲解为“好记忆源于直觉而非认知”。[C]将①句中“记忆力本身非基因所决定”反向曲解为“由基因决定”，并添加无关信息“心理因素”。[D]断章取义，利用⑤句 concentrating 一词臆断“好记性需要注意力高度集中”，但文中 concentrating as much on...as on...意不在强调“注意力本身”，而是强调“要对技巧和结果投以同样的重视”。\n\n[技巧总结] 本题形似考查人物观点，实质考查事实细节。解答此题的重点在利用句群内隐含的语义逻辑关系去揣摩“难以理解的关键词”,并借助语义逻辑关联“跳出细节，挑出重点”;并将选项和原文对比，排除与原文逻辑不符的选项。\n\n如本题，段中①句以 not genetically determined 否定“先天遗传因素”之后，进一步以 more of... than... 结构取前(a cognitive excise)舍后(an intuitive one)，对比选项后即可排除[B]、[C]；②句借助 are swamped by... 结构(swamp 虽为生僻词，却可通过该句内以 whatever 标记的“先让步—后转折”的语义逻辑关联窥见其大致语义)将重点信息引至 how well... “encodes” the information，由此推出“信息编码”对“记忆”的重要性，初步选定[A]为正确项。进而再以③句 encode information meaningfully 与选项[A]的近义可以最终敲定该选项的正确性。[D]看似符合④⑤句... more than... Rather 所示的“舍前取后”逻辑，但仔细对比却发现偷换原文细节概念；应注意，考查核心观点或段落主旨时，借助段中琐碎细节信息设置的选项往往作为干扰项出现，相比之下，正确项则通常具有归纳概括性。\n\n**校对补充：** Ericsson 的实验表明，记忆并非主要由遗传决定，不同人的先天差异会被“如何编码信息”的能力所淹没。他认为学会**有意义地编码信息**是提高记忆的关键。因此A“good memory depends on meaningful processing of information”正确。即时反馈和高度集中是 deliberate practice 的一般特征，不是本题对 good memory 的最直接概括。"
+      },
+      {
+       "number": 24,
+       "stem": "Ericsson and his colleagues believe that",
+       "options": {
+        "A": "talent is a dominating factor for professional success.",
+        "B": "biographical data provide the key to excellent performance.",
+        "C": "the role of talent tends to be overlooked.",
+        "D": "high achievers owe their success mostly to nurture."
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| | |\n| --- | --- |\n| 24. Ericsson and his colleagues believe that ____. | 24. 艾利克森和他的同事认为____。 |\n| [A] talent is a dominating factor for professional success | [A] 天赋是职业成功的主要因素 |\n| [B] biographical data provide the key to excellent performance | [B] 生平资料里含有决定出色表现的关键因素 |\n| [C] the role of talent tends to be overlooked | [C] 天赋的作用往往被忽略 |\n| [D] high achievers owe their success mostly to nurture | [D] 杰出人物的成功主要归因于后天的培养 |\n\n[精准定位] 第五段④句以另一种方式重述了③句艾利克森及其同事的最终研究结论：表现出色的人几乎都是后天培养而非先天遗传的。[D]正确。\n\n[命题解密] 正确项[D]是对文章主旨句(末句)的同义改写。其中 high achievers 和 owe success mostly to nurture 分别对应 expert performers 和 are nearly always made。注：nurture 一词意为“培养，教育”, 偏重后天因素，与偏重先天的 nature 构成一对经典矛盾。\n\n[A]强调“天赋”的重要性，恰与全文“强调后天努力而否定天赋”的主基调相反。[B]干扰来自②句 biographical details，但此处意在强调“研究的科学严谨性（收集研究对象生平资料为研究工作之一）”，而非探讨“生平资料信息包含解释出色表现的原因”。[C]将③句天赋“被过高估计”反向曲解为“被忽略”。\n\n[技巧总结] 本题同上题，形似考查人物观点，实质考查研究的最终结论(实为全篇内容的提炼升华)。解答此题的关键在：1、找出研究结论句，正确答案往往是对研究结论的同义替换；2、结合上下文更多线索锁定正确答案。\n\n如本题，③④句呈现研究结论，首先应格外关注冒号后内容：“talent is highly overrated、expert performers are nearly always made”为同一语义正反两面不同方式的表述，阐明文章主旨“出色者乃后天造就，而非天赋使然”，初步锁定[D]；其次，根据上文(第四段)艾利克森有关记忆力的研究结论“记忆力通过后天刻意练习可以得到提升”可进一步推知“后天培养对出色表现的重要作用”，由此最终敲定[D]正确。\n\n**校对补充：** 末段明确说 Ericsson 团队的研究得出一个惊人的判断：人们通常称为“天赋”的因素被严重高估，专家无论在记忆、外科、芭蕾还是编程领域，几乎总是“made, not born”。因此高成就者的成功主要来自后天训练和培养，即 **nurture**，D正确。"
+      },
+      {
+       "number": 25,
+       "stem": "Which of the following proverbs is closest to the message the text tries toconvey?",
+       "options": {
+        "A": "“Faith will move mountains.”",
+        "B": "“One reaps what one sows.”",
+        "C": "“Practice makes perfect.”",
+        "D": "“Like father, like son.”"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| 25. Which of the following proverbs is closest to the message the text tries to convey? | 25. 以下哪一句谚语与该文章试图传达的信息最接近？|\n| --- | --- |\n| [A] “Faith will move mountains.” | [A] “精诚所至，金石为开。” |\n| [B] “One reaps what one sows.” | [B] “种瓜得瓜，种豆得豆。” |\n| [C] “Practice makes perfect.” | [C] “熟能生巧。” |\n| [D] “Like father, like son.” | [D] “有其父，必有其子。” |\n\n[精准定位]文章开篇由“优秀球员生日现象”引入，引发“优秀是否源于天生”这一疑问；后以艾利克森一系列研究说明“记忆能力并非基因决定，而是刻意练习下的认知活动”,末段则以其更多研究突破单纯“对记忆能力的说明”,明确指出“天赋”被高估，各领域的优秀表现几乎都是通过后天的努力练习造就的，故[C]正确。\n\n[命题解密] 正确项[C]是对文章主旨句(文末句)的抽象概括，其中 practice、perfect 分别对应 made (后天培养)、expert performers(出色表现者)。\n\n[A]从②句 They gather all data they can, not just... but also... 推断出“研究者们怀揣坚定信念投身研究，最终得出正确结论”，但文中旨在强调“后天练习 VS 先天基因”两者对于优秀表现的影响，而不在于说明“成功源于执着的信念(faith)”。[B]喻义“因果报应”，能体现“足够努力便会收获成功”，但侧重点在于“产出和投入一致，后者决定前者”，偏离本文批驳立意“优秀无关天赋，而是源自后天勤奋”。[D]强调“先天因素”，干扰源自第二段②句“父母遗传因素对孕育优秀球员的影响”，但后文对这种先天因素予以了否定。\n\n[技巧总结]本文以现象开篇，引出话题并树靶；继而依据研究打靶并提出新观点。命题人借谚语考查学生概括全文主旨的能力。此题需要从文章主旨句(往往出现于首尾段、与开篇方式紧密相关)入手，抓住文章脉络进行解答。\n\n首先，通读首尾段，发现文末句实为观点句，指出：出色表现者几乎都是后天培养而非先天遗传的，初步断定[C]的正确性。其次，通读全文，抓住行文脉络：首两段引出文章话题：出色表现的要素，并暗中树立靶子：出色表现源于先天；末三段进而以艾利克森一系列研究的结论升华文章主题：人的成就源自后天培养而非先天遗传，最终判定[C]正确。"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Text 2",
+     "passage": [
+      "For the past several years, the Sunday newspaper supplement Parade has featured a column called “Ask Marilyn.” People are invited to query Marilyn vos Savant, who at age 10 had tested at a mental level of someone about 23 years old; that gave her an IQ of 228 – the highest score ever recorded. IQ tests ask you to complete verbal and visual analogies, to envision paper after it has been folded and cut, and to deduce numerical sequences, among other similar tasks. So it is a bit confusing when vos Savant fields such queries from the average Joe (whose IQ is 100) as, What’s the difference between love and fondness? Or what is the nature of luck and coincidence? It’ s not obvious how the capacity to visualize objects and to figure out numerical patterns suits one to answer questions that have eluded some of the best poets and philosophers.",
+      "Clearly, intelligence encompasses more than a score on a test. Just what does it mean to be smart? How much of intelligence can be specified, and how much can we learn about it from neurology, genetics, computer science and other fields?",
+      "The defining term of intelligence in humans still seems to be the IQ score, even though IQ tests are not given as often as they used to be. The test comes primarily in two forms: the Stanford-Binet Intelligence Scale and the Wechsler Intelligence Scales (both come in adult and children’ s version). Generally costing several hundred dollars, they are usually given only by psychologists, although variations of them populate bookstores and the World Wide Web. Superhigh scores like vos Savant’ s are no longer possible, because scoring is now based on a statistical population distribution among age peers, rather than simply dividing the mental age by the chronological age and multiplying by 100. Other standardized tests, such as the Scholastic Assessment Test (SAT) and the Graduate Record Exam (GRE), capture the main aspects of IQ tests.",
+      "Such standardized tests may not assess all the important elements necessary to succeed in school and in life, argues Robert J. Sternberg. In his article “How Intelligent Is Intelligence Testing?”, Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge, components also critical to problem solving and life success. Moreover, IQ tests do not necessarily predict so well once populations or situations change. Research has found that IQ predicted leadership skills when the tests were given under low-stress conditions, but under high-stress conditions, IQ was negatively correlated with leadership – that is, it predicted the opposite. Anyone who has toiled through SAT will testify that test-taking skill also matters, whether it's knowing when to guess or what questions to skip."
+     ],
+     "questions": [
+      {
+       "number": 26,
+       "stem": "Which of the following may be required in an intelligence test?",
+       "options": {
+        "A": "Answering philosophical questions.",
+        "B": "Folding or cutting paper into different shapes.",
+        "C": "Telling the differences between certain concepts.",
+        "D": "Choosing words or graphs similar to the given ones."
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| 26. Which of the following may be required in an intelligence test? | 26.以下哪一项可能出现在智力测试中？|\n| --- | --- |\n| [A] Answering philosophical questions. | [A] 回答哲学问题。 |\n| [B] Folding or cutting paper into different shapes. | [B] 把纸折成或剪成不同形状。 |\n| [C] Telling the differences between certain concepts. | [C] 辨别某些概念之间的区别。 |\n| [D] Choosing words or graphs similar to the given ones. | [D] 选出与所给单词或图形相似的单词或图形。 |\n\n[精准定位] 首段③句介绍 IQ 测试的内容，其中包括要求测试者完成文字和视觉类推。[D] 描述的是词汇和图形类比，与原文中“文字和视觉的类推”相对应，属于 IQ 测试的内容，为正确答案。\n\n[命题解密] 本题题干 be required in an intelligence test 对应原文③句 IQ tests ask you to...to...and to...。正确项[D]包含在原文 complete verbal and visual analogies 的内容之中，其中 words or graphs 分别是 verbal and visual 的下义词；choosing...similar to the given ones 同义改写 complete...analogies。\n\n[A]将首段末句 the capacity... to answer questions that have eluded... philosophers 曲解为“智力测试考查哲学问题”，但原句实则是在怀疑“IQ 测试所反映的能力能否使人回答哲学问题”。[B]将首段③句 envision paper after it has been folded and cut 所强调的“空间想象能力(envision)”篡改为强调“实际动手能力(Folding or cutting)”。[C]对首段④句两问题 What's the difference between love and fondness? Or what is the nature of luck and coincidence? 断章取义为“智力测试要求辨别某些概念之间差异”，但原文实则是对“莎凡居然能解答融汇生活智慧和经验阅历的问题”表示疑惑。\n\n[技巧总结] 本题就文中关键概念(intelligence test)考查事实细节。可采取思路：根据题干关键词锁定原文，然后根据通用法则“题干+正确项= / ≈ 原文相关内容”选出答案。另外，如果原文相关意群主旨明确，且与上下文有明显的逻辑分层，那么出现或总结上下文中词汇信息的选项一般为干扰项，可直接排除。具体到本题，首先根据题干将答案来源锁定在首段③句 IQ tests ask you to...to...and to...,发现该句专门介绍 IQ 测试的考查内容，相较于上文“叙述事例”和下文“作者评论”,是一个较为完整独立的意群，由此可排除利用下文信息 philosophers/the difference between...设置干扰的[A]和[C];然后通过比对原文发现[D]是原文 to complete verbal and visual analogies 的同义改写，而[B]篡改文义。\n\nⅡ ① Clearly, intelligence encompasses more than a score on a test. ② Just what does it mean to be smart? ③ How much of intelligence can be specified, and how much can we learn about it from neurology, genetics, computer science and other fields?\n\n显然，智力不止包含一次测试的一个得分。那么什么才叫“聪明”呢？智力有多少可以被明确(测知)?我们从神经学、遗传学、计算机科学和其他领域中又能对智力了解多少呢？\n\n① encompass v. 包含，包括，涉及（大量事物）\n\n② specify v. 明确、详细说明\n\n**第二段明确作者观点：IQ 测试分数不能全面体现智力。关键词为：more than a score on a test。**\n\n①句承上段明确作者观点：IQ 测试分数不能完全体现智力高低。Clearly（毫无疑问、显然）顺承上文论述、自然引出作者观点/结论，并传递作者对该结论的强调、确信。encompasses（包含[大量事物]）、more than（不仅仅、超出）、a score on a test（一次测试中的一个得分）明确作者对“智力”的认识：智力囊括多种能力，需要多方考虑，并非仅用一次 IQ 测试的一个得分（或是其他任何一项测试的得分）便能全面衡量。\n\n②③句顺而提问：智力能否界定？如何界定？②句提问：那究竟什么才叫做“聪明”?(言外之意：智力是否有衡量标准？)Just 既综合“顺而提问”与“轻微转折”的意味，又带有强调语气：既然 IQ 测试分数不能反映智力高低是毋庸置疑的事实，那究竟怎么才能评判一个人聪明与否？be smart 意为 be intelligent or sensible,代表真正的有脑力、高智力。\n\n③句进一步具化解释②句。How much of intelligence can be specified 就“智力的可量化程度”提问（specify 意为具体指明、明确说明）；how much can we learn about it from... 则进一步设想“借助多个科学领域界定智力的可能”。\n\n【深层解读】本段实为承上启下段：①句承上总结明确对“利用 IQ 测试分数界定人的智力水平甚至综合能力”的否定态度；②③句顺而提问智力能否测定以及如何测定，引发下文正式讨论。\n\nThe defining term of intelligence in humans still seems to be the IQ score, even though IQ tests are not given as often as they used to be. The test comes primarily in two forms: the Stanford-Binet Intelligence Scale and the Wechsler Intelligence Scales (both come in adult and children's versions). Generally costing several hundred dollars, they are usually given only by psychologists, although variations of them populate bookstores and the World Wide Web. Superhigh scores like vos Savant's are no longer possible, because scoring is now based on a statistical population distribution among age peers, rather than simply dividing the mental age by the chronological age and multiplying by 100. ⑤ Other standardized tests, such as the Scholastic Assessment Test (SAT) and the Graduate Record Exam (GRE), capture the main aspects of IQ tests.\n\n尽管如今 IQ 测试已不像过去那样频繁使用，但 IQ 分数似乎仍是界定人类智力的主要指标。IQ 测试主要有两种形式：斯坦福—比奈智力量表和韦克斯勒智力量表（二者都有成人版和儿童版）。这两种测试一般花费数百美元，通常只能由心理学家实施，不过它们的变体在书店和互联网上随处可见。像沃斯·莎凡特那样的超高分已不再可能出现，因为现在的评分依据是同龄人的统计总体分布，而不是简单地用智力年龄除以实际年龄再乘以100。其他标准化测试，如学术能力评估测试（SAT）和研究生入学考试（GRE），也体现了 IQ 测试的主要方面。\n\n**词汇注释与难句分析**\n\nvariation n. 变体，本文指“改编版本”\n\npopulate v. 居住于，事物在……占有位置\n\ndistribution n. 分布\n\npeer n. 同龄人\n\nmultiply v. 乘，使相乘(后跟介词 by)\n\ninfer v. 推出（27 题）\n\nindicator n. 指标（27题）\n\nextreme a. 极端的（28 题）\n\n**经典搭配**\n\ncome in two forms (有两种形式)\n\npopulation distribution（人口分布）\n\ndivide...by...(除以……)\n\nmental age（心理年龄）\n\nchronological age（生理年龄、实际年龄）\n\nstandardized test(标准化测试)\n\n**语篇分析**\n\n第三段正面介绍当前 IQ 测试：IQ 分数仍是衡量人类智力的标准；IQ 测试已成为标准化测试。关键词为：① still; ② standardized tests。\n\n①句转承上文指出当前情形、引领下文论述：IQ 分数仍被视为衡量人类智力的标准。Still 带有双重转折（一，构成段际转折，引出当前不合理情形：IQ 分数显然不能完全体现智力高低，却依然是当前社会推崇的智力测试方式；二，以 still...even though 构成句内转折，客观说明如今情形：IQ 分数虽依然是社会认可的智力衡量标准，但使用频繁度的确有所降低），同时蕴含作者情感（不满人们对 IQ 分数的“执迷不悟”）。seems to be 传递 actually is not 之意，流露作者态度：IQ 作为定义人类智力的术语并非实至名归。\n\n②至④句分别从目前的主要形式（forms）、使用情况（costing/are usually given only by/ variations）、评分方法（scoring）等多角度介绍如今的 IQ 测试，表明其“标准化测试”的性质。\n\n②句介绍目前 IQ 测试的两种主要形式。primarily 表明此处仅提及两种主要形式，实际上还有其他多种测试形式，侧面说明 IQ 测试依然大有受众。括号内容补充指出两者都分为成人和儿童版本，暗示 IQ 测试的形式/内容得到了一定改进（不再是原来明显不合理的情形“儿童和成年人共用同一版本”，可联系莎凡事例：10 岁时参加测试、测得结果为智力年龄 23 岁）。注：scale 这里指“(心理学和教育学中的)量表”。\n\n③句介绍 IQ 测试的使用情况。Although(等同于 but 或 however, 意为“不过，然而”) 形成句内转折，在以主句强调 IQ 测试正规版本/专业测试的同时，凸显其改变版本多样、随处可得。主句 Generally costing... only by psychologists 说明 IQ 测试“正规版本”的使用情况：测试费用昂贵，只由心理学家提供 (generally/usually 说明一般情况，用于客观介绍，only 起强调作用，凸显“正规渠道”)。从句 although variations... populate 转而说明其改编情况：各种变体版本在书店和网上随处可见，人人都能随时拿来进行测试(言外之意：一方面，社会依然认可用 IQ 测试来衡量智力；但一方面，IQ 测试已不再高深莫测，人们已不再迷信其价值)。\n\n④句指出 IQ 分数的计算方法发生了变化。Because 引领内容虽为从句，但为语义重点。主句以... are no longer possible 断然指出“莎凡这样的超高 IQ 分数不会再现”。because 从句以 scoring is now based on... rather than... 结构给出原因——IQ 分数的计算方法发生根本变化。注意：based on a statistical population distribution、among age peers 与 simply 暗含“优劣对比”、暗示 IQ 测试的计分方法得到了改进：过去的计算方法过于简单笼统(所有年龄段的人群智商计算均套用一个简单的公式：智商= (心智年龄 / 生理年龄) × 100)，而现在的方法则相对更科学、更系统（基于“同龄群体”的“统计学分布”，即：为标准化测试）。\n\n⑤句明确指出如今的 IQ 测试是一种“标准化测试”,并引入其他类似标准化测试，从而将本文评述话题提升为“以 IQ 测试为代表的标准化测试能否全面反映人类智力及能力高低”。Other standardized tests...capture the main aspects of IQ tests 暗中概述②③④句，指出如今的 IQ 测试实为一种标准化测试；且指出人们也已采用其他标准化测试作为衡量方式(暗示人们已认识到 IQ 测试有其局限),同时强调这些标准化测试本质上无差异，从而将文章评述话题提升为“以 IQ 测试为代表的标准化测试能否全面反映人类智力高低”。capture 意为“充分体现[某种特点]”。注：Standardized Test,标准化测试/测验，指对测试的各个环节包括测试目的、命题、施测、评分、计分、分数解释等都按照系统的科学程序组织，以严格控制误差，是一个系统化、科学化、规范化的施测过程。\n\n【深层解读】一、相对上两段对 IQ 测试的“明显怀疑/质疑”，本段作者态度“相对缓和、客观”：一方面依然传递“批驳态度”：人们执迷不悟、依然将 IQ 测试当做衡量智力的标准；另一方面却指出“好的变化”：人们对 IQ 高分的推崇有所降低，且 IQ 测试无论是在形式上还是在计分方法上都得以改进，成为一种相对科学的标准化测试。但实际上，这种“表面的客观”实则是在为下文的“新一轮批驳”树靶：将话题由“IQ 测试能否全面反映人类智力及能力高低”提升为“以 IQ 测试为代表的标准化测试能否全面反映人类智力及能力高低”。二、本段主要介绍了 IQ 测试的诸多变化（使用情形变化、测试内容变化、计分方法变化、得分情况变化等），且其中涉及因果关联，阅读时应理清关系。"
+      },
+      {
+       "number": 27,
+       "stem": "What can be inferred about intelligence testing from Paragraph 3?",
+       "options": {
+        "A": "People no longer use IQ scores as an indicator of intelligence.",
+        "B": "More versions of IQ tests are now available on the Internet.",
+        "C": "The test contents and formats for adults and children may be different.",
+        "D": "Scientists have defined the important elements of human intelligence."
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n| 27. What can be inferred about intelligence testing from Paragraph 3? | 27. 从第三段可以推出关于智力测试的什么结论？|\n| --- | --- |\n| [A] People no longer use IQ scores as an indicator of intelligence. | [A] 人们不再使用智商分数作为智力的(衡量)指标。 |\n| [B] More versions of IQ tests are now available on the Internet. | [B] 现在互联网上有更多版本的 IQ 测试。 |\n| [C] The test contents and formats for adults and children may be different. | [C] 针对成人和儿童的测试内容和形式可能有所不同。 |\n| [D] Scientists have defined the important elements of human intelligence. | [D] 科学家已经明确了人类智力中的重要因素。 |\n\n[精准定位] 第三段②句指出 IQ 测试主要有两种形式，斯坦福—比纳智力量表和韦氏智力量表，两者都有成人和儿童两个版本，由此可推知“成人和儿童所使用的智力量表不一样，在内容和形式上可能有所不同”, [C] 正确。\n\n[命题解密] [C] 是②句括号中语句 both come in adult and children's version 所隐含的内容，该含义可通过下文④句 scoring is now based on a statistical population distribution among age peers(现在智商分数的计算以同龄人的统计人口分布为基础)得到验证。\n\n[A]根据第三段①句部分内容 IQ tests are not given as often as they used to be 并杂糅段中个别词汇 no longer/IQ scores/intelligence 设置干扰，但原文指出“虽然 IQ 测试不像以前那样频繁使用，但 IQ 测试似乎仍是人类智力的定义性术语”,选项反向篡改了文义。[B]利用③句 variations of them populate bookstores and the World Wide Web 设置干扰，但选项添加无关信息 more 而含有比较意味“互联网上的 IQ 测试改编版本比线下版本多/比原来更多”,原文并没有这一层意思。[D]将第三段个别词汇 defining/intelligence/humans、第四段①句个别词汇 the important elements 和无关信息 scientists 杂糅在一起设置干扰，原文并未提及关于“科学家的行为”和“人类智力的重要因素”。\n\n[解题技巧] 本题针对第三段设置细节综合题，要求考生全面理解关于 intelligence testing 的信息、并进行一定推理。解答此类细节内容多、跨度大、定位不明显的题时可先提炼选项关键词挂钩至相关原文，再借助逐一排除法（错误项或反向干扰、或添加无关信息等）来找到正确项。若迫于时间，考生可适当使用一个“小技巧”：言辞绝对的选项多为错误项，可暂且搁置；而用词严谨、带有缓和语气的选项多为正确项，可作为备选重点。\n\n如本题，[A]People no longer use 可初知本选项考查“当前对 IQ 测试的使用定位”，据此挂钩至①句；且该选项带有明显绝对化语气、该选项正确几率较小。[B]More versions 可初知本选项考查“IQ 测试的改编情况”，据此定位到③句；且该选项含有明确对比语气。[D]根据 have defined 和 the important elements 可挂钩至第三段①句和第四段①句；且选项带有绝对肯定的语气，该选项正确的几率较小。[C]根据 adults and children 可定位至第三段②句；且 may be different 为推测语气，该选项正确的几率较大。最后将选项与原文逐一对比，可最终确定[C]正确。\n\nIV ① Such standardized tests may not assess all the important elements necessary to succeed in school and in life, argues Robert J. Sternberg. ② In his article “How Intelligent Is Intelligence Testing?”, Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge, components also critical to problem solving and life success. ③ Moreover, IQ tests do not necessarily predict so well once populations or situations change. ④ Research has found that IQ predicted leadership skills when the tests were given under low-stress conditions, but under high-stress conditions, IQ was negatively correlated with leadership—that is, it predicted the opposite. ⑤ Anyone who has toiled through SAT will testify that test-taking skill also matters, whether it’s knowing when to guess or what questions to skip. [461 words]\n\n罗伯特·J·斯特恩伯格指出，这类标准化测试也许不能评估在学业和生活中取得成功所必需的所有重要因素。斯特恩伯格在他的《智力测试有多智能？》一文中指出，传统测试能够对分析能力和语言能力做出最佳评估，但不能评估创造能力和实践知识，而这两个因素对于解决问题和在生活中取得成功也至关重要。此外，一旦受试群体或环境发生变化，IQ 测试不一定能做出准确预测。研究发现，当（受试者）在压力小的情况下进行测试时，IQ 能预示领导能力（的高低）；但是在压力大的情况下，IQ 与领导能力负相关——也就是说，根据智商预测出的领导能力与实际情况相反。任何熬过“学术能力评估测试”的人都可以证明，应试技巧也很重要，无论是知道何时应该猜测或是（知道）何题应该跳过。\n\n**词汇注释与难句分析**\n\nassess v. 评估\n\nverbal a. 词汇的，文字的\n\ncomponent n. 因素\n\ncritical a. 重要的\n\nguesswork n. 猜测行为（29题）\n\nimpartial a. 公正的（30题）\n\n**经典搭配**\n\nfail to do sth（未能完成某事，做某事失败）\n\npractical knowledge (实用性知识)\n\nbe critical to sth (对……至关重要)\n\nlow/high-stress condition（低压/高压环境）\n\nnegatively/positively correlated with...（与……负/正相关）\n\ntoil through(艰难跋涉；历尽困苦做某事)\n\nAnyone who has toiled through SAT will testify that test-taking skill also matters, whether it's knowing when to guess or what questions to skip.\n\n功能注释：本句主干为 Anyone... will testify that..., 强调证明内容的可信度。who 从句限定 Anyone:熬过 SAT 考试；that 从句陈述证明内容；knowing when... or what... 例证 test-taking skill。\n\n**语篇分析**\n\n第四段通过多角度指出标准化测试的缺陷，明确作者观点：以 IQ 测试为代表的标准化测试并不能准确全面评估人的智力以及能力。关键词为：①may not assess all;②negatively correlated。\n\n①②句从“内容局限性”角度指出标准化测试缺陷一：不能评估成功所需所有重要因素。may not assess all the important elements 和 best assess... but fail to measure... 实现语义强照应。\n\n①句借专业人士 Sternberg 之口指出标准化测试考查的能力有限。Such standardized tests 回应上段末句 Other standardized tests, 确定评述范围“以 IQ 测试为代表的标准化测试”。may not assess all the important elements... (may not 此处并非用于表示“语气委婉”、意为“可能不会……”, 而是强调“无此能力，意为“不能做到……”) 指出标准化测试的明显缺陷：不能全面评估成功所需的重要因素(即：人们的综合能力)。句中 argue 意为“提出，坚持”, 暗示人们对标准化测试的效果存在争议，而 Sternberg 以充分理由坚持自己观点，暗示下文将详述其理由。\n\n②句具体解释①句，给出 Sternberg 的理由。观点引出词由 argue 到 note,体现两句间“援引 Sternberg 所坚持观点——客观介绍其理由”的逻辑。traditional tests best assess... but fail to... (traditional tests 回指 standardized tests) 具体解释上句 may not assess all...,在充分肯定标准化测试作用“能够准确评估分析能力和语言能力”的同时，重点指出其局限性“不能评估创造能力和实践知识”(注：就此可参照首段内容：“能反映的能力”对应③句所述 IQ 测试内容；“无法体现的能力”对应④⑤句作者质疑)。creativity and practical knowledge 的同位语 components also critical to problem solving and life success 回应①句 the important elements necessary to succeed in school and in life,强调“创新能力和实践能力的无比重要”,侧面凸显“标准化测试的致命缺陷”。注：文章标题“How Intelligent Is Intelligence Testing?”反问评测人类智力水平的智力测试到底有多智能，本身就含有质疑和讽刺之意。\n\n③④句从“外部因素”角度指出标准化测试缺陷二：测试结果易因受试群体和受试环境影响而不稳定。Moreover 引出同一主题下的另一方面信息，在②③句基础上进一步引出标准化测试缺陷；once populations or situations change 和 under...conditions, but under...conditions 体现两句语义强关联。\n\n③句总说：受试群体或环境的变化会影响 IQ 测试的准确性。once(一旦……,一……就……)形成“结果—条件”关系，强调“测试的效度(not necessarily predict so well,其中 so 意为 very)”受“外部因素(populations 并非常用意义的“人口”,而是指“参加 IQ 测试的受试群体”;situations 指“测试环境”)直接的、明显的影响。即：IQ 测试结果不具稳定性、准确性值得怀疑。\n\n④句例证③句。本句以测试情景变化 under low-stress conditions → under high-stress conditions 以及相应测试结果变化 IQ predicted leadership skills→IQ was negatively correlated with leadership 展现 IQ 测试结果的不稳定性。破折号后内容 that is, it predicted the opposite 一方面解释前文 negatively correlated(负相关),另一方面强调 IQ 测试“不仅不能准确反映领导能力，甚至有颠倒是非的可能”,其测试结果的可信度大打折扣。\n\n⑤句从“题目设置本身”角度指出标准化测试缺陷三：受试者可能凭借应试技巧而非实力取得高分。Also 与上文 Moreover 一起，体现①②-③④-⑤句之间的并列叠加逻辑。\n\nAnyone... will testify... 以 SAT 为标准化测试的缩影，以 SAT 参加者的亲身体验说明测试缺陷，增强说服力：这是“所有参试者的亲身经历都可证明的问题”, 真实可信且极为普遍。toiled through SAT 和 test-taking skill matters (guess 和 skip questions 是 test-taking skills 的下义词) 一正一谐，传递嘲讽之意，并借 also 增强这一语气：为应试而付出艰苦卓绝的努力，却依然需要应试技巧才能获取高分，甚至有可能会出现“努力应试不如技巧熟练”的情形，即：测试结果究竟能在多大程度上反映应试者的能力水平不得而知。\n\n【深层解读】一、本段虽没有明显主旨句，但以表叠加的逻辑词 Moreover、also 和负面语义表述 may not assess、fail to measure、do not necessarily predict so well 展现标准化测试的多重缺陷，有力地证明论点：标准化测试不能准确反映人类智力及能力。\n\n二、全文脉络梳理：首段以事例“向 IQ 测试高分得主发问”暗示社会普遍存在 IQ 崇拜现象，同时提出作者质疑“IQ 能否反映人的智力以及能力”→第二段明确回答“不能”并提问“如何衡量智力”→第三段回答提问并说明社会现状“智商仍是人类智力的衡量标准”，将讨论范围扩大至“标准化测试”→第四段以“标准化测试存在多个缺陷”进行集中批驳。"
+      },
+      {
+       "number": 28,
+       "stem": "People nowadays can no longer achieve IQ scores as high as vos Savant’ s because",
+       "options": {
+        "A": "the scores are obtained through different computational procedures.",
+        "B": "creativity rather than analytical skills is emphasized now.",
+        "C": "vos Savant’ s case is an extreme one that will notrepeat.",
+        "D": "the defining characteristic of IQ tests has changed."
+       },
+       "answer": "A",
+       "explanation": "**全局真题精解**\n\n> **答案：** A\n\n| | |\n| --- | --- |\n| 28. People nowadays can no longer achieve IQ scores as high as vos Savant's because ____. | 28. 现在人们无法再取得莎凡那么高的 IQ 分数，因为____。 |\n| [A] the scores are obtained through different computational procedures | [A] 这些分数通过不同的计算方法获得 |\n| [B] creativity rather than analytical skills is emphasized now | [B] 现在更强调创造能力而不是分析能力 |\n| [C] vos Savant's case is an extreme one that will not repeat | [C] 莎凡的例子是一个不会再现的极端个案 |\n| [D] the defining characteristic of IQ tests has changed | [D] IQ 测试的定义性特征发生了改变 |\n\n[精准定位] 根据题干关键词 no longer/ as high as vos Savant's/ because 定位至第三段④句，该句指出莎凡的高分数不可能重现，原因是：现在智商分数的计算 (scoring) 是以同龄群体的统计人口分布为基础的，而过去只是简单地用智力年龄除以实际年龄再乘以 100, 也即智商分数的计算方式发生了改变，[A] 符合文义。\n\n[命题解密] 题干和正确项[A]构成了对第三段④句的改写和概括：题干对应原文 Superhigh scores like vos Savant's are no longer possible, because,[A]对应原文 scoring is now based on... rather than...。\n\n[B]利用第四段②句 traditional tests best assess analytical... but fail to measure creativity 设置干扰，但该内容是在说明 IQ 测试的缺陷，答非所问。[C]和题干都是对第三段④句 Superhigh scores like vos Savant's are no longer possible 的同义改写，即：选项只是对题干的同意表述，并未触及原因。[D]将第三段①句“智力的定义性术语依然是 IQ 分数”篡改为“IQ 测试的定义性特征发生了改变”,且这与题干不存在因果关系。\n\n[技巧总结] 本题就句式结构复杂的长难句考查因果细节。解答此类题目的基本步骤为：首先明确题干考因还是考果，并定位至相关原文，搜索原文中表示或暗含因果关系的词语(如 because/result from/for/due to/out of 等);然后细读相应内容，力求读懂文义。但如果句中含有较难理解的字词等，考生可不必纠结于弄懂其中准确意思，而是可以结合句中论述主体和一些(表主动被动、时间推移、对比、选择关系等)特殊词汇来帮助理解文义，进而解题。\n\n解答本题时，考生首先明确题干考查“人们不能再获得莎凡那样高的智商分数的原因”,定位至第三段④句，并锁定 because 后的内容。然后通过细读发现 because 从句中一些词组较难理解，如 statistical population distribution among age peers/dividing the mental age by the chronological age and multiplying by 100,但能大致推测这些都是对本句论述主体 scoring ([智商]分数的计算)的具体说明。句中出现取舍结构 is now X rather than Y,用以说明“现在智商分数的计算方法是 X 而不是 Y”,也就是 Y 是“以前智商分数的计算方法”,现在智商分数的计算方法变化成了 X。浏览备选项，发现[A]符合该文义。\n\n**校对补充：** 文章解释，像 vos Savant 那样的超高 IQ 分数如今不再可能出现，是因为**计分方法改变了**：现在根据同年龄群体的统计分布评分，而过去是“心理年龄÷实际年龄×100”。因此A“分数通过不同的计算程序得到”直接对应原文。"
+      },
+      {
+       "number": 29,
+       "stem": "We can conclude from the last paragraph that",
+       "options": {
+        "A": "test scores may not be reliable indicators of one’ sability.",
+        "B": "IQ scores and SAT results are highly correlated.",
+        "C": "testing involves a lot of guesswork.",
+        "D": "traditional tests are out of date."
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| | |\n| --- | --- |\n| 29. We can conclude from the last paragraph that ____. | 29. 从末段我们可以得出的结论是____。 |\n| [A] test scores may not be reliable indicators of one's ability | [A] 测试分数可能不是反映一个人能力的可靠指标 |\n| [B] IQ scores and SAT results are highly correlated | [B] 智商分数与学术评估测验结果密切相关 |\n| [C] testing involves a lot of guesswork | [C] 测试中涉及许多猜测行为 |\n| [D] traditional tests are out of date | [D] 传统的测试已经过时 |\n\n[精准定位]末段介绍了标准化测试的多种缺陷：不能评估成功所需的所有重要因素；测试结果受到测试群体或测试环境的影响而不能准确预测；(受试群体的)应试技巧也影响测试分数，分别从标准化测试的自身局限性、外部因素两方面表明其考查能力单一，测试结果不稳定，不能准确考量受试者的真正实力。综合可知[A]正确。\n\n[命题解密] 正确项[A]是根据末段①句 Such standardized tests may not assess.../②句 traditional tests...fail to measure.../③句 IQ tests do not necessarily predict so well once.../④句 it (IQ) predicted the opposite/⑤句 test-taking skill also matters 总结概括得出的结论。\n\n[B]将末段④⑤句个别词汇 IQ、correlated、SAT 杂糅在一起设置干扰。由第三段末句可知，SAT 是具备 IQ 测试主要特点的另外一种标准化测试，末段⑤句提及 SAT 是为了说明应试技巧影响测试的分数，而 IQ 分数和 SAT 结果之间的关系从本文无从推知。[C]利用末句个别词汇 guess 设置干扰，“猜测”是 SAT 的应试技能之一，但不能由此推知所有测试都要进行很多猜测。[D]根据末段②句 traditional tests...fail to measure...主观臆断出“传统测试已经过时”，但原文中“传统测试”实际指代“包括 IQ 测试在内的标准化测试”，而本文第三段①句明确说明 IQ 测试依然被用于衡量人类智力，且现行被广泛用于评估学生学术水平的 SAT 和 GRE 等均属于标准化测试（第三段⑤句），因此传统测试并未过时。\n\n[技巧总结]本题就第四段(无主旨句段)设置概括推理/段落主旨题。解题时应首先立足本段，借助逻辑词划分句群，并概括得知其主要内容；再联系全文主旨，把握行文大方向，最后从备选项中筛选出与本段核心内容和文章主旨相一致的选项。偏离主旨或内容过于细节的选项一般不是正确项，可通过与原文比对逐一排除。\n\n如本题，首先可浏览第四段，借助表叠加的逻辑词 Moreover、also 和负面语义表述 may not assess、fail to measure、do not necessarily predict so well 展现标准化测试的多重缺陷，推断作者结论“标准化测试不能准确反映人的能力”,初步确定[A]正确。随后借助第二段①句作者明确观点“显然，智力并不能仅通过测试分数体现”以及第三段内容“IQ 测试是一种标准测试”进一步发现[A]符合主旨内容，正确无误。[B]、[C]、[D]中的内容(IQ score/SAT/guesswork/traditional tests)涉及文中具体细节，通过比对原文验证该三项均错误。\n\n**校对补充：** 末段指出标准化测试无法衡量创造力和实践知识；IQ 对领导力的预测甚至会随压力环境改变而反向；考试技巧也会影响成绩。因此测试分数不能稳定、全面地代表一个人的真实能力，A正确。作者并未说所有传统测试已经过时，也没有说测试主要靠猜。"
+      },
+      {
+       "number": 30,
+       "stem": "What is the author’ s attitude towards IQ tests?",
+       "options": {
+        "A": "Supportive.",
+        "B": "Skeptical.",
+        "C": "Impartial.",
+        "D": "Biased."
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| 30. What is the author's attitude towards IQ tests? | 30. 作者对 IQ 测试的态度是什么？|\n| --- | --- |\n| [A] Supportive. | [A] 支持的。 |\n| [B] Skeptical. | [B] 怀疑的。 |\n| [C] Impartial. | [C] 公正的。 |\n| [D] Biased. | [D] 带有偏见的。 |\n\n[精准定位] 纵观全文，首段作者提出质疑“IQ 测试高分未必反映各方面能力超群”,第二段明确观点“智力不能仅通过智商分数体现”,第三段说明社会现象“智商分数仍是人类智力的衡量标准”,末段通过论述包括 IQ 测试在内的标准化测试的缺陷来批判第三段所述社会现象的不合理性。可见，作者对 IQ 测试的准确性持怀疑态度，[B] 正确。\n\n[命题解密] 作者对 IQ 测试的怀疑态度贯穿全文，可从较为明显表明态度的首段⑤句和第二段①句，以及第四段关于标准化测试缺陷的论述中总结得出。\n\n[A]根据首段例子“IQ 测试高分得主能回答所有读者问题”和第三段首句“智商分数仍是人类智力的衡量标准”，而认为作者对 IQ 测试持支持态度，但选项忽略了首段作者质疑的语气以及后文对 IQ 测试缺陷的论述。[C]的误区在于根据首段涉及 IQ 测试考查内容的介绍、第三段涉及 IQ 测试主要形式、费用、版本、计算方式等的介绍、第四段②句在肯定 IQ 测试价值的同时也说明其局限性，从而认为作者仅是客观公正地介绍 IQ 测试。实际上，作者是本着客观公正的态度对“IQ 测试分数能全面反映人的智力”表示怀疑。[D]将作者的怀疑态度过度引申为“对 IQ 测试存有偏见”，本文对 IQ 测试准确性的质疑有理有据，并未掺杂任何偏见。\n\n[技巧总结] 本题针对全篇内容考查作者态度。此类考查作者态度题的文章一般不会有褒贬色彩明显的词汇直接修饰文章中心词，而是蕴含于行文论述的各具体方面，因此考生可从以下三点切入：1)重点关注文中评述性语句(转折词、否定表达、质疑语气等)，概括得出人物观点态度，初步做出选择；2)结合重点段落的大意把握作者态度；3)结合其他试题答案进行验证。\n\n具体到本题：首先关注文中有关 IQ 测试的评述性语句(首段⑤句 It's not obvious/第二段①句 Clearly...encompasses more/第四段①③句 may not assess all/do not necessarily predict so well),可知作者认为“IQ 测试不能全面反映人的能力”。然后结合各段大意“首段对‘IQ 测试高分反映各方面能力超群’提出质疑，第二段明确质疑的合理性，第四段论述 IQ 测试的缺陷”,综合可知，作者对 IQ 测试的准确性持怀疑态度，[B]正确。另外，通过本文第四题的答案 test scores may not be reliable indicators of one's ability 可以验证选项[B]。注：[D]Biased(存有偏见的)在考查文章作者对论述对象态度的题型中，往往可以直接排除，因为此类文章带有误导性，一般不会入选为考研材料。但是对于考查文中人物观点的题型，这一选项有可能为正确项，因为文中人物观点并不一定客观。"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Text 3",
+     "passage": [
+      "During the past generation, the American middle-class family that once could count on hard work and fair play to keep itself financially secure has been transformed by economic risk and new realities. Now a pink slip, a bad diagnosis, or a disappearing spouse can reduce a family from solidly middle class to newly poor in a few months.",
+      "In just one generation, millions of mothers have gone to work, transforming basic family economics. Scholars, policymakers, and critics of all stripes have debated the social implications of these changes, but few have looked at the side effect: family risk has risen as well. Today’ s families have budgeted to the limits of their new two-paycheck status. As a result, they have lost the parachute they once had in times of financial setback – a back-up earner (usually Mom) who could go into the workforce if the primary earner got laid off or fell sick. This “added-worker effect” could support the safety net offered by unemployment insurance or disability insurance to help families weather bad times. But today, a disruption to family fortunes can no longer be made up with extra income from an otherwise-stay-at-home partner.",
+      "During the same period, families have been asked to absorb much more risk in their retirement income. Steelworkers, airline employees, and now those in the auto industry are joining millions of families who must worry about interest rates, stock market fluctuation, and the harsh reality that they may outlive their retirement money. For much of the past year, President Bush campaigned to move Social Security to a savings-account model, with retirees trading much or all of their guaranteed payments for payments depending on investment returns. For younger families, the picture is not any better. Both the absolute cost of healthcare and the share of it borne by families have risen – and newly fashionable health-savings plans are spreading from legislative halls to Wal-Mart workers, with much higher deductibles and a large new dose of investment risk for families’ future healthcare. Even demographics are working against the middle class family, as the odds of having a weak elderly parent – and all the attendant need for physical and financial assistance – have jumped eightfold in just one generation.",
+      "From the middle-class family perspective, much of this, understandably, looks far less like an opportunity to exercise more financial responsibility, and a good deal more like a frightening acceleration of the wholesale shift of financial risk onto their already overburdened shoulders. The financial fallout has begun, and the political fallout may not be far behind."
+     ],
+     "questions": [
+      {
+       "number": 31,
+       "stem": "Today’ s double-income families are at greater financial risk inthat",
+       "options": {
+        "A": "the safety net they used to enjoy has disappeared.",
+        "B": "their chances of being laid off have greatly increased.",
+        "C": "they are more vulnerable to changes in family economics.",
+        "D": "they are deprived of unemployment or disability insurance."
+       },
+       "answer": "C",
+       "explanation": "· 全局真题精解 ·\n\n> **答案：** C\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 31. Today's double-income families are at greater financial risk in that ____. | 31. 如今的双收入家庭面临更大的经济风险，因为____。 |\n| [A] the safety net they used to enjoy has disappeared | [A] 他们曾经享有过的安全网已经消失 |\n| [B] their chances of being laid off have greatly increased | [B] 他们遭受失业的可能性大大增加 |\n| [C] they are more vulnerable to changes in family economics | [C] 他们更容易受到家庭经济状况变化的打击 |\n| [D] they are deprived of unemployment or disability insurance | [D] 他们不能再享受失业或伤残保险 |\n\n[精准定位] 由题干中关键词 double-income families... greater financial risk 定位至第二段。该段①②句指出，基本家庭经济模式的改变（单薪变双薪）的副作用是家庭经济风险上升。③至⑥句具体分析：过去母亲在家、是挣钱养家的候补者，可帮助家庭渡过难关；现在两人工作，一旦家庭经济出现危机，再也无法通过母亲的工作得以弥补。[C]概括了“双薪家庭抵抗经济风险的能力下降”的特点，为正确项。\n\n[命题解密] 正确项[C]是对第二段③至⑥句主要内容的概括，其中 more vulnerable 对应文中 lost the parachute... can no longer be made up with; changes in family economics 对应 financial setback... the primary earner got laid off or fell sick... a disruption to family fortunes。\n\n[A]利用第二段⑤句中提到的 safety net 设置陷阱，但消失的是“附加劳动者效应”,而非“安全网”。[B]对第二段④句 got laid off 断章取义，将家庭风险的增加的原因由“失去了候补挣钱者”改为“失业的可能性增大”,文中并未指出失业可能性增大。[D]利用第二段⑤句 unemployment insurance or disability insurance 设置干扰，但文中并未提及失业保险或伤残保险被剥夺。\n\n[技巧总结] 本题就涉及“新现象”及“复杂因果关系”的第二段命制因果事实题。考生在解答此类题目时需注意：一，阅读题干时需注意整合信息、识别同义替换，准确定位题干所在区间。二，分析定位区间的逻辑关系，正确项必须满足两个条件：①信息本身为真，②和题干存在直接因果关系。甄别因果关系时，既要注意显性因果标志（As a result, consequently 等）、又要识别隐性的因果标志（the implications/effects, be made up with 等）。\n\n具体来看本题，首先阅读题干可注意到 double-income families 和 at greater financial risk 分别对应第二段①②句的 transforming basic family economics... these changes 和 family risk has risen,故将解题线索主要定位在第二段。再分析第二段论证逻辑：①②句引出新变化(家庭模式改变)并指出其后果(家庭经济风险增加),③④⑤⑥句解释原因，答案应体现这四句主要内容，四个选项只有[C]符合这一要求。\n\nⅢ ① During the same period, families have been asked to absorb much more risk in their retirement income. ② Steelworkers, airline employees, and now those in the auto industry are joining millions of families who must worry about interest rates, stock market fluctuation, and the harsh reality that they may outlive their retirement money. ③ For much of the past year, President Bush campaigned to move Social Security to a savings-account model, with retirees trading much or all of their guaranteed payments for payments depending on investment returns. ④ For younger families, the picture is not any better. ⑤ Both the absolute cost of healthcare and the share of it borne by families have risen—and newly fashionable health-savings plans are spreading from legislative halls to Wal-Mart workers, with much higher deductibles and a large new dose of investment risk for families' future healthcare. ⑨ Even demographics are working against the middle class family, as the odds of having a weak elderly parent—and all the attendant need for physical and financial assistance—have jumped eightfold in just one generation.\n\n**校对补充：** 由题干中 double-income families、greater financial risk 定位至第二段。该段①②句指出，基本家庭经济模式的改变（单薪变双薪）带来的副作用是家庭经济风险上升；③至⑥句具体分析：过去母亲在家、是挣钱养家的候补者，可帮助家庭渡过难关；如今夫妻二人都参加工作，一旦家庭经济出现危机，再也无法通过母亲外出工作得以弥补。**C 项“他们更容易受到家庭经济状况变化的打击”** 概括了“双薪家庭抵御经济风险的能力下降”这一特点，为正确项。A 项利用第二段③句中提到的 safety net 设置陷阱，但真正消失的是“附加劳动者效应”，而非“安全网”，故排除。"
+      },
+      {
+       "number": 32,
+       "stem": "As a result of President Bush’ s reform, retired people may have",
+       "options": {
+        "A": "a higher sense of security.",
+        "B": "less secured payments.",
+        "C": "less chance to invest.",
+        "D": "a guaranteed future."
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| | |\n| --- | --- |\n| 32. As a result of President Bush's reform, retired people may have ____. | 32. 布什总统改革引发的一个结果是，退休人员可能会有____。 |\n| [A] a higher sense of security | [A] 更强的安全感 |\n| [B] less secured payments | [B] 不太有保障的收入 |\n| [C] less chance to invest | [C] 更少的投资机会 |\n| [D] a guaranteed future | [D] 一个有保障的未来 |\n\n[精准定位] 由题干关键词 President Bush's reform 和 retired people 定位至第三段③句。该句的 with 结构指出布什改革的后果：退休人员的大部分或全部有保障的收入变成了依赖投资收益的收入，可见 [B] 符合文意。\n\n[命题解密] 正确项[B]是对第三段③句 with retirees trading much or all of their guaranteed payments for payments depending on investment returns 的高度概括。\n\n[A] a higher sense of security 利用第三段①句 have been asked to absorb much more risk 反向干扰，但布什改革是“人们承担更多风险”的“推进力量”而非“对抗力量”，故选项完全错误。[C]将③句内容“改革将人们的退休收入变成了要依靠投资收益，即退休收入成了一种投资”改为与之相悖的“改革使退休人员投资机会减少”。[D]颠倒前后变化，将第三段③句 trading... their guaranteed payments for... 所表明的“布什改革前情形——（尚有部分）退休金是有保障的收入”改为“布什改革的结果——退休者有一个有保障的将来”，实际上，改革之后退休人员的未来没有了保障。\n\n[技巧总结] 本题针对长难句中涉及的因果关系设题。考生需注意：①清晰划分句群，理解所考句和上下文的关系，并关注词汇褒贬色彩、把握作者基本态度；②正确解读长难句，理清句中逻辑关系。这需要考生平时养成精读真题的习惯：分析归纳 with 结构、动名词结构、过去分词结构等的语义功能，并收集短语表达(特别是表明变化、取舍的表达，如 trade...for...,move...to,prefer...to...,choose...over...)。\n\n具体到本题，首先应意识到①②③句为一意群，题目虽直接考查③句、但①②句可作为重要解题线索；意群中 families have been asked to absorb much more risk...must worry about...the harsh reality 表明作者态度主线：对近些年的公共政策(尤其是布什改革)表示不满。再集中分析③句，发现 with 结构做结果状语，以表示变化的固定短语(trade A for B“将 A 变为 B”)说明布什改革造成的影响。\n\n**校对补充：** Bush 推动把 Social Security 改为储蓄账户模式，让退休者用原本“guaranteed payments”换取依赖投资回报的收益。投资回报有波动，所以退休后的收入保障程度下降，即可能获得 **less secured payments**，B正确。"
+      },
+      {
+       "number": 33,
+       "stem": "According to the author, health-savings plans will",
+       "options": {
+        "A": "help reduce the cost of healthcare.",
+        "B": "popularize among the middle class.",
+        "C": "compensate for the reduced pensions.",
+        "D": "increase the families’ investment risk."
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| | |\n| --- | --- |\n| 33. According to the author, health-savings plans will ____. | 33. 根据作者观点，健康储蓄计划将____。 |\n| [A] help reduce the cost of healthcare | [A] 帮助降低医疗保健费用 |\n| [B] popularize among the middle class | [B] 在中产阶级中得到普及 |\n| [C] compensate for the reduced pensions | [C] 补偿减少的养老金 |\n| [D] increase the families' investment risk | [D] 增加家庭的投资风险 |\n\n[精准定位] 根据题干关键词 health savings plans 定位至第三段⑤句。该句以 with 结构指出此计划意味着更高的医疗保险免赔额，以及未来家庭的医疗保健将面临大量新增的投资风险，[D]正确。\n\n[命题解密] 正确项[D]是对第三段⑤句 with much higher deductibles and a large new dose of investment risk for families' future healthcare 的概括引申。\n\n[A]对⑤句前半句 Both the absolute cost of healthcare and the share of it borne by families have risen 反向干扰，将其改为与之相悖的 help reduce the cost of healthcare，但实际上该句前后为同向关系。[B]将⑤句后半句中“健康储蓄计划正在推广”夸大为“在中产阶级中流行”，且选项中的 popularize 包含“不仅普及且受到喜爱”之意，与原文情感色彩相反。[C]利用第三段前三句提到的 retirement income 设置干扰，但二者关系为“共同造成家庭风险的增加”，并非为“补偿，弥补”关系。\n\n[技巧总结] 从命题的角度来看，本题和上一题均为对长难句中所含逻辑关系的考查。且二者均就布什改革设题(③句关注布什“养老改革”;⑤句关注布什“医保改革”)这也顺应了作者的视角——第三段两个意群均将当前正在展开的布什改革作为主要批驳对象。这体现了考研英语阅读基本命题思路：命题人关注点必为作者强调点。解答此题时，考生需注意：超纲词一般不会成为解题的必需线索，寻找其他线索同样能够正确答题。\n\n具体到本题，首先应意识到④⑤⑥句为一意群，题目虽直接考查⑤句，但④⑥句可作为正向线索；且④句奠定意群主旨——说明年轻家庭不堪重负的情形、对近些年的公共政策(尤其是布什医保改革)表示不满。再集中分析⑤句，发现 with 结构做结果状语、引出健康储蓄计划的影响。但同时发现其解题关键 much higher deductibles 中含超纲词，故转而将与其同向的 and a large new dose of investment risk for families' future healthcare 作为主要解题线索。\n\n**校对补充：** 文中说新型 health-savings plans 具有更高的免赔额，并给家庭未来医疗支出加入“a large new dose of investment risk”。因此作者明确认为这些计划会**增加家庭的投资风险**，D正确。"
+      },
+      {
+       "number": 34,
+       "stem": "It can be inferred from the last paragraph that",
+       "options": {
+        "A": "financial risks tend to outweigh political risks.",
+        "B": "the middle class may face greater political challenges.",
+        "C": "financial problems may bring about political problems.",
+        "D": "financial responsibility is an indicator of political status."
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 34. It can be inferred from the last paragraph that ____. | 34. 从末段可以推出____。 |\n| [A] financial risks tend to outweigh political risks | [A] 经济风险往往超过政治风险 |\n| [B] the middle class may face greater political challenges | [B] 中产阶级可能面临更大的政治挑战 |\n| [C] financial problems may bring about political problems | [C] 经济问题也许会带来政治问题 |\n| [D] financial responsibility is an indicator of political status | [D] 经济责任是政治地位的指标 |\n\n[精准定位]文章末段指出：从中产阶级家庭的角度看，上述现象(美国各中产家庭经济风险增加)是(政府)在以骇人的增速将金融风险大规模转嫁到他们已不堪重负的肩膀上；经济不良后果已经显现，政治影响也不会太远了。可见，该段暗示经济问题解决不好会引起政治问题，[C]正确。\n\n[命题解密] 正确项[C]是对文章末句 The financial fallout has begun, and the political fallout may not be far behind 言外之意的明确。\n\n[A]用 financial risks 和 political risks 同义替换原文 financial fallout 和 political fallout,但文中并未将经济风险与政治风险作对比，outweigh 无从得知。[B]利用 political challenges 同义替换原文 political fallout,但偷换主体，将“政治风险”的承担者由原文所暗示的“政府”换为“中产阶级”。[D]对末段词汇 financial responsibility 和 political fallout 杂糅干扰，选项中的 indicator 为捏造信息，在文中并无根据。\n\n[技巧总结] 本题考查对文章结尾句言外之意的提炼。解答此类题目需意识到，①结尾句往往是作者对前文内容的高度概括、或是在前文论证的基础上提出警示，理解其意需结合整段乃至全篇主旨进行推理。②原文和选项中的“比较关系”、“因果关系”都应重点关注，很容易成为命题的陷阱。\n\n如本题：末句以 A has begun, and B may not be far behind 暗示因果关系；虽然 fallout 一词难以理解，但结合前文可推知，financial fallout 指代本文所述现象“中产阶级家庭被转嫁了很大风险，家庭经济非常脆弱”,本句整体含义为“中产阶级不堪重负的经济情形很可能会引发政治问题”,本句实则是在向布什政府提出警示。\n\n**校对补充：** 末句说 *The financial fallout has begun, and the political fallout may not be far behind.*，意思是经济/金融方面的负面后果已经出现，而政治后果可能很快随之而来。因此可以推断**金融问题可能进一步引发政治问题**，C正确。"
+      },
+      {
+       "number": 35,
+       "stem": "Which of the following is the best title for this text?",
+       "options": {
+        "A": "The Middle Class on the Alert",
+        "B": "The Middle Class on the Cliff",
+        "C": "The Middle Class in Conflict",
+        "D": "The Middle Class in Ruins"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| 35. Which of the following is the best title for this text? | 35. 以下哪一项是本文的最佳题目？|\n| --- | --- |\n| [A] The Middle Class on the Alert | [A] 保持警惕的中产阶级 |\n| [B] The Middle Class on the Cliff | [B] 悬崖边上的中产阶级 |\n| [C] The Middle Class in Conflict | [C] 矛盾之中的中产阶级 |\n| [D] The Middle Class in Ruins | [D] 没落的中产阶级 |\n\n[精准定位]本文第一段提出“美国中产阶级家庭曾经的稳定性已被彻底改变”。第二、三段分别论述“家庭经济模式的改变”以及“公共政策的改变”对中产阶级家庭安稳性的冲击。末段收束全文，提出警示“经济问题已经出现，政治问题也就不远了”。可见，全文讨论的是“中产阶级家庭经济风险大增、脆弱不堪一击”的现状，[B]是对全文主旨的恰当概括。\n\n[命题解密] 正确项[B]是对文章内容的正确概括，the middle class 是全文反复出现的对象，on the cliff 是对文中... financially secure has been transformed..., family risk has risen as well, absorb much more risk... financial fallout 等的合理概括。\n\n[A]对文章末段张冠李戴：作者是警告布什政府应该警惕(经济问题很可能会引发政治问题),而非警告“中产阶级保持警惕”。[C]曲解第三段整体逻辑：将“无论是老年中产阶级家庭还是年轻中产阶级家庭都处于困境”改为“中产阶级(不同群体)处于矛盾之中(in conflict)”。[D]夸大其词：文章所论述的“中产阶级家庭经济风险增加”并不等同于“中产阶级家庭已经毁灭”。\n\n[技巧总结] 本题以“文章题目”考查考生对文章的整体把握。考生须注意：正确项不仅要体现文章探讨的对象，还需准确概括探讨对象的特点；解题过程中需比较各选项，提取其不同点 (各自关注方向)。干扰项通常有如下设置方式：① 对探讨对象把握错误，张冠李戴 (将对某一对象的描述、建议等冠于另一对象)、以偏概全 (将某一段或某一部分所涉及的对象当作全文的重点) 或放大范围 (将文章讨论对象的“所属范畴/上义词”当做讨论对象本身); ② 对探讨对象的描述错误：或方向有失偏颇，或程度把握失误。\n\n本题四个选项均抓住了全文探讨对象“中产阶级”，因此正误判断集中于其随后的后置定语。[B]中描述 on the Cliff 无论是“方向”还是“度”都契合原文，故正确。[A] The Middle Class on the Alert 张冠李戴，[C]中 in Conflict 方向偏颇；[D]中 in Ruins 夸大其词，故均排除。\n\n**知识补充**"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Text 4",
+     "passage": [
+      "It never rains but it pours. Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance, a new problem threatens to earn them – especially in America – the sort of nasty headlines that inevitably lead to heads rolling in the executive suite: data insecurity. Left, until now, to odd, low-level IT staff to put right, and seen as a concern only of data-rich industries such as banking, telecoms and air travel, information protection is now high on the boss’ s agenda in businesses of every variety.",
+      "Several massive leakages of customer and employee data this year – from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley – have left managers hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities.",
+      "“Data is becoming an asset which needs to be guarded as much as any other asset,” says Haim Mendelson of Stanford University’ s business school. “The ability to guard customer data is the key to market value, which the board is responsible for on behalf of shareholders”. Indeed, just as there is the concept of Generally Accepted Accounting Principles (GAAP), perhaps it is time for GASP, Generally Accepted Security Practices, suggested Eli Noam of New York’ s Columbia Business School. “Setting the proper investment level for security, redundancy, and recovery is a management issue, not a technical one,” he says.",
+      "The mystery is that this should come as a surprise to any boss. Surely it should be obvious to the dimmest executive that trust, that most valuable of economic assets, is easily destroyed and hugely expensive to restore – and that few things are more likely to destroy trust than a company letting sensitive personal data get into the wrong hands.",
+      "The current state of affairs may have been encouraged – though not justified – by the lack of legal penalty (in America, but not Europe) for data leakage. Until California recently passed a law, American firms did not have to tell anyone, even the victim, when data went astray. That may change fast: lots of proposed data-security legislation is now doing the rounds in Washington, D.C. Meanwhile, the theft of information about some 40 million credit-card accounts in America, disclosed on June 17th, overshadowed a hugely important decision a day earlier by America’ s Federal Trade Commission (FTC) that puts corporate America on notice that regulators will act if firms fail to provide adequate data security."
+     ],
+     "questions": [
+      {
+       "number": 36,
+       "stem": "The statement “It never rains but it pours” is used to introduce",
+       "options": {
+        "A": "the fierce business competition.",
+        "B": "the feeble boss-board relations.",
+        "C": "the threat from news reports.",
+        "D": "the severity of data leakage."
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 36. The statement “It never rains but it pours” is used to introduce ____. | 36. 作者用“It never rains but it pours”这句话是为了引出____。 |\n| [A] the fierce business competition | [A] 激烈的企业竞争 |\n| [B] the feeble boss-board relations | [B] 老板和董事会之间脆弱的关系 |\n| [C] the threat from news reports | [C] 来自新闻报道的威胁 |\n| [D] the severity of data leakage | [D] 数据泄露的严重性 |\n\n[精准定位] 第一段②③句解释①句谚语内涵：在解决完一系列焦头烂额的旧问题还来不及喘息之际，管理层又碰上了一个新问题“数据不安全”, 这一新问题给管理层带来威胁，使他们处于风口浪尖甚至面临人事调动，由此引发其高度重视。由此可见，谚语旨在引入数据不安全问题的严重性，[D] 正确。\n\n[命题解密] 正确项[D]是对首段 a new problem... is now high on the boss's agenda in businesses of every variety 所述话题 data insecurity/information protection 的近义改写。\n\n[A]以段末 businesses of every variety 捏造出激烈的企业竞争这一信息，但文中并未提及“企业之间的关系”。[B]语义杂糅段中词汇 feeble, bosses, boards, 把 feeble 修饰的主体 corporation governance 改为 boss-board relations。[C]因②句 threatens... headlines 而来，而该句提及“新闻报道”旨在说明“数据安全问题的严重性”而非就事论事论及“新闻报道的威胁”。\n\n[技巧总结]写作主旨题的解题关键在“以论点、主题推断正确选项”，而本道谚语开篇写作主旨题则需牢记开篇谚语“引出主题”的重要使命，借助高频词推断主要论述话题，最后锁定正确选项即可。具体到本题：根据②句具体论述发现，与①句谚语所示直观景象“大雨倾盆”最为契合之处在于“企业麻烦不断”的情形；随后根据②③句语义逻辑“旧问题刚一解决——新问题随即出现——新问题引起高度关注”可知，“麻烦不断”的情形最终引向的是对“新问题（即 data insecurity/information protection）”的集中论述，就此圈定正确答案为[D]。\n\nII Several massive leakages of customer and employee data this year—from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley—have left managers hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities.\n\n今年几起重大的客户和员工数据泄露事件——发生于各类机构里，如时代华纳公司、美国国防项目承包商科学应用国际公司、甚至加州大学伯克利分校——使得管理者们慌忙检查自身复杂精细的信息技术系统和业务流程，以寻找潜在的漏洞。\n\n**校对补充：** 开头 *It never rains but it pours* 表示“祸不单行”。企业刚处理完会计、合规和公司治理麻烦，又面临新的数据安全危机；下文列举大规模客户和员工数据泄漏。因此该习语用来引出**数据泄漏/数据不安全问题的严重性**，D正确。"
+      },
+      {
+       "number": 37,
+       "stem": "According to Paragraph 2, some organizations check their systems to find out",
+       "options": {
+        "A": "whether there is any weak point.",
+        "B": "what sort of data has been stolen.",
+        "C": "who is responsible for the leakage.",
+        "D": "how the potential spies can be located."
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 37. According to Paragraph 2, some organizations check their systems to find out ____. | 37. 根据第二段，一些机构检查自身系统旨在查明____。 |\n| [A] whether there is any weak point | [A] 是否存在缺陷 |\n| [B] what sort of data has been stolen | [B] 何种类型的数据已经被盗 |\n| [C] who is responsible for the leakage | [C] 谁应该对数据泄露负责 |\n| [D] how the potential spies can be located | [D] 如何发现间谍嫌疑人 |\n\n[精准定位] 第二段明确指出，数起严重数据泄露事件使得公司管理层急忙检查自身的信息系统以寻找潜在的薄弱点。[A]选项正确。\n\n[命题解密] 题干 to find out + 正确项 [A] 是对破折号后内容 in search of potential vulnerabilities 的同义表述。\n\n[B]将“查找漏洞以便做好防范”篡改为“找出已经失窃的数据”。[C]将段中泛指各公司管理人员的 managers 曲解为特指几起数据泄露事件所涉公司管理人员；并将“寻找可能性漏洞”偷换为“确定事件责任人”。[D]由段中 peering into...in search of potential vulnerabilities 过度推断成“寻找间谍嫌疑人”，大幅偏离文意。\n\nⅢ ① “Data is becoming an asset which needs to be guarded as much as any other asset,” says Haim Mendelson of Stanford University’s business school. ② “The ability to guard customer data is the key to market value, which the board is responsible for on behalf of shareholders”. ③ Indeed, just as there is the concept of Generally Accepted Accounting Principles (GAAP), perhaps it is time for GASP, Generally Accepted Security Practices, suggested Eli Noam of New York’s Columbia Business School. ④ “Setting the proper investment level for security, redundancy, and recovery is a management issue, not a technical one,” he says.\n\n斯坦福大学商学院的海姆·孟德尔森说：“数据正在变成一种资产，与任何其他资产一样，它也需要受到保护。保护客户数据的能力是（保证）市场价值的关键，董事会应当为了股东的利益对市场价值负责。”的确，正如有一般公认会计原则（GAAP）的概念一样，或许现在是该制定一般公认安全原则（GASP）的时候了，纽约哥伦比亚大学商学院的伊莱·诺姆这样建议道。他指出：“为（数据）安全、冗余以及恢复设立恰当的投资标准是个管理问题，而不是技术问题。”\n\n**校对补充：** 第二段说多起数据泄漏事件发生后，管理者开始仔细检查复杂的 IT 系统和业务流程，寻找 **potential vulnerabilities**。vulnerability 就是系统中的“弱点、漏洞”，所以A“whether there is any weak point”正确。"
+      },
+      {
+       "number": 38,
+       "stem": "In bringing up the concept of GASP the author is making the point that",
+       "options": {
+        "A": "shareholders’ interests should be properly attendedto.",
+        "B": "information protection should be given due attention.",
+        "C": "businesses should enhance their level of accounting security.",
+        "D": "the market value of customer data should be emphasized."
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| | |\n| --- | --- |\n| 38. In bringing up the concept of GASP the author is making the point that _. | 38. 作者提出 GASP 这一概念意在说明_。 |\n| [A] shareholders' interests should be properly attended to | [A] 股东的利益应该得到适当的维护 |\n| [B] information protection should be given due attention | [B] 信息保护问题应该受到足够的重视 |\n| [C] businesses should enhance their level of accounting security | [C] 公司应该提高自己的财会安全水平 |\n| [D] the market value of customer data should be emphasized | [D] 客户数据的市场价值应该加以重视 |\n\n[精准定位] 第三段③④句引用专家观点“应建立数据信息保护管理规则”旨在说明“数据信息保护至关重要，应予以足够重视”，[B]正确。\n\n[命题解密] 正确项[B]是对第三段 Data is becoming an asset... it is time for GASP... Setting the proper investment level for security, redundancy, and recovery is a management issue 所述观点的合理概括。\n\n[A]将②句 the board is responsible for on behalf of shareholders 旨在说明的“为了股东利益，董事会有责任保护客户数据信息以保证市场价值”就事论事为“股东利益应得到适当维护”。[C]将文意“以 GAAP 类比引出 GASP”反向偷换为“引出 GASP 是为了说明 GAAP 的相关内容——公司应提高自身财会安全水平”。[D]首先将原文意在强调“保护客户数据”偷换为“市场价值”，其次将文意提及市场价值旨在说明“数据信息保护的重要性”偷换为“市场价值的重要性”。\n\n[技巧总结] 本题实质借写作目的之形考查段落主旨。解答此类题时，考生可以似涟漪般由内向外逐层分析：一、首先锁定题干部分所在句，弄清其含义；二、随后寻找上下文与其关联最为紧密的语句，并整合成意群加以理解；三、最后从段落的宏观角度(借助逻辑路标词)明确该意群与段落其他部分间的逻辑关联，提取段落的主旨观点。如本题，根据题干 GASP 锁定③句，而根据③句中 suggested 及④句中双引号+he says,可推断此两句实为一个意群；再根据③句句首 Indeed,得知③④句与①②句(“应当对数据加以保护”)间的递进关系，两个意群共同说明了“数据/信息保护的重要性”。\n\n**校对补充：** 作者把普遍接受的会计准则 GAAP 类比为可能建立的 GASP（Generally Accepted Security Practices），目的在于说明数据安全不应再只是低层 IT 人员的问题，而应像财务准则一样成为正式管理规范，得到企业高层充分重视。因此B正确。"
+      },
+      {
+       "number": 39,
+       "stem": "According to Paragraph 4, what puzzles the author is that some bosses fail to",
+       "options": {
+        "A": "see the link between trust and data protection.",
+        "B": "perceive the sensitivity of personal data.",
+        "C": "realize the high cost of data restoration.",
+        "D": "appreciate the economic value of trust."
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| | |\n| --- | --- |\n| 39. According to Paragraph 4, what puzzles the author is that some bosses fail to ____. | 39. 根据第四段，令作者不解的是一些老板没能____。 |\n| [A] see the link between trust and data protection | [A] 看到信任和数据保护之间的关系 |\n| [B] perceive the sensitivity of personal data | [B] 意识到个人数据的敏感性 |\n| [C] realize the high cost of data restoration | [C] 认识到恢复数据需付出的高昂代价 |\n| [D] appreciate the economic value of trust | [D] 意识到信任的经济价值 |\n\n[精准定位] 第四段①句指出作者不解之事，②句继而解释不解原因：老板们竟未意识到“数据泄露会极大地破坏对企业至关重要的信任度”（即“信任与数据保护密切相关”）。[A]选项正确。\n\n[B]源自②句 sensitive personal data, 而文中意在说明“老板们未能意识到个人敏感数据保护失当会破坏信任”, 也即，意在强调“个人敏感数据与信任之间的关联”而非“敏感性”。[C]将②句 hugely expensive to restore 所修饰的主体“信任”篡改为“数据”。[D]源自②句 trust, that most valuable of economic assets, 但作者意在以“信任”作为切入角度强调“数据保护对公司的重要性”, 而非单纯意义上地强调“信任的经济价值”。\n\n[技巧总结] 本题实为典型的隐性因果逻辑推断题(What puzzles...is that ____, 其中 puzzles 蕴藏使动关联), 解答重点在“从文中寻找因果逻辑关联词，并辨明因果关联”, 而本题所考查段内两句间并无显性因果关联词，因此唯有“透彻理解句意并借句意逻辑推断句间关联(指示词、逻辑词为关注重点)”。具体到本题：根据 this 指代内容可知①句句意实为“老板们并未意识到数据保护至关重要，是管理层面问题”, 而纵观选项并无直接对应内容；进而观察②句发现，作者以信任搭建企业存亡与数据泄露之间的桥梁(信任对企业至关重要，数据泄露会极大地破坏信任，从而有损企业)再次阐明了“数据保护对企业至关重要”的观点(this 所指), 借此可知②句实为①句的反向解释(显而易见的道理 VS 感到惊讶的态度), 两句间存在隐藏的因果关系；就此可借②句内容“老板们本应该清楚(实际上并未意识到)信任与数据保护紧密关联”来解答以①句为主体的设问。\n\n| |\n| --- |\n| V 1 The current state of affairs may have been encouraged—though not justified —by the lack of legal penalty (in America, but not Europe)for data leakage.2 Until California recently passed a law, American firms did not have to tell anyone, even the victim, when data went astray.3 That may change fast: lots of proposed data-security legislation is now doing the rounds in Washington, D.C.4 Meanwhile, the theft of information about some 40 million credit-card accounts in America,disclosed on June 17 ,overshadowed a hugely important decision a day earlier by America’s Federal Trade Commission (FTC) that puts corporate America on notice that regulators will act if firms fail to provide adequate data security.[425 words] |\n\n（美国，而不是欧洲）欠缺针对数据泄露的法律惩处，这种情况虽不至于证明当前事态合理，但却可能助长其发展。加州最近通过了一项法律，在此之前，美国的公司在数据丢失时无需通知任何人，甚至是受害者本人。这种情况可能很快就会改变：大量有关数据安全的立法提案正在国会接受审议。与此同时，美国6月17日披露的一起涉及大约4000万信用卡账户的信息失窃案，又使得美国联邦贸易委员会头一天（16日）做出的一项极为重大的决议——该决议警告美国商界，如果公司不能充分保障数据的安全，那么监管机构就会采取措施——颜面尽失。\n\n**校对补充：** 第四段作者说令人费解的是，这一点竟然会让老板们感到意外；任何管理者都应明白“信任”极有价值、毁掉容易恢复昂贵，而企业让敏感个人数据落入错误的人手中最容易破坏信任。作者真正不理解的是一些老板没有看清**信任与数据保护之间的直接联系**，A正确。"
+      },
+      {
+       "number": 40,
+       "stem": "It can be inferred from Paragraph 5 that",
+       "options": {
+        "A": "data leakage is more severe in Europe.",
+        "B": "FTC’s decision is essential to data security.",
+        "C": "California takes the lead in security legislation.",
+        "D": "legal penalty is a major solution to data leakage."
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 40. It can be inferred from Paragraph 5 that ____. | 40. 从第五段可以推出____。 |\n| [A] data leakage is more severe in Europe | [A] 数据泄露在欧洲更为严重 |\n| [B] FTC's decision is essential to data security | [B] FTC 的决定对于保障数据安全是极其重要的 |\n| [C] California takes the lead in security legislation | [C] 加州率先制定安全法规 |\n| [D] legal penalty is a major solution to data leakage | [D] 法律制裁是解决数据泄露问题的主要办法 |\n\n[精准定位]第五段①句提到“法律制裁缺失”助长了公司对数据保护管理不善、重视不足（导致数据泄露）的态势，②③句加州颁布法律和华盛顿立法机关审议数据安全法规的提案有利于改善“法律制裁缺失”的现状。由此可推知，数据安全法规(法律制裁)是解决数据泄露问题的方法之一，[D]正确。\n\n[命题解密] 正确项[D]是对段中前三句 the lack of legal penalty... passed a law... that may change fast... security legislation 所传达的法律制裁作用的概括总结。\n\n[A]将①句句意“数据泄露在欧洲并不缺乏法律制裁”篡改为与之相反的“数据泄露在欧洲更为严重”。[B]源自末句 a hugely important decision,但却未见其前 overshadowed 所蕴藏的“这一重大决定因紧随其后的信用卡账户失窃案件而黯然失色”之意。[C]源自②句 Until California recently passed a law...，却将美国范围扩大为世界范围(欧洲早已有之)，且将 data-security legislation 泛化为 security legislation。\n\n[技巧总结] 无明显定位信息的推理题通常采取选项定位法(即借助选项关键词，尤以标示性强的名词性信息为主),将选项信息一一回文对应加以验证。如本题：先通过[A]、[B]、[C]关键词 Europe、FTC、California 分别对应到①、④、②句，再对比原文信息发现，选项中 more severe、essential、security legislation 等细节均与原文不符。再由段中前三句的逻辑关系(缺乏法律制裁助长了数据管理不善、重视不足的态势(进而导致数据泄露)——数据安全立法可能改变这一情形)确定[D]为正确项。\n\n**校对补充：** 第五段①句提到“法律制裁缺失”助长了公司对数据保护管理不善、重视不足（进而导致数据泄露）的态势；②③句指出加州颁布法律、华盛顿立法机关审议数据安全法规的提案有利于改善“法律制裁缺失”的现状。由此可推知，数据安全法规（法律制裁）是解决数据泄露问题的方法之一，**D 项“法律制裁是解决数据泄露问题的主要办法”** 正确。C 项源自②句 Until California recently passed a law...，却将美国范围扩大为世界范围（欧洲早已有之），且将 data-security legislation 泛化为 security legislation，故排除。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part B",
+   "instructions": "Part B\nDirections:\nYou are going to read a list of headings and a text about what parents are supposed to\ndo to guide their children into adulthood. Choose a heading from the list A-G that best\nfits the meaning of each numbered part of the text (41-45). The first and last\nparagraphs of the text are not numbered. There are two extra headings that you do not\nneed to use. Mark your answers on ANSWER SHEET 1. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "heading_matching",
+     "passage": [
+      "How Can a Parent Help?",
+      "Mothers and fathers can do a lot to ensure a safe landing in early adulthood for their kids. Even if a job’s starting salary seems too small to satisfy an emerging adult’s need for rapid content, the transition from school to work can be less of a setback if the start-up adult is ready for the move. Here are a few measures, drawn from my book Ready or Not, Here Life Comes, that parents can take to prevent what I call “work-life unreadiness”:",
+      "{{41}}",
+      "You can start this process when they are 11 or 12. Periodically review their emerging strengths and weaknesses with them and work together on any shortcomings, like difficulty in communicating well or collaborating. Also, identify the kinds of interests they keep coming back to, as these offer clues to the careers that will fit them best.",
+      "{{42}}",
+      "Kids need a range of authentic role models – as opposed to members of their clique, pop stars and vaunted athletes. Have regular dinner-table discussions about people the family knows and how they got where they are. Discuss the joys and downsides of your own career and encourage your kids to form some ideas about their own future. When asked what they want to do, they should be discouraged from saying “I have no idea.” They can change their minds 200 times, but having only a foggy view of the future is of little good.",
+      "{{43}}",
+      "Teachers are responsible for teaching kids how to learn; parents should be responsible for teaching them how to work. Assign responsibilities around the house and make sure homework deadlines are met. Encourage teenagers to take a part-time job. Kids need plenty of practice delaying gratification and deploying effective organizational skills, such as managing time and setting priorities.",
+      "{{44}}",
+      "Playing video games encourages immediate content. And hours of watching TV shows with canned laughter only teaches kids to process information in a passive way. At the same time, listening through earphones to the same monotonous beats for long stretches encourages kids to stay inside their bubble instead of pursuing other endeavors. All these activities can prevent the growth of important communication and thinking skills and make it difficult for kids to develop the kind of sustained concentration they will need for most jobs.",
+      "{{45}}",
+      "They should know how to deal with setbacks, stresses and feelings of inadequacy. They should also learn how to solve problems and resolve conflicts, ways to brainstorm and think critically. Discussions at home can help kids practice doing these things and help them apply these skills to everyday life situations.",
+      "What about the son or daughter who is grown but seems to be struggling and wandering aimlessly through early adulthood? Parents still have a major role to play, but now it is more delicate. They have to be careful not to come across as disappointed in their child. They should exhibit strong interest and respect for whatever currently interests their fledging adult (as naive or ill conceived as it may seem) while becoming a partner in exploring options for the future. Most of all, these new adults must feel that they are respected and supported by a family that appreciates them."
+     ],
+     "options": {
+      "A": "Set a Good Example for Your Kids",
+      "B": "Build Your Kids’ WorkSkills",
+      "C": "Place Time Limits on Leisure Activities",
+      "D": "Talk about the Future on a Regular Basis",
+      "E": "Help Kids Develop Coping Strategies",
+      "F": "Help Your Kids Figure Out Who TheyAre",
+      "G": "Build Your Kids’ Sense ofResponsibility"
+     },
+     "questions": [
+      {
+       "number": 41,
+       "answer": "F",
+       "explanation": "> **答案：** F) Help Your Kids Figure Out Who They Are\n\n**41. 答案 F 正确率：54%**\n\n[标题匹配] 第二段指出，父母应帮助孩子了解自身优缺点并一起克服缺点，以此发现孩子的兴趣所在，为未来的职业做准备，也即父母应着重引导孩子正确认识自我、了解自身特点，[F]“帮助孩子弄清楚他们是谁，即帮助孩子认清自我”与该主旨相符，标题主题词 figure out 与段落关键词 identify 近义。\n\n[干扰项排除] [D] Talk about the Future on a Regular Basis 虽与文中部分信息 Periodically review/careers 有所重叠，但文中“寻找未来职业”是家长采取某些措施的目的，并非措施本身，这些措施并未涉及“谈论未来”，故排除。"
+      },
+      {
+       "number": 42,
+       "answer": "D",
+       "explanation": "> **答案：** D) Talk about the Future on a Regular Basis\n\n**42. 答案 D 正确率：56%**\n\n[标题匹配] 第三段指出，父母应通过经常谈论孩子身边真实榜样的事迹，包括外人的成就和家长的职业生涯，引导孩子对自己的未来进行设想和规划，关键词 Have regular dinner-table discussions 强调这种“涉及未来”的对话应是经常性的、定期的。[D]“经常讨论未来”契合本段主旨。\n\n[干扰项排除] [A] Set a Good Example for Your Kids 虽然复现首句 role models 一词，且段落前三句均围绕“榜样”展开，但“孩子树立榜样”的目的是“通过参照这些榜样的事迹来规划自身的未来”, 也即“树立榜样”是“规划未来”的一种辅助方式，并非重点，故排除。"
+      },
+      {
+       "number": 43,
+       "answer": "B",
+       "explanation": "> **答案：** B) Build Your Kids’ Work Skills\n\n**43. 答案 B 正确率：65%**\n\n[标题匹配]第四段意在提醒家长通过有意识的布置家务活、鼓励孩子做兼职来培养孩子基本的工作技能，首句“家长应教孩子如何工作”(how to work)为主旨句，[B]“培养孩子工作技能”与该主旨一致。\n\n[干扰项排除] [G] Build Your Kids' Sense of Responsibility 虽然复现段中 responsible/responsibilities,但首句提及该词是为了说明“教师和家长对孩子的责任”，并非“孩子的责任感”；第二句提及该词是为了说明“家长可通过给孩子布置家务活来培养工作技能”，也与“孩子的责任感”无关，故排除。"
+      },
+      {
+       "number": 44,
+       "answer": "C",
+       "explanation": "> **答案：** C) Place Time Limits on Leisure Activities\n\n**44. 答案 C 正确率：74%**\n\n[标题匹配] 第五段无主旨句，亦未涉及家长的内容，而是以长时间玩乐活动对孩子造成危害来侧面提醒家长应进行干预：控制孩子的娱乐时长，[C]“对娱乐活动时间加以控制”符合本段主旨，其中 Leisure Activities 总结概括 Playing.../watching.../listening...等活动，Place Time Limits 由文中 hours of/long stretches 反向引申而来。\n\n[干扰项排除] [B]的主题词 Work Skills 虽与段末提及的“工作所需的能力，如交流和思考能力、持续注意力”相关联，但“工作能力”仅是细枝末节，选项遗漏重要信息“长时间娱乐活动及其危害”，故排除。"
+      },
+      {
+       "number": 45,
+       "answer": "E",
+       "explanation": "> **答案：** E) Help Kids Develop Coping Strategies\n\n**45. 答案 E 正确率：61%**\n\n[标题匹配]第六段③句涉及家长应采取的措施“组织家庭讨论”，但“讨论的内容和讨论的目的”模糊不清，还需结合前两句总结得出讨论的目的；前两句关键词 deal with/solve/resolve 表明家长应帮助孩子培养和运用“应对问题”的能力，故家长应通过组织家庭讨论这种形式来重点帮助孩子培养应对问题的能力，[E]“帮助孩子制定应对策略”与之相符，Coping Strategies 是对前两句内容的概括。\n\n[干扰项排除] [B]中 Work Skills 可能会被误解为本段末句 these skills 的具体指代，但上文所述的几种能力“应对挫折、压力，解决问题、冲突等”不一定是工作技能，在生活中也适用，[B]以偏概全。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part C",
+   "instructions": "Directions:\nRead the following text carefully and then translate the underlined segments into\nChinese. Your translation should be written clearly on ANSWER SHEET 2. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "translation_sentences",
+     "passage": [
+      "The study of law has been recognized for centuries as a basic intellectual discipline in European universities. However, only in recent years has it become a feature of undergraduate programs in Canadian universities. (46) <u>Traditionally, legal learning has been viewed in such institutions as the special preserve of lawyers, rather than a necessary part of the intellectual equipment of an educated person.</u> Happily, the older and more continental view of legal education is establishing itself in a number of Canadian universities and some have even begun to offer undergraduate degrees in law.",
+      "If the study of law is beginning to establish itself as part and parcel of a general education, its aims and methods should appeal directly to journalism educators. Law is a discipline which encourages responsible judgment. On the one hand, it provides opportunities to analyze such ideas as justice, democracy and freedom. (47) <u>On the other, it links these concepts to everyday realities in a manner which is parallel to the links journalists forge on a daily basis as they cover and comment on the news.</u> For example, notions of evidence and fact, of basic rights and public interest are at work in the process of journalistic judgment and production just as in courts of law. Sharpening judgment by absorbing and reflecting on law is a desirable component of a journalist’s intellectual preparation for his or her career.",
+      "(48) <u>But the idea that the journalist must understand the law more profoundly than an ordinary citizen rests on an understanding of the established conventions and special responsibilities of the news media.</u> Politics or, more broadly, the functioning of the state, is a major subject for journalists. The better informed they are about the way the state works, the better their reporting will be. (49) <u>In fact, it is difficult to see how journalists who do not have a clear grasp of the basic features of the Canadian Constitution can do a competent job on political stories.</u>",
+      "Furthermore, the legal system and the events which occur within it are primary subjects for journalists. While the quality of legal journalism varies greatly, there is an undue reliance amongst many journalists on interpretations supplied to them by lawyers. (50) <u>While comment and reaction from lawyers may enhance stories, it is preferable for journalists to rely on their own notions of significance and make their own judgments.</u> These can only come from a well-grounded understanding of the legal system."
+     ],
+     "questions": [
+      {
+       "number": 46,
+       "stem": "Traditionally, legal learning has been viewed in such institutions as the special preserve of lawyers, rather than a necessary part of the intellectual equipment of an educated person.",
+       "answer": "长期以来，在这类院校中，法律知识一直被视为律师们的专有领域，而不是一个受过教育的人在知识素养方面所必需的组成部分。",
+       "explanation": "> **答案：** 长期以来，在这类院校中，法律知识一直被视为律师们的专有领域，而不是一个受过教育的人在知识素养方面所必需的组成部分。\n\n**参考译文：** 长期以来，在这类院校中，法律知识一直被视为律师们的专有领域，而不是一个受过教育的人在知识素养方面所必需的组成部分。\n\n**详解：** 1. **主干结构**：*legal learning has been viewed...as...*，即“法律知识一直被视为……”。\n2. **such institutions**：回指前文的加拿大大学。\n3. **view A as B**：固定结构“把A看作B”。这里是被动形式 *A has been viewed as B*。\n4. **the special preserve of lawyers**：*preserve* 此处不是动词“保护”，而是名词“专有领域、专属范围”，译为“律师们的专有领域”。\n5. **rather than**：并列两个主语补足成分，表示“而不是”。\n6. **intellectual equipment**：*equipment* 为熟词生义，不是具体“设备”，而是一个人所具有的“知识储备、知识素养”。\n7. **an educated person**：译为“受过教育的人”，这里不是狭义“教师”或“知识分子”。"
+      },
+      {
+       "number": 47,
+       "stem": "On the other, it links these concepts to everyday realities in a manner which is parallel to the links journalists forge on a daily basis as they cover and comment on the news.",
+       "answer": "另一方面，法律把这些概念同日常生活中的现实联系起来，其方式与新闻记者每天在报道和评论新闻时把这些概念与现实联系起来的方式相类似。",
+       "explanation": "> **答案：** 另一方面，法律把这些概念同日常生活中的现实联系起来，其方式与新闻记者每天在报道和评论新闻时把这些概念与现实联系起来的方式相类似。\n\n**参考译文：** 另一方面，法律把这些概念同日常生活中的现实联系起来，其方式与新闻记者每天在报道和评论新闻时把这些概念与现实联系起来的方式相类似。\n\n**详解：** 1. **On the other**：承接上文 *On the one hand*，完整意义为“另一方面”。\n2. **link A to B**：表示“把A同B联系起来”，这里 *these concepts* 指 justice、democracy、freedom 等概念。\n3. **in a manner which...**：*which* 引导定语从句修饰 *manner*，即“以一种……的方式”。\n4. **be parallel to**：表示“与……相类似、相对应”。\n5. **the links journalists forge**：*forge* 在这里不是“伪造”，而是“建立、形成”；*links* 是其宾语。\n6. **on a daily basis**：意为“每天、日常地”。\n7. **as they cover and comment on the news**：*as* 引导时间/伴随状语从句；*cover the news* 是“报道新闻”，不是“覆盖新闻”。\n8. **翻译技巧**：英文中 *links* 两次出现，中文可通过“联系……的方式”重组，避免机械重复。"
+      },
+      {
+       "number": 48,
+       "stem": "But the idea that the journalist must understand the law more profoundly than an ordinary citizen rests on an understanding of the established conventions and special responsibilities of the news media.",
+       "answer": "新闻记者应当比普通公民更深入地了解法律，而这一观点建立在对新闻媒体业已经确立的惯例和特殊责任的理解之上。",
+       "explanation": "> **答案：** 新闻记者应当比普通公民更深入地了解法律，而这一观点建立在对新闻媒体业已经确立的惯例和特殊责任的理解之上。\n\n**参考译文：** 新闻记者应当比普通公民更深入地了解法律，而这一观点建立在对新闻媒体业已经确立的惯例和特殊责任的理解之上。\n\n**详解：** 1. **主干**：*the idea ... rests on an understanding...*，即“这一观点建立在某种理解之上”。\n2. **that the journalist...**：*that* 引导同位语从句，具体解释 *the idea* 的内容。\n3. **more profoundly than**：表示“比……更深入地”。\n4. **rest on**：固定表达“以……为基础、建立在……之上”。\n5. **established conventions**：*established* 表“已经确立的”，*conventions* 此处指行业“惯例、规范”。\n6. **special responsibilities of the news media**：译为“新闻媒体的特殊责任”。\n7. **翻译顺序**：同位语从句较长，中文可先独立译出“新闻记者应当……”，再用“这一观点”回指，从而避免头重脚轻。"
+      },
+      {
+       "number": 49,
+       "stem": "In fact, it is difficult to see how journalists who do not have a clear grasp of the basic features of the Canadian Constitution can do a competent job on political stories.",
+       "answer": "事实上，很难想象那些对加拿大宪法的基本特征缺乏清楚了解的新闻记者怎么能够胜任政治新闻的报道工作。",
+       "explanation": "> **答案：** 事实上，很难想象那些对加拿大宪法的基本特征缺乏清楚了解的新闻记者怎么能够胜任政治新闻的报道工作。\n\n**参考译文：** 事实上，很难想象那些对加拿大宪法的基本特征缺乏清楚了解的新闻记者怎么能够胜任政治新闻的报道工作。\n\n**详解：** 1. **形式主语结构**：*it is difficult to see...* 中 *it* 是形式主语，真正的信息是后面的 *how...* 从句，可译为“很难想象……”。\n2. **how journalists...can...**：how 引导从句，表达“这些记者怎么能够……”。\n3. **who do not have...**：定语从句修饰 *journalists*。\n4. **have a clear grasp of**：固定表达“清楚掌握、清楚了解”。\n5. **basic features of the Canadian Constitution**：译为“加拿大宪法的基本特征”。\n6. **do a competent job on...**：*competent* 表“胜任的”，*political stories* 中 *stories* 是“新闻报道”，所以整体译为“胜任政治新闻的报道工作”。"
+      },
+      {
+       "number": 50,
+       "stem": "While comment and reaction from lawyers may enhance stories, it is preferable for journalists to rely on their own notions of significance and make their own judgments.",
+       "answer": "尽管律师的评论和反应可能会提高新闻报道的质量，但新闻记者最好还是凭借自己对重要性的理解自行作出判断。",
+       "explanation": "> **答案：** 尽管律师的评论和反应可能会提高新闻报道的质量，但新闻记者最好还是凭借自己对重要性的理解自行作出判断。\n\n**参考译文：** 尽管律师的评论和反应可能会提高新闻报道的质量，但新闻记者最好还是凭借自己对重要性的理解自行作出判断。\n\n**详解：** 1. **While 从句**：这里 *while* 表让步，译为“尽管、虽然”，不是时间关系。\n2. **enhance stories**：*enhance* 是“提高、改善”；*stories* 在新闻语境中是“报道”，所以译为“提高新闻报道的质量”。\n3. **it is preferable for sb. to do...**：形式主语结构，意为“某人最好做……/做……更可取”。\n4. **rely on**：表示“依靠、凭借”。\n5. **notions of significance**：*notion* 表“理解、观念”，*significance* 为“重要性”，结合语境可译为“对什么是重要内容的理解”。\n6. **make their own judgments**：强调记者应独立判断，与前文“过度依赖律师解释”形成对比。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section III Writing — Part A",
+   "score": 10,
+   "groups": [
+    {
+     "type": "writing",
+     "questions": [
+      {
+       "number": 51,
+       "stem": "Directions:\nWrite a letter to your university library, making suggestions for improving its\nservice.\nYou should write about 100 words on ANSWER SHEET 2.\nDo not sign your own name at the end of the letter. Use “Li Ming” instead.\nDo not write the address. (10 points)",
+       "score": 10,
+       "answer": "Dear Sir or Madam,\nI am a student in this university who frequently comes to the library. Generally speaking, the services you offer here are quite good. However, I have some suggestions for you to make the library more user-friendly.\nTo begin with, will you please consider installing self-checkout machines, which would render readers and librarians more convenience? Moreover, it is expected to adopt the online reading room reservation, which can reduce readers' waiting time. In addition, we will be very pleased if you can provide opportunities for readers to express what we want. The traditional suggestion box and its modern incarnation—an online suggestion form on the library's homepage are terrific ways to solicit this feedback.\nI would like to extend my greatest appreciation if you are so kind as to take my suggestions into consideration.\nYours faithfully,\nLi Ming",
+       "explanation": "**知识补充**\n\n**一、审题引导**\n\n| | | | |\n| --- | --- | --- | --- |\n| 抓取指令关键词 | 梳理信息 | 归纳要点 | |\n| 情景&要求 | Write a letter to your university library ,making suggestions for improving its service . | 1.写作类型：书信2.写信人身份：大学生3.写作对象：图书馆负责人4.交际目的：为改善图书馆服务提供建议5.写作话题：改善图书馆服务 | 1.格式：书信(建议信)。2.语域：给图书馆负责人的信件属于公务信函，应使用正式语体，措辞要礼貌、客气。3.内容要点：1自我介绍；2说明写信目的；3提出关于提高图书馆服务质量的建议。 |\n\n**优秀范文**\n\nDear Sir or Madam, ① I am a student in this university who frequently comes to the library. ② Generally speaking, the services you offer here are quite good. ③ However, I have some suggestions for you to make the library more user-friendly.\n\n①To begin with, will you please consider installing self-checkout machines, which would render readers and librarians more convenience? ②Moreover, it is expected to adopt the online reading room reservation, which can reduce readers' waiting time. ③In addition, we will be very pleased if you can provide opportunities for readers to express what we want. ④The traditional suggestion box and its modern incarnation—an online suggestion form on the library's homepage are terrific ways to solicit this feedback.\n\n①I would like to extend my greatest appreciation if you are so kind as to take my suggestions into consideration.\n\n尊敬的先生或女士：\n\n**参考译文**\n\n①我是本校的一名学生，也是图书馆的常客。②总的来说，贵馆提供的服务相当不错。③但是，我有几个建议，希望有助于提高图书馆的用户体验度。\n\n①首先，贵馆能否考虑安装自助借还机呢？这会给读者和图书管理员带来更多便利。②其次，希望图书馆能够采用阅览室在线预约系统，以便减少读者的等待时间。③另外，如果您能广开言路，听取读者意见，我们将非常高兴。④传统的“建议箱”和图书馆主页上的现代化的网上建议表，都是征集读者建议的好途径。\n\n①若您能考虑我的建议，我将不胜感激。\n\nYours faithfully,\n\nLi Ming\n\n李明\n\n谨上\n\n**必备表达**\n\n1. install [v.] 安装、安置\n\n2. self-checkout machine 自助借还机\n\n3. render [v.] 提供\n\n4. reservation [n.] 预订\n\n5. traditional [a.] 传统的\n\n6. homepage [n.] 主页\n\n7. terrific [a.] 极好的\n\n8. take... into consideration 把……考虑进去\n\n**活用外刊**\n\n1. The Internet, in its 1.0 incarnation, began to show up in the 1990s, presenting fresh challenges.\n\n—The Wall Street Journal\n\n译文：1.0 版本的因特网在 20 世纪 90 年代崭露头角，带来了全新的挑战。\n\n点拨：incarnation 表示“化身、某个阶段”，指某种物品在某一阶段的存在形式，可替换 model、embodiment 等词。\n\n2. Its HR department set up a forum to solicit feedback on proposals for a new system, and received tens of thousands of responses.\n\n——The Atlantic\n\n译文：它的人事部门建立了一个论坛，来征集关于新系统提案的反馈，并收集到了数以万计的反馈。\n\n点拨：solicit feedback 意为“征集反馈、意见”，可替换常用的 collect 等词。\n\n[篇章衔接]引言部分(3句):表示感谢，并表明写作目的。①句自我介绍。②句肯定图书馆的服务。③句转折表明写作目的：给图书馆提出几点建议。\n\n主体部分(4句):提出建议。①句提出建议一：安装自助借还机并说明其优点。②句提出建议二：使用阅览室在线预约系统并指出其价值。③④句提出建议三：③句提出建议——希望图书馆给读者提供机会表达意见，④句具体指出如何采纳建议。\n\n结尾部分(1句): 表达期许。期待建议被考虑，并表达谢意。\n\n[模板提炼]本模板由【优秀范文】提炼而来，适用于各种情形下的建议信。\n\nDear ____,\n\nI am 自我介绍. I have some suggestions for you with regard to ____.\n\nTo begin with, will you please consider 建议一. Moreover, it is expected to 建议二. In addition, we will be very pleased if 建议三.\n\nI would like to extend my greatest appreciation if you are so kind as to take my suggestions into consideration.\n\nYours faithfully,\n\nLi Ming\n\n**三、写作储备**\n\n[建议信常用表达] (1) 开篇：说明写作目的\n\n- I am writing this letter to express... 我写这封信是想表达……\n\n- It is my pleasure to offer you some advice on...很高兴为你提供一些关于……的建议。\n\n(2) 中间段：罗列建议\n\n- I wanted to suggest a few... that I thought you might find interesting/useful. 我想给你建议几个你也许觉得有意思/有用的……。\n\n- I hereby suggest you to... Also... might be useful. These are some important points that I want to mention. 在此我建议你……，并且……也许会有用。这些是我想提及的重点。\n\n(3) 结尾：表达期待\n\n- I hope that you will take my suggestions into serious account. 我希望你能认真考虑我的建议。\n\n- Hope you take these suggestions positively and improve your services as soon as possible. 希望您积极采纳这些建议，尽快改善服务。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section III Writing — Part B",
+   "score": 20,
+   "groups": [
+    {
+     "type": "writing",
+     "images": [
+      "assets/2007-q52.jpg"
+     ],
+     "questions": [
+      {
+       "number": 52,
+       "stem": "Directions:\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n1) describe the drawing briefly,\n2) explain its intended meaning, and then\n3) support your view with an example/examples.\nYou should write neatly on ANSWER SHEET 2. (20 points)",
+       "score": 20,
+       "answer": "The picture depicts a breathtaking moment when the player is about to shoot. At this time the goalkeeper in the player's mind becomes a giant, who makes it incredibly difficult to score, while the goalkeeper imagines that he is a dwarf who can barely prevent the player from scoring a goal.\nBoth of them underestimate their abilities and overestimate their enemy's. This kind of insecurity may lead to underperformance. The purpose of the drawing is to show us that in the face of challenges, to be undaunted and self-assured is of great importance. There are tons of people who exude confidence all the time and have achieved a great deal, one of whom is Deng Yaping, the world famous table tennis player. Her short figure doesn't stop her from becoming a legend in the table tennis field. Instead, her self-confidence as well as perseverance had enabled her to win not only 18 major world champions but also respect from all over the world.\nUnder the shadow of self-doubt, we may never fully release our potential or achieve success. Once we believe in ourselves, sparks of possibility may turn into flames of achievement. Just as Mark Twain said, “All you need in this life is ignorance and confidence, and then success is sure.”",
+       "explanation": "**一、审题引导**\n\n| | | |\n| --- | --- | --- |\n| 提示信息 | 信息解析 | 推导寓意 |\n| 射门员将对手想象成护住整个球门的巨人，认为自己进球非常困难 | 表明他将困难想象得无比巨大，低估了自己的实际能力 | 射门员夸大困难会导致进球困难，守门员缺乏自信则使防守难以完成。通过推测两人心态带来的结果，可知图片讽刺了夸大困难、缺乏自信的消极心态。 |\n| 守门员将自己想象得宛如蚂蚁般渺小，认为自己无力守护硕大的球门 | 表明他夸大困难，缺乏自信 | |\n| 球门 | 代表梦想、目标等 | |\n\n**二、优秀范文赏析**\n\n**优秀范文**\n\n① The picture depicts a breathtaking moment when the player is about to shoot. ② At this time the goalkeeper in the player's mind becomes a giant, who makes it incredibly difficult to score, while the goalkeeper imagines that he is a dwarf who can barely prevent the player from scoring a goal.\n\n① Both of them underestimate their abilities and overestimate their enemy's. ② This kind of insecurity may lead to underperformance. ③ The purpose of the drawing is to show us that in the face of challenges, to be undaunted and self-assured is of great importance. ④ There are tons of people who exude confidence all the time and have achieved a great deal, one of whom is Deng Yaping, the world famous table tennis player. ⑤ Her short figure doesn't stop her from becoming a legend in the table tennis field. ⑥ Instead, her self-confidence as well as perseverance had enabled her to win not only 18 major world champions but also respect from all over the world.\n\n① Under the shadow of self-doubt, we may never fully release our potential or achieve success. ② Once we believe in ourselves, sparks of possibility may turn into flames of achievement. ③ Just as Mark Twain said, “All you need in this life is ignorance and confidence, and then success is sure.”\n\n[必备表达]①在自我怀疑的阴影下，我们可能永远无法完全发挥自己的潜力或取得成功。②一旦我们相信自己，机会的火花便可能化作成就的火焰。③正如马克·吐温所说，“自信而大智若愚地处世，成功便会水到渠成。”\n\n①他们俩都低估了自己的能力，高估了对手的水平。②这种不自信有可能导致他们表现欠佳。③这幅图画旨在告诉我们，面对挑战，保持无畏和自信至关重要。④有许多人始终保持自信，并取得了巨大的成就，世界著名的乒乓球运动员邓亚萍就是其中之一。⑤她矮小的身材没有阻挡她成为乒坛传奇。⑥相反，凭着自信和坚持，她不仅18次获得世界冠军，而且赢得了全世界人民的尊敬。\n\n**参考译文**\n\n1. breathtaking [a.] 激动人心的\n\n①这幅图片描绘了球员即将射门的惊险时刻。②这时，在射门员的脑海中，守门员变成了一个巨人，使得分变得无比困难；而守门员却把自己想象成一个侏儒，几乎无法阻止对方进球。\n\n2. giant [n.] 巨人\n\n3. incredibly difficult 非常困难\n\n4. dwarf [n.] 侏儒，矮人\n\n5. prevent... from... 阻止……做……\n\n6. score a goal 射门得分，进球得分\n\n8. overestimate [v.] 过高估计，过高评价\n\n7. underestimate one's abilities 低估某人的能力\n\n[活用外刊]\n\n9. insecurity [n.] 缺乏自信，无把握感\n\n10. undaunted [a.] 勇敢的\n\n11. self-assured [a.] 自信的\n\n12. exude confidence 洋溢着自信\n\n13. legend [n.] 传奇人物\n\n14. perseverance [n.] 坚持不懈\n\n15. release one's potential 发挥某人的潜力\n\n16. spark [n.] 火花\n\n1. From here take in another breathtaking view of Seattle's skyline as you walk along the shore.\n\n—BBC\n\n译文：漫步在海边，能从这里看到另一种令人惊叹的西雅图地平线的风景。\n\n点拨：breathtaking 为复合词，源自于动词短语“take your breath away(美得/惊讶得令人喘不过气；\n\n使人惊叹)”，表示“令人惊叹的，激动人心的”。\n\n2. My mental health deteriorated rapidly and challenging the decision was incredibly difficult.\n\n译文：我的心理健康状况迅速恶化，质疑这一决定变得异常困难。\n\n点拨：incredibly difficult 表示 very, very hard, incredibly(难以置信地)强调了困难的程度之深。\n\n3. Yet although many older Poles remain disoriented and disillusioned by the market, their children exude confidence and entrepreneurial talent.\n\n——The Economist\n\n译文：虽然波兰的很多老年人仍因为市场(形势)而迷茫、失望，但他们的孩子却洋溢着自信并充满了企业家的才华。\n\n点拨：exude confidence 意为 have confidence to a great extent(非常有自信), 可替换常用的 have confidence。\n\n**篇章衔接**\n\n第一段(2句):描述图片。①句概述图片内容；②句以 while 衔接，具体介绍了图中描绘的两个中心人物的心理活动。\n\n第二段(6句):阐明寓意。①②句分析图中人物的心理及其后果。③句概括图片所体现的人生哲理。④至⑥句举例论证。④句首先指出很多人保持自信，取得了成功，邓亚萍就是其中一个。⑤⑥句具体介绍邓亚萍克服先天不足、保持自信、取得成功的事例。\n\n第三段(3句):正反对比强调自信的作用。①句采取反向论证，说明图中展现的“自我怀疑”的危害。②③句正向说明：②句指出自信的作用，③句引用名言加以证明，有力收篇。\n\n[思路拓展]涉及“内在精神、心态”的人生哲理类话题，如自信、乐观、知足等，在第一段描述图片后，第二段可以如范文所示，提出论点后举例论证，也可以从正反两方面展开论证；第三段可如范文所示，以名人名言收尾，也可以针对如何将某种精神、心态内化并付诸实施提出具体建议。\n\n[应用模板]\n\nI ①The picture above depicts a scene in which ____. ②Straightforward as the drawing is, it mirrors reality and is loaded with profound meanings. ① It aims to instruct us that ____ is an extraordinarily valuable contributor to success. ② ____ allows people to ____, which can ensure their great（ quick/lasting achievements. ③ For example, ____. ④ Those who don’t ____, though not necessarily doomed to decline or failure, are more likely to develop unhealthily in an unbalanced way, with very little success.\n\nⅢ①In a word, ____ is the pyramidal cornerstone for success. ②Without the endeavor to ____, any favorable results are probably short-lived ones. ③In order not to get eliminated from the competition, we should attach importance to ____. 以取得成功。 ①总之，____是成功金字塔的基石。②如果不努力____，任何好的结果都有可能稍纵即逝。③为了不在竞争中被淘汰，我们应该重视____。\n\n**三、写作储备**\n\n**话题表述补充**\n\nabsolute/complete/full/total confidence 绝对的、完全的信心 feel/have confidence 有信心，gain/acquire/obtain confidence 获得信心 boost/enhance/increase/lift/raise confidence 增强信心，increasing/growing confidence 不断增加的信心，damage/undermine/weaken confidence 削弱信心，rebuild/restore/regain/revive confidence 重树信心\n\n**写作素材积累**\n\n- Self-confidence is the first requisite to great undertakings. (Samuel Johnson, British writer)\n\n- With confidence, you can reach truly amazing heights; without confidence, even the simplest accomplishments are beyond your grasp. (Jim Loehr, a world-renowned psychologist)\n\n要成大业，自信第一。（英国作家塞缪尔·约翰逊）有了信心，你可以到达惊人的高峰；没有信心，即使是最简单的成就也变得遥不可及。(世界著名心理学家 吉姆·罗尔)\n\n- Jack Welch, former Chairman and CEO of General Electric, has been highly regarded as one of the World's Greatest Business Leaders. In his childhood, he had serious stammer which made him a laughingstock. However, his mother encouraged him, \"Your brain is so clever that no tongue could catch up with it.\" This inspires little Jack's confidence and the firm self-belief makes him a legend in business circles.\n\n原通用电气董事长兼执行总裁杰克·韦尔奇被誉为全球最伟大的商业领袖之一。在他童年时期，严重的口吃使他成为一个笑柄。然而，他的母亲鼓励他道：“你脑子太聪明了，以至于没有舌头能赶上你思维的速度。”这激发了小杰克的信心，这种坚定的自信使他成为了商界的一个传奇人物。"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

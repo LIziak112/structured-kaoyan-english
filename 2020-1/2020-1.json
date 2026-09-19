@@ -1,0 +1,746 @@
+{
+ "year": 2020,
+ "exam": "英语一",
+ "sections": [
+  {
+   "title": "Section I Use of English",
+   "instructions": "Directions:\nRead the following text. Choose the best word(s) for each numbered blank and mark\nA, B, C or D on the ANSWER SHEET. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "cloze",
+     "passage": [
+      "Even if families don’t sit down to eat together as frequently as before, millions of\nBritons will nonetheless have got a share this weekend of one of the nation’s great\ntraditions:the Sunday roast. {{1}} a cold winter’s day, few culinary pleasures can\n{{2}} it. Yet as we report now, the food police are determined that this {{3}} should be\nrendered yet another guilty pleasure {{4}} to damage our health.",
+      "The Food Standards Authority (FSA) has {{5}} a public warning about the risks\nof a compound called acrylamide that forms in some foods cooked {{6}} high\ntemperatures. This means that people should {{7}} crisping their roast potatoes, reject\nthin- crust pizzas and only {{8}} toast their bread.But where is the evidence to\nsupport such alarmist advice? {{9}} studies have shown that acrylamide can\ncause neurological damage in mice, there is no {{10}} evidence that it causes\ncancer in humans.",
+      "Scientists say the compound is {{11}} to cause cancer but have no hard scientific\nproof. {{12}} the precautionary principle, it could be argued that it is {{13}} to\nfollow the FSA advice. {{14}} , it was rumoured that smoking caused cancer for years\nbefore the evidence was found to prove a {{15}} .",
+      "Doubtless a piece of boiled beef can always be {{16}} up on Sunday\nalongside some steamed vegetables, without the Yorkshire pudding and no wine. But\nwould life be worth living? {{17}} , the FSA says it is not telling people to cut out roast\nfoods {{18}} ,but to reduce their lifetime intake. However, its {{19}} risks coming a\ncross as being pushy and overprotective.Constant health scares just {{20}} with no one\nlistening."
+     ],
+     "questions": [
+      {
+       "number": 1,
+       "score": 0.5,
+       "options": {
+        "A": "In",
+        "B": "On",
+        "C": "Till",
+        "D": "Towards"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n1. [A] In 在(时段/月/季节/年), 在(一段时间)内 [C] Till 直到(特定时间点)\n\n[B] On 在(日期/礼拜几/特殊日子)\n\n[D] Towards 快要到、接近(某时刻)\n\n[考点提炼] 介词搭配。\n\n[解题思路] ②句主干 few... can... it(少有乐事能够……它；其中 it 回指 the Sunday roast)顺承首句语义进一步强调该家庭活动的魅力；因此句中状语 ____ a cold winter's day(……寒冷的冬日)与首句中的(Britons will...) this weekend 共同构筑了“在寒冷的冬日周末”这个特定条件。选项中的四个介词都可以接表示时间的名词，其中 on 表时间时，通常指特定的、确定的某一天，如一周中的某一天(如 on Monday)、重大节庆日(如 on Christmas Day)、具体日期(如 on July 1st)等；当 on 后接不确定的时间(a...day)时，至少要有一个限定条件(如 on a cold day in April),此时与空格所处的分句意境一致，故[B]正确。\n\n[错项排除] [A] In 表时间时，一般表示跨度较长的时间(用于强调时间范围),如“星期、月、季、年、世纪等”,也可以表示某一天内较长时间跨度的“上午/下午/晚上”(如 in the evening);此外，in 也可以接表示一段时间的词，意为“在……期间”(强调在限定的时间内完成了某件事情),如 We should remember that Rome was not built in a day.(我们应该记住罗马非一日建成。)句中主干“少有乐事能……它”并不涉及动作行为的完成，故可排除[A]。[C] Till(=until“至……止”),表示时间连续性(其动作或行为仅在某具体时刻之前得以存在),如 I'll stay here till the end of June.(我将在这里待到6月底。)表示“6月底就不待了/离开”,故可排除[C]。[D] Towards 表时间时通常是指“快到/接近某一特定的时间点(a particular/point time)”,如 towards the end of May(将近五月底),空格后是不确定的时间，故可直接排除[D]。"
+      },
+      {
+       "number": 2,
+       "score": 0.5,
+       "options": {
+        "A": "match",
+        "B": "express",
+        "C": "satisfy",
+        "D": "influence"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n2. [A] match 相匹敌，和……不相上下 [B] express 表达，表露，表示\n\n[C] satisfy 使满意；满足(需求); 使确信 [D] influence 影响；支配，左右\n\n[考点提炼] 上下文语义+动词辨析。\n\n[解题思路] ②句主语中的 culinary pleasures(指在“边烹边食”中获得满足和幸福的乐事)与空格后的宾语 it 是并列关系。这里的 it 指代的是①句中 one of...traditions, 即“星期日烤肉”这一家庭活动，限定语 few(几乎没有的)传达出一种否定其他的对比关系，因此，空格所在句意应为“没有任何烹饪乐事能够比得上它”, [A] match 表示“(在价值、大小或品质等方面)和……不相上下”, 正确。\n\n[错项排除] 句中主语、宾语为并列关系中的同类事物。[B] express(意为 to show or make known a feeling, an opinion, etc.)后接表示“观点、态度或情感”的词，显然非 it 所指。[C] satisfy 的宾语通常为“(某人的)需求、欲望；或(外界的)期待、要求”等，其主宾关系是不同类的，故先行排除[B]和[C]。[D] influence 虽然从语法和逻辑都说得通，但“少有乐事能影响/左右星期日烤肉活动”不符合上下文语义。"
+      },
+      {
+       "number": 3,
+       "score": 0.5,
+       "options": {
+        "A": "patience",
+        "B": "concern",
+        "C": "surprise",
+        "D": "enjoyment"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n3. [A] patience 耐心；坚忍，恒心\n\n[B] concern 担忧；关爱，关心\n\n[C] surprise 意想不到的事；惊讶，意外\n\n[D] enjoyment 愉快；乐事；享受\n\n[考点提炼] 上下文语义+名词辨析。\n\n[解题思路] ③句句首 Yet 提示本句与①②句内容(the Sunday roast 活动无与伦比)形成转折，即系表结构 the food police are determined that... (determined 表“执意、决意”)应该传递“在寒冷冬日，食品标准部门却要大煞风景，决意告诫数百万其乐融融参与活动的民众：烤肉危害健康”的语义，也即 this ____作为主语，既要呼应上述乐事，又要与 guilty pleasure 形成反差，故[D]enjoyment(=sth you enjoy doing)正确。\n\n[错项排除] [A] patience 利用“烤肉（较慢）、聚餐（难得）”干扰，但该传统活动实与“忍耐力、毅力”无关，而是“无与伦比的享受”，因而无法与 pleasure 形成对应语义。[B] concern 将句子核心义，也即“食品警察”的观点与大众感受（this ____）混淆，无视句首 Yet 所传达的逻辑。[C] surprise 利用我们常说的“What a surprise!（真让人惊喜）”干扰，但词义侧重于“意想不到（之事/心情）”，其次星期日烤肉活动作为全国性的伟大传统，人所皆知，因此谈不上“意外”。"
+      },
+      {
+       "number": 4,
+       "score": 0.5,
+       "options": {
+        "A": "intensified",
+        "B": "guaranteed",
+        "C": "compelled",
+        "D": "privileged"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n4. [A] intensified 加强的，加剧的\n\n[B] guaranteed 肯定的，保证的\n\n[C] compelled 强迫的；(感到)必须得…… [D] privileged 有特权的，受特别优待的；荣幸\n\n[考点提炼] 句内语义+形容词辨析。\n\n[解题思路] ____ to damage our health 作后置定语，说明 guilty pleasure 的特点/影响，意即：星期日烤肉活动 ____ 损害健康。determined(已下决心的，决意)一词暗示其“坚决、笃定”,be guaranteed to do sth 为固定用法，表示“必然会(发生某事)”,故[B]符合文意以及句内情感色彩。\n\n[错项排除] [A] intensified 意为“(在力量、数量或程度上)加强的，加剧的”, 如 intensified effort/scrutiny(努力/审查加强); 若出现于 be~to do sth 结构，则该词并非作为形容词使用，而是被动语态 (intensify 取及物动词“加强、强化”之意), 如 Efforts were intensified to conserve and improve the ecological environment. (生态环境保护和建设力度加大。)[C]、[D]feel compelled to do sth、be privileged to do sth 分别表示“(觉得某事正确)感到必须做某事”“有幸做某事”, 均不合语义逻辑。\n\n**词汇注释与难句分析**\n\nnonetheless ad. 然而，但是；尽管如此，\n\ndetermined a. 决心；决定；决意\n\nroast v. 烤 n. 烤肉；(一盘)烘烤物\n\nrender v. 正式作出(判决等), 宣布(定见等)\n\nculinary a. 烹调的；食物的\n\nguilty pleasure 让人有罪恶感的快乐\n\n**语篇分析**\n\n首段由无人能抗拒的传统家庭活动“星期日烤肉”引出全文论述焦点：官方（食品管理机构）对其的负面认定“烤制食品有害健康”。①句以 Even if...nonelessness...（尽管，却）强力吸引读者关注“诱惑人们打破惯例的伟大传统——星期日合家烤肉活动”，并思索其“究竟有何特别”。②句继而以具体场景（On a cold winter's day...few...can match it.）解释其绝妙：天寒地冻之时，一家人围火而烤，于四溢香气中共话桑麻。pleasure 指“令人满足、幸福的乐事”，经 culinary（connected with cooking or food）限定，既指烹饪(烧烤)之乐，也指共享美味之乐。③句转而引出煞风景之事：官方判定烤肉有害健康。Yet 背后的情绪逆转（本是快乐兴奋→被迫紧张担忧）、戏谑称谓 the food police、yet another（强调次数的增加）暗含的反感和质疑之情，皆昭示作者心态：所谓的权威又来“贩卖健康焦虑”，作践我们的传统。are determined（下定决心，决意的）与 guaranteed to damage...（guarantee 意为 to be certain that sth will happen“[主观]肯定……必然发生”）一同体现食品管理机构判定武断、傲慢自大。注意 render 常见释义为“使……成为（含因果逻辑）”，如 Hundreds of people were rendered homeless by the earthquake.（成百上千的人因为地震而无家可归。），文中取僻义，指 to deliver or pronounce formally“正式宣布（定见等）、判决”，文中 be rendered... guilty pleasure 意即“被定/判为又一项罪恶之乐”。\n\nII ① The Food Standards Authority (FSA) has 5 a public warning about the risks of a compound called acrylamide that forms in some foods cooked 6 high temperatures. ② This means that people should 7 crisping their roast potatoes, reject thin-crust pizzas and only 8 toast their bread. ③ But where is the evidence to support such alarmist advice? ④ 9 studies have shown that acrylamide can cause neurological damage in mice, there is no 10 evidence that it causes cancer in humans.\n\n①英国食品标准局(FSA)发布了一项公开警告：某些以高温烹制的食物中存在一种叫作丙烯酰胺的化合物，它会带来风险。②这意味着人们应该避免把土豆烤脆，拒绝薄皮披萨，把面包只烤到差不多熟。③可这条危言耸听的建议证据何在？④虽然已有研究表明丙烯酰胺会造成小鼠神经损伤，但是并没有确凿的证据表明它会导致人类患癌。"
+      },
+      {
+       "number": 5,
+       "score": 0.5,
+       "options": {
+        "A": "ignored",
+        "B": "received",
+        "C": "issued",
+        "D": "cancelled"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n5. [A] ignored 忽略；驳回诉讼；不理睬\n\n[B] received 收到；接待；接纳\n\n[C] issued 发布，发出；出版，发表\n\n[D] cancelled 取消；删去\n\n[考点提炼] 上下文语义+动词辨析。\n\n[解题思路] 由 The Food Standards Authority(回应上文 food police)、warning about the risks of... (关于某物风险的警告) 判断，本段承上引出官方“判定烤肉有害”具体说辞，issue sth about... 表示“针对某情况发出……”, 回应上文 be rendered... guilty... (被正式定性为……), 体现发布者权威身份，故 [C] 正确。\n\n[错项排除]“烤制食品有害”是 the food police 提出的，而他们“无视/收到/取消警告”均与该逻辑矛盾。"
+      },
+      {
+       "number": 6,
+       "score": 0.5,
+       "options": {
+        "A": "under",
+        "B": "by",
+        "C": "for",
+        "D": "at"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n6. [A] under 在（……情况或条件）下 [B] by 根据，由，通过\n\n[C] for 因为；(表示对象、用途等) 给；为了 [D] at (用于速度、比率等) 以，达\n\n[解题思路] 空格介词位于 cooked 和 high temperatures 之间，体现“烹饪”与“高温”之间的关系，由此修饰 some foods, 空格所在部分应该表示“以很高的温度烹制而成的食物”, at 可用于表示“价格、速率、程度、速度等”, 故 [D]at 正确。\n\n[错项排除] [A]、[B]均利用中文字面义“在高温下烤制”“通过高温烤制”干扰，但 under 用于引出“(实现某事所需的)条件”，而文中“高温”表示火候之程度，并非“食物烹熟”的条件；by 用于引出“方式/方法(本身)”，如 The house is heated by gas.（这房子是煤气供暖的。）但文中“高温”并非“烹饪方式/途径”，而是方式之特点。[C]for 表示“目的、原因”，显然“烹饪”不是为了“高温”。"
+      },
+      {
+       "number": 7,
+       "score": 0.5,
+       "options": {
+        "A": "forget",
+        "B": "avoid",
+        "C": "finish",
+        "D": "regret"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n7. [A] forget 忘记；忽略\n\n[B] avoid 避免；躲避\n\n[C] finish 完成；结束\n\n[D] regret 后悔；遗憾\n\n[考点提炼] 上下文语义+动词辨析。\n\n[解题思路] This means that...（这也就是说……）提示本句继上句“官方警告”引出相应的逻辑结论（即官方认定的可取做法），而根据已有信息“人们应该____将土豆烤脆，拒绝薄皮披萨……”不难判断“脆土豆片和薄脆皮披萨一样，均为需抵制的高温烹制食品”，选项中只有[B]avoid 与 reject 语义一致，avoid doing sth 意为“(刻意)避免做某事”。\n\n[错项排除] 其他三项虽然均可接 doing sth，分别表示“忘记做过某事”“完成了某事”以及“后悔做了某事”，但均不合文意。"
+      },
+      {
+       "number": 8,
+       "score": 0.5,
+       "options": {
+        "A": "easily",
+        "B": "regularly",
+        "C": "partially",
+        "D": "initially"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n8. [A] easily 简单地；很可能；动不动\n\n[B] regularly 定期地；常常地；匀称地，整齐地\n\n[C] partially 不完全地，部分地\n\n[D] initially 最初；首先\n\n[考点提炼] 句内语义+副词辨析。\n\n[解题思路] 空格所在部分 and only ____ toast their bread 与前两项建议并行，only 暗示应控制面包加热的程度，而空格副词修饰动词 toast, 选项中只有副词 partially 能弱化“动作 (toast)”的程度，表示 “不完全地、在一定程度上”, [C] 正确。\n\n[错项排除][A] easily 表示做某事的难易程度，[B] regularly 一方面表“频率”，另一方面表“排列整齐、美观(evenly arranged or shaped)”，两项均与“食物是否高温烹制”无关。[D] initially 是时间副词，表示“在某事的最初阶段(而非中间或其他阶段)”，而先烤还是什么时候烤，均与温度高低无关。"
+      },
+      {
+       "number": 9,
+       "score": 0.5,
+       "options": {
+        "A": "If",
+        "B": "Since",
+        "C": "While",
+        "D": "Unless"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n9. [A] If 如果\n\n[B] Since 既然；由于\n\n[C] While 尽管\n\n[D] Unless 除非，如果不\n\n[考点提炼] 上下文语义逻辑。\n\n[解题思路] ④句从句指出，____ 已有研究表明丙烯酰胺会造成小鼠神经损伤（即确定会危害小鼠健康），主句指出，没有证据表明丙烯酰胺会导致人类患癌（即不确定会危害人类健康）；可见主从句之间存在明显的转折逻辑，也与③句针对②句官方建议提出的质疑相吻合，[C]While 位于句首表示“虽然，尽管”，为正确项。\n\n[错项排除] 其余三项分别表示“(实现某事的)条件”“(某选择、做法的)原因”以及“(某事成行的)绝对条件”，均不合文意。"
+      },
+      {
+       "number": 10,
+       "score": 0.5,
+       "options": {
+        "A": "conclusive",
+        "B": "external",
+        "C": "secondary",
+        "D": "negative"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n10. [A] conclusive 结论性的，确凿的 [B] external 外部的；表面的\n\n[C] secondary 次要的；中等的 [D] negative 负面的；消极的；否定的\n\n[考点提炼] 句内语义 + 形容词辨析。\n\n[解题思路] 空格处形容词修饰 evidence, 而“研究表明会造成”(即有结论性的/确凿的证据)与“没有 ____ 证据”之间暗含一种对比关系，故[A] conclusive 符合文意。\n\n[错项排除]“外部/次要的证据”均不能加强结论的可靠性，从而也就不能表达作者意在强调的观点“烤肉有害值得怀疑”，排除[B]、[C]。negative evidence 意为“反面论据”，恰与文意相悖，排除[D]。\n\n**词汇注释与难句分析**\n\ncompound n. 化合物；混合物\n\nacrylamide n. 丙烯酰胺\n\ntemperature n. 温度；氛围\n\ncrisp v. 使……变脆 a. 脆的\n\nalarmist a. 危言耸听的\n\nneurological a. 神经系统的\n\nThe Food Standards Authority (FSA) has issued a public warning about the risks of a compound called acrylamide that forms in some foods cooked at high temperatures.\n\n功能注释：本句主干是 The Food Standards Authority (FSA) has issued a public warning; about the risks of a compound 作后置定语，说明 a public warning 的内容；called acrylamide 为过去分词作后置定语，说明 a compound 的名称；that forms in some foods cooked at high temperatures 为定语从句，修饰 acrylamide。\n\n**语篇分析**\n\n第二段详陈官方建议内容并摆明作者态度：建议所基于的结论并无实证。①句细化上文 the food police are determined that...所指，说明官方发布的警告信息。some foods cooked at high temperatures 呼应上文 roast, 明确官方针对的主要对象“经高温烹制的食品”, compound called acrylamide 与上文口语化的 guilty pleasure(“罪”快乐)对比鲜明，以专业性信息表现 warning 的“正规、权威”。②句以 This means... 引出“警告所代表的严肃建议 (should)”, 其中 avoid crisping、reject thin-crust、only partially toast 均与炙热烤肉相对，浅层指向“低温烹饪”, 重复申明官方对进食烤肉的反对态度，深层含“嘲讽”之意——与脆薯片、脆皮饼决裂实属可笑，根本不现实。③④句转而以“反诘 (But where...?)→自答 (While..., there is no...)”形式强调对官方态度的反对。have shown that... can cause... damage in mice VS no conclusive evidence that it causes cancer in humans 形成对比，暗示官方态度是基于“小鼠研究结论”的同时，凸显作者的反驳：确定对鼠有害≠确定对人有害。\n\n③ Scientists say the compound is 11 to cause cancer but have no hard scientific proof. ② 12 the precautionary principle, it could be argued that it is 13 to follow the FSA advice. ③ 14, it was rumoured that smoking caused cancer for years before the evidence was found to prove a 15.\n\n①科学家们称这种化合物可能致癌，但是并没有确凿的科学依据。②基于预防原则，我们可以说听从食品标准局的建议是可取的。③毕竟，“吸烟致癌说”在流传了多年之后人们才找到这一（因果）关系的证据。"
+      },
+      {
+       "number": 11,
+       "score": 0.5,
+       "options": {
+        "A": "likely",
+        "B": "bound",
+        "C": "insufficient",
+        "D": "slow"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n11. [A] likely 有可能\n\n[C] insufficient 不足的；不能胜任的\n\n[B] bound 必然会；受约束的，有义务的\n\n[考点提炼] 上下文语义+形容词辨析。\n\n[D] slow 缓慢的；迟钝的\n\n[解题思路] 空格所在句承接第二段末作者对官方建议的反驳“并没有确凿的证据证明丙烯酰胺会致癌”，过渡至作者对科学家态度的反驳，进一步强调观点：科学家们称这种化合物____致癌，但是并没有确凿的科学依据，由此可见，空格处应为表示“不确定（=无结论性的证据）”含义的形容词，be likely to 意为“有可能”，[A]正确。\n\n[错项排除] be bound to 表示“一定，必然会(致癌)”，be slow to 表示“(致癌)较慢”（仍然肯定了“致癌的必然性”），均与文中“没有确凿的科学依据”矛盾，排除[B]、[D]。be insufficient to 意为“(数量或程度)不足以”，“不足以致癌”说明“科学家与作者观点一致”，与句内 but 体现的转折逻辑不符，故排除[C]。"
+      },
+      {
+       "number": 12,
+       "score": 0.5,
+       "options": {
+        "A": "In addition to",
+        "B": "At the cost of",
+        "C": "On the basis of",
+        "D": "In contrast to"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n12. [A] In addition to 除……之外还\n\n[B] At the cost of 以……为代价\n\n[C] On the basis of 基于……，以……为由\n\n[D] In contrast to 与……形成对比\n\n[考点提炼] 上下文语义+介词短语辨析。\n\n[解题思路] ____ the precautionary principle 为句子状语，意为“……的原则”, 主干 it could be argued that it is... to follow the FSA advice(有理由/可以认为，听从官方建议是……的) 明显在引出作者对“遵循官方建议”这一做法的评判 (the FSA advice 回指第二段首句“食品标准局针对高温烹制食物危害性发出的警告”); 而根据常理，“原则” 是行为的规范/参考标准，可见主句是根据“预防原则”评判做法 (合理与否), 空格处应该表示“根据、考虑到”, [C] On the basis of 表示“基于……(原因)”, 符合文意。\n\n[错项排除][A]In addition to 用于“提及除某事外的另一事”，如 In addition to these arrangements, extra ambulances will be on duty until midnight.（除了这些安排以外，另增救护车值班至午夜。）而文中主干部分主语并非与预防原则并行的另一种原则。[B]At the cost of(=at the expense of doing sth)表示“某事的实现要付出某种代价”，如 She saved him from the fire but at the cost of her own life (=she died).（她从火中把他救了出来，却牺牲了自己的生命。）而“‘可以说……’要以预防原则为代价”不合逻辑。[D]用于“对比两件事的差别”，如 In contrast to last year's profits, the company is not doing very well.（和去年盈利的情况相比，公司今年的情况不是太好。）而句子前后不存在对比性信息。"
+      },
+      {
+       "number": 13,
+       "score": 0.5,
+       "options": {
+        "A": "interesting",
+        "B": "fortunate",
+        "C": "urgent",
+        "D": "advisable"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n13. [A] interesting 有趣的\n\n[B] fortunate 幸运的；吉祥的\n\n[C] urgent 紧急的；急迫的\n\n[D] advisable 明智的；可取的\n\n[考点提炼] 句内语义 + 形容词辨析。\n\n[解题思路] 结合上题分析可知，②句主干在传达作者对“听从官方建议”这一做法(合适与否)的评判。作者虽然认为官方建议没有确凿依据，但并未否定“烤制食品有害”的可能性，而 precautionary 指的是“预防负面结果发生的”,综合判断本句意在委婉认可官方建议在一定程度上有其意义，即，少吃烤制食品从预防角度来说是有益/可取的，[D] advisable 符合文意。\n\n[错项排除]“听从官方建议是有趣的”与状语“预防原则”全无关联，排除[A]; be fortunate to do sth (荣幸、有福气做某事)表现的是一种“确定性/结论性评价”，指向某事发生后“感到庆幸”，而作者指出“烧烤危害尚无确切证据”，因此不能说“采纳官方建议值得庆幸”，故排除[B]。[C]urgent 句内逻辑正确，但背离大语境“作者总体上不认同官方建议”，也就更谈不上“立刻照做”。"
+      },
+      {
+       "number": 14,
+       "score": 0.5,
+       "options": {
+        "A": "As usual",
+        "B": "After all",
+        "C": "By definition",
+        "D": "In particular"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n14. [A] As usual 照例 [B] After all 毕竟，别忘了\n\n[C] By definition 必然；总是 [D] In particular 尤其\n\n[考点提炼] 上下文语义逻辑。\n\n[解题思路] ③句意为：吸烟致癌说存在了很多年以后，才证明……。结合上文“官方建议(虽无确切证据但至少)有防患于未然的价值”以及现实“如今吸烟致癌已有确切科学结论”, 判断本句是在借经典例子“吸烟(对健康的影响)”类比“食用烤制食品”, 进一步解释“官方建议为何有预防价值(现在没有证明不代表就无害)”, 故空格逻辑词应能引出“原因”, after all 能用于“解释某事或给出原因”, 故[B]正确。\n\n[错项排除] [A]、[D]分别引出“惯常的方式、和往常一样的举动”“特殊的，特别需要强调的内容”，均与文意不符；[C]By definition 意为“必然（有某种品质，因为同类事物全都有这种品质）”，如 People say that students are by definition idealistic and impatient. （人们说学生必定是理想主义的、躁动不安的。）文中吸烟和烧烤固然有相同特质，但 by definition 作为状语，修饰的是整个句子，也即 it was rumoured... before...，而“必定是在……之前流传了多年”显然不合逻辑。"
+      },
+      {
+       "number": 15,
+       "score": 0.5,
+       "options": {
+        "A": "connection",
+        "B": "combination",
+        "C": "resemblance",
+        "D": "pattern"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n15. [A] connection 联系，关联 [B] combination 组合；混合物\n\n[C] resemblance 相似之处 [D] pattern 模式；图案；样品\n\n[考点提炼] 句内语义+名词辨析。\n\n[解题思路] 空格所在句意为：在“吸烟致癌说”流传多年之后，人们才找到了证明 ____ 的证据。结合上题分析可知，the evidence 是证明“smoking caused cancer”这件事情的证据，也就是“吸烟导致癌症”这一关联性的证据，故 [A] connection 符合文意。\n\n[错项排除]“吸烟”与“癌症”之间是因果关系，而非“结合、组合”关系，故[B] combination 可排除。[C] resemblance 利用“吸烟和烧烤”的类比关系干扰，但空格处针对的只是“吸烟”,探讨“是否有证据证明吸烟有害健康(致癌)”。[D]利用中文思维“发现了吸烟究竟如何致癌的模式”干扰，但文意重点不在于“如何致癌”,而在于“是否致癌”。\n\n**词汇注释与难句分析**\n\nprecautionary a. 预防的\n\nprinciple n. 原则；原理\n\n**语篇分析**\n\n第三段为过渡段，承上委婉认可官方建议的一定价值，为开启下文驳斥做准备。①句再现上段末观点。但作者将上段末“食品管理者”转为此处“科学家”，likely（很有可能的）对应上文 guaranteed to (damage our health)，一方面明确前者是基于后者结论而发出警告，另一方面表明科学家更为严谨/官方过于武断——不会基于小鼠试验结论推出“对人类一定有害”。②③句退而表示官方建议也有其价值。On the basis of（意为 because of a particular fact or situation）引出对“听从官方建议也是可取的”的理由说明：能防患于未然（precautionary）。After all 同样引出理由，通过业已确证的“吸烟 VS 健康”因果（致病）关系来解释尚无法确证的“烤肉 VS 健康”关系，句中 before 表示“……才”，强调“吸烟有害的证据很久才找到”，“烤肉”也可能如此，因而防范有其必要。注意段中 it could be argued that（可以说，可以认为）、after all （毕竟）均带“勉强”之意，提示整段功能：作者只是想借此“让步内容”使批驳更客观、力度更大。\n\nIV ① Doubtless a piece of boiled beef can always be \\_16\\_ up on Sunday alongside some steamed vegetables, without the Yorkshire pudding and no wine. ② But would life be worth living? ③ \\_17\\_, the FSA says it is not telling people to cut out roast foods \\_18\\_, but to reduce their lifetime intake. ④ However, its \\_19\\_ risks coming across as being pushy and overprotective. ⑤ Constant health scares just \\_20\\_ with no one listening. [278 words]\n\n①当然，人们总可以在周日把一块水煮牛肉和一些清蒸蔬菜一起端上桌，不吃约克郡布丁也不喝葡萄酒。②但这样的生活还值得过吗？③公道说，食品标准局称他们并不是建议人们完全戒除烤制食品，而是减少其终身摄入量。④然而，他们的宣传运动可能会给人一种强势和保护过度的感觉。⑤持续不断的健康恐吓只会以无人听信而告终。"
+      },
+      {
+       "number": 16,
+       "score": 0.5,
+       "options": {
+        "A": "made",
+        "B": "used",
+        "C": "saved",
+        "D": "served"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n16. [A] made 做；构成\n\n[B] used 使用\n\n[C] saved 拯救；节省；保存\n\n[D] served 端上(菜、饮料); 为……服务\n\n[考点提炼] 上下文语义 + 动词辨析。\n\n[解题思路] 空格所在句直译为：在周日，一块煮牛肉和一些清蒸蔬菜可以总是被____, 没有约克郡布丁或葡萄酒。结合上文中提到的食品标准局的建议和②句反诘(这样的生活还值得过吗？) 可知，这里是在说“周日人们并非不能只吃煮牛肉和清蒸蔬菜(而不吃烤肉)”, 但如此一来生活就失去了乐趣，综上，[D] 为正确选项。serve up 意为“(为某人)端上，提供(食物)”。\n\n[错项排除] make up 意为“组成，构成”,脱离语境。use up 意为“用光，用完”,但语义重点不在于“是否吃得完(较健康的食品)”,而在于“是否吃”。save up 宾语通常为“钱”,指“攒钱以备日后某事之需”。"
+      },
+      {
+       "number": 17,
+       "score": 0.5,
+       "options": {
+        "A": "To be brief",
+        "B": "For instance",
+        "C": "To be fair",
+        "D": "In general"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n[考点提炼] 上下文语义逻辑。\n\n[解题思路] ③句指出：____，食品标准局称他们并不是建议人们……戒除烤制食品，而是建议大家减少其终身摄入量。从主干内容来看，官方的建议很中肯，这与作者通篇“批判、质疑”的基调似有矛盾，而结合上句表强烈反对的“反问语气”以及下文表强势转折的 However，判断作者此处想要“缓和批判力度”，为提出最终结论做好准备，选项[C]契合“批判之余不忘客观”的常见论述方式。\n\n[错项排除] 其他项分别表示“扼要总结(结论)”“举例”“说明通常或总体情形”，均不能诠释本段②③④句中起到的“过渡让步”功能。"
+      },
+      {
+       "number": 18,
+       "score": 0.5,
+       "options": {
+        "A": "entirely",
+        "B": "gradually",
+        "C": "reluctantly",
+        "D": "carefully"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n18. [A] entirely 完全地；彻底地 [B] gradually 逐渐地\n\n[C] reluctantly 不情愿地，勉强地 [D] carefully 仔细地；小心地\n\n[考点提炼] 上下文语义+副词辨析。\n\n[解题思路] 结合上题分析可知，③句作者在传达其委婉态度(给官方建议正名),副词必须要契合这一用意，故语义应为“他们并不是让人们完全不吃烤制食品”,[A]entirely 符合文意。\n\n[错项排除]“不是建议让人们逐渐戒除”意即“是建议让人们快速戒除”，“不是建议让人们勉强戒除”意即“是建议让人们心甘情愿戒除”，故[B]、[C]两项均偏离文意。“不是让人们小心戒除”暗示“无须太过谨慎”，与“官方郑重警告”矛盾，排除[D]。"
+      },
+      {
+       "number": 19,
+       "score": 0.5,
+       "options": {
+        "A": "promise",
+        "B": "competition",
+        "C": "experience",
+        "D": "campaign"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n19. [A] promise 承诺；希望\n\n[B] competition 竞争；比赛\n\n[C] experience 经验；经历\n\n[D] campaign 运动；战役\n\n[考点提炼] 上下文语义+名词辨析。\n\n[解题思路] ④句承接上文指出：然而，他们的(its 指代“食品标准局的”,中文里灵活处理为“他们的”)可能会给人一种强势的、过度保护的感觉，故空格处应为“可概括上文食品标准局举动(认定……有害、发布警告、提出建议等)”的名词，[D] campaign 指为社会、商业或政治目的而进行的一系列有计划的活动，正确。\n\n[错项排除] 根据全文可知，食品标准局并没有做出什么承诺，也未谈及竞争，更未涉及相关经验，故可排除其他三项。"
+      },
+      {
+       "number": 20,
+       "score": 0.5,
+       "options": {
+        "A": "follow up",
+        "B": "end up",
+        "C": "open up",
+        "D": "pick up"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n20. [A] follow up (with) 随后做……\n\n[B] end up (with) 以……而结束\n\n[C] open up 开放\n\n[D] pick up 捡起\n\n[考点提炼] 上下文语义+动词短语辨析。\n\n[解题思路] ③句承认官方建议具有一定合理性，④句转而指出其问题：让人觉得强势，管得太宽，⑤句 Constant health scares 对全文聚焦的批判对象“官方对食品危害警示”做出终极归纳定性——反复、不断的“吓唬”, 并以“无人听信 (no one listening)”收尾全文，而“无人听信”很明显是作者“对官方做法的最终效果”的评价，end up (with) 后常接“v.-ing、形容词、介词结构、独立主格”等，表现“最终、到头来(发现形势完全违背自己的初衷)”之意，故 [B] 契合文意。\n\n[错项排除] no one listening 是在说一种结果，而不是指接下来做的事，排除[A] follow up。[C] open up 后不接 with 结构，[D] pick up with 后接 sb,表示“结识”,两者均不合文意。\n\n**词汇注释与难句分析**\n\nsteam v. 蒸\n\ncut out 戒除；剪下；删掉\n\nintake n. 摄取量\n\ncome across 给人以……的印象\n\npushy a. 急于求成的，执意强求的[含贬义]\n\nscare n. 惊吓；恐慌；恐惧\n\n**语篇分析**\n\n第四段对官方建议做出总结性评价：无人践行/不会起效。①②句以“让步—转折(Doubtless...But...)”逻辑凸显作者态度：放弃烤肉的生活即使再健康也没有意义。can always be served up..., without...and no...深层看已体现作者不悦：人吃什么肯定都能生存；故 But 的出现毫不意外，would life be worth living 将“烤肉活动”提升至人生价值，强化该传统在人们心中地位。③④句继续以“让步—转折(To be fair...However...)”逻辑，迂回表达作者观点，并在⑤句抛出最终结论。③句通过“it is not telling people to cut out...but to reduce...”退步表明官方并非“完全无理”,由此引出④句批驳，come across(=come over)为生僻用法，意为“给人以……印象；使产生……印象”,常以 as 引出补语信息。⑤句 Constant health scares 回应首段末 yet another guilty pleasure,再由情感色彩颇浓的 just end up with...(just=only,意为“只不过，只是”)引出讽刺性结局：无人再听。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part A",
+   "instructions": "Part A Directions:\nRead the following four texts. Answer the questions after each text by choosing A, B,\nC or D. Mark your answers on the ANSWER SHEET. (40 points)",
+   "score": 40,
+   "groups": [
+    {
+     "title": "Text 1",
+     "type": "reading",
+     "passage": [
+      "A group of Labour MPs, among them Yvette Cooper, are bringing in the new\nyear with a call to institute a UK “town of culture” award. The proposal is that it\nshould sit alongside the existing city of culture title, which was held by Hull in 2017,\nand has been awarded to Coventry for 2021. Cooper and her colleagues argue that the\nsuccess of the crown for Hull, where it brought in £220m of investment and an\navalanche of arts, ought not to be confined to cities. Britain’s towns, it is true, are not\nprevented from applying, but they generally lack the resources to put together a bid to\nbeat their bigger competitors. A town of culture award could, it is argued, become an\nannual event, attracting funding and creating jobs.",
+      "Some might see the proposal as a booby prize for the fact that Britain is no\nlonger able to apply for the much more prestigious title of European capital of culture,\na sought-after award bagged by Glasgow in 1990 and Liverpool in 2008. A cynic\nmight speculate that the UK is on the verge of disappearing into an endless fever of\nself-celebration in its desperation to reinvent itself for the post-Brexit world: after\ntown of culture, who knows what will follow-village of culture? Suburb of culture?\nHamlet of culture?",
+      "It is also wise to recall that such titles are not a cure-all. A badly run “year of\nculture” washes in and out of a place like the tide, bringing prominence for a spell but\nleaving no lasting benefits to the community. The really successful holders of such\ntitles are those that do a great deal more than fill hotel bedrooms and bring in high-\nprofile arts events and good press for a year. They transform the aspirations of the\npeople who live there; they nudge the self-image of the city into a bolder and more\noptimistic light. It is hard to get right, and requires a remarkable degree of vision, as\nwell as cooperation between city authorities, the private sector, community groups\nand cultural organisations. But it can be done: Glasgow's year as European capital of\nculture can certainly be seen as one of a complex series of factors that have turned the\ncity into the powerhouse of art, music and theatre that it remains today.",
+      "A “town of culture” could be not just about the arts but about honouring a town’s\npeculiarities—helping sustain its high street, supporting local facilities and above all\ncelebrating its people. Jeremy Wright, the culture secretary, should welcome this\npositive, hope-filled proposal, and tum it into action."
+     ],
+     "questions": [
+      {
+       "number": 21,
+       "stem": "Cooper and her colleagues argue that a “town of culture” award could",
+       "score": 2,
+       "options": {
+        "A": "consolidate the town-city ties in Britain.",
+        "B": "promote cooperation among Britain’s towns.",
+        "C": "increase the economic strength of Britain’s towns.",
+        "D": "focus Britain’s limited resources on cultural events."
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| 21. Cooper and her colleagues argue that a “town of culture” award could ____. | 21. 库珀及其同僚认为“文化之镇”奖能够____。 |\n| --- | --- |\n| [A] consolidate the town-city ties in Britain | [A] 加强英国小镇和城市间的联系 |\n| [B] promote cooperation among Britain’s towns | [B] 促进英国小镇间合作 |\n| [C] increase the economic strength of Britain’s towns | [C] 增强英国小镇的经济实力 |\n| [D] focus Britain’s limited resources on cultural events | [D] 将英国有限的资源集中于文化活动 |\n\n[精准定位] 首段⑤句指出，库珀等人认为“文化之镇”奖能够“吸引投资，创造就业”,可以概括为“增强英国小镇的经济实力”,故[C]正确。\n\n[命题解密] 正确项[C]是对首段⑤句的合理概括。题干中 Cooper and her colleagues argue 对应插入语 it is argued, increase economic strength 对应结果状语 attracting funds and creating jobs。\n\n[A]由③④句错误推断出“加强小镇和城市间的联系”。③句指出，“文化之城”取得的成功不应该局限于城市；④句指出，在竞争“文化之城”时，小镇不敌城市。因此可知，在角逐奖项方面，小镇和城市是竞争关系，而“文化之镇”奖是单独为小镇设立的称号，并不涉及城市和小镇之间的联系。[B]将④句后半部分的 put together a bid 曲解为 cooperation among Britain's towns，但原文中指的是小镇内部各种资源的整合，而非小镇之间的合作。[D]糅合④⑤句，并利用惯性思维制造干扰。④句后半句说，英国的小镇缺乏资源，无法与城市角逐“文化之城”称号；⑤句提及“文化之镇”可以办成一年一度的盛会，并没有提及要将英国的资源集中于文化活动。\n\n[技巧总结] 本题就提议发起人的观点命制人物观点题，解答此题时应：1. 根据题干中的人物进行定位，找到人物观点原文；2. 抓住人物观点中的核心信息并进行合理概括。如本题，根据题干中的人物可以定位到③⑤句，③句提到“文化之城”取得的成功(巨额投资和艺术发展)不应局限于城市，暗示小镇也应享有艺术发展和巨额投资；⑤句直接指出“文化之镇”奖带来的经济意义，正确答案中的 increase economic strength 正是对原文的同义替换。\n\nSome might see the proposal as a booby prize for the fact that Britain is no longer able to apply for the much more prestigious title of European capital of culture, a sought-after award bagged by Glasgow in 1990 and Liverpool in 2008.\n\n功能注释：句子主干是 Some might see the proposal as a booby prize, for the fact that...作原因状语，that 引导的同位语从句解释 fact 的具体内容。同位语从句的主干为 Britain is no longer able to apply for the much more prestigious title of European capital of culture。其后的 a sought-after award...2008 是 European capital of culture 的同位语，过去分词短语 bagged by Glasgow in 1990 and Liverpool in 2008 作后置定语修饰 award。\n\n**语篇分析**\n\n第二段为第二部分，呈现质疑者对新提议的看法：英国脱欧后，因无法再申请“欧洲文化之都”,退而求其次设立“文化之镇”奖，不过是自欺欺人的自我赞美罢了。关键词：①booby prize;②cynic。\n\n①句引出质疑者的观点：“文化之镇”只是个安慰奖。Some might see 呼应首段 Cooper and her colleagues argue,标志着不同声音的出现。booby prize(a prize that is given as a joke to the person who is last in a competition[作为玩笑发给最后一名的]末等奖，安慰奖)体现了质疑者对“文化之镇”奖的讽刺和不屑。for the fact...解释他们持此态度的原因：英国已经没有资格申请更具声望的“欧洲文化之都”称号了(所以才退而求其次设立了这样一个小奖)。no longer able to 暗示今昔对比，体现英国已今不如昔的颓势；the much more prestigious(更具声望的)辅以同位语 sought-after(争相追捧的)共同修饰 European capital of culture,凸显“欧洲文化之都”奖举足轻重的地位，明褒“欧洲文化之都”奖，实贬英国“文化之镇”奖，暗示该奖实在眇乎小哉，微不足道。bagged by Glasgow in 1990 and Liverpool in 2008(bag 用作动词，表示“将……装入袋子”),一方面与 no longer 形成对比，另一方面为后文举例格拉斯哥做铺垫。\n\n②句承接①句，进一步展示质疑者对“文化之镇”奖的质疑态度：一场自我赞美的狂热，标志着英国的没落。A cynic might speculate... (cynic 意为 a person who does not believe that sth good will happen or that sth is important“悲观者，怀疑者”,呼应上句中 some,是质疑者中态度更消极者)进一步强化质疑者态度。on the verge of (濒于，即将)和 disappearing into... (消失于……,没落于……)相结合，共同营造英国逐步走向衰落的颓势；an endless fever(无休止的狂热)、self-celebration(自我赞美)体现英国不遗余力地通过自欺欺人的方式证明自己(设立“文化之镇”奖便是一个例子),由此质疑者对“文化之镇”奖嗤之以鼻的态度体现得淋漓尽致。in its desperation to reinvent itself...解释英国“无休止自我赞美”的目的是为了向脱欧后的世界展示新形象，desperation(极度渴望；拼命)暗示这些行为几近失去理智。冒号后以反问+排比句式(village of culture? Suburb of culture? Hamlet of culture? 呼应 an endless fever of self-celebration)将质疑者讽刺、质疑的态度推向了顶峰。\n\n【深层解读】1. 梳理本段递进逻辑。①句指出质疑者的普遍观点(some might see)，即“文化之镇”奖是英国失去申请“欧洲文化之都”资格后的自我安慰(booby prize)；②句进一步展示态度更消极者的观点(A cynic might speculate...)，即“文化之镇”奖是一场自欺欺人的自我赞美，表明英国正在没落。②句比①句措辞、语气明显增强，体现递进逻辑。\n\n2. 区分文中人物观点。本段介绍质疑者对新提议的看法，与第一段提议发起人库珀等人属于两个阵营(Cooper and her colleagues VS some, a cynic)。\n\n3. 推测作者态度。到本段为止，作者为我们呈现了两方观点，自己的立场并未点明，但我们依然可以从用词中窥见作者态度。在介绍质疑者观点时，作者用了 cynic 一词，speculate 更是指“没有了解全部细节就进行猜测”，不难揣测作者对质疑者的观点和态度是有所保留的。"
+      },
+      {
+       "number": 22,
+       "stem": "According to Paragraph 2, the proposal might be regarded by some as",
+       "score": 2,
+       "options": {
+        "A": "a sensible compromise.",
+        "B": "a self-deceiving attempt.",
+        "C": "an eye-catching bonus.",
+        "D": "an inaccessible target."
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| 22. According to Paragraph 2, the proposal might be regarded by some as ____. | 22. 根据第二段，这项提议可能会被一些人看作是____。 |\n| --- | --- |\n| [A] a sensible compromise | [A] 合理明智的妥协 |\n| [B] a self-deceiving attempt | [B] 自欺欺人的尝试 |\n| [C] an eye-catching bonus | [C] 引人注目的奖励 |\n| [D] an inaccessible target | [D] 无法实现的目标 |\n\n[精准定位] 本段①句指出，一些人认为该提议是英国失去申请“欧洲文化之都”资格后的自我安慰；②句指出英国正陷入无休止的自我赞美之中。[B]项是对质疑者态度的合理概括。\n\n[命题解密] 正确项[B]是对 booby prize, self-celebration, desperation to reinvent itself...的正确解读。\n\n[A]与原文相反。本段集中展示了质疑者对这项提议的鄙夷态度，从 booby prize、self-celebration、endless fever、desperation 等措辞中可看出他们根本不认为这是明智之举。[C]将质疑者对“欧洲文化之都”奖的看法误当作对“文化之镇”奖的态度。①句中 the much more prestigious、sought-after 都在讲“欧洲文化之都”奖引人注目，以凸显“文化之镇”奖微不足道，与 eye-catching 正好相反。另外，文中也未提到 bonus 这一内容。[D]将②句中质疑者对英国自我赞美的评价“没完没了”（endless/desperation）误当作他们对“新提议”的态度。对于新提议，质疑者只是认为其影响力微不足道，是英国为了展示新形象的自欺欺人行为，并没有提到该提议无法实现。\n\n[技巧总结] 人物观点+段落主旨题。以“人物观点”之形，考查对段落主旨的概括。解答此题时应：1. 准确把握人物的基本态度，这样可以保证排除一部分感情色彩不符的选项；2. 因为人物的观点也是本段的段落主旨，根据上下文逻辑分析概括，寻找对应的选项。如本题，根据题干可以定位到①句，但只有 booby prize 对于解题没有帮助，我们只能求助于下文。the much more prestigious title of European capital of culture 体现出这些人对“欧洲文化之都”的向往和褒奖，反衬出他们对新提议的鄙夷态度。②句更是表示英国这样做是“自我赞美的狂热”,综合两句很容易锁定答案[B]。\n\nⅢ ① It is also wise to recall that such titles are not a cure-all. ② A badly run “year of culture” washes in and out of a place like the tide, bringing prominence for a spell but leaving no lasting benefits to the community. ③ The really successful holders of such titles are those that do a great deal more than fill hotel bedrooms and bring in high-profile arts events and good press for a year. ④ They transform the aspirations of the people who live there; they nudge the self-image of the city into a bolder and more optimistic light. ⑤ It is hard to get right, and requires a remarkable degree of vision, as well as cooperation between city authorities, the private sector, community groups and cultural organisations. ⑥ But it can be done: Glasgow’s year as European capital of culture can certainly be seen as one of a complex series of factors that have turned the city into the powerhouse of art, music and theatre that it remains today.\n\n我们也应该清醒地认识到，这些称号并不是包治百病的灵丹妙药。运作不力的“文化年”如潮水般在一个地方涌进涌出，带来一时的风光，但并没有给当地带来持久的好处。真正成功的头衔获得者所做的远远不止于在一年间让酒店的客房住满，带来备受瞩目的艺术活动以及正面的新闻报道。它们改变当地居民的愿景，将城市的自我形象逐步引向更自信、更乐观的一面。成功做到这一点很难，不仅需要地方当局、私营部门、社会团体和文化组织间的合作，还需要非同凡响的远见卓识。但这样的成功已有先例：格拉斯哥当选欧洲文化之都的那一年无疑可以看作这一系列复杂因素的结合，这些因素使这座城市成为艺术、音乐以及戏剧重镇，并持续至今。\n\n**词汇注释与难句分析**\n\ncure-all n. 万灵药\n\nprominence n. 突出，重要\n\nspell n. (持续的)一段时间\n\nhigh-profile a. 高调的\n\npress n. 新闻界，报刊\n\nnudge v. (朝某一方向)逐步推进\n\npowerhouse n. 重要的地方\n\n**语篇分析**\n\n第三、四段为第三部分，点明作者观点：设立文化称号可以为当地带来巨大利益，应该欢迎新提议并将其付诸实施。\n\n第三段指出，文化称号不是万能灵药，但如果运作成功可以为当地带来持久的好处。关键词：①not a cure-all;②transform the aspirations;③nudge the self-image。\n\n①句承接上文，先退而警示人们，文化称号不能解决所有问题。It is also wise to recall that...呼应前两段 Cooper and her colleagues argue 和 some might see,开始引入作者论述(also 表明作者的论述逻辑和第二段是同向的); such titles 指代上文提到的“欧洲文化之都”“文化之城”“文化之镇”等各种称号；not a cure-all(cure-all 意为“万灵药；灵丹妙药”)提醒人们文化称号不能解决所有问题，既呼应上文英国脱欧后急于通过各种自我赞美的方式树立新形象，又预示下文将对其问题展开论述。\n\n②③④句从正反两方面论证①句，说明只是获得文化称号还远远不够。\n\n②句从反面说明运作不善的文化年徒劳无益。washes in and out of a place like the tide(像潮水一样涌进涌出)以比喻的修辞手段照应 badly run, 说明游客、艺术活动等资源来去匆匆；prominence for a spell VS no lasting benefits 通过 but 构成强烈对比，既照应涌来退去的潮水形象，说明运作不善的文化年徒劳无益，同时又将重心落在 but 之后，暗示好的文化年应该能够带来持久的益处。\n\n③④句从正面说明成功的称号获得者应该做出更多努力。The really successful holders of such titles 与上文 a badly run “year of culture” 形成对比，表明论述视角的转换。really successful 和 do a great deal more 强调获得称号远远不够，还需要做出更多努力；fill hotel bedrooms(指旅游业的繁荣)、high-profile arts events(艺术活动的兴盛)、good press(媒体正面宣传)从三个方面指出需要做出的最基本的努力，照应前文的 bringing prominence for a spell;④句承接③句，通过 they transform...they nudge...进一步罗列成功的称号获得者需要做出的更多、更重要的努力(改变人们的愿景、提升城市的自我形象),照应上文的 lasting benefits to the community.\n\n⑤⑥句通过让步一转折点明作者态度：成功做到这一点有难度，但完全可以做到。两句通过 it is hard to get right... But it can be done 实现“让步一转折”逻辑，语义重心落在转折之后，凸显作者对“通过努力实现成功”的乐观态度和巨大信心。requires... as well as... 列举获得成功所需的条件，证明其难度大(it is hard),Glasgow 成功的例子则又证明这一切完全可以实现(it can be done)。在 Glasgow 的例子中，turned the city into the powerhouse of art, music and theatre 呼应上文成功的称号获得者的特点 nudge the self-image of the city into a bolder and more optimistic light; it remains today 强调其持续时间之长，呼应上文 lasting benefits。\n\n【深层解读】本段开始转向作者观点，逻辑是欲扬先抑，语义重心在“扬”。首先通过 not a cure-all 指出文化称号不是万能灵药，随后通过 a badly run “year of culture” 和 the really successful holders 从正反两个方面论述仅仅获得文化称号是远远不够的，还需要做出更多努力，最后通过 It is hard to get right... but it can be done... 的“让步—转折”逻辑指出，尽管努力有难度但完全可以成功，并借助 Glasgow 成功的先例进行例证。至此，作者支持新提议的态度呼之欲出。"
+      },
+      {
+       "number": 23,
+       "stem": "The author suggests that a title holder is successful only if it",
+       "score": 2,
+       "options": {
+        "A": "endeavours to maintain its image.",
+        "B": "meets the aspirations of its people.",
+        "C": "brings its local arts to prominence.",
+        "D": "commits to its long-term growth."
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 23. The author suggests that a title holder is successful only if it ____. | 23. 作者认为，夺得头衔的城市只有___才算成功。 |\n| --- | --- |\n| [A] endeavours to maintain its image | [A] 努力维持其形象 |\n| [B] meets the aspirations of its people | [B] 实现当地人民的愿景 |\n| [C] brings its local arts to prominence | [C] 使当地艺术实现卓越 |\n| [D] commits to its long-term growth | [D] 致力于长期发展 |\n\n[精准定位]第三段②句描述失败的“文化年”只带来一时的风光而不是长远的利益，暗示“成功的称号获得者”应该为当地带来长远的利益。③④句正面展开对成功的称号获得者的论述，即成功者不止在一年间让酒店客房住满，带来瞩目的艺术活动以及正面报道，还改变当地人民的愿景(transform the aspirations of the people who live there)，将城市的自我形象引向更加乐观的一面(nudge the self-image of the city into a bolder and more optimistic light)，这显然在强调长期发展。正确项[D]是原文观点的合理推断。\n\n[命题解密] 正确项[D]是基于第三段②③④句推理出的“成功的称号获得者”的要素，并在末句 Glasgow 的例子中得以证实(Glasgow 获得的成功持续至今[it remains today])。\n\n[A]源于 nudge the self-image of the city into a bolder and more optimistic light, 原文 nudge...into 是一个动态发展的过程，将城市自我形象推向“更加乐观的一面”, 而非一成不变。maintain 意为“维护，维持”, 和原文相悖。[B]源于 transform the aspirations of the people who live there, 原文 transform 指的是“改变”而非“实现(meets)”。[C]将②句 bringing prominence(带来声望)和③句 bring in high-profile arts events(带来备受瞩目的艺术活动)进行杂糅，文中并未提到“使当地艺术实现卓越”。另外，根据③句 do a great deal more 可知，“卓越的艺术声望”并非成功的称号获得者的核心要素，不符合题干中 only 的要求。\n\n[技巧总结] 推理概括题。此类题目需要梳理作者的逻辑和区分不同对象的表述。解答此题时应：1. 充分理解题意，利用题干、选项中的关键词找到对应的原文，准确把握选项与原文是否在意义上保持一致；2. 利用上下文之间的逻辑关系进行推理得出答案。如本题，根据题干中 a title holder is successful 可以精确定位到第三段③④句，[A][B]中的关键词在④句中可以找到对应，但偷换了动词，transform 和 meet 意义不同，而 nudge 和 maintain 也不是近义词，故排除 [A][B]。[C]项在原文中可以分别在②③句找到对应，但是题干中有一个关键信息 only，也即正确选项必须是“成功的称号获得者”区别于“失败者”的特点，[C]属于两者共有，可以排除。[D]项可以从②句反向推知，并结合②③④句的对比关系得以确认。"
+      },
+      {
+       "number": 24,
+       "stem": "Glasgow is mentioned in Paragraph 3 to present",
+       "score": 2,
+       "options": {
+        "A": "a contrasting case.",
+        "B": "a supporting example.",
+        "C": "a background story.",
+        "D": "a related topic."
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| 24. Glasgow is mentioned in Paragraph 3 to present ____. | 24. 第三段提及格拉斯哥是为了提出____。 |\n| --- | --- |\n| [A] a contrasting case | [A] 反例 |\n| [B] a supporting example | [B] 例证 |\n| [C] a background story | [C] 背景故事 |\n| [D] a related topic | [D] 相关话题 |\n\n[精准定位] 定位到第三段⑥句，Glasgow 出现在 But it can be done 之后，是冒号之后的论证内容。要搞清 Glasgow 的功能需要确定前面的 it 所指。往回看，③④⑤句都在阐述如何才能成为成功的称号获得者，it 指代的是“成为成功的称号获得者”这件事，而 Glasgow 所在的句子讲的正是它当选“欧洲文化之都”后成功转变为艺术、音乐以及戏剧重镇，并持续至今，与上文逻辑吻合，因此是一个正面例证，[B]正确。\n\n[命题解密] But it can be done 是一个观点句，随后的冒号自然要引出论据从正面支撑观点，正确项 [B] 是对句内逻辑的准确把握。\n\n[A]与文中逻辑恰恰相反。[C][D]均不符合观点之后通过冒号引出论据的论证逻辑，直接排除。\n\n[技巧总结] 写作目的题。作者在文中援引名人名言、数据或是举例通常是为了引出主题或论证观点，如果该内容出现在段首则通常用于引出主题，如果出现在段末则大多用来论证观点。当然，为了确保正确，还应联系上下文内容进行确认。如本题，Glasgow 跟在观点句 But it can be done 之后，大致可以确定其功能为论据，再联系上文内容则可进一步确定它是一个正面的支撑例证。\n\nIV ① A “town of culture” could be not just about the arts but about honouring a town’s peculiarities —helping sustain its high street, supporting local facilities and above all celebrating its people. ② Jeremy Wright, the culture secretary, should welcome this positive, hope-filled proposal, and turn it into action. [435 words]\n\n“文化之镇”并不只是关乎艺术，同时也关乎尊重小镇的特色——帮助维持其商业大街，支持当地设施建设，最重要的是，颂扬当地人民。文化大臣杰里米·赖特应该接受这一积极向上、充满希望的提议，并将之付诸行动。\n\n**词汇注释与难句分析**\n\npeculiarity n. 特点；特色\n\ncelebrate v. 赞美，颂扬\n\n**语篇分析**\n\n第四段亮出观点：应该接受这一提议并付诸行动。关键词：welcome。\n\n句作者总结自己对“文化之镇”的看法：不只关乎艺术，同时关乎尊重小镇的特色。Not just... but...串起“文化之镇”的两重意义，并将语义重心落在 but 之后，即 honouring a town's peculiarities(peculiarity 意为a feature that only belongs to one particular person, thing, place, etc.“特色”),破折后之后解释说明“尊重小镇特色”的真正内涵。sustain high street...its people 复现第三段④句“成功的称号获得者”的内涵。\n\n句通过对文化大臣的建议来表明作者的支持态度。本句回归首段的提议，建议文化大臣接受(welcome)这一提议并将其付诸行动(turn it into action)，体现作者对该提议的明确支持态度。作者以 positive, hope-filled 来形容这项提议，再次提醒读者支持这项提议的原因是其会带来利益，与前文论述一脉相承。\n\n【深度解读】1. 本段回应开篇提议，使讨论回到提议本身。首段引出提议并陈述提议者的观点，第二段陈述质疑者的观点，第三、四段作者才开始论述自己的观点。第三段将讨论的对象从首段提议的“文化之镇”扩大到“文化之城”“文化之镇”等一类文化称号，末段再回到提议本身，有张有弛。\n\n2. 梳理作者态度。作者态度并非突然明确，前文早有铺垫。从第二段提到质疑者时的 cynic, speculate 等措辞，到第三段陈述自己观点时的欲扬先抑，作者的支持态度并非只体现在最后一段，而是草蛇灰线、早有伏笔。"
+      },
+      {
+       "number": 25,
+       "stem": "What is the author’s attitude towards the proposal?",
+       "score": 2,
+       "options": {
+        "A": "Skeptical.",
+        "B": "Objective.",
+        "C": "Favourable.",
+        "D": "Critical."
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| 25. What is the author's attitude towards the proposal? | 25. 作者对该提议持何种态度？|\n| --- | --- |\n| [A] Skeptical | [A] 质疑 |\n| [B] Objective | [B] 客观 |\n| [C] Favourable | [C] 支持 |\n| [D] Critical | [D] 批判 |\n\n[精准定位]末段末句作者明确建议文化部长应该“欣然接受”这一积极向上、充满希望的提议，体现出其对提议的支持态度。[C]项正确。\n\n[命题解密] 正确项 [C] 是对作者态度的正确概括。从第二段作者对质疑者的措辞 (cynic, speculate)，第三段作者对文化称号能够获得成功的坚定信心 (But it can be done) 并援引 Glasgow 的成功先例，以及末段的建议 (welcome this positive, hope-filled proposal, and turn it into action) 都可以得知作者对该提议的支持态度。\n\n[A][D]误将第三段质疑者的态度偷换为作者态度。作者对该提议进行了客观的分析，但是有明显的支持态度，[B]错误。\n\n[技巧总结] 观点态度题。解答此类题时应：1. 查找明确表达作者态度的词句，包括形容词、动词、副词、名词等，利用词语的感情色彩进行判断；2. but 等转折词后为语义重点，可以推测作者态度；3. 判断作者对其他人物观点的态度。如本题，作者在末句建议文化大臣接受该提议，而且还使用了 positive 和 hope-filled 这类积极的词汇来修饰该提议，支持态度表露无遗。另外，从前文也可以判断出作者的态度。首先，作者在陈述质疑者的观点时用 cynic 来指称，表示作者对质疑者的态度是不赞同的；之后，第三段作者论述自己观点时，着更多笔墨于成功的称呼获得者，并且以 But it can be done 转折，说明作者支持这一提议。"
+      }
+     ]
+    },
+    {
+     "title": "Text 2",
+     "type": "reading",
+     "passage": [
+      "Scientific publishing has long been a licence to print money. Scientists need\njournals in which to publish their research, so they will supply the articles without\nmonetary reward. Other scientists perform the specialised work of peer review also\nfor free, because it is a central element in the acquisition of status and the production\nof scientific knowledge.",
+      "With the content of papers secured for free, the publisher needs only to find a\nmarket for its journal. Until this century, university libraries were not very price\nsensitive. Scientific publishers routinely report profit margins approaching 40% on their\noperations, at a time when the rest of the publishing industry is in an existential crisis.\nThe Dutch giant Elsevier, which claims to publish 25% of the scientific papers\nproduced in the world, made profits of more than £900m last year, while UK\nuniversities alone spent more than £210m in 2016 to enable researchers to access\ntheir own publicly funded research; both figures seem to rise unstoppably despite\nincreasingly desperate efforts to change them.",
+      "The most drastic, and thoroughly illegal, reaction has been the emergence of\nSci-Hub, a kind of global photocopier for scientific papers, set up in 2012, which now\nclaims to offer access to every paywalled article published since 2015. The success of\nSci-Hub, which relies on researchers passing on copies they have themselves legally\naccessed, shows the legal ecosystem has lost legitimacy among its users and must be\ntransformed so that it works for all participants.",
+      "In Britain the move towards open access publishing has been driven by funding\nbodies. In some ways it has been very successful. More than half of all British\nscientific research is now published under open access terms: either freely available\nfrom the moment of publication, or paywalled for a year or more so that the\npublishers can make a profit before being placed on general release.",
+      "Yet the new system has not worked out any cheaper for the universities. Publishers\nhave responded to the demand that they make their product free to readers by charging\ntheir writers fees to cover the costs of preparing an article. These range from around\n£500 to $5,000. A report last year pointed out that the costs both of subscriptions and of\nthese “article preparation costs” had been steadily rising at a rate above inflation.",
+      "In some ways the scientific publishing model resembles the economy of the\nsocial internet: labour is provided free in exchange for the hope of status, while huge\nprofits are made by a few big firms who run the market places. In both cases, we need\na rebalancing of power."
+     ],
+     "questions": [
+      {
+       "number": 26,
+       "stem": "Scientific publishing is seen as “a licence to print money” partly because",
+       "score": 2,
+       "options": {
+        "A": "its funding has enjoyed a steady increase.",
+        "B": "its marketing strategy has been successful.",
+        "C": "its payment for peer review is reduced.",
+        "D": "its content acquisition costs nothing."
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| 26. Scientific publishing is seen as “a licence to print money” partly because ____. | 26. 科学出版业被视为“一本万利”,部分原因是____。 |\n| --- | --- |\n| [A] its funding has enjoyed a steady increase | [A] 资金供应稳步增长 |\n| [B] its marketing strategy has been successful | [B] 营销策略已获成功 |\n| [C] its payment for peer review is reduced | [C] 同行评议支出减少 |\n| [D] its content acquisition costs nothing | [D] 内容获取成本为零 |\n\n[精准定位] 首段首句提出科学出版业一本万利(a licence to print money)，②③句分别指出，科学文献的供稿与审稿皆为无偿进行，即科学出版业在“内容获取”方面投入的成本为零。可见[D]正确。\n\n[命题解密] 本题为因果细节题，“题干+正确项”是对第一段内容的合理概括。\n\n[A]根据第二、三段科学出版商获取暴利的相关数据臆断出“科学出版商资金供应在增长”，但原文并未提及相关信息；[B]从第二段首句 needs only find a market for its journal 捏造出“出版商营销策略已获成功”，但原文重在强调其获利轻松（只需找销路，而销路其实也不愁），并不在说明其具体营销策略的好坏；[C]曲解首段③句 perform the specialised work of peer review also for free，此处明言同行评议为“无偿”进行，不存在“支出减少”。\n\n[技巧总结] 本题为因果细节题，可采取“寻找因果逻辑词先判断正确项、再搭配段落/群主旨加以确定”的方式解题：首段②③句分别以 so 与 because 明示因果逻辑，概括两句内容即可确定 [D] 正确。本题迷惑点在于，题干来自首段首句，看似考查首段，实则首段首句统领前三段，即本题考查前三段内容，选项纵跨三个段落，此时应梳理段群主旨：首段从“内容获取”入手，指出科学出版业中供稿与审稿皆为无偿进行，说明内容获取成本为零；第二、三段从“文献销售”入手，指出出版商获利颇丰。据此归纳主旨为“科学出版商一本万利的原因”: ① 内容获取成本低；② 销售容易，获利丰厚。四项中，唯 [D] 项对应原因①。"
+      },
+      {
+       "number": 27,
+       "stem": "According to Paragraphs 2 and 3, scientific publishers like Elsevier have",
+       "score": 2,
+       "options": {
+        "A": "thrived mainly on university libraries.",
+        "B": "gone through an existential crisis.",
+        "C": "revived the publishing industry.",
+        "D": "financed researchers generously."
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| 27. According to Paragraphs 2 and 3, scientific publishers like Elsevier have ____. | 27. 根据第二、三段可知，爱思唯尔等科学出版商____。 |\n| --- | --- |\n| [A] thrived mainly on university libraries | [A] 主要依靠大学图书馆而发展壮大 |\n| [B] gone through an existential crisis | [B] 经历了一场生死存亡的危机 |\n| [C] revived the publishing industry | [C] 复兴了出版行业 |\n| [D] financed researchers generously | [D] 为研究人员提供了慷慨资助 |\n\n[精准定位] 第二段初步说明，大学图书馆是科学文献的购买主力；第三段为第二段的具体例证，以“爱思唯尔盈利之巨”与“英国图书馆购买科学文献花销之大”证明爱思唯尔等科学出版商主要依靠大学图书馆赚取巨额利润。因此[A]正确。\n\n[命题解密] 正确选项[A]是对爱思唯尔的例子所论证内容的准确归纳。\n\n[B]将第二段③句“其他出版业”的经历偷换为“科学出版机构爱思唯尔”的经历；[C]根据第二段末尾 the publish industry is in an existential crisis“出版行业处于生死存亡之际”以及第三段末尾 increasingly desperate efforts to change them“越来越不顾一切地努力改变他们”杂糅捏造而来，但却分别忽略两者前面的 the rest of“(除科学出版机构的)其他出版行业”despite“尽管”，文意实际指向的是“其他出版行业仍处水深火热、生死存亡之际(而科学出版机构却盆满钵满)”“想改变 Elsevier 等科学出版机构依靠大学图书馆馆藏牟取暴利的模式(并未奏效)”，而并未提及“(整个)出版行业的复苏”；[D]将第三段“政府资助”偷换为“爱思唯尔资助”。\n\n[技巧总结] 本题实质上为“写作目的+推理引申”题，回答本题应首先准确归纳第二、三段的段落主旨，然后在两段话的基础上进行合理引申。第二段①②③句分别通过 needs only to find a market、not very price sensitive 与 profit margins approaching 40% 形成“需找销路→大学图书馆慷慨购买（也即销路不愁）→科学出版社利润丰厚”的逻辑链，因此第二段主旨为科学出版机构的盈利主要依靠大学图书馆的购买；第三段以爱思唯尔与英国大学为例进行具体论证，[A] 即为对两段内容准确概括基础上的合理引申。其余三项要义“经历危机”“复兴出版业”“慷慨资助科研”均为“行业改革向好”的逻辑，与“科学出版行业坐收暴利”的情感色彩不符。\n\nIV ① The most drastic, and thoroughly illegal, reaction has been the emergence of Sci-Hub, a kind of global photocopier for scientific papers, set up in 2012, which now claims to offer access to every paywalled article published since 2015. ② The success of Sci-Hub, which relies on researchers passing on copies they have themselves legally accessed, shows the legal ecosystem has lost legitimacy among its users and must be transformed so that it works for all participants.\n\n（对这一情况）最为猛烈、也是完全违规的对抗是 Sci-Hub 的出现。Sci-Hub——它有点类似全球性的科学论文影印机——创立于 2012 年，现声称可以提供 2015 年以来发表的所有付费论文的访问权。Sci-Hub 的成功——有赖于研究者交通自身以合法方式获取的文献副本——表明，法律的生态在用户中已失去合法性，必须对之进行改革以便它能够服务于所有参与者。\n\n**词汇注释与难句分析**\n\ndrastic a. 急剧的，猛烈的\n\nthoroughly ad. 彻底，完全\n\nemergence n. 出现，兴起\n\nphotocopier n. 复印机\n\nlegitimacy n. 合理性，正统性\n\ntransform v. 转换，改变\n\n**经典搭配**\n\npass on ([用后]递给，传递)\n\nThe most drastic, and thoroughly illegal, reaction has been the emergence of Sci-Hub, a kind of global photocopier for scientific papers, set up in 2012, which now claims to offer access to every paywalled article published since 2015.\n\n功能注释：本句主干为 The most drastic reaction has been the emergence of Sci-Hub。and thoroughly illegal 为插入语，语义上与 most drastic 并列，对 reaction 进行补充说明。a kind of... papers 为同位语，解释 Sci-Hub 为何物；set up in 2012 为 Sci-Hub 的后置定语，说明其创立时间；which 引导非限制性定语从句修饰 Sci-bub,进一步补充说明 Sci-Hub 的发展状况。\n\n**语篇分析**\n\n第四至六段为第二部分，介绍随着问题“科学出版商垄断科研发表、文献费用高昂”应运而生的产物。第四段承上引出外界针对现行问题所做的最大、但非法的对抗：免费文献下载网站 Sci-Hub 的出现。关键词：①the most drastic, and thoroughly illegal, reaction;②must be transformed。\n\n①句介绍 Sci-Hub 及其成功发展。The most... and... reaction (reaction 指 a reverse or opposing action“反抗；对抗”) 回应第三段末 increasingly desperate efforts，引出对传统出版模式冲击最极端、最有效的一种应对 (drastic 意为 extreme in effect)，但补充性说明 thoroughly illegal 又彻底否认其存在的合理性，与 a kind of (意为 not exact“有几分、稍稍”，也即：Sci-Hub 甚至没有一个清晰合法的身份定位) 两者一明一暗，初步流露作者对 Sci-Hub 的不支持态度。注：global photocopier 为比喻用法，作者将 Sci-Hub 模糊定性为“全球性文献复印机”，与 offer access to every paywalled article (access to sth 指“对某事的使用机会或权利”) 一起，说明其规模巨大，影响之广的同时，更突显其“违规/不合法性”：科研文献的复印版本随用随取，却不具备任何知识产权。\n\n②句分析 Sci-Hub 成功的现实启示：正规合法的文献获取渠道已失去正统性，必须加以改革。The success 承上概括 Sci-Hub 当前强劲的发展态势，which 定语从句浅层说明这一文献分享模式得到大批研究人员的认可(他们自己通过合法渠道获取后主动上传分享), 深层表现业界对当前论文获取收费高昂、出版商坐收渔利的不满和反抗。shows 引出 Sci-Hub 成功带来的启示；has lost legitimacy 直指正规文献获取体系问题严重，表面合法，实则不合理，已遭众多用户抛弃；must be transformed 则斩钉截铁强调，当前体系必须立即、彻底改变。注意句中出现多处与“法律”相关的表达，legally assessed 与 legal ecosystem 侧重于“法律允许/规定的、合法的 (legal)”, 而 has lost legitimacy 则侧重于“正当的；合情合理的；正统的 (legitimate)”, 三者集中说明当前科研出版体系虽合法但已在用户中失去其合法性，亟待改革。\n\n【深层解读】本段基于上文“问题”引出“现有解决对策（reaction）”，且段中 drastic、offer access to every paywalled article、the success、the legal ecosystem has lost legitimacy 似乎均指向“Sci-Hub 是时代救星，能有效解决问题”，但段首 thoroughly illegal、claims to（上文用于暗讽传统出版商，此处又用于 Sci-Hub）、以及段末的(legal ecosystem) must be transformed 却微妙反映作者深层心态：Sci-Hub 再成功也终究不合法，不能保障所有人权利的话，越成功可能反而越危险，业界应该做的不是抛弃现有体系，而是对现有出版体系进行改革，让合法的生态重获其正统合理性。"
+      },
+      {
+       "number": 28,
+       "stem": "How does the author feel about the success of Sci-Hub?",
+       "score": 2,
+       "options": {
+        "A": "Relieved.",
+        "B": "Puzzled.",
+        "C": "Concerned.",
+        "D": "Encouraged."
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| 28. How does the author feel about the success of Sci-Hub? | 28. 作者对 Sci-Hub 的成功作何感想？|\n| --- | --- |\n| [A] Relieved. | [A] 如释重负。 |\n| [B] Puzzled. | [B] 困惑不解。 |\n| [C] Concerned. | [C] 忧心忡忡。 |\n| [D] Encouraged. | [D] 鼓舞人心。 |\n\n[精准定位] 第四段①句 thoroughly illegal(完全不合法)初步暗示作者对 Sci-Hub 的质疑态度；②句评述 Sci-Hub 的成功带来的启示：科学出版业合法的生态体系在其用户中已失去合理/正统性(the legal ecosystem has lost legitimacy)，该合法体系必须彻底改变(must be transformed)，以重获权威/合理性。由此可见，作者通过非法(无版权保障的)网站的大获成功反向凸显当前科学出版业态的弊病之重，改革之迫切(如不进行自我改革，事态可能会进一步恶化，催生更多危及各方合法权利的非法事物)，可见作者对 Sci-Hub 等非法网站的成功其实是感到担忧的，[C]正确。\n\n[命题解密] 本题为作者观点态度题，考查作者对免费文献下载网站 Sci-Hub 的态度。\n\n[A][D]分别传达“问题终获解决”、“有了信心、希望”之意，均为正面态度，与文中 thoroughly illegal、lost legitimacy 与 must be transformed 所传递的作者情感“必须对‘正统’加以改革，以避免‘违法’愈演愈烈”相矛盾。[B]体现“不理解”之意，但事实上作者对 Sci-hub 的兴起原因以及兴起的启示都相当明了。\n\n[技巧总结] 当作者的观点态度没有明确给出时，要根据作者选用词汇及表达的情感色彩判断其观点态度。第四段①句 thoroughly illegal 流露作者对 Sci-Hub 的批评态度，②句三个“合法性”相关的描述 legally accessed、the legal ecosystem 与 has lost legitimacy 连用，再次通过“合法体系的正统性必须得到维护”来强调 Sci-Hub 的非法性，进一步明确作者对 Sci-Hub 的不满态度，must be transformed 以断然的语气强调真正的解决办法——彻底改革现有科学出版体系(不能任由非法网站继续发展),同时也与文末作者所述结论“打破行业垄断态势，让权力重获平衡”相符。\n\nV ① In Britain the move towards open access publishing has been driven by funding bodies. ② In some ways it has been very successful. ③ More than half of all British scientific research is now published under open access terms: either freely available from the moment of publication, or paywalled for a year or more so that the publishers can make a profit before being placed on general release.\n\n在英国，向开放获取出版(模式)的转变是由资助机构所推动的。在某种程度上，这种出版模式已经非常成功。现在英国的所有科学研究中有一半以上按开放获取的条款出版：要么自发表时起便可免费获取，要么在发表一年或更长时间后才可免费获取，以便出版机构在研究向公众免费展示前盈利。\n\n**词汇注释与难句分析**\n\nmove n. 转变\n\ndrive v. 促进；推进\n\nrelease n. 发行；发布\n\nbody n. 机构；组织\n\n**经典搭配**\n\neither...or...([对两事物的选择]要么……要么……)\n\n**语篇分析**\n\n第五、六段(视角转向本国)介绍外界针对现行问题所做的另一种合法的“反抗”:开放获取出版模式的推行。\n\n第五段以英国为例，介绍“开放获取出版”的进展和出版形式。关键词：① In some ways... very successful;② so that the publishers can make a profit。\n\n①句介绍开放获取出版模式的来历：由资助机构推动形成。has been driven by funding bodies(body 指a group of people who work or act together, often for an official purpose)与上文对 Sci-Hub 的“草根式”定性(a kind of global photocopier)相比，突显“开放获取出版”的严肃以及合法性：有正规资金支持；但另一方面，这表明该模式并非由出版机构(自我改革后)主动采用，暗示其发展难免存在阻力。\n\n②③句介绍开放获取出版模式的进展：在某些方面非常成功。②句 very successful 肯定其发展顺利、成就斐然，但 In some ways 则揭示其成功具有不完全性，暗示依然存在问题。③句介绍“成功”的具体表现。More than half 表明该模式成果显著，已成为科学文献的主要出版形式；under open access terms[under 指“按照(法律或制度)”, terms 指“协议等的条件、条款”]重申其合法性，并列结构 either... or... 进而解释条款的具体所指(科研者仅有两种选择): a. 出版之时就免费开放(freely available fromthe moment of publication), b. 出版后收费一段时间，而后免费开放 (paywalled for a year or more); so that publishers can make a profit 直接揭示条款二的用意：让出版商有利可图。注：paywalled 为形容词，由名词 paywall(付费墙)衍生而来，指网站上阻止用户打开某网页并要求用户付费的页面，因此 paywalled 译作“付费的”。\n\n【深层解读】首句 the move (towards...)与上段 reaction 并列呼应，从论述全球范围的“对抗”(Sci-Hub)过渡至论述英国本土的“对抗”, funding bodies、very successful 均表明其合理以及成功性，此时应自问：作者是否就此表态(即开放获取出版模式就是问题的解决之道)?但段末(条款所列选择之二的内容中)so that...can make a profit before...又明显流露嘲讽：努力半天最终还是要为出版商赚钱服务，可见，本段所述“反抗”依然不是作者认可的办法。另外要注意的是，两种选择中前者看起来是顺应科研群体诉求的(freely available from the moment of publication),而科研者既然可以选择任何一种，暗示前一种选择也“暗藏玄机(不会无偿获得)”,为下文揭示其问题设伏。\n\nVI ① Yet the new system has not worked out any cheaper for the universities. ② Publishers have responded to the demand that they make their product free to readers by charging their writers fees to cover the costs of preparing an article. ③ These range from around £500 to $5,000. ④ A report last year pointed out that the costs both of subscriptions and of these “article preparation costs” had been steadily rising at a rate above inflation. ⑤ In some ways the scientific publishing model resembles the economy of the social Internet: labour is provided free in exchange for the hope of status, while huge profits are made by a few big firms who run the market places. ⑥ In both cases, we need a rebalancing of power. [447 words]\n\n然而算下来，新的出版体系对大学而言尚未便宜分毫。为回应免费向读者提供文献的要求，出版机构通过向作者收费来负担其为论文出版所做的准备的费用。收费金额从500英镑至5000美元不等。去年的一份报告指出，期刊订阅费以及“为论文出版所做的准备的费用”一直在以高于通胀率的速率持续增长。在某种程度上，科学出版模式与社交网络经济相似：人们无偿提供劳动，以换取期望获得的社会地位，而赚取巨额利润的却是经营着市场的少数大公司。对于这两种情况，我们都需要让权力重新得到平衡。\n\n**词汇注释与难句分析**\n\nrespond v. 做出反应，响应\n\ncover v. 足以支付\n\nsubscription n. 订阅费\n\nrate n. 速度，速率\n\ninflation n. 通货膨胀(率)\n\nresemble v. 与……相似\n\nrun v. 经营，控制\n\ncase n. 具体情况，事例\n\n**经典搭配**\n\nwork out 计算下来\n\nrange from... to... ([在一定的范围内]变化，变动)\n\nin exchange for(作为交换)\n\n**语篇分析**\n\n第六段揭示开放获取出版模式存在的问题“收费依旧高昂，赢家还是出版商”，并针对问题摆明观点“科学出版业本质上是垄断性质，必须整改以打破垄断局面”。关键词：①Yet...not...any cheaper；②need a rebalancing of power。\n\n①句转承上文直言开放获取出版模式并未比传统科学出版方式便宜分毫。has not worked out 和 any cheaper 连用，共同强调开放获取出版虽发展多时、进展显著，但并未实现“降费”目的。注：work out (at sth)为固定用法，意为“计算、计算出”,如 works out at $3(总计为3美元),后也常接形容词，表示“算起来(划算或太贵等)”。\n\n②③④句解释原因：开放获取出版将收费对象由“读者”转为“作者”,并未改变收费本质。\n\n②句介绍开放获取出版的收费模式：向作者收费。have responded to the demand(回应/满足……的需求)说明开放获取出版只是出版机构对外界抗议采取的被动回应，而非主动的积极变革，暗示可能无法真正解决问题；by charging their writers fees 进而明确其“换汤不换药”实质：高收费依旧，只是挂了名头、换了售卖对象——出版商从“坐享其成”变为“为发表做准备工作”，科研者自行掏钱支付该服务。\n\n③句以具体数字说明开放获取出版的收费现状：相当之高。range from £500 to $5,000 呈现高额数字的同时也涵盖英美，说明其普遍性。\n\n④句以调查报告补充说明开放获取出版的收费趋势：持续走高。状语 at a rate above inflation 为全句点睛之处，对比经济情况来讽刺出版业：上涨速度竟比(已经够高的)通胀率还高。both of... and of...(不仅……而且……)重心在后：期刊订阅费不用说肯定是快速高涨的，而“论文准备费”竟和它一样，说明新的模式完全不能解决现有问题。\n\n⑤句回到科学出版业本身，指出其根本问题：少数出版巨头垄断行业。resembles 引出类比，以众所皆知的“社交网络经济模式”揭示出版业的相同实质：互联网巨头垄断下，人们为满足网络社交需求，甘愿暴露自身隐私(即：无偿提供隐私数据),而垄断者借此赚取巨额利润；同理，科学出版也是借“自身垄断态势、科研者需要获得地位”,从而利用他们的无偿劳动盈利。free in exchange for..., while huge profits are made by a few big firms who run the market places 回应前文“一方无偿供货，一方坐收暴利”,进一步明确揭示根本原因：少数出版巨头垄断整个行业，导致权力失衡。\n\n⑥句递进，提出解决办法：对行业垄断态势进行权力再平衡。In both cases 复词偏指，重点实际落于本文焦点“科学出版业”上，强调根本解决之策：与互联网垄断局面亟需打破一样，科学出版业也需要打破垄断，让权力重新平衡，以真正释放科研生产力。\n\n【深层解读】①至④句与第二、三段类似，频繁出现“金额、价格”等信息(not any cheaper、range from £500 to $5,000、steadily rising at a rate above inflation),共同指向新的出版模式无法解决根本问题，出版商依然牢坐食物链顶端，坐收渔翁之利，甚至反而更加大了科研者的外在负担，必须为发表论文支付越来越高的费用。⑤⑥句彻底解开作者论述之“谜”:前三段展现问题之艰，第四段至第六段①至④句看似开始介绍问题的应对办法，但字里行间却流露作者的“不认同”态度，直至末句以 we need a rebalancing of power 明确：要实现科研文献的互助共享，绝不能依靠“违法的绝对免费”,也不能隔靴搔痒、只调整表面模式，而是要对行业进行彻底变革，打破垄断，如此才能真正推动科学发展。"
+      },
+      {
+       "number": 29,
+       "stem": "It can be learned from Paragraphs 5 and 6 that open access terms",
+       "score": 2,
+       "options": {
+        "A": "allow publishers some room to make money.",
+        "B": "render publishing much easier for scientists.",
+        "C": "reduce the cost of publication substantially.",
+        "D": "free universities from financial burdens."
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| 29. It can be learned from Paragraphs 5 and 6 that open access terms ____. | 29. 从第五、六段可推知，开放获取条款____。 |\n| --- | --- |\n| [A] allow publishers some room to make money | [A] 给予了出版机构一些获利空间 |\n| [B] render publishing much easier for scientists | [B] 使论文发表对科学家来说更容易 |\n| [C] reduce the cost of publication substantially | [C] 大幅降低了发表的费用 |\n| [D] free universities from financial burdens | [D] 解除了大学的财政负担 |\n\n[精准定位]第五、六段围绕“开放出版条款”展开论述，其中第五段③句指出“选择开放获取出版”需遵循的方式之二——付费一年或更久，之后转为免费获取（paywalled for a year or more），并指出这种模式使出版机构有一些时间进行盈利（so that the publishers can make a profit）。因此[A]正确。\n\n[命题解密] 本题为事实细节题，“题干+正确项”是对第五段③句 paywalled for a year... general release 的同义改写。\n\n[B][C]反向曲解第六段②至④句“开放获取出版向科学文献的作者(即科学家)收取高昂的论文准备费用，且该费用一直在快速持续增加”;[D]反向曲解第六段①句“开放获取出版对于大学而言并未便宜分毫”。\n\n[技巧总结] 从选项 [B][C][D] 所含的明确方向性 (much easier for...、reduce the cost、free universities from... 表明作者认可其价值) 可知，本题考查对细节信息的理解之外，还考查作者态度，因此除定位确定答案之外，还应该思考作者对于“开放式获取条款/模式”的看法，而两段中 so that... can make a profit、not... any cheaper、rising at a rate above... 均传达作者不满“盈利反而成了主要任务，费用一点没降，还越来越高”,可知只有[A]正确体现作者态度：开放获取模式实质上还是出版商的盈利工具。"
+      },
+      {
+       "number": 30,
+       "stem": "Which of the following characterizes the scientific publishing model?",
+       "score": 2,
+       "options": {
+        "A": "Trial subscription is offered.",
+        "B": "Labour triumphs over status.",
+        "C": "Costs are well controlled.",
+        "D": "The few feed on the many."
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| 30. Which of the following characterises the scientific publishing model? | 30. 下列哪项是科学出版模式的特征？|\n| --- | --- |\n| [A] Trial subscription is offered. | [A] 提供试用订阅。 |\n| [B] Labour triumphs over status. | [B] 劳动战胜了社会地位。 |\n| [C] Costs are well controlled. | [C] 成本得到了很好的控制。 |\n| [D] The few feed on the many. | [D] 少数依靠多数而发展壮大。 |\n\n[精准定位] 末段⑤句指出，(众多科学家)付出免费劳动，而赚取巨额利润的却是控制行业的少数大公司，由此可知，科学出版业中，少数（大公司）以多数（科学家的免费劳动）为食，从而发展壮大。[D]正确。\n\n[命题解密] 本题考查所讨论话题“科学出版模式”的特点，正确项是对第六段⑤句的合理概括。\n\n[A]与文义不符，本文开篇即指出科学出版业一本万利，依靠大学图书馆的高昂订阅费获取暴利，随后介绍当前出现的一些新的出版模式，要么非法，要么换汤不换药，反而更加重科研经济负担，并未提及“试用订阅（Trial subscription）”；[B]源于第六段⑤句 labour is provided free in exchange for the hope of status，但该句说明科学家处于弱势，只能用劳动来换取社会地位，而非其劳动战胜了社会地位；[C]曲解第六段④句，该句指出“论文准备费（即成本）在持续增加”，而非“成本得到了很好的控制”。\n\n[技巧总结]本题形为细节题，实为主旨大意题，考查对文章主题的把握。应在把握文章主旨的前提下，结合具体内容确定正确答案。由前文可知，本文旨在批判科学出版业盈利模式不合理，末段⑤句高度总结，直言科学出版业 labour is provided free...while huge profits are made by a few big firms,因此[D]与文章主旨一致，且为对末段⑤句的准确概括。[A]曲解文义；[B]与[C]皆为正面评价，不符合文章“批评科学出版业由少数巨头垄断，利用科研成果坐收暴利”的情感态度。"
+      }
+     ]
+    },
+    {
+     "title": "Text 3",
+     "type": "reading",
+     "passage": [
+      "Progressives often support diversity mandates as a path to equality and a way to level\nthe playing field. But all too often such policies are an insincere form of virtue-signaling\nthat benefits only the most privileged and does little to help average people.",
+      "A pair of bills sponsored by Massachusetts state Senator Jason Lewis and House\nSpeaker Pro Tempore Patricia Haddad, to ensure “gender parity” on boards and\ncommissions, provide a case in point.",
+      "Haddad and Lewis are concerned that more than half the state-government\nboards are less than 40 percent female. In order to ensure that elite women have more\nsuch opportunities, they have proposed imposing government quotas. If the bills\nbecome law, state boards and commissions will be required to set aside 50 percent of\nboard seats for women by 2022.",
+      "The bills are similar to a measure recently adopted in California, which last year\nbecame the first state to require gender quotas for private companies. In signing the\nmeasure, California Governor Jerry Brown admitted that the law, which expressly\nclassifies people on the basis of sex, is probably unconstitutional.",
+      "The US Supreme Court frowns on sex-based classifications unless they are\ndesigned to address an “important” policy interest, Because the California law applies\nto all boards, even where there is no history of prior discrimination, courts are likely to\nrule that the law violates the constitutional guarantee of “equal protection”.",
+      "But are such government mandates even necessary? Female participation on\ncorporate boards may not currently mirror the percentage of women in the general\npopulation, but so what?",
+      "The number of women on corporate boards has been steadily increasing without\ngovernment interference. According to a study by Catalyst, between 2010 and 2015 the\nshare of women on the boards of global corporations increased by 54 percent.",
+      "Requiring companies to make gender the primary qualification for board\nmembership will inevitably lead to less experienced private sector boards. That is exactly\nwhat happened when Norway adopted a nationwide corporate gender quota.",
+      "Writing in The New Republic, Alice Lee notes that increasing the number of\nopportunities for board membership without increasing the pool of qualified women to\nserve on such boards has led to a “golden skirt” phenomenon, where the same elite\nwomen scoop up multiple seats on a variety of boards.",
+      "Next time somebody pushes corporate quotas as a way to promote gender equity,\nremember that such policies are largely self-serving measures that make their sponsors\nfeelgood but do little to help average women."
+     ],
+     "questions": [
+      {
+       "number": 31,
+       "stem": "The author believes that the bills sponsored by Lewis and Haddad will",
+       "score": 2,
+       "options": {
+        "A": "help little to reduce gender bias.",
+        "B": "pose a threat to the state government.",
+        "C": "raise women’s position in politics.",
+        "D": "greatly broaden career options."
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n| 31. The author believes that the bills sponsored by Lewis and Haddad will ____. | 31. 作者认为刘易斯与哈达德提出的两项法案将____。 |\n| --- | --- |\n| [A] help little to reduce gender bias | [A] 对减少性别偏见无济于事 |\n| [B] pose a threat to the state government | [B] 对州政府构成威胁 |\n| [C] raise women's position in politics | [C] 提高女性在政界的地位 |\n| [D] greatly broaden career options | [D] 大大拓宽职业选择 |\n\n[精准定位] 本题考查作者对两项麻州法案的看法，可定位至第二、三段，发现两项法案意在确保各委员会中的“性别平等”(即减少性别偏见)。而两项法案为对首段②句作者观点“此类政策往往是一种虚伪的道德信号，仅有益于最有特权者，却几乎无助于普通人”的例证。可见作者认为，法案并不能如发起人所言减少性别偏见，[A] 正确。\n\n[命题解密] 正确项[A]契合首段作者对此类政策的评价：虽宣称可实现平等，促进公平竞争(a path to equality and a way to level the playing field),实则仅有益于最有特权者，却几乎无助于普通人(benefits only the most privileged and does little to help average people)。\n\n[B]从第二段“法案旨在确保性别平等”和第三段①句“州政府委员会中女性成员明显少于男性”主观推出“法案对州政府构成威胁”，但文中并未提及此因果关联。[C]基于惯性思维，由第三段③句所述法案内容“要求州内各类委员会留出 50% 的席位给女性”过度推断出女性在政界的地位将会提高。[D]将第三段②句 ensure that elite women have more such opportunities(确保精英女性有更多机会进入政府委员会)曲解为“大大拓宽了人们的职业选择”。\n\n[技巧总结]本题明为考查作者观点，暗中考查例证关系。解题关键在于意识到第二、三段事例是对第一段观点的例证，并厘清第一段中的作者观点：先由第二段A pair of bills...provide a case in point 可知例证关系，判断正确项应体现第一段作者主要观点。再根据第一段 Progressives often support...But all too often such policies...将信息分类“①句介绍他人观点，②句作者予以反驳”，进一步确定正确项应与②句相符。最后将选项与②句相较：[A] help little to reduce gender bias 与 does little to help average people 近义，为正确项。\n\nIV ① The bills are similar to a measure recently adopted in California, which last year became the first state to require gender quotas for private companies. ② In signing the measure, California Governor Jerry Brown admitted that the law, which expressly classifies people on the basis of sex, is probably unconstitutional.\n\nV ① The US Supreme Court frowns on sex-based classifications unless they are designed to address an “important” policy interest. ② Because the California law applies to all boards, even where there is no history of prior discrimination, courts are likely to rule that the law violates the constitutional guarantee of “equal protection.”\n\n上述法案和加州最近通过的一项措施相似。去年，加州成为了美国首个要求私企实行性别配额制的州。签署该措施时，加州州长杰里·布朗承认，这项法规明确根据性别将人们分类，很可能违宪。\n\n美国最高法院不赞成基于性别的分类，除非是为了满足“重大”政策利益需求。因为加州的这项法规适用于所有的董事会，甚至包括那些根本没有歧视历史的董事会，所以法庭很可能会裁定该法规违反了“平等保护”这一宪法保障。\n\n**词汇注释与难句分析**\n\nexpressly ad. 明确地，故意地\n\nunconstitutional a. 违背宪法的\n\nprior a. 先前的，较早的\n\nviolate v. 违反\n\n**经典搭配**\n\nfrown on(不赞成)\n\n**语篇分析**\n\n第四、五段以加州法规为例，质疑此类政策的合宪性。\n\n第四段引出加州法规并指出该法规可能违宪。关键词：①a measure;②probably unconstitutional。\n\n①句引出加州法规。The bills are similar to... 引出与麻州法案类似的另一项措施/多样性指令：加州最近通过的一项措施(a measure recently adopted in California)。require gender quotas 说明加州措施与麻州法案本质相同：要求实施性别配额。for private companies 和前文 state-government boards 形成对比，体现二者针对对象不同：麻州法案针对政府委员会；加州措施针对私企董事会。adopted、which last year became the first state... 点明二者另一细微差异：前者尚未立法，后者已经成为正式法规。\n\n②句借州长之口，指出法规可能违宪。句子整体 In signing the measure,...admitted that...以伴随动作指出：措施虽得以签署，但其实很可能违宪(unconstitutional 意为“违反宪法的，违反宪章的”)。which 从句点明原因：它明确地将人们根据性别分类(expressly classifies people on the basis of sex)。\n\n第五段进一步明确加州法规具体违宪之处：违反“平等保护”这一宪法保障。关键词：violates the constitutional guarantee of “equal protection”。\n\n①句首先明确美国最高法院(宪法的解释者)站位：不赞成基于性别的分类。sex-based classifications 复现第四段②句 expressly classifies people on the basis of sex,指向“加州法规(以及其他类似政策)”;frowns on(对……皱眉，不赞成)明确最高法院对其态度；unless...补充特例，说明最高法院并非一刀切，若是为了满足重大政策利益需求，也允许按性别分类(an “important” policy interest 指某政策涉及国家利益，关系国计民生，比如美国禁止女性在男监狱担任狱警，该法规虽将狱警按性别分类，但能够保护女性权益，是合宪的)。\n\n②句基于①句，指出法庭很可能裁定加州法规违反了“平等保护”这一宪法保障。Because 从句以 applies to all boards, even where... 强调加州立法面向所有董事会，且不管有没有性别歧视的历史 (discrimination 这里专指“性别歧视”),即纯粹一刀切按性别分类，且并非是为了满足重大政策利益需求。courts are likely to rule that...(rule 意为“裁决，判决”)基于上述“最高法院站位”以及“加州法规性质”,推测法庭可能做出的判决。violates the constitutional guarantee of “equal protection”最终明确加州法规可能违反的宪法条目：“平等保护”这一宪法保障。\n\n【深层解读】第四、五段由前文的“麻州法案”转入与之性质相似的“加州法规”，虽只直接表明加州法规可能违宪，实则论证此类基于性别分类的法规/法案都违反了“平等保护”这一宪法保障。再联系首段可知此类政策不可行：原本被用作通向平等、公平之路，但实际上自身都极可能违反了“平等保护”原则，被判违宪。"
+      },
+      {
+       "number": 32,
+       "stem": "Which of the following is true of the California measure?",
+       "score": 2,
+       "options": {
+        "A": "It has irritated private business owners.",
+        "B": "It is welcomed by the Supreme Court.",
+        "C": "It may go against the Constitution.",
+        "D": "It will settle the prior controversies."
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n| 32. Which of the following is true of the California measure? | 32. 以下哪项关于加州措施的说法正确？|\n| --- | --- |\n| [A] It has irritated private business owners. | [A] 它激怒了私营企业所有者。 |\n| [B] It is welcomed by the Supreme Court. | [B] 它得到了最高法院的支持。 |\n| [C] It may go against the Constitution. | [C] 它可能违反了宪法。 |\n| [D] It will settle the prior controversies. | [D] 它会解决先前争议。 |\n\n[精准定位] 由题干关键词 the California measure 定位至第四、五段。第四段②句指出，州长承认加州措施很可能违宪。第五段指出最高法院可能裁定它违反“平等保护”这一宪法保障。因此[C]正确。\n\n[命题解密] [C] It may go against the Constitution 概括第四段②句 the law... is probably unconstitutional 及第五段②句 likely to rule that the law violates the constitutional guarantee of...。\n\n[A]对第四段①句过度推导：文中只指出加州措施对私企提出了董事会男女平等的要求，并未指出这激怒了私企所有者。[B]违背第五段①句“最高法院不赞成(加州法规这种)基于性别的分类”以及②句“法庭很可能会判定加州法规违宪”。[D]将第五段②句 the California law applies to all boards...prior discrimination(加州法规适用于包括没有歧视历史的董事会在内的所有董事会)曲解为“加州法规将会解决先前所有争议”。\n\n[技巧总结] 本题就第四、五段讨论的“加州法规”命制事实细节题。解题思路为先利用题干关键词确定大范围，再利用各项关键词分别定位、比对：首先根据题干关键词 the California law 定位至第四、五段；随后将四个选项分别定位、比对：[A] private business owners 与第四段①句 private companies 对应，但 irritated 无从得知；[B] the Supreme Court 第五段①②句均提及，但 is welcomed 与原文 frowns on、rule that the law violates...体现的反对态度相悖；[C] the Constitution 对应第四段②句 unconstitutional 及第五段②句 constitutional，且 may go against 与 unconstitutional、violates the constitutional guarantee...信息一致；[D] prior 出现于第五段②句，但原文为 prior discrimination，并未提及 prior controversies。故确定[C]正确。\n\n另提示：对于事实细节题也应谨记“主旨为王”,将主旨作为判断选项正误的标尺，正确项大多情形下会与段落主旨关系密切，甚至直接设为段落主旨，如本题正确项[C]实为第四、五段主旨。\n\nVI ① But are such government mandates even necessary? ② Female participation on corporate boards may not currently mirror the percentage of women in the general population, but so what?\n\nVII ① The number of women on corporate boards has been steadily increasing without government interference. ② According to a study by Catalyst, between 2010 and 2015 the share of women on the boards of global corporations increased by 54 percent.\n\n但这样的政府指令是否真有必要？女性在公司董事会中的参与率当前可能未反映女性在总人口中的占比，但那又怎样？\n\n没有政府干预，公司董事会中的女性人数也一直在持续稳步增加。根据 Catalyst 的一项研究，2010至2015年间，跨国公司董事会中的女性比例增加了54%。\n\n**词汇注释与难句分析**\n\n第六、七段指出政府的多样性指令并无实施必要。\n\n第六段初步表明作者观点：多样性指令并无实施必要。关键词：even necessary;so what。\n\n①句直接设疑：这样的政府规定难道有其必要？such government mandates 呼应首段 diversity mandates,囊括第二、三段的麻州法案以及第四、五段的加州法规。But、even (even 此处意为“甚至可以说，更确切的说”)引发话题让步：暂且抛却合宪问题不谈，我们来考虑一个更为基本的问题——它们是否真有必要？②句反问作答：并不必要。句内以 but 形成让步转折，前半句先承认政策制定者关注的事实：女性在公司董事会中的参与率(Female participation 与下文 the percentage of women 同义，指向 less than 40%)可能当前确实未反映总人口中的女性占比(the percentage of women in the general population 指女性在总人口中接近 1/2 的占比),即目前董事会中女性没能占到 1/2。后半句作者以 but so what? 强烈反问：但那又怎样？\n\n第七段进而援引研究数据指出，即便没有政府干预，董事会中的女性比例也在持续增加。关键词：steadily increasing without government interference。\n\n①句以现实情形说明为何政府干预不必要。has been steadily increasing（现在完成进行时强调“很长时间以来发生的事实”；steadily 既体现增加幅度的稳定性又体现时间的延续性）、without government interference 共同体现当前趋势“董事会中女性人数在没有政府干预的情况下已在持续增加”，明确上段 but so what? 所指：虽然现在女性人数少于男性，但这一情形很可能会自然改变（即政府干预完全不必要）。\n\n②句援引数据支撑①句。the share of women on the boards 指代①句的 The number of women on corporate boards; between 2010 and 2015, increased by 54 percent 回应 has been steadily increasing, 展现增长幅度之大、持续时间之长。\n\n【深层解读】第六、七段为一个紧密联系的整体，层层递进表明作者观点“政府的多样性指令并无实施必要”：第六段①句设问——第六段②句以反问给出否定回答——第七段进而说明已有事实，明确第六段②句观点。"
+      },
+      {
+       "number": 33,
+       "stem": "The author mentions the study by Catalyst to illustrate",
+       "score": 2,
+       "options": {
+        "A": "the harm from arbitrary board decisions.",
+        "B": "the importance of constitutional guarantees.",
+        "C": "the pressure on women in global corporations.",
+        "D": "the needlessness of government interventions."
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 33. The author mentions the study by Catalyst to illustrate ____. | 33. 作者提及 Catalyst 的研究是为说明____。 |\n| --- | --- |\n| [A] the harm from arbitrary board decisions | [A] 董事会武断决策的危害 |\n| [B] the importance of constitutional guarantees | [B] 宪法保障的重要性 |\n| [C] the pressure on women in global corporations | [C] 跨国公司中女性承受的压力 |\n| [D] the needlessness of government interventions | [D] 政府干预的不必要性 |\n\n[精准定位] 根据题干关键词 the study by Catalyst 定位至第七段。该段①句提出“没有政府干预，企业董事会中的女性人数也一直在持续增加（即政府干预并不必要）”。②句指出研究发现“跨国公司女董事人数于 2010 至 2015 年间显著增长”。联系两句可知，②句是在以数据论证①句观点，[D]正确。\n\n[命题解密] 题干+正确项[D]正确体现第七段①②句的“论点—论据”关系，government interventions 同义替换 government interference。\n\n[A]源自第八段①句 less experienced private sector boards, 但首先该句并非 Catalyst 研究发现的论证对象，其次董事会经验不足≠董事会武断决策。[B]源自第五段②句 violates the constitutional guarantee, 但首先这是在说明“加州性别配额制法规可能违宪”而非“宪法保障的重要性”, 另外此句并非 Catalyst 的研究所支撑的论点；[C]利用第六、七段中提及的 women、global corporations 结合现实话题 “女性压力”捏造干扰，并非研究关注对象“女性在跨国公司董事会中的占比”, 文中也未提及其压力 (pressure 无中生有)。\n\n[技巧总结]本题就研究发现设置写作目的题。对此需认识到：1.作者引用研究发现的目的在于“作为论据论证观点”或“作为特例说明现象”，其论证对象往往会在其前后出现，解题关键在于根据衔接词和语义关联寻找“观点句/现象概括句”；2.正确项应既能体现研究发现，又与论证观点（或现象）相符。如本题，直接定位句(第七段②句)介绍跨国公司女董事人数增加的比例，与前一句所言“女董事人员增加”相关性强，与后一句(第八段①句)所言“私企董事会经验不足”相关性弱，因此可确定第七段①句为正确项来源。再对比选项可发现，[D]既能概括研究发现，又与第七段①句观点相符，故正确。另外，若能进一步认识到第七段是对第六段首句的回答，则更能确保选择无误。\n\nVIII ① Requiring companies to make gender the primary qualification for board membership will inevitably lead to less experienced private sector boards. ② That is exactly what happened when Norway adopted a nationwide corporate gender quota.\n\nIX ① Writing in The New Republic, Alice Lee notes that increasing the number of opportunities for board membership without increasing the pool of qualified women to serve on such boards has led to a “golden skirt” phenomenon, where the same elite women scoop up multiple seats on a variety of boards.\n\n要求公司将性别作为加入董事会的首要条件将不可避免地导致私营领域董事会阅历不足。这恰恰是挪威在全国范围内实行性别配额制后发生的情况。\n\n在《新共和》杂志中，艾丽斯·李指出，一味为女性提供更多在董事会中任职的机会，而不增加可以胜任这些席位的女性后备力量，已导致一种“金裙”现象，即同一（小）群精英女性包揽各种董事会的多个席位。\n\n**词汇注释与难句分析**\n\nqualification n. 资历，资格 Writing in The New Republic, Alice Lee notes that increasing the number of opportunities for board membership without increasing the pool of qualified women to serve on such boards has led to a “golden skirt” phenomenon, where the same elite women scoop up multiple seats on a variety of boards.\n\npool n. (统称)备用人员\n\n**语篇分析**\n\n第八、九段再进一步，揭示性别配额制政策的多种负面影响。\n\n第八段介绍负面影响之一：导致私营部门董事会阅历不足。关键词：less experienced private sector boards。\n\n①句提出观点：实行性别配额制会导致私营领域董事会经验不足。主语 Requiring... 为“多样性指令”的又一表述，其中 Requiring... to make... primary qualification 再次凸显其强制、武断。primary qualification 与 less experienced 形成对比：将性别作为“首要资格”之后，“基本资质”却不足了。will inevitably lead to 强调不良后果的必然性，其中逻辑为：“一味强调男女均衡”必然会导致“不合格的候选人进入董事会”，从而使得“董事会整体阅历不足”。\n\n②句以挪威为鉴，指出这恰恰是挪威全国范围内实行性别配额制的结果。That 回指①句 less experienced private sector boards;exactly 回应上段 inevitably 强化论证效果，传达作者告诫：美国应引以为戒，万不可贸然施行此类政策。\n\n第九段介绍负面影响之二：造成“金裙现象”。关键词：a “golden skirt” phenomenon。\n\n本段/句援引知名杂志 The New Republic《新共和》中 Alice Lee 的观点来表明作者本人观点。\n\n主语部分以 increasing the number of opportunities for board membership 和 without increasing the pool of qualified women...（其中 pool 意为“可用人员，备用人员”）形成对比，凸显性别配额制的舍本逐末：一味为已处于优势地位的精英女性提高在董事会中任职的机会，而不增加有此能力的后备力量（作者观点即应给更多的女性以机会，使她们能成为后备力量）。\n\n谓语部分 has led to... 说明这种做法已造成的不良后果。where... 从句解释核心词 a “golden skirt” phenomenon(金裙现象)，以 the same elite women(同一小撮精英女性)、scoop up(大量获得、赢得、占据)、multiple seats(多个席位)、a variety of boards(多个董事会)形象描绘负面现象、凸显政策的荒谬：(由于缺乏合格后备力量)同一小撮精英女性轻松包揽各种董事会中的多个职位。\n\n【深层解读】第八、九段围绕董事会性别配额制导致的成员“资格”与“资质”问题展开，指出其得不偿失：一方面导致不合格的候选人进入董事会，破坏董事会根基；另一方面导致同一名精英女性可以轻松在董事会中身兼数职，很可能令董事会效率低下；更大的问题是，此类政策并没有给更多女性机会，只保护精英，对普通人无益。"
+      },
+      {
+       "number": 34,
+       "stem": "Norway’s adoption of a nationwide corporate gender quota has led to",
+       "score": 2,
+       "options": {
+        "A": "the underestimation of elite women’s role.",
+        "B": "the objection to female participation on boards.",
+        "C": "the entry of unqualified candidates into the board.",
+        "D": "the growing tension between labor and management."
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| 34. Norway's adoption of a nationwide corporate gender quota has led to ____. | 34. 挪威在全国范围内实行董事会性别配额制已导致____。 |\n| --- | --- |\n| [A] the underestimation of elite women's role | [A] 对精英女性作用的低估 |\n| [B] the objection to female participation on boards | [B] 对女性加入董事会的反对 |\n| [C] the entry of unqualified candidates into the board | [C] 不合格的候选人加入董事会 |\n| [D] the growing tension between labor and management | [D] 劳工与管理者间矛盾日益加剧 |\n\n[精准定位] 由题干关键词 Norway's adoption of a nationwide corporate gender quota 定位至第八段。第八段①句提出，强制实行性别配额制会导致私企董事会阅历不足，即使得不合格的候选人加入董事会，②句则指出，这恰恰是挪威在全国范围内实行董事会性别配额制已导致的后果，[C]正确。\n\n[命题解密] 正确项 [C] the entry of unqualified candidates into the board 是对 less experienced private sector boards 的合理引申。\n\n[A]曲解第八段①句 less experienced private sector boards, 此处并非指“人们看法：精英女性在董事会中属于阅历不足的群体”, 而是指“以性别作为首要资格的客观结果：董事会整体阅历不足”。[B]将第八段①句 make gender the primary qualification for board membership、less experienced 断章取义为“人们因女性阅历不足而反对其加入董事会”, 但其真正含义为“强制要求增加女董事将导致董事会阅历不足”。[D]借文中概念 boards(董事会，公司高层)捏造干扰，文中并未将管理者与工人区分讨论，更未提及二者矛盾。\n\n[技巧总结] 本题就“挪威在全国范围内实施董事会性别配额制”命制因果关系题。重在找出文中暗含的因果逻辑：首先识别定位句（第八段②句）That is exactly what happened when... 中暗含的因果关系：when... 为“因”，That 为“果”，而 That 所指为其前一句中内容。随后分析①句 Requiring... will inevitably lead to...:Requiring... 为“因”；less experienced private sector boards 为“果”。联系两句可知“两句因果分别对应，less experienced private sector boards 为 That 所指”，题目迎刃而解。\n\nX ① Next time somebody pushes corporate quotas as a way to promote gender equity, remember that such policies are largely self-serving measures that make their sponsors feel good but do little to help average women. [380 words]\n\n下次若有人推动董事会配额制，将其作为促进性别平等的途径，请记住：这样的政策在很大程度上是自利式措施，让发起人自我感觉良好，但对普通女性并无助益。\n\n**词汇注释与难句分析**\n\nequity n. 公平；公正\n\nself-serving a. 谋私利的，自利式的\n\n**语篇分析**\n\n第十段重申主旨：董事会配额制在很大程度上是自利式政策，对普通人无益。关键词：largely self-serving measures。\n\n本段以祈使句 Next time... remember that... 概而回应前文，在完成论证后重申作者观点：pushes corporate quotas as a way to promote gender equity 回应前文关注的麻州法案、加州法规以及首段①句的革新者观点，其中 pushes corporate quotas as a way to promote gender equity 明确 diversity mandates 所指；are largely self-serving measures that... 重申首段②句作者观点，其中 self-serving measures that make their sponsors feel good 明确 an insincere form of virtue-signaling 内涵。\n\n【深层解读】末段处处体现对首段的回应，同时解释了首段略为抽象的部分。在主体论证过程中，作者从多样性规定的内在矛盾性出发，从后果倒推，点明此类政策的多重缺陷：①很可能违宪；②根本不必要；③引发不良后果。"
+      },
+      {
+       "number": 35,
+       "stem": "Which of the following can be inferred from the text?",
+       "score": 2,
+       "options": {
+        "A": "Women’s needs in employment should be considered.",
+        "B": "Feasibility should be a prime concern in policymaking.",
+        "C": "Everyone should try hard to promote social justice.",
+        "D": "Major social issues should be the focus of legislation."
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 35. Which of the following can be inferred from the text? | 35. 下列哪项可从文中推知？|\n| --- | --- |\n| [A] Women's needs in employment should be considered. | [A] 女性的就业需求应予以考虑。 |\n| [B] Feasibility should be a prime concern in policymaking. | [B] 可行性应作为政策制定的首要考量。 |\n| [C] Everyone should try hard to promote social justice. | [C] 人人皆应努力促进社会正义。 |\n| [D] Major social issues should be the focus of legislation. | [D] 立法应重点关注重大社会问题。 |\n\n[精准定位] 文章开篇三段提出观点：多样性指令等政策对促进公平无济于事，反而会强化特权。第四至九段指出此类政策的不可行：可能被判违宪；不但没有必要，甚至很可能带来多种不良后果。末段重申此类政策的无效性。可见，本文重在指出此类政策不可行，建议政策制定者考量其可行性，[B] 正确。注：Feasibility 意为 a plan or method that is feasible is possible and is likely to work “可行性”, 包括决策实施起来是否有效，是否具有副作用。\n\n[命题解密] 正确项为全文主旨的换角度表述：此类政策无可行性=政策制定者应该考虑其可行性。\n\n[A] Women's needs in employment 偏离文章关注对象：文中关注的是“多样性指令/董事会性别配额制政策”, 并非“女性就业”。[C] Everyone、social justice 偏离文章讨论话题：本文讨论的是“政策/政策制定者应如何促进平等”, 并非“普通大众应如何推进社会正义”; [D] should be the focus of legislation 错误理解作者态度：作者并非认为立法者对重大社会问题(性别平等、社会公平)不够关注/应多加关注，而是恰恰认为其做出的硬性规定得不偿失。\n\n[技巧总结] 本题明为推理判断题，实为主旨大意题。解答此类题要对文章脉络及主旨了然于胸(可用方法：找关键词、关键句、全文主旨句/段；厘清段间关系，梳理全文脉络), 以文章主旨为中心进行合理推测或解读(可考虑：是否偏离本文关注对象？是否错误理解文章讨论话题？是否违背作者观点态度？)。"
+      }
+     ]
+    },
+    {
+     "title": "Text 4",
+     "type": "reading",
+     "passage": [
+      "Last Thursday, the French Senate passed a digital services tax, which would\nimpose an entirely new tax on large multinationals that provide digital services to\nconsumers or users in France. Digital services include everything from providing a\nplatform for selling goods and services online to targeting advertising based on user data,\nand the tax applies to gross revenue from such services. Many French politicians and\nmedia outlets have referred to this as a “ GAFA tax,” meaning that it is designed to\napply primarily to companies such as Google, Apple, Facebook and Amazon—in other\nwords, multinational tech companies based in the United States.",
+      "The digital services tax now awaits the signature of President Emmanuel Macron,\nwho has expressed support for the measure, and it could go into effect within the next\nfew weeks. But it has already sparked significant controversy, with the United States\ntrade representative opening an investigation into whether the tax discriminates against\nAmerican companies, which in tum could lead to trade sanctions against France.",
+      "The French tax is not just a unilateral move by one country in need of revenue.\nInstead, the digital services tax is part of a much larger trend, with countries over the\npast few years proposing or putting in place an alphabet soup of new international tax\nprovisions. These have included Britain’s DPT (diverted profits tax), Australia’s\nMAAL (multinational antiavoidance law), and India’s SEP (significant economic\npresence) test, to name but a few. At the same time, the European Union, Spain, Britain\nand several other countries have all seriously contemplated digital services taxes.",
+      "These unilateral developments differ in their specifics, but they are all designed\nto tax multinationals on income and revenue that countries believe they should have a\nright to tax, even if international tax rules do not grant them that right. In other words,\nthey all share a view that the international tax system has failed to keep up with the\ncurrent economy.",
+      "In response to these many unilateral measures, the Organization for Economic\nCooperation and Development (OECD) is currently working with 131 countries to\nreach a consensus by the end of 2020 on an international solution. Both France and\nthe United States are involved in the organization's work, but France's digital services\ntax and the American response raise questions about what the future holds for the\ninternational tax system.",
+      "France’s planned tax is a clear warning: Unless a broad consensus can be\nreached on reforming the international tax system, other nations are likely to follow suit,\nand American companies will face a cascade of different taxes from dozens of nations\nthat will prove burdensome and costly."
+     ],
+     "questions": [
+      {
+       "number": 36,
+       "stem": "The French Senate has passed a bill to",
+       "score": 2,
+       "options": {
+        "A": "regulate digital services platforms.",
+        "B": "impose a levy on tech multinationals.",
+        "C": "protect French companies’ interests.",
+        "D": "curb the influence of advertising."
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 36. The French Senate has passed a bill to ____. | 36. 法国参议院通过了一项“____”的法案。 |\n| --- | --- |\n| [A] regulate digital services platforms | [A] 规范数字服务平台 |\n| [B] impose a levy on tech multinationals | [B] 对跨国科技公司征税 |\n| [C] protect French companies' interests | [C] 保护法国公司利益 |\n| [D] curb the influence of advertising | [D] 遏制广告影响力 |\n\n[精准定位] 文首句指出，法国参议院通过一项数字服务税法案，将向为法国消费者/用户提供数字服务的大型跨国公司征收一项全新税费，故[B]正确。\n\n[命题解密] 正确项[B] impose a levy、tech multinationals 分别同义改写文首句中 impose an entirely new tax、multinationals that provide digital services。\n\n[A]利用②句第一分句中碎片信息 Digital services、platform 杂糅而来，但该部分意在解释数字服务税法案中“数字服务”的含义，并非指向法案内容；[C]利用常识误导学生认为“法国对跨国公司收税”意在“保护本土公司利益”，但由第三段首句 in need of revenue 可知，法国数字服务税意在“提高本国财政收入”；[D]利用②句中 targeting advertising based on user data 所传递出的广告影响力“基于用户数据即可精准定投”捏造而来，但它错误属性同[A]，对应的原文指向的是“数字服务”的具体内容，而非法案本身的内容。\n\n[技巧总结] 本题解答难点在于：明确题干中 bill 指向开篇句中 a digital services tax。两者的对等关系可以借助 a digital services tax 前 passed“经表决通过(动议、法律等)”、后 impose“推行，采用(规章制度),强势实行”两词判断。然后再据由 which 从句所展示的 a digital services tax 具体内容“向提供数字服务的大型跨国公司征收一项全新税种”锁定正确项[B] (粗犷型学习者甚至只借助“tax 一词与[B]中 levy 一词同义”即可做出选择)。\n\nII ① The digital services tax now awaits the signature of President Emmanuel Macron, who has expressed support for the measure, and it could go into effect within the next few weeks. ② But it has already sparked significant controversy, with the United States trade representative opening an investigation into whether the tax discriminates against American companies, which in turn could lead to trade sanctions against France.\n\n法国数字服务税法案目前正待总统埃马纽埃尔·马克龙签署，(鉴于)此前他已对此举措表示过支持，所以该法案极有可能在未来几周内生效。但是，法案已引发重大争议，美国贸易代表已经开始调查此项税法是否歧视美国企业，进而可能导致美国对法国实施贸易制裁。\n\n①await v. (事件等)等待(处理)\n\n②signature n. 签字；签署 ③spark v. 引发；触发 ④controversy n. 争议 ⑤discriminate v. 区别对待；歧视\n\n⑥sanction n. 制裁\n\n**经典搭配**\n\ngo into effect 生效\n\n**词汇注释与难句分析**\n\nBut it has already sparked significant controversy, with the United States trade representative opening an investigation into whether the tax discriminates against American companies, which in turn could lead to trade sanctions against France.\n\n功能注释：句子主干为 it has already sparked significant controversy。with 后所有内容为独立主格结构，明示重大争议源头(即传递与主干之间的因果关联),其中嵌套一个 which 定语从句(which 回指 the tax discriminates against American companies)说明法国数字税法案歧视美国企业的后果。\n\n**语篇分析**\n\n第二段介绍法案的进程及影响。关键词：① go into effect within the next few weeks; ② trade sanctions against France。\n\n②句 But 话锋一转，指出法案可能性影响：招致美国贸易制裁。主句 sparked“引发，触发”、significant“重大的，影响深远的”、controversy“(涉及多方且历时久的公开)争议”共同指向该税法的直接性后果：引发多方长久不休、对未来事件发展影响重大的争论，暗示该法案所牵涉主体力量相抗衡的状态。with...独立结构形似伴随，实则暗藏原因，意在解释主句：借由美国对法案的反应说明该法案所引发的重大争议。\n\n【深层解读】But 将全段语义重点落于②句，该句长、难且语义复杂，需仔细揣摩、谨防设题：句子借助核心名词/动词信息 sparked significant controversy、opening an investigation、discriminates against American companies、trade sanctions against France 形象描绘出一副“美法两国你对我企业征税，我就对你实施贸易制裁”的焦灼化场景；再借助四个因果关联词 sparked、with（形似伴随，暗藏因果）、in turn (as a result of sth in a series of events“相应地，转而”）、lead to 串联起整个事态发展的因果链条“法国通过（意在针对美国企业的）数字服务税→美国指派贸易代表调查该法案是否真的意在针对美国企业→调查若属实，美国将发动对法贸易制裁”。"
+      },
+      {
+       "number": 37,
+       "stem": "It can be learned from Paragraph 2 that the digital services tax",
+       "score": 2,
+       "options": {
+        "A": "will prompt the tech giants to quit France.",
+        "B": "aims to ease international trade tensions.",
+        "C": "is apt to arouse criticism at home and abroad.",
+        "D": "may trigger countermeasures against France."
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| 37. It can be learned from Paragraph 2 that the digital services tax ____. | 37. 根据第二段可知，法国数字服务税____。 |\n| --- | --- |\n| [A] will prompt the tech giants to quit France | [A] 将促使科技巨头退出法国 |\n| [B] aims to ease international trade tensions | [B] 旨在缓和国际贸易紧张局势 |\n| [C] is apt to arouse criticism at home and abroad | [C] 容易引发国内外批评 |\n| [D] may trigger countermeasures against France | [D] 可能引发针对法国的反制措施 |\n\n[精准定位] 第二段②句指出：美国贸易代表已开始针对“法国数字服务税是否是对美国企业的歧视”展开调查，(如果调查发现属实，)美国将(极)可能对法国实施贸易制裁。可见，数字服务税有可能引发(美国)针对法国的反制措施，故[D]正确。\n\n[命题解密] 正确项是对②句 could lead to trade sanctions against France 的同义转述，其中 countermeasures“对抗策略，反制措施”是 trade sanctions“(对某国的)贸易制裁”的上义表达。\n\n[A]由②句 discriminates against American companies“(法国数字服务税)对美国公司(尤指美国科技巨头)的歧视”捏造而来，但首先“歧视与否尚处调查之中，结果尚未可知”,其次“即便歧视属实，其后果指向的是‘美国发起贸易制裁’而非‘科技巨头退出法国’”,而且文中自始至终并未提及美国企业的可能行为。[B]利用②句 trade sanctions 所传递的贸易紧张局势设障，但该词指向法国数字服务税的“可能性后果：引发美国对法国的贸易制裁”而非“目的：缓和国际贸易紧张局势”。[C]利用②句 has already sparked significant controversy 设障，但错误有三：一、将既有事实“已经引发(has already)”偷换为常规倾向“易于引发(is apt to)”,二、将“争议(controversy)”偷换为“批评(criticism)”,三、将范围由“国外(美国)”偷换为“国内外(at home and abroad)”。\n\n[技巧总结] 本题于长难句兼对比转折处设题，解答关键在借助关键动、名词(谓语部分信息)锁定句意重点，再将选项指向与句意指向比对，合理找出正确选项。四个选项中[A][D]指向可能性结果，[B]指向目的，[C]指向属性/趋势；而据由句内核心谓语信息“has already sparked significant controversy→opening an investigation→discriminates against→could lead to trade sanctions against France”可知语义重点指向“后果/可能性结果：已经引发重大争议，日后可能导致美国对法国的贸易制裁”,由此排除指向不一致的[B][C],以及指向相同但内容相异的[A]。\n\nⅢ ① The French tax is not just a unilateral move by one country in need of revenue. ② Instead, the digital services tax is part of a much larger trend, with countries over the past few years proposing or putting in place an alphabet soup of new international tax provisions. ③ These have included Britain's DPT (diverted profits tax), Australia's MAAL (multinational antiavoidance law), and India's SEP (significant economic presence) test, to name but a few. ④ At the same time, the European Union, Spain, Britain and several other countries have all seriously contemplated digital services taxes.\n\n数字服务税不仅仅是法国一国为增加财政收入而采取的单边行动。相反，它属于一个更大的趋势，各国在过去几年里提出或实施了一系列以首字母组合命名的国际税收新规。它们包括英国的转移利润税(DPT)、澳大利亚的跨国公司反避税法(MAAL)和印度的显著经济存在(SEP)测试，等等。与此同时，欧盟、西班牙、英国和其他几个国家也都认真思忖过数字服务税。\n\n**词汇注释与难句分析**\n\nunilateral a. 单方的，单边的\n\nmove n. 举措，行动\n\npropose v. 提议；建议\n\nprovision n. (法律文件的)规定，条款\n\n**语篇分析**\n\n第三至五段为第二部分，由法国单边意欲收取的数字服务税延及其他国家类似的单边举措，指出国际组织 OECD 的应对之策。\n\n第三段由法国延展至其他国家，明确国际税收大势。关键词：a much larger trend。\n\n①②句明确国际大趋势。两句借由 A is not just... Instead... is... “不仅仅是……而是……”所形成的取舍结构实现句间衔接。\n\n①句概述指出：征收数字服务税并非法国一国为增加税收收入而采取的单边行动。not just 指出此举并非法国一国所为，预示后文将列举其他国家类似举措；a unilateral move (unilateral 意为 done by one member of a group or an organization without the agreement of the other members “单方的”)则表明法国此举并未与针对对象(美国)协商一致，有其单方面意图；in need of revenue 进而明确其意图：通过向美国科技巨头征收数字服务税以弥补国内财政收入空缺。\n\n②句进一步解释：法国数字服务税只不过是国际税收大势一隅。Instead“相反，而，却”将①②句语义重点落于a much larger trend,明确法国数字服务税并非个例，而是国际大势所向；over the past few years 强调时间之短，an alphabet soup“首字母缩写大杂烩(a hodgepodge especially of initials)”(如下文提到的 DPT、MAAL,均为税收条款的首字母缩写)表明国际税收新规如雨后春笋般涌现、纷繁复杂、种类众多，两者共同强调国际大趋势雄劲、美国(科技巨头)税收压力巨大。\n\n③④句例证说明国际大趋势。“指代词(They)+列举词(included)”实现句群之间例证关联；At the same time 实现句群内部并列关联。\n\n③句列举国际层面即将出台或业已实施的全新国际税收新规。These 回指前句 new international tax provisions; to name but a few“略举几例”说明相关税收新规不胜枚举，此处所举乃冰山一角，复现②句a much larger trend“国际大势所向”之意。（编者注：DPT 自2015年4月正式实施，是防止利润从英国转移的重要措施，也被称为“谷歌税”；MAAL 意在禁止跨国企业使用转移利润的公司架构；SEP 指企业利用数字技术有规律地持续参与一国经济生活而不在该国拥有物理存在的情形。）\n\n④句补充指出欧盟及其他国家对数字服务税思量已久。have all seriously contemplated (seriously“严肃地，认真地”、contemplate“深思熟虑，沉思”)借现在完成时态明确欧盟及其他诸国早在法国出台数字税之前就已严肃而又认真地思考过该税，只不过尚未出台，深层暗示法国这一开创先河之举实际算是与其他国家“心有灵犀”，这些国家或许将在法国的带领下纷纷效仿。\n\n【深层解读】本段由单个国家层面上升至国际层面：取舍结构 A is not just... Instead... is... 将全文写作视角由“法国”转向“其他国家/全世界”,时间状语 At the same time 将“其他税收新规”与“数字服务税”并行，共同展示三个要点：(1)国际上各种税收新规层出不穷，法国实乃顺势而为，直接推出数字服务税；(2)数字服务税并非法国一国之欲，其他国家包括欧盟在内早已思量很久，法国之举很可能引爆各国数字税的出台；(3)各国各色税收新规以及极有可能如雨后春笋般涌现的数字服务税将使美国科技巨头面临繁重税负，他们将如何负重前行，亟待思考。\n\nIV ① These unilateral developments differ in their specifics, but they are all designed to tax multinationals on income and revenue that countries believe they should have a right to tax, even if international tax rules do not grant them that right. ② In other words, they all share a view that the international tax system has failed to keep up with the current economy.\n\n这些单边举措虽然细节各不相同，但却都意在对跨国公司的净收益、总收益征税，这些国家都认为他们有权利这么做，即使国际税收法则并没有赋予他们这种权利。换句话说，他们一致认为，国际税收体系跟不上当前经济发展步伐。\n\n**词汇注释与难句分析**\n\ndiffer v. 相异；有区别\n\nspecifics （复数）n. 详情；细节\n\ngrant v. (尤指正式地或法律上)允许\n\nThese unilateral developments differ in their specifics, but they are all designed to tax multinationals on income and revenue that countries believe they should have a right to tax, even if international tax rules do not grant them that right.\n\n功能注释：句子先借 but 将全句分为两个语义对比的分句：(各国单边举措)细节各不相同 VS 目标指向性一致；再借 even if 针对第二分句中“各国认为自己有此权利”形成让步转折：国际条例并未赋予此权。\n\n**语篇分析**\n\n第四段揭示国际大势背后的共同认知“国际税收体系滞后”。关键词：failed to keep up with。\n\n①句承上指出各国单边举措的目的，并说明该行为背后的认知。tax...income and revenue 呼应上段首句 in need of revenue，强调各国单边措施的真实目的：收税以提高本国财政收入；对比组 believe they should have a right VS do not grant them that right 一方面意在强调各国想向美国科技巨头征税的强烈意愿，另一方面意在借“各国不顾国际税收条例并未授权而强行推出单边税收新规”来暗示当前国际税收条例在各国眼中的地位，为下文指出各国眼中的国际税收体系作铺垫。\n\n②句具化认知：国际税收体系滞后，无法满足当前经济发展需要，需改进。In other words 表明本句意在解释说明上句认知(share a view 同义替换 believe)。all 强调所有这些采取单边举措的国家立场高度一致；has failed to keep up with 以现在完成时态明确当前国际税收体制与经济发展步伐之间早已脱钩，深层暗示国际税收体制亟待升级迭代。\n\n【深层解读】借助衔接词、语义复现词明确段落语义重心：本段先借 In other words 架起两句之间桥梁，明确两句间语义并列关联(②句解释①句);再借 believe 与 share a view 的语义复现明确两句语义重点落于采取单边举措的国家的共识：(1)各国有权对跨国公司的(总)收益收税；(2)当前国际税收体制滞后经济发展，需改革以迎合各国向跨国公司征税之需；不改革则唯有无视它、推出单边税收举措。"
+      },
+      {
+       "number": 38,
+       "stem": "The countries adopting the unilateral measures share the opinion that",
+       "score": 2,
+       "options": {
+        "A": "the current international tax system needs upgrading.",
+        "B": "redistribution of tech giants’ revenue must be ensured.",
+        "C": "tech multinationals’ monopoly should be prevented.",
+        "D": "all countries ought to enjoy equal taxing rights."
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n| 38. The countries adopting the unilateral measures share the opinion that ____. | 38. 采取单边措施的国家一致认同“____”这一观点。 |\n| --- | --- |\n| [A] the current international tax system needs upgrading | [A] 当前国际税收体系需升级 |\n| [B] redistribution of tech giants' revenue must be ensured | [B] 须确保对科技巨头的收入进行再分配 |\n| [C] tech multinationals' monopoly should be prevented | [C] 应防止跨国科技公司垄断 |\n| [D] all countries ought to enjoy equal taxing rights | [D] 所有国家应享有平等征税权 |\n\n[精准定位] 第四段末句指出：他们(回指“那些采取单边措施的国家”)一致认为国际税收体制未能跟上当前经济发展步伐，也即，当前国际税收体系需要升级，故[A]正确。\n\n[命题解密] 正确项[A]中 needs upgrading“需要改进改善”是对 has failed to keep up with the current economy“未能跟上经济步伐”的合理引申。\n\n[B]将①句“对跨国公司的净收益与总收益进行征税（tax）”偷换为“对收益进行再分配（redistribution）”;[C]将“对跨国公司进行征税”与常识“跨国科技公司的垄断问题”杂糅捏造而来，但文中并无任何信息支持；[D]根据①句“所有国家都没有被赋予征税权利，但他们认为自己有权利这么做”推断出“所有国家应被赋予征税权利”，但“平等（equal）”无任何信息支持。\n\n[技巧总结] 本题定位简单(由题干不难准确定位至第四段末句), 定位处信息单一而选项却指向分散，对于此类题可巧将选项关键信息(名词+动词)与定位处比对即可快速作答：[A] 中 the current international tax system 直接复现于定位句中，而 needs upgrading“需要升级(使其更有力、有效等)”则是对 has failed to keep up with“未能跟上步伐”所暗藏语义“需要加快步伐，需要改善”的同义转述，故正确。\n\nV ① In response to these many unilateral measures, the Organization for Economic Cooperation and Development (OECD) is currently working with 131 countries to reach a consensus by the end of 2020 on an international solution. ② Both France and the United States are involved in the organization's work, but France's digital services tax and the American response raise questions about what the future holds for the international tax system.\n\n为回应这些单边措施，经济合作与发展组织(OECD)目前正与131个国家合作，以期在2020年底前达成一个国际解决方案。法国和美国都已参与其中，但法国的数字服务税以及美国的反应却为国际税收体制的未来走向打上了问号。\n\n**词汇注释与难句分析**\n\nconsensus n. 一致的意见；共识\n\ninvolve v. (使)参加，加入\n\n**经典搭配**\n\nbe involved in... 参与……\n\nraise questions 提出疑问\n\n**语篇分析**\n\n第五段引出国际组织 OECD 的应对之策并说明其前景。关键词：① working... on an international solution; ② raise questions。\n\n①句介绍 OECD 应对之策：协同多国共同探索一个国际性解决方案。in response to 暗藏因果关联 “各国相继出台单边税收举措→OECD 携手多国共同探索一个国际性解决方案”; 131 countries、reach a consensus、by the end of 2020、international solution 形式上传递出 OECD 的雄心壮志，实则传递出这份雄心壮志要想达成难度之高：涉事国之多，利益关系之复杂，要想各方都满意，谈何容易。\n\n②句指出该国际性解决方案的前景不明。but 句内转折，其前以 are involved in 补充说明美法两国均已参与 OECD 当前工作，其后则借 raise questions 明确美法当前对峙行为(France's digital services tax 即指法国针对美国科技巨头的 GAFA 税，the American response 则指美已展开调查、可能对法发起贸易制裁)使得 OECD 当前工作的未来无可预测、国际税收体系前景充满不确定性。注：raise questions about what the future holds for... 直译即为“对‘……的未来是怎样’有了疑问”，可意译处理为“为……的未来打上了问号”，注意其中的 questions 指向“问题，疑问”而非“怀疑，质疑”。\n\n【深层解读】第三至五段为环环相扣式段落关联，按照“介绍当前行为(引出问题)→分析行为背后所折射出的认知(分析原因)→针对认知所反映出的问题而采取的行动(解决问题)”行文：三段从“法国征收 GAFA 税不是单个的单边行为”到“多个国家提出或实施了单边举措”，再到“当前国际税收体系需要改善升级以满足经济发展之需”，然后到“致力于一个国际解决措施”，最后再到“国际税收体系/国际解决措施的前景不确定”，展示出一副“各国争相出台针对跨国公司的单边税收举措，OECD 为寻求国际性解决方案而携手众国奋力前行，却驾驭不住美法两国当前纷争而陷入窘境”的尴尬图景。"
+      },
+      {
+       "number": 39,
+       "stem": "It can be learned from Paragraph 5 that the OECD’s current work",
+       "score": 2,
+       "options": {
+        "A": "is being resisted by US companies.",
+        "B": "is faced with uncertain prospects.",
+        "C": "needs to be readjusted immediately.",
+        "D": "needs to involve more countries."
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| 39. It can be learned from Paragraph 5 that the OECD's current work ____. | 39. 根据第五段可知，OECD 目前的工作____。 |\n| --- | --- |\n| [A] is being resisted by US companies | [A] 正受到美国公司的抵制 |\n| [B] is faced with uncertain prospects | [B] 面临不确定的前景 |\n| [C] needs to be readjusted immediately | [C] 需要立即重新调整 |\n| [D] needs to involve more countries | [D] 需要更多国家参与进来 |\n\n[精准定位] 第五段①句指出，OECD 正与全球各国合作，就数字经济税收问题寻求多边解决方案（结合上文可知 OECD 当前这项工作的实质是试图改革/升级滞后的国际税制，国际税制代表的是基于全球共识的多边解决方案，与单边举措相对），②句则指出，当前法国对美国公司的单边征税举措以及美国的回击给国际税制的未来走向打上了问号，综合可知 OECD 当前寻求多边解决方案的努力不一定成功，前景并不明朗。故[B]正确。\n\n[命题解密] 正确项 is faced with uncertain prospects 是对②句中 raise questions about what the future holds 的同义改写。\n\n[A]利用第三段“法国数字服务税实际反映了一个大趋势：许多国家都提出或实施了针对(美国科技巨头所提供的)数字服务的相关税收条款”以及本段①句“OECD 正与131个国家协力合作以期探索一个各国都能达成共识的国际税收体系”推断出“OECD 当前这项工作也是针对美国企业，美国企业势必抵制这项工作”,但与②句信息“美国也参与到 OECD 这项工作中(美国不可能针对本国企业)”相悖，且文中自始至终并未提到美国企业的看法或行为；[C]由②句 raise questions 扭曲而来，但它指向“前景疑问重重、十分不明朗”而非“被质疑，需重新调整”;[D]将②句列举对象“(项目所涉131个国家中包含)美国和法国”曲解为“目前只有这两个国家参与(还需更多国家参与)”。\n\n[技巧总结]本题解答关键在善于透过选项分析题点真实指向。四个选项都真实传递某种评判性信息，其中[A][B]指向当前问题，[C][D]指向改善方向。换而言之，本题考查作者对 OECD 当前工作的一个评价。而回归定位段发现，唯有末句 but 后 raise questions about what the future holds 传递作者观点态度，故而可将正确项聚焦在此，从而锁定与之无论是指向还是具体内容都相匹配的[B]。\n\nVI France's planned tax is a clear warning: Unless a broad consensus can be reached on reforming the international tax system, other nations are likely to follow suit, and American companies will face a cascade of different taxes from dozens of nations that will prove burdensome and costly. [436 words]\n\n法国拟征数字税是一个明确警告：除非能就改革国际税收体制达成广泛共识，否则其他国家可能会纷纷效仿，而美国企业将面临来自数十个国家一连串的不同税款，这些税费最后将会被证实是繁重且高昂的。\n\n**词汇注释与难句分析**\n\nprove v. 证明是；结果是\n\nburdensome a. 难以承担的；繁重的\n\ncostly a. 花钱多的；昂贵的\n\n**经典搭配**\n\na cascade of 一连串的\n\nfollow suit 效仿某人；照着做\n\n**语篇分析**\n\n第六段为第三部分，点评法国数字服务税的警示意义：各国数字税或将纷至沓来，美国科技企业负“税”前行。关键词：①a clear warning;②follow suit;③a cascade of different taxes。\n\n独句成段，冒号起分隔线作用，冒号前借判断句式 A is B 明确法国数字服务税的警示功能(a clear warning)；冒号后详细解释其具体警示内容，其中 Unless“除非……，如果不……”引出排除不良后果的条件：国际税收体制改革达成共识，即，众所支持的国际解决方案达成，但据由上段末句“前景疑问重重、十分不明朗”可知这一条件不易创建；句子重心实际落在主句 are likely to... and... (and 暗藏因果语义关联)，强调法国数字税的不良影响：其他国家将很可能纷纷效仿法国，美国企业将面临繁重税负；follow suit “效仿”、a cascade of“像瀑布般一连串的”、dozens of“许多”从数量上强调效仿国家之多，美国企业面临的数字税各异；burdensome and costly 明确税费高昂，将给美国企业带来沉重负担，进而影响其发展。\n\n【深层解读】本段独立句长且复杂，需借助标点符号、逻辑词、连接词、评注词进行理解：(1)借助冒号判断全段“总—分”关联：先总说警示作用，再分述警示内容；(2)借助 Unless 判断冒号后“条件—结果”关联：只有找到国际性解决方案，不良影响才能解除；(3)借助 and 明确“原因—结果”关联：多国效仿数字税→美国企业面临各式数字税；(4)借助 a cascade of、burdensome、costly 判断作者立意：法国数字税可能引发多国效仿，美国企业将不堪沉重税负。"
+      },
+      {
+       "number": 40,
+       "stem": "Which of the following might be the best title for this text?",
+       "score": 2,
+       "options": {
+        "A": "France leads the charge on Digital Tax",
+        "B": "France Is Confronted with Trade Sanctions",
+        "C": "France Demands a Role in the Digital Economy",
+        "D": "France Says “NO” to Tech Multinationals"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n| 40. Which of the following might be the best title for this text? | 40. 下列哪一项可能是本文的最佳标题？|\n| --- | --- |\n| [A] France Leads the Charge on Digital Tax | [A] 法国开创征收数字税的先河 |\n| [B] France Is Confronted with Trade Sanctions | [B] 法国面临贸易制裁 |\n| [C] France Demands a Role in the Digital Economy | [C] 法国要求在数字经济中占有一席之地 |\n| [D] France Says “No” to Tech Multinationals | [D] 法国对跨国科技公司说“不” |\n\n[精准定位] 文章首先引出事件：法国推出数字服务税法；随后就该事件展开分析：许多国家目前也已提出或实施了针对美国企业的国际税收新规，法国只是这国际大势中的一角而已；当前 OECD 正集结 131 个国家试图推出一个各国都达成一致的国际税收体系，但鉴于当前法国与美国的事态发展，目前该税收体系前景不明朗；最后升华主题：若是国家税收体系无法达成共识，其他国家都将纷纷效仿法国出台数字税，美国企业将面临巨额税费。可见，全文围绕法国开征数字税展开论述，[A] 是文意主旨的高度概括。\n\n[命题解密] [B]源自第二段末句，但选项错误有二：一、将文意所指“未来可能性事件(could lead to...)”偷换为“既定事实(Is Confronted with...),二、该信息为文内单次提及的细节信息，无法涵盖全篇；[C]将第四段首句“(包含法国在内的)实施单边税收措施的国家都认为自己有权对跨国企业的净收益、总收益征收税收”偷换为“法国要求在数字经济中占有一席之地”,而事实是“法国等国只想分得一杯羹”; [D]由首段末句“法国 GAFA 税主要针对美国跨国科技公司”扭曲出“法国对跨国科技公司说不”,实际上法国此举并非意在钳制/反抗跨国科技公司，而是想从跨国科技公司收益中分得一杯羹(获取财政收入)。\n\n[技巧总结] 文章标题题的解答关键是把握“正确项涵盖全文核心信息，干扰项虽可能涉及部分信息却偏离重心”这一原则。而全文语义重心通常可借首末段加以把握。本文首句指出法国欲征数字服务税，后文均围绕此举展开论述，文末句指出法国举措可能引发其他诸国效仿，[A]中 Leads the Charge on Digital Tax 既涵盖文首句中的 passed a digital services tax(收数字税)又传递文末句中的 France's planned tax is a clear warning...other nations are likely to follow suit(其他国家纷纷效仿法国的开先河之举)，故正确。[B][C][D]虽然主体对象都是法国，但所涉关键信息 Confronted with Trade Sanctions、Demands a Role in the Digital Economy、Says “No” to Tech Multinationals 均偏离本文论述焦点：征收数字服务税。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part B",
+   "instructions": "Directions:\nRead the following text and answer the questions by choosing the most suitable\nsubheading from the list A-G for each of the numbered paragraphs (41-45). There are\ntwo extra subheadings. Mark your answers on the ANSWER SHEET. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "matching",
+     "passage": [
+      "In a social situation, eye contact with another person can show that you are\npaying attention in a friendly way. But it can also be antagonistic such as when a\npolitical candidate turns toward their competitor during a debate and makes eye\ncontact that signals hostility.Here’s what hard science reveals about eye contact:",
+      "{{41}}",
+      "We know that a typical infant will instinctively gaze into its mother’s eyes, and\nshe will look back. This mutual gaze is a major part of the attachment between\nmother and child. In adulthood, looking at someone else in a pleasant way can be a\ncomplimentary sign of paying attention. It can catch someone’s attention in a\ncrowded room, “Eye contact and smiles” can signal availability and confidence, a\ncommon-sense notion supported in studies by psychologist Monica Moore.",
+      "{{42}}",
+      "Neuroscientist Bonnie Auyeung found that the hormone oxytocin increased the\namount of eye contact from men toward the interviewer during a brief interview when\nthe direction of their gaze was recorded. This was also found in high-functioning men\nwith some autistic spectrum symptoms, who may tend to avoid eye contact. Specific\nbrain regions that respond during direct gaze are being explored by other researchers,\nusing advanced methods of brain scanning.",
+      "{{43}}",
+      "With the use of eye-tracking technology, Julia Minson of the Harvard Kennedy\nSchool of Government concluded that eye contact can signal very different kinds of\nmessages, depending on the situation. While eye contact may be a sign of connection\nor trust in friendly situations, it’s more likely to be associated with dominance or\nintimidation in adversarial situations. “Whether you’re a politician or a parent, it\nmight be helpful to keep in mind that trying to maintain eye contact may backfire if\nyou’re trying to convince someone who has a different set of beliefs than you,”said\nMinson.",
+      "{{44}}",
+      "When we look at a face or a picture, our eyes pause on one spot at a time, often\non the eyes or mouth. These pauses typically occur at about three per second, and the\neyes then jump to another spot, until several important points in the image are\nregistered like a series of snapshots. How the whole image is then assembled and\nperceived is still a mystery although it is the subject of current research.",
+      "{{45}}",
+      "In people who score high in a test of neuroticism, a personality dimension\nassociated with self-consciousness and anxiety, eye contact triggered more activity\nassociated with avoidance,according to the Finnish researcher Jari Hietanen and\ncolleagues. “Our findings indicate that people do not only feel different when they\nare the centre of attention but that their brain reactions also differ.” A more direct\nfinding is that people who scored high for negative emotions like anxiety looked at\nothers for shorter periods of time and reported more comfortable feelings when others\ndid not look directly at them."
+     ],
+     "options": {
+      "A": "Eye fixations are brief",
+      "B": "Too much eye contact is instinctively felt to be rude",
+      "C": "Eye contact can be a friendly social signal",
+      "D": "Personality can affect how a person reacts to eye contact",
+      "E": "Biological factors behind eye contact are being investigated",
+      "F": "Most people are not comfortable holding eye contact with strangers",
+      "G": "Eye contact can also be aggressive."
+     },
+     "questions": [
+      {
+       "number": 41,
+       "score": 2,
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n41. [答案] C [精解] 第二段首两句指出，婴儿与母亲的对视是母子依恋关系的重要组成部分。③④句指出成年后愉快地注视他人可以释放友好的社交信号。⑤句概括指出“目光接触可以传达交流意愿和信任”这一常识性认识已得到心理学家研究证实。[C] Eye contact can be a friendly social signal 是对段落主要内容的恰当概括，be a friendly social signal 概括 be a complimentary sign of paying attention(向对方表明你在欣赏地关注他/她); catch someone's attention in a crowded room(在拥挤的人群中引起某人的注意); signal availability and confidence(向对方表明你信任他/她、愿意与之交流)等所体现的“强大的社交信号功能”。\n\n[干扰项设置] [B] 中 instinctively 复现本段词语，有一定干扰性，但 rude、too much 在本段中丝毫找不到对应信息 (该段并未提及过多目光接触，以及被冒犯之感), 故可排除。"
+      },
+      {
+       "number": 42,
+       "score": 2,
+       "answer": "E",
+       "explanation": "> **答案：** E\n\n42. [答案] E [精解] 先浏览第三段，根据 Neuroscientist、the hormone oxytocin、Specific brain regions(这些都属“生物学”范畴)基本上可以将选项锁定到[E] Biological factors behind eye contact are being investigated。随后分析该段内容：①②句介绍一位神经科学家的发现：无论是对于“面试中的正常男性”还是“通常避免目光接触的自闭症患者这一特殊群体”, 催产素都能增加目光接触 (This = that the hormone oxytocin increased the amount of eye contact)。③句指出其他研究者正在探究直接注视他人时产生反应的特定大脑区域。可见段落确为介绍“目光接触背后的生物学因素”的相关研究，确定[E]无误，段中 found、explored 恰对应选项中 investigated。"
+      },
+      {
+       "number": 43,
+       "score": 2,
+       "answer": "G",
+       "explanation": "> **答案：** G\n\n43. [答案] G [精解] 第四段首句指出研究结论：目光接触视情境不同可传达不同信息。第二句以 While...it's more likely 结构将语义重点落在“敌对情形”: 目光接触更可能传达的是“控制”或“恫吓”(dominance or intimidation)。末句提出建议：谨记在这些情形下，设法保持目光接触可能会事与愿违。由此可见，本段论述针对的是目光接触传递“敌意、攻击、好斗”信号的情形，[G] 为恰当选项，aggressive 概括段中 dominance or intimidation。\n\n[干扰项设置] [B] Too much eye contact is instinctively felt to be rude 中，too much eye contact 和 rude 可分别对应本段中 trying to maintain eye contact may backfire 和 dominance or intimidation, 因此具有极强的干扰性。但整体理解可发现：[B] 强调的是“过多目光接触引起的个人感受”, 而段落针对的是“目光接触传达敌意的情景”; 且选项中 Too much eye contact 泛指“一切情形”, 而段中 trying to maintain eye contact may backfire 局限于“敌对情形”, 故可排除。"
+      },
+      {
+       "number": 44,
+       "score": 2,
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n44. [答案] A [精解] 第五段主要阐述“在一张面孔或照片上定位一系列重要点”的过程，描述过程中作者借助“具体数据的使用（about three per second）”、“动词的恰当选用（spot、pauses、jump）”、“类比的形象使用（like a series of snapshots）”等说明这一过程“非常快速”。[A] 正确，eye fixations 对应 our eyes pause、These pauses。"
+      },
+      {
+       "number": 45,
+       "score": 2,
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n45. [答案] D [精解] 第六段①句指出神经质程度越高的人越倾向于避免与他人目光接触。②句进一步指出不同个性的人成为关注焦点时，无论是心理感受还是大脑反应都大为不同。③句进而指出负面情绪高的人注视他人的时间更短，且自己不被他人直视时更自在。可见选项[D]可以作为该段理想的小标题。Personality 原词复现，且概括 self-consciousness、anxiety、negative emotions 等人格特质。\n\n[干扰项设置][F]复现段末 comfortable 一词，有一定干扰。但该句含义为“负面情绪高的人(people who scored highly for negative emotions)在不被他人(others)直视时感到更自在”,而选项是“大多数人(Most people)在和陌生人(strangers)目光接触时会不自在”,含义相差巨大，可排除。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part C",
+   "instructions": "Part C Directions:\nRead the following text carefully and then translate the underlined segments into\nChinese. Your translation should be written neatly on the ANSWER SHEET. (10\npoints)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "translation_sentences",
+     "passage": [
+      "Following the explosion of creativity in Florence during the 14th century known as the Renaissance, the modern world saw a departure from what it had once known. It turned from God and the authority of the Roman Catholic Church and instead favoured a more humanistic approach to being. Renaissance ideas had spread throughout Europe well into the 17th century,with the arts and sciences flourishing extraordinarily among those with a more logical disposition. (46) <u>with the Church’s teachings and ways of thinking being eclipsed by the Renaissance,the gap between the Medieval and modern periods had been bridged, leading to new and unexplored intellectual territories.</u>",
+      "During the Renaissance, the great minds of Nicolaus Copernicus, Johannes Kepler and Galileo Galilei demonstrated the power of scientific study and discovery. (47) <u>Before each of their revelations, many thinkers at the time had sustained more ancient ways of thinking, including the geocentric view that the Earth was at the centre of our universe.</u> Copernicus theorized in 1543 that all of the planets that we knew of revolved not around the Earth, but the Sun, a system that was later upheld by Galileo at his own expense. Offering up such a theory during a time of high tension between scientific and religious minds was branded as heresy, and any such heretics that continued to spread these lies were to be punished by imprisonment or even death.",
+      "(48) <u>Despite attempts by the Church to suppress. this new generation of logicians and rationalists, more explanations for how the universe functioned were being made at a rate that the people could no longer ignore.</u>It was with these great revelations that a new kind of philosophy founded in reason was born.",
+      "The Church’s long-standing dogma was losing the great battle for truth to rationalists and scientists. This very fact embodied the new ways of thinking that swept through Europe during most of the 17th century. (49) <u>As many took on the duty of trying to integrate reasoning and scientific philosophies into the world, the Renaissance was over and it was time for a new era - the Age of Reason.</u>",
+      "The 17th and 18th centuries were times of radical change and curiosity, Scientific method, reductionism and the questioning of Church ideals was to be encouraged, as were ideas of liberty, tolerance and progress. (50) <u>Such actions to seek knowledge and to understand what information we already knew were captured by the Latin phrase ‘sapere aude’ or ‘dare to know’,</u> after Immanuel Kant used it in his essay An Answer to the Question: What is Enlightenment?”. It was the purpose and responsibility of great minds to go forth and seek out the truth, which they believed to be founded in knowledge."
+     ],
+     "questions": [
+      {
+       "number": 46,
+       "stem": "with the Church’s teachings and ways of thinking being eclipsed by the Renaissance,the gap between the Medieval and modern periods had been bridged, leading to new and unexplored intellectual territories.",
+       "score": 2,
+       "answer": "随着教会的教义和思维模式因文艺复兴而暗淡无光，中世纪和现代两个历史时期之间架起了桥梁，进而通向了崭新和未探索过的知识领域。",
+       "explanation": "**真题精解**\n\n> **答案：** With the Church's teachings and ways of thinking being eclipsed by the Renaissance, (0.5分)//the gap between the Medieval and modern periods had been bridged, (1分)//leading to new and unexplored intellectual territories. (0.5分)\n\n(46) With the Church's teachings and ways of thinking being eclipsed by the Renaissance, (0.5分)//the gap between the Medieval and modern periods had been bridged, (1分)//leading to new and unexplored intellectual territories. (0.5分)\n\n本题考核的知识点是：with 复合结构、被动语态、现在分词结构。\n\n[解题步骤]\n\n**1. 句法分析**\n\n①主干：the gap between the Medieval and modern periods had been bridged\n\n**2. 句子注释**\n\n本句实为一个带有 with 复合结构以及 v-ing 非谓语结构的被动式简单句，关键在把握三个部分的翻译。\n\n(1)嵌套被动态 being eclipsed 的 with 复合结构的翻译：首先，可将表伴随的 with 复合结构在脑子里还原成 when/while/as 等连接的时间状语从句之后再译出；接着，根据该部分意在说明文艺复兴运动对教会的教义和思维方式的影响，判断 eclipse 应舍其本义“遮住……的光”取比喻义“使……暗淡无光”;随后，可借汉语中一些表被动义的词语(如“遭”“受”“被”“由”“因……而……”“为……所……”)将 being eclipsed by the Renaissance 译为“因文艺复兴而暗淡无光”。\n\n(2) 现在分词结构 leading to... 的翻译：首先，根据 new 所传递出的“从无到有”之意，将 leading to “导致、造成”调整为“通向”; 然后，根据该部分的语义重点“强调教会影响衰落、时代差异弥合的继发性后果”, 可增译中文连词“进而”引出这一结果，将整个部分处理为“进而通向了……崭新领域”。\n\n(3) 主干被动句式 the gap... has been bridged 源于 bridge the gap between A and B“消除 A 和 B 间的隔阂/鸿沟/分歧，架起 A 和 B 间的桥梁”，其后虽未出现“by+施动者”，但根据 with 结构所传递出的、与主句间的因果语义关联，可知其后实际隐藏“by it(it 指代 with 所述内容)”，又因汉语中少被动态多主动态，故可将主干译为“……之间架起了桥梁”。\n\n**3. 词义确定**\n\n(1) teaching 用作复数形式时，通常指向“(道德、宗教、政治等方面的)教义，学说”。\n\n(2) church 与定冠词 the 相连并大写首字母组成 the Church, 指向机构，而根据其前 the Roman Catholic Church 可知它指“(罗马天主教)教会”。\n\n**4. 全句整理，得出译文**\n\n随着教会的教义和思维模式因文艺复兴而暗淡无光，中世纪和现代两个历史时期之间架起了桥梁，进而通向了崭新和未探索过的知识领域。\n\nⅡ During the Renaissance, the great minds of Nicolaus Copernicus, Johannes Kepler and Galileo Galilei demonstrated the power of scientific study and discovery. (47) Before each of their revelations, many thinkers at the time had sustained more ancient ways of thinking, including the geocentric view that the Earth was at the centre of our universe. Copernicus theorized in 1543 that all of the planets that we knew of revolved not around the Earth, but the Sun, a system that was later upheld by Galileo at his own expense. Offering up such a theory during a time of high tension between scientific and religious minds was branded as heresy, and any such heretics that continued to spread these lies were to be punished by imprisonment or even death.\n\n文艺复兴时期，尼古拉·哥白尼、约翰尼斯·开普勒和伽利略·伽利雷这些伟人向我们展示了科学研究和发现的力量。(47)在他们的每项发现之前，当时的许多思想家一直沿袭着更加古老的思维模式，其中包括认为地球处于宇宙中心的地心说。1543年，哥白尼提出一个理论，称我们所知的所有行星都不是围绕地球旋转，而是围绕太阳旋转，伽利略后来为支持这一理论体系付出了极大代价。在一个科学家与宗教人物水火不相容的年代提出这么一个理论被视为异端邪说，而任何继续散播这些“谎言”的异端分子都将被监禁甚至处以死刑。\n\n**词汇注释与亮点表达**\n\ndemonstrate v. 证明；示范\n\nrevelation n. 被暴露的真相；披露\n\ntheorize v. 从理论上说明；形成理论；理论化\n\nbrand v. 给……加上（往往是不公正的）恶名\n\nheresy n. 宗教异端；信奉邪说；离经叛道的信念（或观点）\n\ngeocentric view（地心说）\n\nat one's own expense “以本人为代价，在本人受损害的情况下”。如：There was a good deal of laughter at my expense. 我被大大嘲笑了一番。\n\nbe branded as...“被冠以……之名”。如：Because of one minor offence he was branded as a common criminal. 由于一次轻微的过错，他蒙受了普通刑事犯的污名。\n\n**语篇分析**\n\n第二至四段为第二部分，通过阐述文艺复兴时期科学伟人与宗教势力之间的对峙与终局来强调该时期的巨大历史意义。\n\n第二段明确科学伟人与宗教势力之间的对峙状态。\n\n第一、二句由科学伟人贡献延及旧时思想家的顽固，暗示两者之间的思想对峙。the great minds demonstrated...、Before each of their revelations, many thinkers at the time had sustained... 实现两句间语义关联“科学伟人历史贡献→旧时思想家顽固思想”。第一句中 the great minds 与 Nicolaus Copernicus,... Galilei 同指 (A of B 为同位语结构，类似于 the city of Beijing); demonstrated“证明，证实，说明”、power“力量；影响力”两词表明科学伟人借助科学实验等对事实真相给出了确凿证据，而这些科学真理反过来又给该时代的人们带来了重大影响。第二句 Before... 形式上像是在讲述事件发展次序“事实真相推出之前，许多思想家还在秉持旧有思想”，实际上意在透露科学伟人揭露事实真相的艰辛“新科学思想需要突破旧有思想重重包围方可赢得大众支持”；其中 many 以旧时思想持有者之多反衬说明科学伟人所遇阻力之大，more ancient 明确那个时代思想家们思想的因循守旧、顽固不化。\n\n第三、四句实际承接第二句末旧思想“地心说”，详细阐释新思想“日心说”所遇阻力，从而明确科学伟人与宗教势力之间的对峙状态。theorised、offering up such a theory 同义复现，实现两句间并列语义关联。第三句中 theorised...later upheld by...at his own expense 串联起“日心说”从理论提出到后来获得支持的过程，并说明支持这一理论所需付出的沉重代价。伽利略因支持日心说受到宗教审判，被判终身软禁，最终于 1642 年在阿尔切特里的住所去世，并非“死于牢狱”。第四句中 high tension 表明科学界与宗教界之间水火不容的对峙状态；heresy、punished by imprisonment or even death 分别借助“科学理论日心说在宗教界人士眼里被视为‘异端邪说’”以及“科学家可能因呈现科学真相而受到监禁甚至死亡的惩罚”，突出强调当时宗教势力的强大和新思想传播所面临的巨大阻力。其中 even 意为“甚至”，凸显惩罚之重。"
+      },
+      {
+       "number": 47,
+       "stem": "Before each of their revelations, many thinkers at the time had sustained more ancient ways of thinking, including the geocentric view that the Earth was at the centre of our universe.",
+       "score": 2,
+       "answer": "在他们的每项发现之前，当时的许多思想家一直沿袭着更加古老的思维模式，其中包括认为地球处于宇宙中心的地心说。",
+       "explanation": "**真题精解**\n\n> **答案：** Before each of their revelations, (0.5)// many thinkers at the time had sustained more ancient ways of thinking, (1)// including the geocentric view that the Earth was at the centre of our universe. (0.5)\n\n(47) Before each of their revelations, (0.5)// many thinkers at the time had sustained more ancient ways of thinking, (1)// including the geocentric view that the Earth was at the centre of our universe. (0.5)\n\n本题考核的知识点是：时间状语、including 结构、同位语从句。\n\n**解题步骤**\n\n**1. 句法分析**\n\n**2. 句子注释**\n\n本句含有一个 before 时间状语以及包含同位语从句的 including 结构，关键在把握这两个部分的翻译。\n\n(1) 时间状语的处理：首先，应将其中的代词还原，即，将 their revelations 还原为 revelations of the great minds, 指向那些伟人所揭示的科学发现；然后将 before 结构还原为一个类似于表时间的状语从句，如 before the great minds revealed each of their revelations, 从而将其处理为“在他们的每项发现之前”。\n\n(2) including 结构的处理：可根据汉语语序直接处理为“包含……”，其中同位语从句由于较为简洁，可将其放在所说明的名词 the geocentric view 前面，相当于前置的修饰语，使用汉语中定语标志词“的”，即处理为“地球处于宇宙中心的地心说”。\n\n**3. 词义确定**\n\n(1) revelation 作名词时，既指物“被揭露的真相，(惊人的)新发现”,亦指动作“揭露，披露”,但鉴于其复数形式，可初步判断该词指向前者；随后根据上文“哥白尼、开普勒、伽利略展示了科学研究发现的伟大力量”、下文例子“哥白尼提出了一个与当时传统思想‘地心说’截然不同的‘日心说’,伽利略甚至为此付出了自己生命”,可进一步判断这里指向“科学伟人们的科学发现”。\n\n(2) sustain 本义为“维持，保持”，此处据由其前主语 thinkers“思想家”及其后宾语 ancient ways of thinking“古老的思维模式”可判断它用以说明当时思想家们的因循守旧，故而处理为“沿袭”。\n\n(3) the geocentric view 可能不懂，但据由其后 that 从句所做的补充说明，可推测它指向“地心说”。\n\n**4. 全句整理，得出译文**\n\n在他们的每项发现之前，当时的许多思想家一直沿袭着更加古老的思维模式，其中包括认为地球处于宇宙中心的地心说。\n\nIII(48) Despite attempts by the Church to suppress this new generation of logicians and rationalists, more explanations for how the universe functioned were being made at a rate that the people could no longer ignore. It was with these great revelations that a new kind of philosophy founded in reason was born.\n\n(48) 尽管教会屡屡打压这些新一代的逻辑学家和理性主义者，但关于宇宙运行原理的阐释还是不断涌现，其速度让世人再也无法视而不见。正是由于这些伟大发现，一种建立在理性基础之上的新哲学诞生了。\n\n**词汇注释与亮点表达**\n\nattempt n. 企图；尝试\n\nsuppress v. 镇压；压制\n\nlogician n. 逻辑学家；逻辑学研究者\n\nrationalist n. 理性主义者；唯理论者\n\nphilosophy n. 哲学；哲学体系；思想体系\n\n**经典搭配**\n\na new generation of...新一代……\n\nat a rate（以……的速度）\n\nat a rate“以……的速度”。如：New diet books appear at a rate of nearly one a week. 新的饮食类书籍差不多一周出一本。\n\n**语篇分析**\n\n第三段描述科学思想不顾宗教迫害的燎原之势。\n\n第一句明晰这种燎原之势。Despite 明确句内让步转折逻辑：先承认教会势力强力镇压，后强调科学势力顽强生命力；attempts (an act of trying to do sth, especially sth difficult, often with no success“企图，试图，尝试”) 传递教会势力阴暗心理“竭力镇压以维护自身权威形象”之余，更是暗示“这种努力、这种尝试并没有得逞”; new generation 以 new 传递“新生力量威猛(初生牛犊不怕虎)”、以 generation 传递“新生力量体量巨大，合力无穷”, 共同描绘出科学势力“强劲且获众多支持、其势头威猛、合力无穷”的形象；at a rate... could no longer ignore 则以“新思想呈递速度之快”进一步凸显其强大生命力及强劲发展势头。\n\n第二句指出这种燎原之势的影响：一种基于理性的新哲学诞生。强调句型 It was... that... 意在强调“因(with‘因为，由于’传递因果关联)”,即，意在凸显“伟大科学发现(these great revelations 回指逻辑学家和理性主义者们不顾宗教势力镇压呈递出来的诸多有如哥白尼日心说之类的科学发现)”的重大影响：基于理性的新哲学/理性主义(a new kind of philosophy founded in reason 实际指向“启蒙运动时期的理性主本题考核的知识点是：让步状语、被动语态、宾语从句、定语从句。"
+      },
+      {
+       "number": 48,
+       "stem": "Despite attempts by the Church to suppress. this new generation of logicians and rationalists, more explanations for how the universe functioned were being made at a rate that the people could no longer ignore.",
+       "score": 2,
+       "answer": "尽管教会屡屡打压这些新一代的逻辑学家和理性主义者，但关于宇宙运行原理的阐释还是不断涌现，其速度让世人再也无法视而不见。",
+       "explanation": "> **答案：** Despite attempts by the Church to suppress this new generation of logicians and rationalists, (1分)// more explanations for how the universe functioned were being made at a rate that the people could no longer ignore. (1分)\n\n(48) Despite attempts by the Church to suppress this new generation of logicians and rationalists, (1分)// more explanations for how the universe functioned were being made at a rate that the people could no longer ignore. (1分)\n\n**解题步骤**\n\n**1. 句法分析**\n\n①主干：more explanations for how the universe functioned were being made ②让步状语(Despite attempts to... 结构): Despite attempts by the Church to suppress this new generation of logicians and rationalists\n\n**2. 句子注释**\n\n(1)让步结构中嵌套“by+施动者”以及动词不定式，处理起来看似比较费劲，实际只要按照汉语语序处理为动宾结构即可，即，“尽管教会屡屡……”。\n\n**3.词义确定**\n\n(1) attempt 这里虽然作复数名词“努力，尝试，企图”，但鉴于其后“by+施动者+to do sth”，将其转译为动词“……屡屡……”更符合汉语表达习惯。\n\n(2) explanation 本义为“解释，阐释，理由”,根据上下文“科学伟人们(即指逻辑学家和理性主义者们)针对宇宙运转方式进行了科学探索”可推知此处取“阐释(阐明陈述并解释)”之义更为合理。\n\n(3) being made 直译为“正在被生产/被制造”，文中用以描述科学家们呈递出各种科学阐释，再结合其后 at a rate... 所传递的呈现速度之快，可将二者整体处理为“不断涌现”。\n\n**4. 全句整理，得出译文**\n\n尽管教会屡屡打压这些新一代的逻辑学家和理性主义者，但关于宇宙运行原理的阐释还是不断涌现，其速度让世人再也无法视而不见。\n\nIV The Church's long-standing dogma was losing the great battle for truth to rationalists and scientists. This very fact embodied the new ways of thinking that swept through Europe during most of the 17th century. (49) As many took on the duty of trying to integrate reasoning and scientific philosophies into the world, the Renaissance was over and it was time for a new era—the Age of Reason.\n\n在这场为真理而战的伟大斗争中，存在已久的教会教条输给了理性主义者和科学家。这一事实体现了于17世纪大部分时间里席卷欧洲的新思维方式。（49）当很多人承担起试图将理性思维和科学思想融入大千世界这一责任时，文艺复兴即告结束，新的时代——理性时代——从此开启。\n\n**词汇注释与亮点表达**\n\nembody v. 体现，代表(思想或品质)\n\nway of thinking (思维方式)\n\nintegrate v. (使)合并；(使)融入群体\n\ntake on（承担；决定做；同意负责）\n\n**经典搭配**\n\n**语篇分析**\n\n第四段指出科学思想与宗教势力斗争的终局，并分析其原因和影响。\n\n第一句明示终局：理性主义者和科学家取胜。long-standing dogma (dogma 意为 a belief or set of beliefs held by a group or organization, which others are expected to accept without argument)、losing the great battle for truth (great 意为 important or having a lot of influence) 所传递的真实语意为：占据社会主导地位甚久、影响时间甚长、势力甚为顽固而且十分专断的教会教条终究敌不过为真理而战的理性主义者及科学家们，这场伟大的争斗终将发挥其重大历史影响，为后文介绍其影响蓄势。\n\n第二句分析原因：席卷欧洲的新思想助力。very“正是，恰好的”起强调作用，明确 This very fact 指向“教会教条输给理性主义者和科学家”这一事实；embodied 架起“教会教条败北”与“文艺复兴时期新思想(the new ways of thinking that...of the 17th century 实际指向文艺复兴时期的新思维方式/新思想)”之间的语义关联：前者印证后者，实际意在强调两者因果关联：文艺复兴时期新思想的强大生命力使得顽固而专断的教会势力坍塌。\n\n第三句总结这场角逐的终极影响：开辟了理性时代的纪元。As 从句既表时间、亦暗藏因果“众人肩挑理性主义、科学信条大旗→文艺复兴结束，理性时代到来”,深层暗示文艺复兴运动结束时的思想运动状态：由科学伟人们对思想的推动过渡到多数人试图将理性思维和科学思想融入到整个社会常态当中；many 以数量占比优势强调理性思维与科学思想已居于神权思想之上。"
+      },
+      {
+       "number": 49,
+       "stem": "As many took on the duty of trying to integrate reasoning and scientific philosophies into the world, the Renaissance was over and it was time for a new era - the Age of Reason.",
+       "score": 2,
+       "answer": "当很多人承担起试图将理性思维和科学思想融入大千世界这一责任时，文艺复兴即告结束，新的时代从此开启。",
+       "explanation": "**真题精解**\n\n> **答案：** As many took on the duty of trying to integrate reasoning and scientific philosophies into the world, (1分)// the Renaissance was over and it was time for a new era. (1分)\n\n(49) As many took on the duty of trying to integrate reasoning and scientific philosophies into the world, (1分)// the Renaissance was over and it was time for a new era. (1分)\n\n本题考核的知识点是：时间状语从句、固定搭配、并列结构。\n\n[解题步骤]\n\n**1. 句法分析**\n\n①主句：the Renaissance was over and it was time for a new era\n\n(主语1) (系表结构1) (连词) (主语2) (系表结构2)\n\n**2. 句子注释**\n\n(1)本句不存在复杂嵌套关系，翻译起来相对简单。As 时间状语从句、and 连接的两个并列句通常而言可直接按正常语序翻译，前者译作“随着/当……时”,后者译作“文艺复兴结束，是时候开启一个崭新的时代了”。但后者直译稍显拗口，it was time 转译为“……从此开启”。最后再结合 and 暗藏的先后、因果关联，将两分句转译为“……即告结束，……从此开启”就显得很顺畅。\n\n(2) the duty of...的翻译：整体可以处理为汉语“……这一责任”, 其中嵌套固定搭配 try to sth“试图做某事”、integrate A into B“将 A 融入 B”, 所以该部分可处理为“试图将 A 融入 B 这一责任”。\n\n**3. 词义确定**\n\n(1) take on the duty 为固定搭配“肩负/承担起……的责任”。\n\n(2) reasoning 与 scientific philosophies 并列，实际呼应首句 rationalists and scientists, 故分别相应处\n\n理为“理性思维”和“科学信念/思想（philosophy 用作复数时，常用以表达思想、信念、态度等）”。\n\n**4. 全句整理，得出译文**\n\n当很多人承担起试图将理性思维和科学思想融入大千世界这一责任时，文艺复兴即告结束，新的时代从此开启。\n\nV The 17th and 18th centuries were times of radical change and curiosity. Scientific method, reductionism and the questioning of Church ideals was to be encouraged, as were ideas of liberty, tolerance and progress. (50) Such actions to seek knowledge and to understand what information we already knew were captured by the Latin phrase ‘sapere aude’ or ‘dare to know’, after Immanuel Kant used it in his essay “An Answer to the Question: What is Enlightenment?”. It was the purpose and responsibility of great minds to go forth and seek out the truth, which they believed to be founded in knowledge. [446 words]\n\n17、18世纪是激进变革、求知若渴的时代：鼓励科学方法、还原论以及对教会理念的质疑，推崇自由、宽容及进步的思想。(50)拉丁语短语“sapere aude”即“敢于求知”，准确地概括了这类寻求知识和理解已知信息的行为。此前伊曼纽尔·康德在其论文《答“何谓启蒙”之问题》中使用了这个词。对真理的求索是伟人的目的和责任，他们相信真理建立在知识之上。\n\n**词汇注释与亮点表达**\n\nreductionism n. 简化论；还原论\n\nliberty n. 自由\n\ntolerance n. 忍受；宽容\n\ncapture v. (用图画、文章、电影等准确地)\n\n表达，刻画，描述\n\n**经典搭配**\n\ngo forth (向前去)\n\nseek out（寻找到，找出）\n\n**语篇分析**\n\n第五段为第三部分，通过阐述文艺复兴运动结束之后启蒙运动时期理性主义思想来强调该时期的终极意义“开辟了理性主义时代新篇章”。\n\n第一句承上“文艺复兴结束，新时代到来”概述17-18世纪时代特征。A is B判断句式给17-18世纪定性：激进变革、求知若渴的时代；radical 表明该时期变革的彻底与根本（注：文艺复兴本质是热爱人和自然，把宗教放在次要地位，以人文主义为指导思想，反对基督教神学世界观，追求现世的幸福。启蒙运动则更进一步，它高举理性的旗帜，旨在反对封建的王权、神权和特权，追求政治平等和经济自由。）\n\n第二句细说该时代倡导/追捧内容。... was to be encouraged, as were (to be encouraged)... 借由 sth be to be done 被动式将被鼓励之事置于句子主语位置，意在强调该时期所推崇的理念；scientific、reductionism、questioning of Church ideals、ideas of liberty, tolerance and progress 共同展示了该时期“推崇科学方法、质疑教会理念、崇尚自由/宽容/进步思想”的形象。注：questioning 此处意表“质疑”，ideals 本义指“理想”，这里指向“天主教会所秉持的理念/标准”。\n\n第三句援引拉丁语、康德用语进一步强化该时期特点：sapere aude“敢于求知”的年代。Such actions to seek... and to... knew 形式上是回指功能，实际上是将第一、二句所描述的该时期所推崇的理念高度概化为“探索新知、了解已知”;capture 此处为熟词僻义，意在表明拉丁短语 sapere aude 对于上述“探索新知、了解已知”这种行为描述得恰如其分、淋漓尽致；而 after 一词则借其时间次序关联暗藏因果语义：随着伟大思想家康德在其论著《答“何谓启蒙”之问题》中对该词的运用，该词逐渐被广泛用于描述探索未知、了解已知诸如此类行为，渐次变为启蒙时代理性主义思想运动的代名词；论文名“An Answer to the Question: What is Enlightenment?”看似无实质性意义，实际却暗藏玄机，深层表明该时期属于启蒙运动时期(即继文艺复兴时期之后的又一个重大思想解放运动时期)。\n\n第四句以该时代伟人职责再一次明确该时期求知若渴的社会风气。句内 It 为形式主语，真正主语为 to... 不定式结构，功能有二：一、避免头重脚轻，二、将 purpose and responsibility 置于前面用以强调伟本题考核的知识点是：不定式结构作定语、宾语从句、被动语态。"
+      },
+      {
+       "number": 50,
+       "stem": "Such actions to seek knowledge and to understand what information we already knew were captured by the Latin phrase ‘sapere aude’ or ‘dare to know’,",
+       "score": 2,
+       "answer": "拉丁语短语“sapere aude”即“敢于求知”，准确地概括了这类寻求知识和理解已知信息的行为。",
+       "explanation": "> **答案：** Such actions to seek knowledge and to understand what information we already knew (1 分) // were captured by the Latin phrase ‘sapere aude’ or ‘dare to know’, (1 分)\n\n(50) Such actions to seek knowledge and to understand what information we already knew (1 分) // were captured by the Latin phrase ‘sapere aude’ or ‘dare to know’, (1 分)\n\n**解题步骤**\n\n**1. 句法分析**\n\nSuch actions to seek... and to understand... were captured by the... or...\n\n**2. 句子注释**\n\n(1)本句难点在于主语比较复杂，其后含有一个嵌有宾语从句的不定式定语，翻译起来比较费劲，但记住一条基本原则“后置定语通常可以译作‘的’字结构，宾语从句通常按照正常语序译出”,也即该主语部分可以译为“这种寻求知识和理解已知信息的行为”。\n\n(2)被动语态通常转译为主动语态，故...were captured by...译作“……准确地概括了……”。\n\n**3. 词义确定**\n\n(1) capture 此处为熟词僻义，根据其后 Latin phrase 可知其应取“(用图画、文章、电影等准确地)表达，刻画，描述”之意，所以“准确地概括”契合文意。\n\n(2) or 在这里用作连词，但据其前后两个引号内用词，虽然一个为拉丁语、一个为英语，但两者指向一致，故而应取“即，亦即，也就是”等意。\n\n**4. 全句整理，得出译文**\n\n拉丁语短语“sapere aude”即“敢于求知”，准确地概括了这类寻求知识和理解已知信息的行为。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section III Writing — Part A",
+   "score": 10,
+   "groups": [
+    {
+     "type": "writing",
+     "questions": [
+      {
+       "number": 51,
+       "stem": "51. Directions:\nThe student Union of your university has assigned you to inform the international\nstudents about an upcoming singing contest. Write a notice in about 100 words.\nWrite your answer on the ANSWER SHEET.\nDo not use your own name in the notice. (10 points)",
+       "score": 10,
+       "answer": "Notice\n\nThere is wonderful news! The annual Chinese Songs Singing Competition for overseas students will kick off at 7 p. m. next Saturday, December 28.\n\nThis year's competition, which is to be held in the auditorium boasting brand-new lighting and sound equipment, will be a marvelous opportunity to showcase your passion for music and hone your performance skills. The contest, consisting of three rounds, is for solo performances only. To enter it, you need to submit a list of Chinese songs you'd like to perform, from which the judges will choose the song you will sing in each round. Handsome prizes await the top 10 winners!\n\nThose who want to participate can find our desk by the dining hall around 12 a. m. every day this week. We look forward to your participation.\n\nThe Student Union",
+       "explanation": "**一、审题谋篇**\n\n**1. 解析题目指令，确定行文要点**\n\n| | | | |\n| --- | --- | --- | --- |\n| 抓取指令关键词 | 梳理信息 | 归纳要点 | |\n| 情景 & 要求 | The Student Union of your university has assigned you to inform the international students about an upcoming singing contest . Write a notice in about 100 words. | 1. 写作人身份：校学生会2. 写作对象：留学生3. 写作类型：通知4. 写作话题：歌唱比赛5. 交际目的：告知留学生歌唱比赛的举办事宜 | 1. 格式：告示类。2. 语域：通知留学生参加歌唱比赛，用语可以活泼热情。3. 内容要点：1具体介绍比赛(时间、地点、形式、要求等);2表明期待参与。 |\n\n**2. 罗列关键词**\n\nsinging/vocal contest/competition 歌唱比赛；solo/group singing 独唱/合唱；judge [n.] 裁判；submit your application/request form 提交报名/申请表\n\n**3. 行文思路**\n\n第一段：说明通知要旨，点明比赛活动；第二段：具体介绍比赛的内容及安排；第三段：提供报名方式，表明期待参与。\n\n**二、优秀范文赏析**\n\n**优秀范文**\n\n**Notice**\n\n①There is wonderful news! ②The annual Chinese Songs Singing Competition for overseas students will kick off at 7 p. m. next Saturday, December 28.\n\n① This year's competition, which is to be held in the auditorium boasting brand-new lighting and sound equipment, will be a marvelous opportunity to showcase your passion for music and hone your performance skills. ② The contest, consisting of three rounds, is for solo performances only. ③ To enter it, you need to submit a list of Chinese songs you'd like to perform, from which the judges will choose the song you will sing in each round. ④ Handsome prizes await the top 10 winners!\n\n① Those who want to participate can find our desk by the dining hall around 12 a. m. every day this week. ② We look forward to your participation.\n\nThe Student Union\n\n**参考译文**\n\nDecember 16 , 2019\n\n**通知**\n\n①好消息！②一年一度的留学生“华语歌曲演唱比赛”将于下周六（12月28日）晚7点拉开帷幕。\n\n①今年的比赛将在配有全新灯光音响设备的大礼堂举行，这将是你展现音乐热情、磨练演唱技巧的绝佳机会。②本次比赛分为三轮，仅限独唱。③想要参加比赛，你需要提交一份自己愿意演唱的华语歌单，评委将从中选出你每轮比赛要唱的歌曲。④前十名获胜者将得到丰厚的奖品！\n\n①想参加的同学可于本周每天中午12点左右在餐厅旁边找到我们的咨询台。②期待你的参与。\n\n学生会\n\n2019年12月16日\n\n[篇章衔接]第一段(2句):①句抛出引子，吸引眼球；②句切入正题，点明要旨(告知比赛事宜并说明比赛时间)。\n\n第二段(4句):①句介绍比赛地点及配置，侧面吸引留学生参与；②③句介绍比赛形式及要求(两句通过 it 回指衔接);④句介绍比赛奖项，正面鼓励留学生参与。\n\n第三段(2句):①句提供联系方式，方便留学生报名咨询；②句对留学生参赛表示期待。\n\n[必备表达]\n\n1. kick off (事件、比赛等) 开始\n\n2. in the auditorium 在礼堂\n\n5. solo [a.] 独唱的，独奏的\n\n3. boast [v.] 有(值得自豪的东西)\n\n6. submit [v.] 提交，呈递\n\n4. showcase [v.] 展示(本领、才华等)\n\n7. handsome [a.] (奖品) 贵重的，值钱的\n\n8. await sb 将发生在/降临到(某人头上)\n\n[活用外刊]\n\nBut it can also be a great opportunity to learn the nuts and bolts of your chosen career, to hone your networking skills, and to prove that you are an ambitious, creative, and competent professional.\n\n—The Guardian\n\n译文：但这也是个大好时机，让你学习所选职业的具体工作内容，磨练社交技能，证明自己是个有抱负、有创造力、有能力的专业人士。\n\n点拨：hone 原有“把(刀)磨快”之意；hone one's skills 意为“磨练/训练……技能”, 可替换常用表达 improve/sharpen one's skills。\n\n**精彩句式**\n\n**句子成形步骤：**\n\n①写出简单句\n\nThis year's competition is to be held in the auditorium.\n\nThe auditorium has lighting and sound equipment.\n\nThe competition will be an opportunity to show your passion for music.\n\nThe competition will be an opportunity to improve your performance skills This year's competition, which is to be held in the auditorium equipped with lighting and sound equipment, will be an opportunity to show your passion for music and improve your performance skills.\n\n②利用关系代词、介词、连词将简单句整合③通过添加形容词、替换动词等方式增加表达准确性、内容饱满度及美感。\n\nThis year's competition, which is to be held in the auditorium boasting brand-new lighting and sound equipment, will be a marvelous opportunity to showcase your passion for music and hone your performance skills.\n\n**句子成形步骤：**\n\n①写出简单句\n\nTo enter the competition, you need to hand in a list of Chinese songs.\n\nYou'd like to perform a list of Chinese songs.\n\nThe judges will choose the song from your song list.\n\nYou will sing the song chosen by the judges in each round.\n\n②利用关系代词将简单句整合\n\nTo enter the competition, you need to hand in a list of Chinese songs (that) you'd like to perform, from which the judges will choose the song (that) you will sing in each round.\n\n③通过替换动词增加表达简洁性，通过代词替换名词连贯上下文\n\nTo enter it, you need to submit a list of Chinese songs you'd like to perform, from which the judges will choose the song you will sing in each round.\n\n[模板提炼]本模板由【优秀范文】提炼、改编而来，适用于撰写各类活动通知。\n\nNotice\n\nThere is wonderful news! 活动名称 will kick off on 活动日期 at 活动地点.\n\nThe event, which features/boasts 活动特色，will be a marvelous opportunity to 参加活动的 目的/意义．It will involve 具体活动内容．To enter/attend it, you need to 活动要求． Those who want to participate can find our desk by the dining hall 咨询/报名时间. We look forward to your participation.\n\nThe Student Union December 16 , 2019\n\n**三、写作储备**\n\n**活动通知常用表达**\n\n**(1) 开篇段：说明写作目的**\n\n- Please pay close attention to this announcement. 请密切关注此通知。\n\n- To celebrate the forthcoming... /To enrich students' campus life/To facilitate students' academic learning and cultivate their practical skills, our university has decided to organize...\n\n为了迎接即将到来的……/为了丰富学生的校园生活/为了促进学生的学业并且培养其实践技能，我校决定举办……。\n\n(2) 中间段：具体信息 (包括时间、地点、活动内容、出席人员、注意事项等)\n\n- The event, scheduled for (date) in (place), will involve a variety of activities ranging from... to...\n\n本次活动定于……(时间和地点)举行，将包括……和……在内的各种活动项目。\n\n- More appealingly, our beloved professor, Dr. XXX, will be invited to..., so it's definitely a fantastic opportunity for you to...\n\n更加令人心动的是，我们广受敬爱的教授(XXX 博士)将受邀来……,因此这绝对是你……的绝佳机会。\n\n- To attend this event/During this event, you are required to first... and then...\n\n想要参加此次活动/在活动过程中，你需要先……,然后……。\n\n(3) 结尾段：(必要时) 提供联系方式；表明期待参与\n\n- Those who intend to participate should inform our monitor/submit your request form to our staff office before...\n\n想参加本次活动的同学须在……(截止日期)之前告知班长/向我们的办公室递交申请表。\n\n- For further information, please feel free to contact us via (e-mail address).\n\n如需更多信息，随时欢迎发送邮件至……联系我们。\n\n- Everybody is welcome to be present.\n\n欢迎大家出席活动。\n\n**四、写作练习**\n\n**Directions:**\n\nThe Student Union of your department is going to hold a lecture on “Mental Health”. Write a notice in about 100 words for the Student Union to inform students of the lecture and call on students to attend.\n\nWrite your answer on the ANSWER SHEET.\n\nDo not use your name in the notice. (10 points)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section III Writing — Part B",
+   "score": 20,
+   "groups": [
+    {
+     "type": "writing",
+     "images": [
+      "assets/2020-1-q52.jpg"
+     ],
+     "questions": [
+      {
+       "number": 52,
+       "stem": "52. Directions:\nWrite an essay of 160-200 words based on the pictures below. In your essay, you\nshould\n1) describe the picture briefly,\n2) interpret the implied meaning, and\n3) give your comments.\nYou should write neatly on the ANSWER SHEET. (20 points)",
+       "score": 20,
+       "answer": "In the left picture, a girl is concentrating on her assignments, with a strong desire to complete them as soon as possible. In stark contrast to her, the boy in the right picture is resting his back against a chair lazily, with no intention of doing schoolwork. He has a habit of, in his own words, waiting until the last minute to make a start.\n\nThe two pictures serve as a reminder of the significance of self-discipline, the ability to make ourselves do what we ought to do without being urged by someone else. It motivates us to take control of our time and devote our attention to what is truly important and meaningful to us. This in turn ensures quality and productivity. Those who lack self-discipline often fail to get their priorities right, easily falling into the bad habit of procrastination. They will end up either rushing through their assignments or missing the deadlines, which is detrimental to their academic progress and career advancement.\n\nIn summary, self-discipline brings us lifelong benefits. It is thus necessary for us to develop this personal quality as long as we would like to achieve something impressive.",
+       "explanation": "**一、审题谋篇**\n\n1. 解读图画信息，推导图画寓意\n\n| | | |\n| --- | --- | --- |\n| 提示信息 | 信息解析 | 推导寓意 |\n| 双图式结构及标题“习惯”提示：左右两图意在对比两人的习惯。 | 不同的习惯折射出两人不同的做事态度及个人品质。 | “尽早完成”与“一拖再拖”形成鲜明对比。前者最终导向“按时保质保量完成任务”的理想结果，是值得推崇的好习惯；后者最终导向“未能及时完成任务或应付了事、质量低下”的糟糕结果，是不被提倡的坏习惯。两图意在强调自律、懂得时间管理、做事高效、行动力强等优良品质的重要性，批判拖延、自我管理能力缺失的现象。 |\n| 左图：桌上摆着两摞书，一人正抓紧时间奋笔疾书，心想：“尽早完成才放心。” | 表明她养成了“尽早完成任务”的良好习惯，高度自律，擅长管理自己的时间，明白自己的当务之急并能有效地付诸行动。 | |\n| 右图：桌上放着一本摊开的书，一人懒洋洋地靠着椅背，丝毫不急于动笔，并表示：“不到最后不动手。” | 表明他有拖延的习惯，缺乏自律和行动力，不能合理地分配自己的时间，没有认识到任务的重要性和紧迫性，做事效率低下。 | |\n\n**2. 罗列关键词**\n\n①finish/complete one's assignments as soon as possible 尽早完成任务；②feel relieved 放心；③delay/procrastinate 拖延；④deadline 规定期限；⑤self-discipline 自律；⑥time management 时间管理；⑦the ability to take actions 行动力\n\n**3. 行文思路**\n\n第一段：描述图片；第二段：揭示图片寓意，展开说明论证；第三段：重申主题，发出呼吁。\n\n**二、优秀范文赏析**\n\n**优秀范文**\n\n① In the left picture, a girl is concentrating on her assignments, with a strong desire to complete them as soon as possible. ② In stark contrast to her, the boy in the right picture is resting his back against a chair lazily, with no intention of doing schoolwork. ③ He has a habit of, in his own words, waiting until the last minute to make a start.\n\n① The two pictures serve as a reminder of the significance of self-discipline, the ability to make ourselves do what we ought to do without being urged by someone else.\n\n② It motivates us to take control of our time and devote our attention to what is truly important and meaningful to us.\n\n③ This in turn ensures quality and productivity. ④ Those who lack self-discipline often fail to get their priorities right, easily falling into the bad habit of procrastination. ⑤ They will end up either rushing through their assignments or missing the deadlines, which is detrimental to their academic progress and career advancement.\n\n**参考译文**\n\n①左图中，一名女生正专注于自己的作业，非常希望尽快将其完成。②与之形成鲜明对比的是，右图中的男生懒洋洋地背靠着椅子，丝毫不打算做功课。③用他自己的话说，他习惯“不到最后不动手”。\n\n①这两幅图提醒着人们自律的重要性，自律即能在没有他人敦促的情况下去做自己应该做的事。②它促使我们掌控自己的时间并全神贯注于对我们来说真正重要且有意义的事。③这进而能确保质量和效率。④缺乏自律的人往往分不清事情的轻重缓急，容易染上拖延的坏习惯。⑤到头来，他们要么敷衍了事，要么不能如期完成，这不利于他们的学业进步和事业发展。\n\n①In summary, self-discipline brings us lifelong benefits.\n\n②It is thus necessary for us to develop this personal quality as long as we would like to achieve something impressive.\n\n①总之，自律会令我们受益终生。②因此，但凡我们想要大有作为，就有必要培养这一个人品质。\n\n[篇章衔接]\n\n**第一段(3句): 描述图片。**\n\n①句描述左图内容，②③句描述右图内容(通过 In the left picture, a girl... In stark contrast to her, the boy in the right picture... He... 衔接)。\n\n**第二段(5句):论证图片主旨。**\n\n①句揭示图片寓意，直陈主旨(serve as a reminder of 引出主题词 self-discipline, the ability to... 进一步解释说明)。②③句正面论述(It motivates... This in turn... 介绍自律的益处)，与左图人物的行为对应。④⑤句反面论述(Those who lack self-discipline often... They will end up... 介绍缺乏自律的害处)，与右图人物的行为对应。\n\n**第三段(2句):重申观点，发出呼吁。**\n\n①句总结观点（以 In summary 体现“总结”），②句提出建议（以 thus 体现因果，necessary for us to... 顺势引出建议，as long as... 补充具体情形的同时重申自律的重要性）。\n\n[必备表达]\n\n1. concentrate on... 专心于……\n\n2. assignment [n.] 作业，任务\n\n8. productivity [n.] 生产力，效率\n\n3. in stark contrast to... 与……形成鲜明对比\n\n9. get one's priorities right 分清轻重缓急\n\n10. procrastination [n.] 拖延，推迟\n\n4. rest one's back against...背靠着……\n\n11. rush through 仓促完成，草率了事\n\n5. urge [v.] 敦促，力劝\n\n12. be detrimental to...无益于……\n\n6. motivate [v.] 激励，促使\n\n13. advancement [n.] 提升，晋升\n\n7. devote one's attention to...全神贯注于……\n\n14. lifelong [a.] 终生的，毕生的\n\n**活用外刊**\n\n1. Of course, consumers may be waiting until the last minute to buy some smaller-ticket items (including beer).\n\n——The Economist\n\n译文：当然，消费者或许会等到最后一刻才购买一些小额的商品(包括啤酒)。\n\n点拨：wait until the last minute to do sth 意为“等到最后一刻才做某事”, 其中 the last minute 并非指字面义的“最后一分钟”, 而是表示“相当接近规定期限”, 可在 last 前加上 very 增强语气。\n\n2. This in turn has affected companies, putting cost pressures on everyone from refiners to transportation companies.\n\n——Forbes\n\n译文：这进而影响到了各公司，从炼油到运输每家公司都面临成本压力。\n\n点拨：this in turn... 可表示“这进而……”，用于引出前述事件或行为(this/it 等指代)造成的结果，此表达还可以非限定性定语从句(...，which in turn...)的形式呈现。\n\n[精彩句式]\n\n**句子成形步骤：**\n\n①写出简单句\n\nThey will have to finish their work very quickly.\n\nThey will not finish their work in time.\n\nThey will not make progress in their studies or career.\n\n②利用连词将简单句整合\n\nThey will have to finish their work very quickly, or they will not finish it in time, so they will not make progress in their studies or career.\n\n③通过替换名词和动词、将多个分句整合为单一主句、将分句转换为从句等方式提升表达精确性、内容饱满度及美感\n\nThey will end up either rushing through their assignments or missing the deadlines, which is detrimental to their academic progress and career advancement.\n\n**思路拓展**\n\n图画描绘的是“一人习惯尽早完成作业、一人习惯到最后一刻才动手”的对比场景，属于“人生哲理类”话题。第一段描述图片后，第二、三段可从不同角度展开论述：可如范文所示，第二段揭示图画寓意“自律的重要性”之后从正反两个方面具体论述，第三段总结收篇并发出呼吁；另外，也可在第二段联系实际、引入更具体的事例论述观点，第三段总结观点之后简要提及培养自律的建议。\n\n[应用模板]\n\n| | |\n| --- | --- |\n| I 1 There are two _ in the pictures captioned “_”. 2One is _, while the other is _.II 1 The pictures show us two distinct ways of _, which reflect their different attitudes towards _. 2 The person on the left stands for _.3 It is generally acknowledged as a contributing factor to _. 4 Another potential benefit of it is _, which will go a long way to _. 5 In contrast, the one in the right picture obviously does not have such a personal quality. 6 It is not hard to imagine that a lack of _ will ultimately lead people of this kind to _.III 1 To sum up, it is advisable for everyone, especially us college students, to develop _.2 We may start with small steps such as _. | 1这组标题为“_”的图中有两位 _.。2其中一位在_,而另一位在 _.1图片向我们展现了两种截然不同的 _方式，体现出他们对待 _的不同态度。2左侧的人代表 _.3它被公认为是 _的促成因素。4其另一个潜在的益处是 _,这对 _大有帮助。5与之相对，右图的人显然不具备这一个人品质。6不难想象，缺乏 _最终会致使这类人 _.1总之，对所有人——尤其是我们大学生——来说，明智的做法是培养 _.2或许我们可以从诸如 _等小事做起。 |\n\n模板注释：该模板适用于“人生哲理”中的“优良品质类”(自律、求知欲、责任感等),且图片内容呈现出明显的对比性，意在凸显“拥有某优良品质的益处/重要性”。主体段先指出图画的寓意——对比展现不同的做事方式和态度，随后以“正反对比(In contrast)”深入论证，指出根本差异在于一人拥有而另一人缺乏某优良品质。其中②句直接点明该优良品质，③④句分别阐述其益处，⑥句则阐述缺乏该品质的消极后果。结尾段采用了“总结建议”式：呼吁培养这一品质的同时给出初步建议。\n\n**三、写作储备**\n\n**写作素材积累**\n\n- Happiness is dependent on self-discipline. We are the biggest obstacles to our own happiness. It is much easier to do battle with society and with others than to fight our own nature. (Dennis Prager)\n\n- Time management is an oxymoron. Time is beyond our control, and the clock keeps ticking regardless of how we lead our lives. Priority management is the answer to maximizing the time we have. (John C. Maxwell)\n\n幸福取决于自律。我们自己是实现自我幸福的最大障碍。与社会和他人斗争比同自己的本性斗争要容易得多。（丹尼斯·普拉格）时间管理是一种矛盾修辞。时间是不受我们控制的，不管我们如何生活，钟表都会一直滴答作响。优先级管理才是最大化利用我们拥有的时间的正确方式。（约翰·麦斯威尔）\n\n- Lack of self-discipline in time management leads people to procrastinate continually on their top tasks, leading them to spend more and more time on tasks of low-value or no-value.\n\n在时间管理方面缺乏自律会使人不断拖延自己的要务，使人花越来越多的时间在低价值或无价值的事情上。"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

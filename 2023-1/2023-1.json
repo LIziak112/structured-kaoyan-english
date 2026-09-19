@@ -1,0 +1,760 @@
+{
+ "year": 2023,
+ "exam": "英语一",
+ "sections": [
+  {
+   "title": "Section I Use of English",
+   "score": 10,
+   "groups": [
+    {
+     "type": "cloze",
+     "passage": [
+      "Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. They were typically {{1}} outside the walls of a city or village and were usually funded by local governments or {{2}} .",
+      "“ ” The word “caravanserai” is a {{3}} of the Persian words karvan , which means a group of travellers or a caravan, and “sardy”, a palace or enclosed building. The term caravan was used to {{4}} groups of people who travelled together across the ancient network for safety reasons, {{5}} merchants, travellers or pilgrims.",
+      "From the 10th century onwards, as merchant and travel routes became more developed, the {{6}} of caravanserais increased and they served as a safe place for people to rest at night. Travellers on the Silk Road {{7}} the possibility of being attacked by thieves or being {{8}} to extreme weather conditions. For this reason, caravanserais were strategically placed {{9}} they could be reached in a day’s travel time.",
+      "Caravanserais served as an informal {{10}} point for the various people who travelled the Silk Road. {{11}} , these structures became important centres for cultural {{12}} and interaction, with travellers sharing their cultures, ideas and beliefs, {{13}} taking knowledge with them, greatly {{14}} the development of several civilisations.",
+      "Caravanserais were also an important marketplace for commodities and {{15}} in the trade of goods along the Silk Road. {{16}} , it was frequently the first stop for merchants looking to sell their wares and {{17}} supplies for their own journeys. It is {{18}} that around 12,000 to 15,000 caravanserais were built along the Silk Road, {{19}} only about 3,000 are known to remain today, many of which are in {{20}} ."
+     ],
+     "questions": [
+      {
+       "number": 1,
+       "score": 0.5,
+       "options": {
+        "A": "displayed",
+        "B": "occupied",
+        "C": "located",
+        "D": "equipped"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n1. [A] displayed 陈列；展示；显示\n\n[B] occupied 使用；占用\n\n[C] located 把……安置在；建造于\n\n[D] equipped 配备；装设\n\n[考点提炼] 上下文语义+动词辨析。\n\n[解题思路] 文章首句给出商旅客栈的定义“路边旅舍（roadside inns）”，并说明商旅客栈的修建路线和分布地区“沿丝绸之路在中国、北非、中东等地区修建（built along the Silk Road in areas...Middle East)”。空格句中 They 回指商旅客栈，outside the walls of a city or village 呼应首句 along...in areas...，指向“地点/位置”，可见空格所在部分承接首句所述的大范围，进一步点明商旅客栈所处的具体地点，空格词应与 built 语义一致，表示“建立/坐落”等，C 项与首句 built 语义同向，符合概念介绍时“大范围→具体地点”的常见逻辑，故正确。\n\n[错项排除] A 项 displayed 利用中文表达“商旅客栈在城市或乡村的外围显现”设置干扰，但 display 强调“为了让人看见而展示”，常与艺术品、文物等具有观赏性的内容搭配，而文中显然并不强调商旅客栈的观赏性，故排除。B 项 occupied 利用中文表达“商旅客栈占用了城市或乡村的外围”设置干扰，但要表达“某物占用了空间”时，occupy 应采用主动语态，并直接跟表示空间、面积等的名词连用，而文中为被动语态，且 outside 作介词（意为“在……外面”），sth be occupied 意为“某物被占领/侵占”，显然不符合文意，故排除。D 项 equipped 利用中文表达“商旅客栈被装设于城市或乡村外围”设置干扰，但 sth be equipped 实际意为“为某物提供装备”，其后常接 with+n. 结构，说明配备的具体工具/器材/设备等。该项填入文中表示“商旅客栈通常配备有……”，显然无法与其后内容形成合理的搭配，故排除。"
+      },
+      {
+       "number": 2,
+       "score": 0.5,
+       "options": {
+        "A": "privately",
+        "B": "regularly",
+        "C": "respectively",
+        "D": "permanently"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n2. [A] privately 私人地；以私人身份或角色 [B] regularly 定期地；经常地\n\n[C] respectively 各自地；分别地 [D] permanently 永久地；长久地\n\n[考点提炼] 句内语义+常识。\n\n[解题思路] 空格所在部分指出，(商旅客栈)一般由地方政府或 2 出资建设。空格词和 by local governments 指向两种不同的出资方式，结合常识可知，与“地方政府出资”相对且常见的出资方式应为“个人/私人/民间出资”。A 项 privately 可与 by local governments 构成两种常见的出资方式，符合文意 (be funded privately 表示“由私人投资”)，故正确。\n\n[错项排除] 考生若误认为空格词与其前 usually 并列，则可能误选 B 项 regularly, 但空格词并非与 usually 并列，而是与 by local governments 并列，说明的是出资的主体/方式，而非出资的频率，故排除。C 项 respectively 用于介绍多个对象的各自情况，但空格所在部分并不存在多个对象，且 respectively 前不与连词 or 相接，故排除。D 项 permanently 强调持续时间长、永久存续，无法契合空格所需语境“投资主体/方式”, 故排除。\n\n**语篇分析**\n\n**第一、二段介绍“商旅客栈(caravanserai)”的概念及词源。**\n\n第一段介绍概念。段落以 Caravanserais were...They were typically located...and were usually funded...构成语义链“Caravanserais 的所指→Caravanserais 的坐落位置及资金来源”。①句主句以 A is B 判断句式直指商旅客栈的本质“路边旅舍”，从句以 were built along...in areas including...补充其修建路线及修建地区，由此引出全文重点论述对象“丝绸之路沿线而建的商旅客栈”。roadside inns、along the Silk Road、China, North Africa and the Middle East 深层暗示这类路边小旅舍所承担的重大角色：助力古代丝绸之路上中国与周边国家互通有无、贸易经商。②句以 They were typically located...and were usually funded...具体说明其坐落位置及资金来源，outside the walls of a city or village、by local governments 则进一步体现此类位处城市乡野边缘却又由政府出资建设的路边小旅店所承担的重大历史角色，预示后文将展开说明。\n\nⅡ ① The word “caravanserai” is a \\_3\\_ of the Persian words “kārvān”, which means a group of travellers or a caravan, and “sarāy”, a palace or enclosed building. ② The term caravan was used to \\_4\\_ groups of people who travelled together across the ancient network for safety reasons, \\_5\\_ merchants, travellers or pilgrims.\n\ncaravanserai 一词由波斯语kārvān(表示一群旅人或一支旅行队)和 sarāy(表示一座宫殿或有围墙的建筑)组合而成。caravan 一词则被用来描述出于安全考虑而结伴穿行在这一古老交通网路(丝绸之路)的各类人群，比如商人、旅人或朝圣者。"
+      },
+      {
+       "number": 3,
+       "score": 0.5,
+       "options": {
+        "A": "definition",
+        "B": "transition",
+        "C": "substitution",
+        "D": "combination"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n3. [A] definition 定义；释义\n\n[B] transition 过渡；转变\n\n[C] substitution 代替；替换\n\n[D] combination 结合；联合\n\n[考点提炼] 句内语义+名词辨析。\n\n[解题思路] 空格句指出，caravanserai(商旅客栈)一词是波斯语 kārvān(表示一群旅人或 caravan)和 sarāy(表示一座宫殿或有围墙的建筑)的 3。首先，结合空格下句可知，caravan 也与旅行人群有关，由此可判断，波斯语 kārvān 整体指向旅人。进而分析 caravanserai、kārvān、sarāy 三词关联可发现，无论从构词法角度还是从词义角度来看，前者都是后两者的组合：kārvān(旅人) + sarāy(宫殿/有围墙的建筑) = caravanserai(商旅客栈/路边旅舍)。可见，空格句是承接首段 caravanserai 一词的概念内涵，进而说明 caravanserai 一词的构成/来源。D 项 combination 恰能契合句内 caravanserai、kārvān、sarāy 三者之间的关联，故正确。\n\n[错项排除] 将 A 项代入文中，“caravanserai 是波斯语 kārvān 的释义”看似成立，但由其后 which 引导的从句可知 kārvān 的释义是“一群旅人或一支旅行队”，表示“商旅客栈/路边旅舍”的 caravanserai 明显不是波斯语 kārvān 的释义，故排除。B 项利用中文思维“caravanserai 是从 kārvān 和 sarāy 转化而来的”设置干扰，但 transition 强调“状态或情况的转变”，且“从 A 转变为 B”应采用 transition from A to B 结构，无论从语义角度，还是从搭配角度，选项都无法契合。将 C 项代入文中，A is a substitution of Band C 表示“A 是 B 和 C 的替代品”，而 caravanserai 并不等同于 kārvān、sarāy 两者的任何一个，而是它们组合叠加形成的新词，显然无法起到替代作用。"
+      },
+      {
+       "number": 4,
+       "score": 0.5,
+       "options": {
+        "A": "classify",
+        "B": "record",
+        "C": "describe",
+        "D": "connect"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n4. [A] classify 分类；归类 [B] record 记录；记载\n\n[C] describe 描述；形容 [D] connect 联系；联结\n\n[考点提炼] 上下文语义+句内语义。\n\n[解题思路] 空格上句在介绍 caravanserai 一词构成时提及 caravan,但该词属于生僻词汇，仅可通过句内连词 or 判断它与 a group of travellers 指向一致。空格句指出，caravan 一词被用来 4 出于安全考虑而结伴穿行在这一古老交通网路(丝绸之路)的各种人群。易推知，空格句意在聚焦生僻词汇 caravan 的释义，明确该词所表达/传递的内涵，空格词应指向“传递/表达”等。C 项 describe 符合抽象概念/术语 caravan 和具体内涵 groups of people who...间的解释说明关系，故正确。\n\n[错项排除] 考生可能因 groups of people、merchants, travellers or pilgrims 而误认为空格句意在说明“caravan 可用来将人群分为商人、旅人、朝圣者等几大类”“caravan 可用于将不同人群凝聚起来”，进而误选 A、D 两项，但由空格上句可知，caravan 指人群，“用人群来分类/凝聚人群”显然不合逻辑，故排除 A、D 两项。B 项 record 侧重于仪器、文档、系统等工具或载体（具体事物）的记录，而文中 The term caravan 表示抽象的概念，故排除。"
+      },
+      {
+       "number": 5,
+       "score": 0.5,
+       "options": {
+        "A": "apart from",
+        "B": "instead of",
+        "C": "such as",
+        "D": "along with"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n5. [A] apart from 除了……外\n\n[B] instead of 代替；而不是\n\n[C] such as 例如\n\n[D] along with 与……一起；连同……一起\n\n[考点提炼] 句内逻辑+短语介词辨析。\n\n[解题思路] 空格句指出，caravan 一词用于描述结伴穿行在丝绸之路的各类人群，5 商人、旅人或朝圣者。结合常识可判断，商人、旅人、朝圣者为不同类别的人群，与空格前“各类人群”属于“包含—被包含”的关系。结合下文“人们在丝绸之路沿线的商旅客栈里进行思想、文化、信仰交流以及商品交易”也可知，穿行丝绸之路的人群含有商人、旅人、朝圣者。因此，可综合判断空格句句内应为示例列举关联，空格词应起到举例说明作用。C项 such as 表举例，符合 merchants, travellers or pilgrims 对 groups of people...reasons 的列举说明作用，故正确。\n\n[错项排除] A 项 apart from 表排除，该词填入文中表示“结伴穿行丝绸之路的人群”不包含“商人、旅人、朝圣者”,与文意相悖，可排除。B 项 instead of 表取舍，该词填入文中表示“结伴穿行丝绸之路的人群”和“商人、旅人、朝圣者”相对，不符合文意，故排除。D 项 along with 表并列，该词填入文中表明“结伴穿行丝绸之路的人群”和“商人、旅人、朝圣者”独立、并行、不交叉，也不符合文意。"
+      },
+      {
+       "number": 6,
+       "score": 0.5,
+       "options": {
+        "A": "construction",
+        "B": "restoration",
+        "C": "impression",
+        "D": "evaluation"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n6. [A] construction 建造；施工\n\n[B] restoration 整修；修复\n\n[C] impression 印象；作用；效果\n\n[D] evaluation 估算；评价\n\n[考点提炼] 句内语义 + 名词辨析。\n\n[解题思路] 空格句(段首句)指出：自10世纪伊始，随着商旅路线的日益发展，商旅客栈的6也越来越多/大，它们让旅人们能够在夜间安全休息。借助句内“自10世纪伊始”“日益发展”可判断句子意在介绍商旅客栈的开发建设，句内借 as 暗藏一条因果链：商旅路线日益发展→旅人越来越多→对客栈的需求越来越大→客栈的6越来越多/大。空格词应指向客栈的修建数量/规模等。A项 construction 代入句中恰能传递丝绸之路上所建造的商旅客栈越来越多，符合句内语义逻辑，故正确。\n\n[错项排除]“修复的商旅客栈越多，越能满足旅人的需求”看似符合逻辑，但空格前“自10世纪伊始”“商旅路线日益发展(more developed)”均暗示该时期商旅客栈尚处于开发建设中，并不存在已建造并废弃不用的客栈，故排除B项。命题人利用中文思维“商旅客栈的作用越来越大，给人们提供夜间休息的安全场所”设置干扰，但 impression 表达“作用；效果”时，指向的是“某物对人或情境等的影响”，并非其自身所发挥的作用；且空格句意在讲述商旅客栈的开发建设，并非其影响，“商旅路线的发展成熟”与“商旅客栈的影响力”也不构成因果关联，故排除C项。命题人利用D项 evaluation 与 value 的关联以及 value 与句中 served as 的关联设置障碍，错误性质同C项。"
+      },
+      {
+       "number": 7,
+       "score": 0.5,
+       "options": {
+        "A": "doubted",
+        "B": "faced",
+        "C": "accepted",
+        "D": "reduced"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n7. [A] doubted 怀疑；不相信\n\n[B] faced 面临；面对\n\n[C] accepted 相信；接受\n\n[D] reduced 减少；缩小\n\n[考点提炼] 上下文语义。\n\n[解题思路] 空格句指出，丝绸之路上的旅人 7 被盗贼袭击、……极端天气的可能；空格下句随后指出，正是因为这个原因，商旅客栈的位置做了战略布局。综合可见，两句逻辑链为：之所以对商旅客栈的位置进行战略布局，是为了规避某些风险，从而保障旅人的夜间安全，空格句应意在介绍旅人可能遭遇的危险。B项 faced 代入句中恰能传递旅人们可能遭遇的危险，能与下句构成连贯的因果关联，故正确。\n\n[错项排除]“丝绸之路上的旅人们不相信会有被盗贼袭击、极端天气的可能”很明显不契合上下文语义逻辑和常识，可排除A项。命题人利用中文思维“旅人们会接受被盗贼袭击、极端天气的可能”设置障碍，但“接受”意味着“无法改变”，这显然与空格下句“为应对这些潜在危险采取了一定措施”相悖，可排除C项。D项语义色彩同A项，指向相关风险可能性的降低，也不符合上下文语义逻辑和常识。"
+      },
+      {
+       "number": 8,
+       "score": 0.5,
+       "options": {
+        "A": "assigned",
+        "B": "subjected",
+        "C": "accustomed",
+        "D": "opposed"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n8. [A] assigned 分配；给予；指派\n\n[B] subjected 经受；遭受\n\n[C] accustomed 习惯于；适应\n\n[D] opposed 对抗；反对\n\n[考点提炼]句内语义。\n\n[解题思路] 空格所在部分意为“被盗贼袭击或 8 极端天气情况的可能”，也即“被盗贼袭击”和“8 极端天气情况”都是旅人可能要面临的危险情况。空格词应表示遭受/经历/遇到等。subject sb to sth 表示“使某人遭受某(不好的)事”，B 项恰能契合句内“遭受极端天气”之意，故正确。\n\n[错项排除] assign sb to sth 表示“指派某人承担某项工作”，而句中介词 to 后并非指工作，“旅人被指派给极端天气”逻辑不自洽，可排除 A 项。accustom sb to sth 表示“使某人习惯/适应某事”，“习惯/适应极端天气”指向“人的主观能动性”，而句子意在说明“客观环境：可能存在极端天气的风险”，故排除 C 项。“旅人们与极端天气对抗”似乎符合逻辑，但 oppose 表达此义时，其后直接接对抗的对象，D 项与句内搭配不符，可排除。"
+      },
+      {
+       "number": 9,
+       "score": 0.5,
+       "options": {
+        "A": "so that",
+        "B": "even if",
+        "C": "now that",
+        "D": "in case"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n9. [A] so that 为使；以便\n\n[B] even if 即使；虽然\n\n[C] now that 既然；由于\n\n[D] in case 以防，以防万一；假使，假如\n\n[考点提炼] 句内逻辑。\n\n[解题思路] 空格句指出：出于“旅人会有被盗、遭遇极端天气的可能”这一原因，商旅客栈的位置进行了战略布局，9 旅人们在经过一天的路程之后能够抵达。句内存在明显的因果逻辑链条：战略布局客栈的位置→保证旅人一天长途跋涉后即可抵达→规避被盗风险、躲避极端天气，空格词应表示目的或结果。A项 so that 表目的，置入句中，能正确传递“对位置进行战略布局”与“旅人当日即可抵达”之间的语义逻辑，故正确。\n\n[错项排除] B 项 even if 表让步，用于表示主句所述情形不因从句所述情形而变，而句中“旅人当日即可抵达”是“对位置进行战略布局”的目的或结果，故排除。C 项 now that 表原因，代入句中颠倒主从句间因果关联。D 项 in case 表原因时，代入句内颠倒主从句间因果关联；表条件时，无法契合句内主从句间语义关联。\n\n**语篇分析**\n\n第三至五段介绍商旅客栈的实际功能及意义。\n\n第三段介绍实际功能。段落以因果表达 as、For this reason 构建因果线，以 served as a safe place、faced the possibility of being attacked by...or being subjected to...构建语义线“规避风险的安全之所”。①句以 From the 10th century onwards 体现行文思路“追溯历史”，以 as、and 暗藏的因果关联构建句内语义逻辑“商旅路线日益发展成熟→商旅客栈的修建不断增多”，其中 served as sth for sb to do sth 简明扼要地指出了商旅客栈的首要功能：给人们提供一个夜间能够安心休息的场所。②③句以 For this reason 构建句间因果关联“为了规避风险→客栈位置进行了精心布局”，以此说明①句。②句先从反面出发，以 faced the possibility of being attacked by...or being subjected to...说明丝路旅人所面临的两大风险，反衬客栈修建及精心选址的必要。③句再从正面回归，以 were strategically placed so that they could...说明客栈的精心布局及目标效果，凸显客栈对丝路旅人所起的防身护体作用，could be reached in a day's travel time 既体现了具体布局（客栈之间相隔一天的旅程），也说明了这种布局能够取得的效果/达成的目的（旅人只需一天即可获得安全的歇脚处）。\n\nIV ① Caravanserais served as an informal \\_10\\_ point for the various people who travelled the Silk Road. ② \\_11\\_, these structures became important centres for cultural \\_12\\_ and interaction, with travellers sharing their cultures, ideas and beliefs, \\_13\\_ taking knowledge with them, greatly \\_14\\_ the development of several civilisations.\n\n商旅客栈是行走在丝绸之路上的各类人群的轻松友好的聚会场所。因此，这些客栈成了重要的文化交流、互动中心，旅行者们（在此）既可以获取知识，又可以分享他们的文化、思想和信仰，这给几个地区的文明的发展带来了重大影响。"
+      },
+      {
+       "number": 10,
+       "score": 0.5,
+       "options": {
+        "A": "talking",
+        "B": "starting",
+        "C": "breaking",
+        "D": "meeting"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n10. [A] talking 谈话；交谈\n\n[B] starting 开始；起始\n\n[C] breaking 打破；暂停\n\n[D] meeting 会面；见面\n\n[考点提炼] 上下文语义+动词辨析。\n\n[解题思路] 空格句(段首句)指出，商旅客栈是行走在丝绸之路上的各类人群的轻松友好的 10 场所。结合空格下句(段末句)“这些客栈成了旅人们分享文化、思想和信仰的重要互动中心”以及常识可判断，商旅客栈应该是人流密集、旅人们可以在此沟通交流或互动分享的地方。空格词应能传递商旅客栈将各类人群集结起来的功能。meeting point 表示“交汇点；聚会场所”,代入句中恰能传递出商旅客栈供旅人们会集、交流互动的功能，故 D 项正确。\n\n[错项排除] 命题人利用中文思维“商旅客栈供人们交流、谈话之用”设障，但空格句意在强调客栈汇集不同人群、交流互动的功能，“谈话”过于单一，无法全面体现这一句意，且 talking point 为固定表达，表示“话题；论题”，故排除 A 项。starting point 意为“起点”，命题人利用下文“商旅客栈是丝路商人的第一站（the first stop）”设障，但结合常识可知，客栈不可能是丝路上不同人群的起点，充其量只是他们旅途中的投宿点，且“轻松友好的起点”本身也语义不通，故排除 B 项。命题人利用名词 break“休憩；间歇”设障，让学生误以为这里指“短暂歇脚的地方”而错选，但“歇脚”并非句子意在表达的客栈功能，且 breaking point 实为固定表达，指“顶点；极限”，故排除 C 项。"
+      },
+      {
+       "number": 11,
+       "score": 0.5,
+       "options": {
+        "A": "By the way",
+        "B": "On occasion",
+        "C": "In comparison",
+        "D": "As a result"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n11. [A] By the way 顺带提一下；附带问一句 [B] On occasion 有时；偶尔\n\n[C] In comparison 比较起来；相对而言 [D] As a result 作为结果；因此\n\n[考点提炼] 上下文语义+短语辨析。\n\n[解题思路] 空格句主干指出，这些建筑(回指商旅客栈)成了重要的文化……和互动中心；空格上句指出，商旅客栈可用作各类人群的轻松友好的聚会场所。两句中 served as、became 实际暗藏因果关联 “商旅客栈充当会集点之用→慢慢变成了重要的文化……和互动中心”, 空格词应表达因果关联。D 项 As a result 用于引出结果，代入句中恰能契合空格句与上句之间的因果逻辑，故正确。\n\n[错项排除] A 项 By the way 用于引出与所述主题无关的话题或评论，但由句内 these structures 可知，空格句并未引出新话题，而是承接上文继续谈论“商旅客栈”的意义/影响，故排除。B 项 On occasion 相当于 occasionally,表示间或不定之意，但由上文“自 10 世纪伊始”、下文“多个地区的文明的发展”可判断，句子意在说明商旅客栈在历史上所承载的文化交流功能，这并非间或不定的情形，而是长期客观存在的状态，故排除。C 项 In comparison 常用于承前引出比较对象，但空格句并非与上句作比较，而是说明其结果，故排除。"
+      },
+      {
+       "number": 12,
+       "score": 0.5,
+       "options": {
+        "A": "heritage",
+        "B": "revival",
+        "C": "exchange",
+        "D": "status"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n12. [A] heritage 遗产；传统 [B] revival 复兴；复苏\n\n[C] exchange 交流(信息、知识、思想等) [D] status 地位；身份\n\n[考点提炼] 句内语义+名词辨析。\n\n[解题思路] 空格句指出，这些客栈成了重要的文化 12 和互动中心，旅人们(在此)分享文化、思想和信仰……”。结合句内并列连词 and 可知，“文化 12” 应与“(文化)互动”语义一致，空格词应指向“互动/交流/分享”等。“文化交流”恰能与“文化互动”构成并列，也能体现“旅人们分享文化、思想和信仰”之意，故 C 项正确。\n\n[错项排除] A 项利用常规认知“多个地区的文明遗留下重要的文化遗产”设障，但“文化遗产”既不能与“文化互动”构成并列，也不能概括体现其后 sharing their cultures, ideas and beliefs 这一动作，故排除。考生若将空格后“分享文化、思想和信仰”误认为是“文化复兴”的表现，则可能误选 B 项。但句子意在强调“互动、分享”，而非“复兴”，“复兴”意味着此前已得以发展、后已衰落，而这与句尾“(多个地区的文明的)发展”不符，故排除。D 项利用文中反复提及的“丝绸之路”及其之于人类文明的重要地位设障，但句子意在讲述商旅客栈的文化功用，而非客栈/丝路的地位，且“文化地位的重要中心”无法逻辑自洽，故排除。"
+      },
+      {
+       "number": 13,
+       "score": 0.5,
+       "options": {
+        "A": "with regard to",
+        "B": "in spite of",
+        "C": "as well as",
+        "D": "in line with"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n13. [A] with regard to 关于；在……方面\n\n[B] in spite of 虽然；尽管\n\n[C] as well as 以及；连同；也\n\n[D] in line with 与……一致；按照……\n\n[考点提炼] 句内并列逻辑+短语辨析。\n\n[解题思路] 空格所在伴随状语指出，旅人们(在此)分享文化、思想和信仰，13 获取知识。“分享文化、思想和信仰”与“获取知识”均指向旅人们在文化交流与互动中心(即商旅客栈)的活动情况，空格词应体现二者的并列关联，指向“同时/并且/也”等意。将 C 项代入空格处，恰能传递“既获取知识，又分享文化、思想、信仰”之意，故正确。\n\n**语篇分析**\n\n第四段介绍文化意义。段落以 Caravanserais served as...As a result...实现因果衔接，并借对比组 informal meeting point vs important centres 明确其因果关联“旅人们出于安全需求会集于商旅客栈，结果却使其意外成了重要的文化交流和互动中心”。①句以 Caravanserais served as...呼应上段 they served as a safe place...,并借“a safe place(庇护人们的安全场所，满足其基本的生存需求)→an informal meeting point(各类人群轻松友好的聚会场所，暗含其社会交往需求)”实现段际语义递进，暗示本段将从社会层面具体说明商旅客栈的意义。②句以 these structures became...with travellers sharing..., greatly influencing...构建句内语义链“概说观点→阐述观点→说明影响”。句中 these structures(回指 Caravanserais)、important centres 一方面明确指出商旅客栈的重要文化意义，另一方面又暗含“这些客栈虽看似只是普通的建筑物，其作用却不可小觑”之意；复合结构 with sb doing X, as well as doing Y 说明旅人们在客栈进行的交流互动活动“旅人们在此可获取知识，也可分享文化、思想和信仰”；现在分词短语 greatly influencing...则说明这些活动的重大意义“给多个地区的文明的发展带来了重大影响”，其中 greatly 凸显影响之大，several 看似表少，实则表多，以少说多，进一步凸显影响之大。\n\nV ① Caravanserais were also an important marketplace for commodities and \\_15\\_ in the trade of goods along the Silk Road. ② \\_16\\_, it was frequently the first stop for merchants looking to sell their wares and \\_17\\_ supplies for their own journeys. ③ It is \\_18\\_ that around 12,000 to 15,000 caravanserais were built along the Silk Road, \\_19\\_ only about 3,000 are known to remain today, many of which are in \\_20\\_. [287 words]\n\n商旅客栈也是重要的(大宗)商品的交易市场，且有助于丝绸之路沿线(小宗)商品的买卖。实际上，对于那些想要出售货物同时又为自己旅程储备补给的商人来说，商旅客栈往往是第一站。据信，丝绸之路沿线修建了大约12 000到15 000间商旅客栈，不过目前已知仅存约3 000间，其中许多已经破败不堪。"
+      },
+      {
+       "number": 14,
+       "score": 0.5,
+       "options": {
+        "A": "completing",
+        "B": "influencing",
+        "C": "resuming",
+        "D": "pioneering"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n14. [A] completing 完成，结束；使完整，使圆满 [B] influencing 影响；对……起作用\n\n[C] resuming(中断后)重新开始，继续 [D] pioneering 开拓；开创\n\n[考点提炼] 句内语义+动词辨析。\n\n[解题思路]由前两题分析可知，空格句意在说明商旅客栈所承载的文化交流功能。再结合常识“文化交流与互动会给地区文明的发展带来积极影响”可判断，空格词应指向“影响/促进/推动”等。B项代入空格处即“这给几个地区的文明的发展带来了重大影响”，既能体现“文化交流、互动”与“文明的发展”之间“影响 vs 被影响”的关系（契合逻辑上的主宾关系），又能表明“商旅客栈成为重要的文化交流、互动中心”产生的结果（契合现在分词短语的语义内涵），故正确。\n\n[错项排除] 命题人利用 A 项捏造出“这使地区文明的发展圆满了”，但文明的发展是持续向前的，并无一个明确的圆满结束点。此外，completing 与其前程度副词 greatly 也无法搭配，故排除。C 项错误有二：1.“文明重新开始发展”意味着“文明的发展中断过”，而文中并未提及相关信息；2.resume 与程度副词 greatly 也无法搭配。D 项利用“旅人们开拓了数个地区的文明”设置干扰，但句中空格词的逻辑主语并非 travellers，而是其前整个句子；且文明的发展是延绵不断的，在丝绸之路（商旅客栈）之前即已存续，丝路/客栈/旅人对文明的发展不可能是“开拓作用”，故排除。\n\n**语篇分析**\n\n第四段介绍文化意义。段落以 Caravanserais served as...As a result...实现因果衔接，并借对比组 informal meeting point vs important centres 明确其因果关联“旅人们出于安全需求会集于商旅客栈，结果却使其意外成了重要的文化交流和互动中心”。①句以 Caravanserais served as...呼应上段 they served as a safe place...,并借“a safe place(庇护人们的安全场所，满足其基本的生存需求)→an informal meeting point(各类人群轻松友好的聚会场所，暗含其社会交往需求)”实现段际语义递进，暗示本段将从社会层面具体说明商旅客栈的意义。②句以 these structures became...with travellers sharing..., greatly influencing...构建句内语义链“概说观点→阐述观点→说明影响”。句中 these structures(回指 Caravanserais)、important centres 一方面明确指出商旅客栈的重要文化意义，另一方面又暗含“这些客栈虽看似只是普通的建筑物，其作用却不可小觑”之意；复合结构 with sb doing X, as well as doing Y 说明旅人们在客栈进行的交流互动活动“旅人们在此可获取知识，也可分享文化、思想和信仰”；现在分词短语 greatly influencing...则说明这些活动的重大意义“给多个地区的文明的发展带来了重大影响”，其中 greatly 凸显影响之大，several 看似表少，实则表多，以少说多，进一步凸显影响之大。\n\nV ① Caravanserais were also an important marketplace for commodities and \\_15\\_ in the trade of goods along the Silk Road. ② \\_16\\_, it was frequently the first stop for merchants looking to sell their wares and \\_17\\_ supplies for their own journeys. ③ It is \\_18\\_ that around 12,000 to 15,000 caravanserais were built along the Silk Road, \\_19\\_ only about 3,000 are known to remain today, many of which are in \\_20\\_. [287 words]\n\n商旅客栈也是重要的(大宗)商品的交易市场，且有助于丝绸之路沿线(小宗)商品的买卖。实际上，对于那些想要出售货物同时又为自己旅程储备补给的商人来说，商旅客栈往往是第一站。据信，丝绸之路沿线修建了大约12 000到15 000间商旅客栈，不过目前已知仅存约3 000间，其中许多已经破败不堪。"
+      },
+      {
+       "number": 15,
+       "score": 0.5,
+       "options": {
+        "A": "aided",
+        "B": "invested",
+        "C": "failed",
+        "D": "competed"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n15. [A] aided (in sth) 对某事有帮助；有助于某事\n\n[B] invested (in sth) 投资某物；购买某物\n\n[C] failed (in sth) 未能做到某事；在某方面失败\n\n[D] competed (in sth) 在某地竞争；参加某赛事\n\n[考点提炼] 上下文语义+动词辨析。\n\n[解题思路] 空格句指出，商旅客栈也是重要的商品交易市场，15 丝绸之路沿线的商品买卖。结合句内 also 可知，空格句承接上文“商旅客栈所承载的文化交流功能”, 转而介绍“商旅客栈所承载的经济发展意义”; 再由句内 and 可知，“重要的商品交易市场”与“15 丝绸之路沿线的商品买卖”语义指向一致，均饱含褒义色彩，空格词应表达“推动/促进/有利于”等。A 项代入文中即“有助于丝绸之路沿线的商品买卖”, 既能与其前“商旅客栈也是重要的商品交易市场”构成合理的逻辑，也能与下文“对于那些想要出售货物的商人来说，商旅客栈往往是第一站”相呼应，故正确。\n\n[错项排除] B 项利用中文语境“商品市场的投资”设障，但空格句侧重说明“商旅客栈的经济意义”，而非其“经济行为”，故排除。C 项与上下文“重要的文化交流、互动中心”“重要的商品交易市场”“往往是第一站”搭建起的正面、肯定的积极语境严重不符，故排除。D 项用“商品市场中的贸易竞争”设障，但文中“商旅客栈”本身即是重要的商品交易市场，而非需要参与贸易竞争的市场主体。\n\n[B] Indeed 其实；实际上\n\n[C] Otherwise 否则；不然\n\n[D] However 然而；不过"
+      },
+      {
+       "number": 16,
+       "score": 0.5,
+       "options": {
+        "A": "Rather",
+        "B": "Indeed",
+        "C": "Otherwise",
+        "D": "However"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n[考点提炼] 上下文语义+副词辨析。\n\n[解题思路] 空格上句指出，商旅客栈是一个重要的商品交易市场；空格句进而指出，16, 这一商品交易市场(it 回指 marketplace)对于想要出售货物同时为自己旅途……补给的商人而言是第一站。可见，空格句中“商人”“出售货物”“为自己旅途……补给”与上句“商品交易市场”存在上下义关系，两句应为“概述—详说”关联，空格词应体现这一关系。B 项 Indeed 用于补充内容，以强调或支持前述观点，用于此处恰能体现句间解释说明关系，对“商旅客栈所承载的商品交易市场功能”予以肯定，故正确。\n\n[错项排除] A 项 Rather 用于表示相反的情况，相当于 on the contrary, 而文中传递的是补充说明关系，不是非此即彼的取舍关系，故排除。C 项 Otherwise 表示条件结果关联 (如果不……, 就……), 显然也不契合文中所传递的语义逻辑关系，可排除。D 项 However 表达转折关联，而文中两句间并不存在语义转折，而是语义相承、由概述到详说的过程，故排除。"
+      },
+      {
+       "number": 17,
+       "score": 0.5,
+       "options": {
+        "A": "go in for",
+        "B": "stand up for",
+        "C": "close in on",
+        "D": "stock up on"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n17. [A] go in for 参加(考试或竞赛); 对……感兴趣；从事(某项工作)\n\n[B] stand up for 支持；维护\n\n[C] close in on(尤指为了进攻)逼近，靠近\n\n[D] stock up on 贮备，备足(某物)\n\n[考点提炼] 句内语义+动词短语辨析。\n\n[解题思路] 结合上题分析可知，空格句意在承接上句“商旅客栈所承载的商品交易市场功能”, 继续说明它们所承担的具体市场交易功能，即商人可在此出售货物并为自己旅途 17 补给。空格词应跟买卖/交易相关，同时又能跟“补给”相搭，构成合理的逻辑。D 项用于此处恰能传递买卖关系(stock up on 的英文释义为 to buy a lot of sth so that you can use it later),体现“商人既在商旅客栈出售自己的货物，也为自己买进货物”的语义，故正确。\n\n[错项排除] 空格后“补给”不是考试/竞赛，也不是工作，充其量只能说是商人感兴趣的东西，但是“对补给感兴趣”并不能传递商品交易/买卖的语义，故排除 A 项。B 项利用中文语境“保护补给”设障，但 stand up for 所接对象通常指受到攻击的人或与人相关的思想、权利等抽象事物，而“补给”并非抽象事物，且文中并未提及“补给受到攻击”，故排除。文中“商人”与“补给”之间并不存在“攻击 vs 被攻击”关系，而是“交易 vs 被交易”关系，故排除 C 项。"
+      },
+      {
+       "number": 18,
+       "score": 0.5,
+       "options": {
+        "A": "believed",
+        "B": "predicted",
+        "C": "recalled",
+        "D": "implied"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n18. [A] believed 把(某事)当真；认为有可能\n\n[B] predicted 预言；预报\n\n[C] recalled 记起；回忆起\n\n[D] implied 暗示；意味着\n\n[考点提炼] 句内语义+动词辨析。\n\n[解题思路] 空格句指出，18 丝绸之路沿线修建了大约 12 000 到 15 000 间商旅客栈，……目前已知仅存 3 000 间左右。可见，全句意在讲述丝绸之路沿线最初所建商旅客栈数量以及当前幸存数量，借由从句中 are known to 可推断空格词应与之相近，It is 18 that 应传递“人们所相信/知道/了解/获知的”等。it is believed (that)...为常见用法，意为“据信……”，表达对某事物的看法、意见，代入句中恰能与 are known to 相呼应，传递人们对丝绸之路沿线商旅客栈总体修建数量的大体看法，故 A 项正确。\n\n[错项排除] it is predicted that...意为“据预测……”，表达对未来事情的预估，但句中 are known to 表明空格处并非预测之意，而是确凿可知之意，B 项与文意不匹配。it is recalled (that)...可理解为“据回忆……”，但这种用法并不常见，且商旅客栈历史悠久，跨越多个世纪，其修建数量非当代人所能回忆得了的，故排除 C 项。it is implied that...为常见用法，意为“这意味着……”。命题人利用中文语境“这意味着……”设障。但这一用法表明前文存在不明确的表达，是对前文所述内容的进一步明确。而空格句与上文分立不同句群，并无直接的语义关联，故排除 D 项。"
+      },
+      {
+       "number": 19,
+       "score": 0.5,
+       "options": {
+        "A": "until",
+        "B": "because",
+        "C": "unless",
+        "D": "although"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n19. [A] until 到……时；直到……为止\n\n[B] because 因为\n\n[C] unless 除非；如果不……\n\n[D] although 虽然，尽管；不过，然而\n\n[考点提炼] 句内逻辑+连词辨析。\n\n[解题思路] 结合上题分析可知，空格句意在说明丝绸之路沿线上商旅客栈的修建量与现存量，其中“大约 12 000 到 15 000 间”与“大约 3 000 间”之间存在明显数据反差，空格词应传递这一语义反差。D 项 although 恰好契合句内前后两部分间数据对比引起的语义反差，传递“商旅客栈数目锐减”的遗憾现状，故正确。\n\n[错项排除] A 项 until 表时间关系，用于引出主句所述情形的结束时刻，而文中空格后并非时间节点，而是一个常态性状况，且句内存在语义反差，选项无论是从语法搭配上，还是语义逻辑上，都不契合，故排除。B 项 because 表示因果关联，用于引出主句所述事件的原因，而文中“大约修建 12 000 到 15 000 间商旅客栈”与“大约仅存 3 000 间商旅客栈”并不存在因果关联，故排除。C 项 unless 表条件关联，用于引出主句情形不成立的唯一条件，而“大约仅存 3 000 间”与“大约修建 12 000 到 15 000 间”并不存在任何条件关系，故排除。"
+      },
+      {
+       "number": 20,
+       "score": 0.5,
+       "options": {
+        "A": "ruins",
+        "B": "debt",
+        "C": "fashion",
+        "D": "series"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n20. [A] (in) ruins 破败不堪；严重受损\n\n[B] (in) debt 欠债；负债\n\n[C] (in) fashion 流行；时髦\n\n[D] (in) series 连续地；按顺序排列\n\n[考点提炼] 句内语义 + 固定搭配 + 名词辨析。\n\n[解题思路] 结合上两题分析可知，句内存在今昔对比“修建规模庞大：约 12 000 到 15 000 间 vs 现存数量有限：仅约 3 000 间”;再结合空格所在部分时态可知，该部分依然讲述现状，指向“仅存约 3 000 间中，有许多处于 20 的状态”,空格词描述当前留存下来的客栈的状态。A 项用于此处恰能说明当前留存下来的商旅客栈的状态，也能与“仅存约 3 000 间”构成解释说明关系，故正确。\n\n[错项排除] B项利用中文语境“商旅客栈经营不善、债务累累、数量锐减”设障，但文中并未说明客栈的运营情况，故排除。C项利用当前中国大环境“丝路建设”设障，但文中描述的是古代丝绸之路上商旅客栈的情况，故排除。D项 in series 通常用于表示排列方式，并不能用以表达状态，无法契合句内语法以及语义要求，故排除。\n\n**语篇分析**\n\n第五段介绍经济意义并补充当前保留情况。段落先以 also 明示段间并列关联；再以 Indeed 关联①②句句间逻辑，以 It is believed that...、are known to...关联③句句内逻辑。①句以 A is B 判断句式，并借 an important marketplace、aided in the trade of goods 凸显商旅客栈的经济意义“充当重要的商品交易市场，助力古代贸易发展”。②句再以 A is B 判断句式，并借 frequently、the first stop 进一步强调商旅客栈助力商品贸易的具体表现“售卖货物以及储备补给的第一站”。③句以 It is believed that、are known to 扩大话语空间并引出对当前商旅客栈保留情况的讨论，句内以两组对比 12,000 to 15,000 caravanserais vs 3,000、were built vs are in ruins 凸显商旅客栈的今昔变化“数量极多→数量锐减”“开发建设→破败不堪”，既凸显了商旅客栈曾经数量之多、规模之大并暗合上文所述其具有的重要影响，也体现了随着岁月流逝而逐渐退出历史舞台的苍凉感。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part A",
+   "instructions": "Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points)",
+   "score": 40,
+   "groups": [
+    {
+     "type": "reading",
+     "title": "Text 1",
+     "passage": [
+      "The weather in Texas may have cooled since the recent extreme heat, but the temperature will be high at the State Board of Education meeting in Austin this month as officials debate how climate change is taught in Texas schools.",
+      "Pat Hardy, who sympathises with the views of the energy sector, is resisting proposed changes to science standards for pre-teen pupils. “There are as many scientists working against all the panic of global climate change as there are those who are pushing it,” she claims. “Texas is an energy state and we need to recognise that. You need to remember where your bread is buttered.”",
+      "Most scientists and experts sharply dispute Hardy’s views. Board members like her “casually dismiss the career work of scholars and scientists as just another misguided opinion,” says Dan Quinn, senior communications strategist at the Texas Freedom Network, a non-profit group that monitors public education.",
+      "Such debates reflect fierce discussions across the US, as researchers, policymakers, teachers and students step up demands for a greater focus on teaching about the facts of climate change in schools.",
+      "A study last year by the National Center for Science Education, a non-profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B+ or higher. Among the 10 worst performers were some of the most populous states, including Texas, which was given the lowest grade (F) and has a disproportionate influence because its textbooks are widely sold elsewhere.",
+      "Glenn Branch, the centre’s deputy director, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school boards. Even if a state is considered a high performer in its science standards, “that does not mean it will be taught”, he says.",
+      "Another issue is that while climate change is well integrated into some subjects and at some ages—such as earth and space sciences in high schools—it is not as well represented in curricula for younger children and in subjects that are more widely taught, such as biology and chemistry. It is also less prominent in many social studies courses.",
+      "Branch points out that, even if a growing number of official guidelines and textbooks reflect scientific consensus on climate change, unofficial educational materials that convey more slanted perspectives are being distributed to teachers. They include materials sponsored by energy industry associations."
+     ],
+     "questions": [
+      {
+       "number": 21,
+       "score": 2,
+       "stem": "In Paragraph 1, the weather in Texas is mentioned to",
+       "options": {
+        "A": "forecast a policy shift in Texas schools.",
+        "B": "stress the consequences of climate change.",
+        "C": "indicate the atmosphere at the board meeting.",
+        "D": "draw the public’s attention to energy shortages."
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| 21. In Paragraph 1, the weather in Texas is mentioned to ____. | 21. 第一段提到得州的天气是为了____。 |\n| --- | --- |\n| [A] forecast a policy shift in Texas schools | [A] 预测得州学校的政策转变 |\n| [B] stress the consequences of climate change | [B] 强调气候变化的后果 |\n| [C] indicate the atmosphere at the board meeting | [C] 展现委员会会议的气氛 |\n| [D] draw the public's attention to energy shortages | [D] 引起公众对能源短缺的注意 |\n\n[精准定位] 首段先以 The weather in Texas...介绍得州近期天气变化“由极端高温转凉”，后以 but 转折指出“州教育委员会会议的热度高涨”，再以 as 从句点明原因“会议将就得州学校如何讲授气候变化的知识展开争论”。可见，作者借 but 的语义转折功能和 temperature 的双重含义（基本义“温度”与比喻义“激烈程度”）实现论述焦点的转换，即由“得州的天气”转向“委员会会议的热度”，借前者“转凉”反衬出后者“高涨”，C 项正确。\n\n[命题解密] C 项 the atmosphere at the board meeting 准确对应原文 the temperature...at the State Board of Education meeting, 其中 atmosphere 是对文中 temperature 比喻义的合理解读。\n\nA 项中 shift 虽近义复现首段的 change,但将原文中“变化”的主体由“气候”偷换为“学校政策”。B 项利用 climate change 出现于原文首段末设置干扰，首段虽提及气候变化，但关注点在于如何讲授气候变化的相关知识，并未提及气候变化的后果。D 项关键词 energy shortages 在文中并无直接对应，可粗略关联至第二段①句(the energy sector),该句仅展现出哈代对能源行业的关注与支持，无关乎能源短缺问题(shortages 在文中并无信息支撑)。\n\n[技巧总结]本题考查开篇事例的写作目的，考生应切记作者在开篇使用的事例实际扮演“引子”的角色，即用于引出全文主题，事例与文章话题存在内在关联(事例通常是某现象产生的原因/背景)。解题时应首先分析开篇段的句间逻辑，以明确论述重点，随后可通过提取引子与主题的相似之处锁定答案。如本题，可先梳理句中两个事件“得州近期天气变化”“即将召开的州教育委员会会议的热度高涨”的内在逻辑，由 but 的语用功能(引出语义重心)可推知作者意在借前者引出后者；随后通过对比两部分的语义(cooled、heat vs the temperature will be high)可推知，作者意在借 temperature 的一词多义现象，以得州天气的变化凸显州教育委员会会议的气氛，意即“得州高温天气虽暂时退场，‘学校如何开展气候变化教育’却仍是热议话题”。\n\nⅡ ① Pat Hardy, who sympathises with the views of the energy sector, is resisting proposed changes to science standards for pre-teen pupils. ② “There are as many scientists working against all the panic of global climate change as there are those who are pushing it,” she claims. ③ “Texas is an energy state and we need to recognise that. ④ You need to remember where your bread is buttered.”\n\n帕特·哈代支持能源行业的观点，反对他人针对十一二岁学生的科学教育标准提出的修改建议。她声称：“有很多科学家正助推着人们对全球气候变化的恐慌情绪，但也有很多科学家正竭力对抗所有的这些恐慌。得州是一个能源大州，我们需要认识到这一点。你需要牢记自己的利益优势之所在。”\n\n第二段针对上述议题介绍反方观点。关键词：①sympathises;②is resisting proposed changes;③against all the panic of global climate change。\n\n①句借哈代观点表明能源行业对调整科学教育标准持反对意见。定语从句 who sympathises with...energy sector 表明哈代的站位(支持能源行业), 其中 sympathises 为熟词僻义，意为 to support someone's ideas or actions“支持”。主句 proposed changes to...进一步说明首段所述会议议题，is resisting 亮明哈代的态度“反对修改科学教育标准”, 其中 pre-teen 意为“十一二岁(一般指超过十岁但未满十三岁)的”。\n\n②句说明其反对原因一：调整科学教育标准会加剧人们对全球气候变化的恐慌情绪。同级比较句式 There are as...as there are...对比两类科学家针对“围绕全球气候变化的恐慌情绪”的不同做法“竭力对抗 (working against) vs 助推 (pushing)”,其中 all the panic 凸显恐慌程度之深、范围之广，同时暗示哈代对于“一些科学家需要给另一些科学家制造的恐慌收拾残局”的不满态度。\n\n③④句说明其反对原因二：与自身利益相悖。③句铺垫指出，人们需认识到“得州是一个能源大州”的事实，句末的 that 回指前半句 Texas is an energy state。④句 You need to remember 呼应③句，点明人们需认识到上述事实的原因“记住自己的利益优势所在”,“利益优势”即指“得州的能源优势”,暗示“若调整科学教育标准，则会失去这种优势”。注：固定表达 know which side one's bread is buttered (on)意为“明白自己的利益之所在；善于为自己打算”,文中的 remember where your bread is buttered 为其变体。\n\n【深层解读】明确人物站位，体会其言论的深层含义：首句 sympathises、resisting 表明哈代对能源业的支持以及对修改科学教育标准的反对。据此可知，②句表面指出两类科学家的做法，却意在强调“修改科学教育标准会助推恐慌”。③④句表面介绍得州是能源大州的事实，实际暗含“修改科学教育标准会让得州失去利益优势”。\n\nⅢ ① Most scientists and experts sharply dispute Hardy's views. ② Board members like her \"casually dismiss the career work of scholars and scientists as just another misguided opinion,\" says Dan Quinn, senior communications strategist at the Texas Freedom Network, a non-profit group that monitors public education.\n\n大多数科学家和专家强烈反对哈代的观点。像她这样的委员会成员“对学者和科学家的职业成果不屑一顾，只将其视为又一种误入歧途的观点。”得州自由网（监督公共教育的非营利组织）的资深通信策略师丹·奎因表示。\n\n**语篇分析**\n\n第三段援引专家之言驳斥反方观点。关键词：①sharply dispute Hardy's views;②casually dismiss... as...misguided opinion。\n\n①句概述指出学界对哈代观点表示强烈反对。Most 以数量之多凸显观点极具代表性。程度副词 sharply“猛烈地；激烈地”修饰 dispute，强化否定语气，体现学界对哈代所持观点的强烈批驳。\n\n②句援引专家之言驳斥哈代及相关群体的看法。固定搭配 dismiss A as B“将 A 视为 B”结构将“学术界的科研成果”贬低成“一种误入歧途的观点”。句中三个负面表达 casually、dismiss、misguided 凸显哈代等人对科研价值的无视与全盘否定。引述分句介绍奎因的身份“公共教育领域的资深通信策略师”，呼应首句 experts，表明引语部分是学术界对哈代观点的回应与批驳。\n\n【深层解读】重视观点段中对人物身份的介绍：人物身份介绍通常是把握其具体站位/所属群体的重要依据，由于本段提及多方人物(scientists、experts、Hardy's、Dan Quinn),考生只有厘清人物的站位关系，才能明确各人物所持的观点。借助引述分句中 senior communications strategist at...public education 可知，奎因是公共教育领域的资深专家，对应首句中的 experts，即奎因是 Most scientists and experts 的成员之一，其所述内容应体现对哈代观点的驳斥（sharply dispute Hardy's views）。"
+      },
+      {
+       "number": 22,
+       "score": 2,
+       "stem": "What does Quinn think of Hardy?",
+       "options": {
+        "A": "She exaggerates the existing panic.",
+        "B": "She denies the value of scientific work.",
+        "C": "She shows no concern for pre-teens.",
+        "D": "She expresses self-contradictory views."
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 22. What does Quinn think of Hardy? | 22. 奎因对哈代有何看法？|\n| --- | --- |\n| [A] She exaggerates the existing panic. | [A] 她夸大了现有的恐慌。 |\n| [B] She denies the value of scientific work. | [B] 她否认了科学工作的价值。 |\n| [C] She shows no concern for pre-teens. | [C] 她对十一二岁的孩子漠不关心。 |\n| [D] She expresses self-contradictory views. | [D] 她表达了自相矛盾的观点。 |\n\n[精准定位] 第二段介绍哈代的立场“支持能源行业的观点，反对修改有关气候变化的科学教育标准，认为其过分强调人类对环境的负面影响”。第三段①句先指出“科学家与专家强烈反对哈代的观点”，随后援引奎因的原话明确科学家及专家们的看法：像哈代这样的委员会成员对学者和科学家的学术成果不屑一顾，只将其视为又一种误入歧途的观点（dismiss 和 misguided 均为否定表达）。可见，在奎因看来，哈代轻视学术研究成果，否认科学工作的价值，B 项正确。\n\n[命题解密] B 项 denies the value of scientific work 近义改写原文 dismiss the career work of scholars and scientists as just another misguided opinion。\n\nA项将第二段②句暗示的信息“哈代认为某些科学家在助推恐慌”窜改为“奎因认为哈代在夸大恐慌”。C项对第二段①句(pre-teen pupils)过度推断，哈代是对修改建议有异议，而非对十一二岁的学生有意见，且哈代的表态(不论支持还是反对)本身就已经体现了对这一群体的关注。D项对第二段①句 sympathises、resisting 断章取义，误认为“哈代既支持又反对，前后态度不一、自相矛盾”。但结合全句和常识(减缓气候变化意味着节能降耗，能源行业的发展必将受限)可知，哈代支持的是能源行业，反对的是对能源行业不利的提议(鼓励探讨减缓气候变化的对策等)，前后并不矛盾。\n\n[技巧总结]本题就人物观点考查学生总结概括的能力。解题关键在于根据人物背景信息和情感表达词准确理解人物的观点和立场。奎因是一家非营利组织的资深通信策略师，其身份对应第三段①句的 experts(该群体强烈反对哈代的观点)，故负面表达 dismiss、misguided 指向哈代及相关群体对科研成果的否定与不屑，B项正确。\n\nIV Such debates reflect fierce discussions across the US, as researchers, policymakers, teachers and students step up demands for a greater focus on teaching about the facts of climate change in schools.\n\n这些争论是全美(就气候变化所展开的)激烈讨论的缩影，因为研究人员、政策制定者、教师和学生进一步要求学校更加注重讲授有关气候变化的事实。\n\n**语篇分析**\n\n第四段由个例上升至普遍现象，借各方的共同呼吁明确作者观点“学校应加强气候变化教育”。关键词：a greater focus on teaching...schools。\n\n前半句 Such debates 承上总括前三段所述有关学校气候变化教育问题的争论。across the US 将话题由单一个例(得州学校)扩展至普遍现象(全美), fierce“激烈的；猛烈的”凸显话题热度之高的同时，暗示辩论双方可能是为各自群体的利益争论不休。后半句借多方的共同呼吁明确作者自身观点“学校应加强气候变化教育”, researchers、policymakers、teachers and students 分别代表学术界、政府部门、目标受众，既以列举群体之多强调气候变化教育改革是大势所向，又以各群体的特征凸显该呼吁的科学性、公正性与服务性。\n\n【深层解读】本段首句起到分水岭的作用。指代词 Such debates 承上总结首三段所述个例“各方就得州学校的气候变化教育标准展开激烈争论”，其后 across the US 引出普遍现象“全美就此展开了热烈讨论”。作者由点到面的叙述方式凸显环境教育问题的普遍性与紧迫性，并通过先驳论后立论（第二至四段）明确了自身观点“学校应加强气候变化教育”，预测下文将就此展开进一步的论证说明。\n\nV ① A study last year by the National Center for Science Education, a non-profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B+ or higher. ② Among the 10 worst performers were some of the most populous states, including Texas, which was given the lowest grade (F) and has a disproportionate influence because its textbooks are widely sold elsewhere.\n\n美国国家科学教育中心(由科学家和教师组成的非营利组织)去年的一项研究考察了全美各州公立学校借助科学课堂应对气候变化问题的情况，给美国半数的州勉强打出了不低于B+的分数。表现最差的10个州里有一些人口大州，其中就包括得州，该州得到了最低分(F),却因其教科书广泛销售于(得州之外的)其他地方而拥有(与其分数)不相称的影响力。\n\n**语篇分析**\n\n第五段借研究论证说明全美各州公立学校在“气候变化教育”方面的不良发展现状。关键词：climate change in science classes。\n\n①句介绍研究的具体情况(时间、发起方、研究内容和结果)。last year 明确研究发起时间“去年”，by...引出研究发起方“美国国家科学教育中心”，其中 non-profit 暗示该研究不受利益左右，故而公正、客观。looking at how...(look at 意为“研究；考察”)引出研究内容“全美各州公立学校借助科学课堂应对气候变化问题的情况”。gave barely...引出研究结果“给半数的州勉强打出了不低于 B+ 的分数（即另一半低于 B+）”，其中 barely“仅仅；勉强”暗示该研究的实际结果与预期结果有较大落差。\n\n②句以得州为例，点出其在研究中的表现与现实中的影响力存在较大反差。Among...including Texas 表明该句以表现最差的 10 个州之一、人口大州之一的得州为典型进行讨论。which 引出的非限制性定语从句详述得州的表现和影响，其中 and 表轻微转折，凸显得州在研究中的得分与实际影响力不相称(与得分相比，影响力大得不成比例),because...点明其影响力大的缘由“教科书广泛销售于其他地方”。\n\n【深层解读】本段表面上是在客观介绍得州在研究中的表现以及其自身的影响力，实则借语义对比(lowest grade vs disproportionate influence)以及 and 的语义功能(在某些语境下表转折)深层暗示作者对得州气候教育现状的不满，以及对潜在后果的忧虑：得州的教科书上缺少基于事实与科学研究的气候变化知识，而充斥着意识形态偏见的内容会随着其销往各地的教科书影响到众多学生，如此误人子弟，后果不堪设想。"
+      },
+      {
+       "number": 23,
+       "score": 2,
+       "stem": "The study mentioned in Paragraph 5 shows that",
+       "options": {
+        "A": "climate education is insufficient at state public schools.",
+        "B": "policymakers have little drive for science education.",
+        "C": "Texas is reluctant to rewrite its science textbooks.",
+        "D": "environmental teaching in some states lacks supervision."
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n| 23. The study mentioned in Paragraph 5 shows that ____. | 23. 第五段所提及的研究表明____。 |\n| --- | --- |\n| [A] climate education is insufficient at state public schools | [A] 州级公立学校的气候教育存在不足 |\n| [B] policymakers have little drive for science education | [B] 政策制定者几乎没有动力推进科学教育 |\n| [C] Texas is reluctant to rewrite its science textbooks | [C] 得州不愿改写科学教科书 |\n| [D] environmental teaching in some states lacks supervision | [D] 一些州的环境教育缺乏监督 |\n\n[精准定位] 第五段①句概述研究内容及结果：研究考察了全美各州级公立学校借助科学课堂应对气候变化问题的情况，有半数的州勉强获得了不低于B+的分数(即其余各州得分低于B+)。②句以得州为例，详述其表现：作为一个影响力巨大(人口众多且教科书广泛销售于其他地方)的州，其公立学校的气候教育却位列最低水平。结合概述的研究结果和具体的例证可知，州级公立学校的气候教育水平整体偏低，存在较多不足，A项正确。\n\n[命题解密] A 项 climate education、state public schools 分别对应文中的研究主题 climate change in science classes 和研究对象 state public schools，而 insufficient 则是对研究结果 barely half of US states a grade B+ or higher...the lowest grade (F) and has a disproportionate influence 的高度总结与概括。\n\nB项与第四段所述“政策制定者进一步要求学校更加注重讲授有关气候变化的事实（即政策制定者在努力推进科学教育的调整与优化）”相悖。C项由第五段②句所述“得州教科书广泛销售于其他地方”过度引申出“其不愿改写科学教科书”，此论断在文中无据可依。D项将第六段①句所述“科学教育的决策权下放至地方学校委员会”曲解为“环境教育缺乏监督”，但权力下放≠放弃监管，且其与题干所问研究并无关联。\n\n[技巧总结] 本题考查的事实细节涉及研究发现，正确项应能准确概括文中所述研究的内容和结果，而干扰项通常会杂糅、窜改、曲解或背离原文，其关键信息必定与原文有出入，甚至与研究主题和内容毫无关联。如本题 B 项的 policymakers、C 项的 rewrite 和 D 项的 supervision 在定位段均无体现，可直接排除。\n\nVI ① Glenn Branch, the centre's deputy director, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school boards. ② Even if a state is considered a high performer in its science standards, \"that does not mean it will be taught\", he says.\n\n该中心的副主任格伦·布兰奇提醒道，在一个将决策权下放至地方学校委员会的国家，制定州级科学教育标准只是一个有限的基准。他说，即使一个州的科学教育标准被认定为出色，“这也并不意味着会讲授气候变化知识”。\n\n**语篇分析**\n\n第六至八段从三个方面具体分析当前气候变化教育存在的问题。\n\n第六段指出制定美国州级科学教育标准的问题：存在局限性。关键词：only one limited benchmark。\n\n①句点明问题所在并暗示原因。the centre's 指代“美国国家科学教育中心的”，cautions“警告；提醒”强调问题的重要性。a country 的定语从句 that...限定背景情形“在美国，决策权会下放至地方学校委员会”，由此暗示州级标准存在局限性的原因：州政府出台的标准不具有强制执行力，是否按此标准执行交由地方学校委员会自行决定。\n\n②句进一步说明该标准存在局限性的原因。Even if...that...表让步转折，先退而假设“即使一个州有出色的科学教育标准”,再转而说明结果“这并不意味着其会讲授气候变化知识”,由此可见“科学教育标准”并不能直接影响/全权决定“气候变化知识是否会被讲授”,即该标准的影响力/效力不强。注：结合文意可推知，句中的 it 应指代 climate change,而非 science standards,后者语义不搭(标准无法被讲授),也不合语法(单数的 it 不能指代复数的 science standards)。"
+      },
+      {
+       "number": 24,
+       "score": 2,
+       "stem": "According to Branch, state-level science standards in the US",
+       "options": {
+        "A": "call for regular revision.",
+        "B": "require urgent application.",
+        "C": "have limited influence.",
+        "D": "cater to local needs."
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n| 24. According to Branch, state-level science standards in the US ____. | 24. 布兰奇认为，美国的州级科学教育标准 ____。 |\n| --- | --- |\n| [A] call for regular revision | [A] 需要定期修订 |\n| [B] require urgent application | [B] 迫切需要实施 |\n| [C] have limited influence | [C] 影响力有限 |\n| [D] cater to local needs | [D] 迎合地方需求 |\n\n[精准定位]第六段①句转述美国国家科学教育中心副主任布兰奇的提醒，点明在决策权下放至地方学校委员会的美国，制定州级科学教育标准只是一个有限的基准（limited benchmark）。②句进而明确该标准的局限性：校方未必会讲授气候变化知识。由此可判断美国的州级科学教育标准的影响力有限，C项正确。\n\n[命题解密] 题干+C 项是对第六段的合理解读和概括，其中 limited 原词复现。\n\nA项根据第六段布兰奇指出的州级科学教育标准所存在的问题(“有限的基准”“不意味着会讲授气候变化知识”)主观臆断出该标准“需要定期修订”，但文中并未提及。B项将第六段②句内涵“该标准并不能直接影响/全权决定学校是否讲授气候变化知识”曲解为“该标准未被立刻实施导致学校的气候变化教育缺失”，进而臆断出“该标准迫切需要实施”。D项由第六段①句“决策权被下放至地方学校委员会”主观臆断出“科学教育标准迎合地方需求”，但“地方学校委员会”不能代表“地方”，文中也并未明确何为“地方需求”，故无法判断科学教育标准是否迎合地方需求。\n\n[技巧总结] 考查人物观点的题目易于定位，难在如何准确理解定位处的关键信息，尤其是人物话语中提及的抽象事物或概念，此时可借助上下文辅助推断，通常后文都会存在对此类信息的进一步说明 (或换成通俗易懂的说法，或举出具体例证)。如本题，单看第六段①句，无法完全理解 one limited benchmark 的含义，但随后②句 Even if...does not mean it will be taught 给出进一步解释：标准定得再好，学校也未必会按标准行事。由此可推知，①句中 limited 指向“标准的效力/影响力有限”, 从而确定 C 项正确。\n\nVII ① Another issue is that while climate change is well integrated into some subjects and at some ages—such as earth and space sciences in high schools—it is not as well represented in curricula for younger children and in subjects that are more widely taught, such as biology and chemistry. ② It is also less prominent in many social studies courses.\n\n另一个问题在于，气候变化问题虽然很好地融入到了某些学科和某些年龄段(例如高中阶段的地球和空间科学课程),但在针对更年少的孩子的课程中，以及在被更广泛讲授的科目(如生物和化学等)中，它并没有得到很好的体现。它在许多社会科学课程中的重要性也并不突出。\n\n**语篇分析**\n\n第七段指出气候变化教学的普及度存在的问题：所针对的年龄段和涉及的学科范围较窄。关键词：①not as well represented;②less prominent。\n\n①句点明另一问题：气候变化教学的普及度不够。Another issue is...承接上文引出新问题。while...先让步承认气候变化教育的现有成果“普及到了一些学科和一部分年龄段的学生”, it is not...转而指出不足“在面向更年少的孩子的课程中、在被更广泛讲授的科目中普及度均不够”。其中 is not as well represented 与 is well integrated...形成对比，凸显不足之处。\n\n②句补充说明问题。It is also...表明本句继续介绍“普及度不够”这一问题的具体体现，其中 It 回指①句的 climate change。less prominent in...点明问题：在社会科学课程中未将气候变化作为重点内容进行教学。\n\nVIII ① Branch points out that, even if a growing number of official guidelines and textbooks reflect scientific consensus on climate change, unofficial educational materials that convey more slanted perspectives are being distributed to teachers. ② They include materials sponsored by energy industry associations. [408 words]\n\n布兰奇指出，虽然越来越多的官方指南和教科书反映出在气候变化问题上的科学共识，但观点更具倾向性的非官方教材正被分发到教师手中。其中包括能源行业协会赞助的教材。\n\n第八段指出教材存在的问题：非官方教材的观点有倾向性。关键词：more slanted perspectives。\n\n①句指出非官方教材的具体问题。even if...先让步承认“越来越多的官方指南和教科书在气候变化问题上达成科学共识(scientific consensus)”; unofficial educational...转而引出问题：比较级 more slanted perspectives 明示“非官方教材的观点更具有倾向性(即欠缺科学性与客观性)”, 现在进行时 are being distributed to teachers 则暗示这些教材“正在/将会对教学产生影响”。\n\n②句例举非官方教材的赞助来源。They 指代 unofficial educational materials（非官方教材）。sponsored by...引出赞助方，energy industry associations 呼应第二段 the energy sector，明确赞助方的站位（以能源行业的利益为重）以及更具倾向性的观点所指（在气候变化的成因上避重就轻，对问题的严重性、非清洁能源带来的负面影响轻描淡写）。\n\n【深层解读】第六至八段从“美国州级科学教育标准”“课程普及度”“教材”三个角度分析气候变化教育存在的问题，暗示改革的必要性与紧迫性。三段的观点引入词均在段首，较为明晰（Glenn Branch... cautions that...、Another issue is that...、Branch points out that...），但要准确把握各段要义，还需注意：1. 借助上下文语义关联、语法知识等明确指代（如第六段②句 it、第八段②句 They 的指代）；2. 表让步关系的主从复合句中（如第六段 Even if...that...、第七段 while...it is not...等），主句一般为语义重心，需重点把握。"
+      },
+      {
+       "number": 25,
+       "score": 2,
+       "stem": "It is implied in the last paragraph that climate change teaching in some schools",
+       "options": {
+        "A": "agrees to major public demands.",
+        "B": "reflects teachers’ personal bias.",
+        "C": "may misrepresent the energy sector.",
+        "D": "can be swayed by external forces."
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 25. It is implied in the last paragraph that climate change teaching in some schools ____. | 25.末段表明，一些学校有关气候变化问题的教学____。 |\n| --- | --- |\n| [A] agrees to major public demands | [A] 顺应了主要的公共需求 |\n| [B] reflects teachers' personal bias | [B] 反映了教师的个人偏见 |\n| [C] may misrepresent the energy sector | [C] 可能会歪曲能源行业 |\n| [D] can be swayed by external forces | [D] 会受到外部力量的影响 |\n\n[精准定位]末段①句先指出，虽然官方指南和教科书能反映出有关气候变化问题的科学共识，但正被分发到教师手中的非官方教材传达的观点具有倾向性；②句进而例举这些非官方教材的来源：能源行业协会赞助。由此可推断，赞助方（即外部力量）会借助这些观点具有倾向性的教材影响学校有关气候变化问题的教学，D项正确。\n\n[命题解密] D 项是对末段文意的合理解读与推断。be swayed by 是对 slanted perspectives... distributed to 和 sponsored by 的高度概括，external forces 则对应 energy industry associations。\n\nA 项将末段①句所述“官方指南和教科书在气候变化问题上体现科学共识（即二者传播的气候变化知识均基于科学研究）”曲解为“学校教学和公共需求在气候变化问题上达成共识（即公众想要了解气候变化知识，学校也愿意在教学中涉及相关的内容）”。B 项将末段①句所述“观点带有倾向性/偏见”的主体由“非官方教材”窜改为“教师”。C 项由末段碎片信息 convey more slanted perspectives、energy industry associations 杂糅捏造而来，文意实指“能源行业协会赞助的观点具有倾向性的教材会间接影响教学”，文中并未提及“教学”对“能源行业”的影响。\n\n[技巧总结] 考查事实细节及推理时，命题人通常会在干扰项中杂糅与原文同义/近义的表述，并通过张冠李戴、颠倒逻辑、偷换概念等方式重组表述，而实际上选项表意已与原文相去甚远。考生需明确句意、理清句间逻辑、把握段落主旨，方可排除干扰、正确作答。如本题，末段①句 even if...unofficial educational...为“让步一转折”逻辑，语义重心在后(主句), 即并非强调“官方指南和教科书的共识(reflect scientific consensus)”, 而是强调“分发到教师手中的非官方教材传达的观点具有倾向性(convey more slanted perspectives)”, ②句点明非官方教材的赞助方(其中 They 指代 unofficial educational materials), 由此可进行如下推断：赞助方使非官方教材的观点偏向自身，而教材的观点会影响教学内容，因此赞助方(即外部力量)会间接影响教学。D 项与之对应，可判定为正确答案。"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Text 2",
+     "passage": [
+      "Communities throughout New England have been attempting to regulate short-term rentals since sites like Airbnb took off in the 2010s. Now, with record-high home prices and historically low inventory, there’s an increased urgency in such regulation, particularly among those who worry that developers will come in and buy up swaths of housing to flip for a fortune on the short-term rental market.",
+      "In New Hampshire, where the rental vacancy rate has dropped below 1 percent, housing advocates fear unchecked short-term rentals will put further pressure on an already strained market. The state Legislature recently voted against a bill that would’ve made it illegal for towns to create legislation restricting short-term rentals.",
+      "“We are at a crisis level on the supply of rental housing,” said Nick Taylor, executive director of the Workforce Housing Coalition of the Greater Seacoast. Without enough affordable housing in southern New Hampshire towns, “employers are having a hard time attracting employees, and workers are having a hard time finding a place to live,” Taylor said.",
+      "However, short-term rentals also provide housing for tourists, pointed out Ryan Castle, CEO of a local association of realtors. “A lot of workers are servicing the tourist industry, and the tourism industry is serviced by those people coming in short term,” Castle said, “and so it’s a cyclical effect.”",
+      "Short-term rentals themselves are not the crux of the issue, said Keren Hom, an expert on affordable housing policy. “I think individuals being able to rent out their second home is a good thing. If it’s their vacation home anyway, and it’s just empty, why can’t you make money off it?” Hom said. Issues arise, however, when developers attempt to create large- scale short-term rental facilities—de facto hotels—to bypass taxes and regulations. “I think the question is, shouldn’t a developer who’s really building a hotel, but disguising it as not a hotel, be treated and taxed and regulated like a hotel?” Hom said.",
+      "At the end of 2018, Governor Charlie Baker of Massachusetts signed a bill to rein in those potential investor-buyers. The bill requires every rental host to register with the state, mandates they carry insurance, and opens the potential for local taxes on top of a new state levy. Boston took things even further, requiring renters to register with the city’s Inspectional Services Department.",
+      "Hom said similar registration requirements could benefit struggling cities and towns, but “if we want to make a change in the housing market, the main one is we have to build a lot more.”"
+     ],
+     "questions": [
+      {
+       "number": 26,
+       "score": 2,
+       "stem": "Which of the following is true of New England?",
+       "options": {
+        "A": "Its housing supply is at a very low level.",
+        "B": "Its communities are in need of funding.",
+        "C": "Its rental vacancy rate is going up slowly.",
+        "D": "Its home prices are under strict control."
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n| 26. Which of the following is true of New England? | 26. 关于新英格兰地区的叙述，下列哪项正确？|\n| --- | --- |\n| [A] Its housing supply is at a very low level. | [A] 其住房供应量极低。 |\n| [B] Its communities are in need of funding. | [B] 其各社区需要资金。 |\n| [C] Its rental vacancy rate is going up slowly. | [C] 其出租空置率在缓慢上升。 |\n| [D] Its home prices are under strict control. | [D] 其房屋价格受到严格管控。 |\n\n[精准定位] 首段②句指出如今新英格兰地区房价创历史新高而库存处历史低位，即“房屋价格极高，房源供给不足”，A项正确。\n\n[命题解密] A 项 housing supply is at a very low level 是对首段②句 historically low inventory 的同义改写 (inventory 意为“存货；库存”)。\n\nB项杂糅首段片段词汇 Communities、urgency、for a fortune 而来，文意实为“面对住房市场现状及开发商的威胁，各社区需要对短租市场进行管控”。C项与第二段①句描述的 New Hampshire（属 New England 地区）的情形“出租空置率已降至 1% 以下（即出租空置率在不断下降）”相悖；此外，首段的“当前库存处于历史低位”也说明“出租空置率一直在下降，并未上升”。D项张冠李戴，将首段中“监管短租市场”偷换为“监管房价”（②句中 such regulation 回指①句的 regulate short-term rentals，而非本句的 home prices）。\n\n[技巧总结] 针对首段设置的事实判断题需要结合段落主旨(往往是全文主旨)进行取舍，正确项应与主旨一致，错误项常与主旨相悖或无关。故解题时可先借各句主干抓段落主旨，随后再将各选项定位至原文并进行比对。Communities...have been attempting to regulate short-term rentals...Now...there's an increased urgency in such regulation...无疑说明首段主旨为“各社区亟需监管短租市场”。四个选项中，若因不识 inventory 一词而无法判断 A 项正误，可先看其他选项：B 项是对首段②句信息的主观臆断，不合句中关系且无关段落主旨，故错误；C 项“出租空置率”虽与主题相关，但方向完全相反，也错误；D 项张冠李戴，偏离主题，也错误。最后结合第二段例举(In New Hampshire)推理第一段②句的逻辑关系、判断 A 项正误：“火爆的短租房市场(short-term rentals)会侵占住房房源(home/housing supply), 而现在新英格兰地区已经住房房源不足、房价极高，且开发商很可能会买入大量房屋用于短租，故监管短租市场迫在眉睫(an increased urgency in such regulation)”, 逻辑合理，A 项正确。\n\nⅡ ① In New Hampshire, where the rental vacancy rate has dropped below 1 percent, housing advocates fear unchecked short-term rentals will put further pressure on an already strained market. ② The state Legislature recently voted against a bill that would've made it illegal for towns to create legislation restricting short-term rentals.\n\n在出租空置率已降至1%以下的新罕布什尔州，保障住房供给的工作者们担心放任短租自由发展将会给一个已然紧张的市场进一步带来压力。其州议会最近刚刚投票否决了一项计划将“城镇制定限制短租房的法规”定为违法行为的议案。\n\n第二段以(隶属新英格兰地区的)新罕布什尔州为例说明最近对短租市场的监管尝试。关键词：voted against a bill。\n\n①句指出该州住房危机尤甚，亟需对短租市场加以管制。从句 where the rental vacancy rate has dropped below 1 percent 说明该州出租空置率/房屋库存量已是极低。主句 housing advocates fear... 指出这一情形之下保障住房供给的工作者的担忧：放任短租自由发展 (unchecked 意为“未受遏制的；未加制止的”) 会加大租房市场已然紧张的压力 (an already strained market 指代从句中的“空置率极低的租房市场”；strained 意为“形势紧张的”)。\n\n②句进而说明该州的应对举措：否决了一项鼓励短租发展的议案。主句 The state Legislature recently voted against a bill 指出州议会否决了一项议案，其中 Legislature 意为“立法机关”,The state Legislature 指“新罕布什尔州立法机关；州议会”,bill 意为“(提交议会讨论的)议案，法案”,voted against 意为“投票否决”。定语从句 that would've made it illegal...restricting...以虚拟语气说明该议案原本欲做之事：将“城镇制定限制短租房的法规”定为违法，即放任甚至鼓励短租市场自由发展。\n\n【深层解读】1. 将双重否定转化为肯定，明确议案内容：议案将限制短租定为非法 (a bill...made it illegal...restricting) = 放任 / 鼓励短租。分清否定对象，明确议会 / 新罕布什尔州的站位：议会投票否定了该议案 (The state Legislature voted against a bill) = 新罕布什尔州要限制 / 监管短租市场。2. 比对段落内容，把握第一、二段间“概述一例举”的逻辑：第二段“出租空置率低于 1%”具体说明首段“房屋库存量低”, 第二段“否决一项让短租市场自由发展的议案”具体说明首段“对短租市场实行监管”。"
+      },
+      {
+       "number": 27,
+       "score": 2,
+       "stem": "The bill mentioned in Paragraph 2 was intended to",
+       "options": {
+        "A": "curb short-term rental speculation.",
+        "B": "ensure the supply of cheap housing.",
+        "C": "punish illegal dealings in housing.",
+        "D": "allow a free short-term rental market."
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| 27. The bill mentioned in Paragraph 2 was intended to ____. | 27. 第二段所提及的议案意在____。 |\n| --- | --- |\n| [A] curb short-term rental speculation | [A] 遏制短租投机行为 |\n| [B] ensure the supply of cheap housing | [B] 确保低价住宅的供应 |\n| [C] punish illegal dealings in housing | [C] 惩罚非法的住房交易 |\n| [D] allow a free short-term rental market | [D] 让短租市场自由发展 |\n\n[精准定位] 第二段②句指出议案计划将“城镇制定限制短租房的法规”定为违法行为，换言之即允许短租市场自由发展，D项正确。\n\n[命题解密] 题干 was intended to 替代原文 would, 明确指向“法案目的”, D 项 allow a free short-term rental market 则是对原文双重否定 made it illegal...to create legislation restricting short-term rentals 的直接表述。\n\nA 项与第二段②句所述的议案内容“规定限制短租房违法(即允许短租市场自由发展)”相悖。B 项虽与第三段①句信息基本一致，但这无关法案目的，选项实则文不对题；且比对可知，第三段所述观点与法案目的反向。C 项杂糅第二段关键词 illegal、housing 与日常情形捏造干扰“议案意在惩罚非法的住房交易”,原文实指“将城镇的某些立法行为定为非法”,惩罚对象是“城镇的立法行为”而非“住房交易行为”。\n\n[技巧总结] The bill/law/rule was intended to 为典型的“目的/初衷题”。若定位句涉及多个主体、多个否定表述，须谨记题干问及的对象，理清事物的真正目的。本题定位句 The state Legislature recently voted against a bill that... 涉及对立双方 The state Legislature vs a bill，题干问及 The bill，故可直接关注其定语从句（a bill）that...。从句 that would've made it illegal for towns to create legislation restricting short-term rentals 含两个否定表述，需认识到负负为正：将限制某事定为非法 = 允许某事发展，D 项正确。A、C 项“遏制短租”“惩罚住房交易”都仅看到其中一个否定表述（restricting...），与文意方向相反，故排除；B 项则与议案无关，也排除。\n\nⅢ ① “We are at a crisis level on the supply of rental housing,” said Nick Taylor, executive director of the Workforce Housing Coalition of the Greater Seacoast. ② Without enough affordable housing in southern New Hampshire towns, “employers are having a hard time attracting employees, and workers are having a hard time finding a place to live,” Taylor said.\n\nIV ① However, short-term rentals also provide housing for tourists, pointed out Ryan Castle, CEO of a local association of realtors. ② “A lot of workers are servicing the tourist industry, and the tourism industry is serviced by those people coming in short term,” Castle said, “and so it’s a cyclical effect.”\n\n“我们的出租房屋供应已经到了危机水平。”大海岸地区劳工住房联盟的执行董事尼克·泰勒声称。新罕布什尔州的南部城镇没有足够的可负担住房，“所以雇主吸引不来员工，工人也难以找到住处”，泰勒说道。\n\n然而，短租房也为游客提供住处，一家当地房地产经纪人协会的 CEO 瑞恩·卡斯尔指出。“许多劳动者在服务于旅游业，而旅游业则靠短暂到此的人们支撑，”卡斯尔说，“这就形成了循环效应。”\n\n**语篇分析**\n\n**第三、四段介绍短租市场影响之争：短租有害 vs 短租有益。**\n\n第三段说明劳工住房联盟负责人泰勒(Taylor)的观点：短租加剧出租房供应危机，阻碍劳动力进入，影响经济发展。关键词：having a hard time。\n\n①句指出目前出租房供应已到危机水平。the supply of rental housing 明确泰勒的关注对象“出租房屋供应”。a crisis level 强调如今出租房屋供给严重不足，亟待应对。executive director of the Workforce Housing Coalition...点明泰勒身份，暗示其考虑问题的角度“保障劳工住房”。\n\n②句以新罕布什尔州南部城镇为例，说明其不良后果。Without enough affordable housing...“employers are having a hard time...workers are having a hard time...”说明没有足够可负担住房的严重后果：工人找不到住处，雇主吸引不来员工(影响当地经济发展)。\n\n第四段说明房地产经纪人协会 CEO 卡斯尔 (Castle) 的观点：短租促进旅游业，利于劳动者就业，利于经济发展。关键词：a cyclical effect。\n\n①句指出短租可服务于游客。However, short-term rentals also...表明本段转而说明短租的积极作用。provide housing for tourists 明确短租的益处“为游客提供住处”。CEO of a local association of realtors 点明卡斯尔的身份，暗示其考虑问题的角度“房地产经纪人的利益”。\n\n②句进一步指出短租的循环效应。三个分句构成“分—总”关联，分句一、二“A are servicing B, and B is serviced by C”描绘良性循环：工人服务于旅游业→旅游业服务于游客→繁荣的旅游业为工人提供就业、收入。注：此处 service 作动词，表示“为……提供服务、支持”，the tourism industry is serviced by those coming in short term 表面意为“旅游业被短暂到此的人（即游客）服务”，可视为修辞表达，实际指“游客支撑着旅游业的发展”。分句三则以“循环效应(a cyclical effect)”概指上述关联。\n\n【深层解读】第三、四段借 However 形成转折，对比了泰勒和卡斯尔对短租的不同看法，二者身份不同，站位自然不同。泰勒（劳工住房联盟负责人）聚焦短租的负面影响：挤占长租房资源、刺激房租升高，导致工人无可负担住房，经济发展受限。卡斯尔（房地产经纪联盟负责人）则聚焦短租的正面影响：为游客提供住处，促进旅游业发展，带动就业、发展经济。言外之意即：泰勒主张限制短租，增加可负担住房，而卡斯尔则支持发展短租。"
+      },
+      {
+       "number": 28,
+       "score": 2,
+       "stem": "Compared with Castle, Taylor is more likely to support",
+       "options": {
+        "A": "further investment in local tourism.",
+        "B": "an increase in affordable housing.",
+        "C": "strict management of real estate agents.",
+        "D": "a favorable policy for short-term workers."
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 28. Compared with Castle, Taylor is more likely to support ____. | 28. 相较于卡斯尔，泰勒更可能会支持____。 |\n| --- | --- |\n| [A] further investment in local tourism | [A] 进一步投资当地旅游业 |\n| [B] an increase in affordable housing | [B] 增加可负担住房的供应 |\n| [C] strict management of real estate agents | [C] 对房地产代理严加管理 |\n| [D] a favorable policy for short-term workers | [D] 出台利好短期工人的政策 |\n\n[精准定位] 第三段介绍劳工住房联盟负责人泰勒的观点“没有足够的可负担住房，雇主吸引不来员工，工人也难以找到住处”，第四段转而介绍房地产经纪人协会 CEO 卡斯尔的观点：服务于短期游客的短租房有助于维系工人的工作。可推知二者观点趋于对立，泰勒应支持“限制短租房、增加可负担住房的供应”，卡斯尔则支持“发展短租房市场”，B 项正确。\n\n[命题解密] 题干 + B 项是对第三段泰勒的话语 We are at a crisis level on the supply of rental housing... Without enough affordable housing... employers are having a hard time... workers are having a hard time... 的合理引申。\n\nA项曲解文意，将第四段“短租房助益当地旅游业，有益于相关从业者，故需支持短租房发展”窜改为“需投资当地旅游业”；同时又张冠李戴，将卡斯尔的观点套用于泰勒。C项杂糅泰勒的观点“短租带来(长)租房供应危机”及与其对立的房地产经纪人协会 CEO 卡斯尔的观点“发展短租有益”，臆断泰勒认为“罪魁祸首是房地产商，应严加监管”，但文中并无这层关系。第三、四段②句中泰勒与卡斯尔均谈及“利好工人”，只是途径不同，因此D项为两者观点的一致之处，而非相异之处；此外，文中 short-term 指向的是“短租客/游客”而非“短期工人”，文中并未提及短期工人。\n\n[技巧总结] 本题考查人物观点的比较，可采取以下思路解题：1. 借助人物身份，推测其站位。2. 分析双方话语的逻辑，确定各自关注对象及具体看法。3. 基于上述分析对双方看法作进一步推理。首先，根据泰勒的身份“劳工住房联盟负责人”可大概推知其关注点在于“劳工住房保障”,而根据卡斯尔的身份“房地产经纪人协会 CEO”可大概推知其关注点在“房地产经纪人的利益”,初步判断 B 项正确。随后，抓取第三段 crisis...supply of rental housing...Without enough A, B and C 及第四段 X also provide housing for Y...Z are serving W...W is serviced by Y,可梳理出两人的观点“短租房过量导致工人可负担住房不足 vs 短租房有益旅游业发展，维系大量工人的工作”。据此可推知，两人会分别支持“减少短租，增加可负担住房”和“发展短租”,验证 B 项无误。\n\nV ① Short-term rentals themselves are not the crux of the issue, said Keren Horn, an expert on affordable housing policy. ② “I think individuals being able to rent out their second home is a good thing. ③ If it’s their vacation home anyway, and it’s just empty, why can’t you make money off it?” Horn said. ④ Issues arise, however, when developers attempt to create large-scale short-term rental facilities—de facto hotels—to bypass taxes and regulations. ⑤ “I think the question is, shouldn’t a developer who’s really building a hotel, but disguising it as not a hotel, be treated and taxed and regulated like a hotel?” Horn said.\n\n可负担住房政策专家克伦·霍恩指出，短租房本身并非问题的症结所在。“我认为个人能把自己的第二寓所拿来出租是件好事。如果这再加之是他们的度假屋且刚好空置，为什么不能用它来赚钱？”霍恩说道。然而，当开发商试图修建大型短租场所——实质上为酒店——来绕过税收和法规之时，问题便出现了。“我认为问题在于，实际上是在建一家酒店但将其伪装成非酒店的开发商，难道不应该像酒店一样被看待、被征税、被监管么？”霍恩说道。\n\n**语篇分析**\n\n第五段借住房专家霍恩(Horn)之口总结争议：短租房本身并非症结所在，真正该监管的是借短租房逃税的开发商。关键词：①developers; ②bypass taxes and regulations。\n\n①至③句聚焦个人(individuals)，指出短租房本身并非症结所在，个人将闲置房拿来出租是件好事。\n\n①句总述。否定判断句 A are not the crux of the issue 明确霍恩的结论。the issue 指代上述“住房危机”; crux 意为 the most important or difficult part of a problem or an issue “(难题或问题的)关键，症结”; expert on affordable housing policy 表明霍恩的专家身份，暗示其结论更为专业客观。\n\n②③句分述。A is a good thing 与 If..., why can't...make money off it? 一正一反，强调个人将自己的闲置房拿来出租赚钱是件好事，本身合理。\n\n④⑤句转而聚焦开发商(developers)，揭示真正的症结所在：开发商实际上建的是酒店却将其伪装为短租房，目的在于逃避税收和监管。\n\n④句以 Issues arise, however, when...指出真正的问题所在。create large-scale short-term rental facilities、de facto hotels[de facto 意为“实际上存在的(不一定合法)”]说明开发商的行为“大规模开发披着短租房伪装的酒店”，to bypass taxes and regulations 明确开发商的目的“绕过税收和监管”。\n\n⑤句以否定反问句 shouldn't...? 表达霍恩质疑，强调监管的必要性。who's really building a hotel, but disguising it as not a hotel 进一步明确开发商的“伪装性质”。否定反问句 shouldn't a developer...be treated and taxed and regulated like a hotel 以被动语态的排比、hotel 一词的省略复现传达霍恩的强烈建议：应该对将酒店伪装成短租房的开发商按酒店标准来对待、征税、监管。\n\n【深层解读】1. 本段①②③句群与④⑤句以 Short-term rentals themselves are not the crux of the issue...Issues arise, however, when...形成取舍转折，明确真正的问题所在。2. 前三句关注“个人为增收而将闲置房拿来短租(individuals...second home...vacation home)”指出这是好事(a good thing);后两句关注“开发商为逃税而将酒店伪装成短租房(developers...create large-scale short-term rental facilities—de facto hotels...bypass taxes and regulations)”，指出这是问题(Issues)。3. 后两句中 create large-scale short-term rental facilities 和 bypass taxes and regulations 暗中揭示必须阻止的问题：修建大型短租设施会占用大量住房房源，逃脱税收和监管更损害公民利益。"
+      },
+      {
+       "number": 29,
+       "score": 2,
+       "stem": "What does Hom emphasize in Paragraph 5?",
+       "options": {
+        "A": "The urgency to upgrade short-term rental facilities.",
+        "B": "The efficient operation of the local housing market.",
+        "C": "The necessity to stop developers from evading taxes.",
+        "D": "The proper procedures for renting out spare houses."
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n| 29. What does Horn emphasize in Paragraph 5? | 29. 霍恩在第五段中强调了什么？|\n| --- | --- |\n| [A] The urgency to upgrade short-term rental facilities. | [A] 升级短租场所的紧迫性。 |\n| [B] The efficient operation of the local housing market. | [B] 当地住房市场运营的有效性。 |\n| [C] The necessity to stop developers from evading taxes. | [C] 阻止开发商逃税的必要性。 |\n| [D] The proper procedures for renting out spare houses. | [D] 出租空置房的程序的正规性。 |\n\n[精准定位] 第五段霍恩先指出“短租房本身并非问题症结所在，个人利用闲置房赚钱是件好事”；后转而强调“当开发商通过将酒店伪装成短租房来逃避税收和法规时，问题出现；难道不应该像对酒店一样对他们进行征税和监管？”。可见霍恩意在强调“要阻止开发商逃税”，C项正确。\n\n[命题解密] C 项提炼第五段末两句 Issues arise...when developers...bypass taxes...shouldn't a developer...be treated and taxed...传达的霍恩观点。\n\nA 项将第五段④句中霍恩强调的问题“开发商会修建大型短租场所来逃避征税”曲解为与之相反的“开发商应建立大型短租场所(以进行升级)”。B 项误认为第五段③句是在指出“当地房产市场应高效运营，提高空置房利用率”，但该句实为说明“个人把自己的空置房拿来出租赚钱无可厚非”，无关住房市场的运营。第五段②句中霍恩只讨论了“出租闲置房的合理性(a good thing)”，D 项所关注的“出租空置房程序的正规性(proper procedures)”文中并未提及。\n\n[技巧总结] 本题考查人物的核心观点，也即第五段主旨。解题关键在于：1.识别段落整体以 however 构成的让步转折，意识到语义重点在转折之后。2.对于有插入语的句子需要整体理解，切忌断章取义。3.理解反问句所传递的强烈情感。根据本段首句与④句形成的取舍关系“X are not the crux of the issue...Issues arise, however, when Y”可判断出前三句铺垫，主旨落于④⑤句，这两句的重点又落在反问句式 shouldn't...be treated and taxed and regulated like...? 凸显的强烈建议“理应对将酒店伪装成短租设施的开发商按照酒店标准进行征税和监管”，锁定 C 项。\n\nVI ① At the end of 2018, Governor Charlie Baker of Massachusetts signed a bill to rein in those potential investor-buyers. ② The bill requires every rental host to register with the state, mandates they carry insurance, and opens the potential for local taxes on top of a new state levy. ③ Boston took things even further, requiring renters to register with the city's Inspectional Services Department.\n\nVII Horn said similar registration requirements could benefit struggling cities and towns, but “if we want to make a change in the housing market, the main one is we have to build a lot more.” [418 words]\n\n2018年底，马萨诸塞州州长查理·贝克签署了一项法案，以遏制此类潜在的投资型买家。该法案要求所有出租屋屋主必须到州政府登记，规定其必须购买保险，并提出有可能会在新州税基础上增收地方税。波士顿市则更进一步，要求出租人到市检查服务部进行登记。\n\n霍恩表示，类似的登记要求会让陷于困境的城镇从中受益，但“如果我们想要真正改变现有住房市场，最根本的途径是必须建造更多的住房”。\n\n**语篇分析**\n\n第六、七段明确政府应采取的针对性解决办法。\n\n第六段介绍马萨诸塞州施行的法规：强制屋主登记，以遏制投资型买家。关键词：requires every rental host to register。\n\n①②句介绍马萨诸塞州的州法。\n\n①句引入：2018年底州长签署法案，以遏制潜在投资型买家。those potential investor-buyers 回指上段后半部分所述“将酒店伪装成短租房以逃避税收和监管的开发商”,signed a bill to rein in those potential investor-buyers(rein in 意为“严格控制；加强管理”)则承接上段，指向监管漏洞的解决。\n\n②句详述法案内容。句子以 The bill requires...mandates...and opens...阐明法案的多项规定：要求所有屋主必须到州政府登记(通过前期筛查，排除投资型买家);要求屋主购买保险，并可能增收地方税(规范短租房市场，并增加其成本，以打消投资动机)。\n\n③句补充介绍波士顿更进一步的市规。Boston took things even further 强调波士顿市(马萨诸塞州首府)的规定严于州法，requiring renters to register with the city's Inspectional Services Department 表明市政府专门机构会对短租房进行更细致、更全面的检查，以打击投资型买家。\n\n第七段继续援引住房专家 Horn 的观点，指出住房问题最根本的解决办法是“建造更多住房”。关键词：to build a lot more。\n\n本段独句收篇，句子以 but 形成转折。前半句承接上段，肯定类似的登记要求对于解决住房危机有一定作用（could benefit struggling cities and towns）。后半句 but “if...the main one is...转而强调解决住房问题的根本途径在于大力建造住房（build a lot more），整句观点进一步推理即：应以登记要求规范短租市场、打击投资型买家为辅，大力建造住房为主。\n\n【深层解读】1. 第六、七段间以 The bill requires...to register/Boston...requiring...to register 与 Horn said similar registration requirements 形成“介绍措施—点评措施”的述评结构。2. 第七段段内以 A could benefit struggling cities and towns, but if we want to make a change...the main one is B 强调“登记要求有益，但不能从根本上解决问题，根本途径在于大力建造住房。3. 第七段 struggling cities and towns...make a change in the housing market 呼应文章开篇 record-high home prices and historically low inventory，共同指向“房价极高而库存及低的住房市场”。"
+      },
+      {
+       "number": 30,
+       "score": 2,
+       "stem": "Hom holds that imposing registration requirements is",
+       "options": {
+        "A": "an irrational decision.",
+        "B": "an unfeasible proposal.",
+        "C": "an unnecessary measure.",
+        "D": "an inadequate solution."
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| 30. Horn holds that imposing registration requirements is ____. | 30. 霍恩认为，强制注册的要求是____。 |\n| --- | --- |\n| [A] an irrational decision | [A] 一个不合理的决定 |\n| [B] an unfeasible proposal | [B] 一个不可行的提议 |\n| [C] an unnecessary measure | [C] 一个不必要的举措 |\n| [D] an inadequate solution | [D] 一个不完善的解决方案 |\n\n[精准定位]末段霍恩先让步肯定“这类强制登记要求有益于解决城镇的住房危机”，后转而强调“最根本的解决办法在于建造更多住房”。综合可知，霍恩认为“强制注册的要求有助于解决住房问题，但无法根治该问题”，D项正确。\n\n[命题解密] D 项 an inadequate solution 概括了末段中霍恩对强制注册要求的双面态度。\n\nA 项关键词 irrational 源自第六段②句的绝对表达 requires every rental host to register, 但该句为作者对法案要求的客观介绍，并未体现霍恩对法案要求的看法。B 项关键词 unfeasible 是对末段句内转折的曲解，认为“霍恩是在先让步承认法案的要求虽貌似有效，后转而指出实则不可行/难实施，需另寻他法”, 但文中转折前后并非都关注“法案的要求”, 而是先指出“法案的要求有益于困境中的城镇”, 后转而指出“最根本的途径是必须建造更多住房”。C 项关键词 unnecessary 同样源自对末段句内转折的曲解，认为“霍恩是在表达不必强制要求登记，需要做的是建造更多住房”, 将句子前后两大举措在解决住房问题上的关系由“主次 (the main one)”窜改为“取舍 (unnecessary)”。\n\n[技巧总结] 对于特定事物评价类人物观点题，需要做到：1. 分清文中信息“客观介绍事物内容 vs 人物观点看法”;2. 仔细推敲人物话语，准确把握其观点，尤其要注意文中的转折逻辑、取舍关系等。3. 结合文中同一人物的其他观点进行整体把握。如本题，可先判定“第六段介绍登记要求，第七段霍恩发表看法”,然后仔细推敲第七段内部的转折逻辑，最后结合第五段所述的霍恩观点“应阻止开发商逃税/遏制投资型买家”可知，作者对注册要求为支持/接受态度，便可确定符合末段语义且顺应霍恩整体立场的 D 项正确，排除错解末段转折关系且违背霍恩立场的 A、B、C 三项。"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Text 3",
+     "passage": [
+      "The Bench If you’re heading for your nearest branch of Waterstones, the biggest book retailer in The President’s Daughter the UK, in search of the Duchess of Sussex’s new children’s book , you might have to be prepared to hunt around a bit; the same may be true of , the new thriller by Bill Clinton and James Patterson. Both of these books are published next week by Penguin Random House (PRH), a company currently involved in a stand-off with Waterstones.",
+      "The Bookseller The problem began late last year, when PRH confirmed that it had introduced a credit limit with Waterstones “at a very significant level”. The trade magazine reported that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables, display spaces and windows, and were “quietly retiring them to their relevant sections”.",
+      "PRH declined to comment on the issue, but a spokesperson for Waterstones told me: “Waterstones are currently operating with reduced credit terms from PRH, the only publisher in the UK to place any limitations on our ability to trade. We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. We are hopeful with our shops now open again that normality will return and that we will be allowed to buy appropriately. Certainly, our shops are exceptionally busy. The sales for our May Books of the Month surpassed any month since 2018.”",
+      "In the meantime, PRH authors have been the losers. Big-name PRH authors may suffer a bit, but it’s those mid-list authors, who normally rely on Waterstones staff’s passion for promoting books by lesser-known writers, who will be praying for an end to the dispute.",
+      "It comes at a time when authors are already worried about the consequences of the proposed merger between PRH and another big publisher, Simon & Schuster—the reduction in the number of unaligned UK publishers is likely to lead to fewer bidding wars, lower advances, and more conformity in terms of what is published.",
+      "“This is all part of a wider change towards concentration of power,” says literary agent Andrew Lownie. “The publishing industry talks about diversity in terms of authors and staff but it also needs a plurality of ways of delivering intellectual contact, choice and different voices. After all, many of the most interesting books in recent years have come from small publishers.”",
+      "We shall see whether that plurality is a casualty of the current need among publishers to be big enough to take on all-comers."
+     ],
+     "questions": [
+      {
+       "number": 31,
+       "score": 2,
+       "stem": "The author mentions two books in Paragraph 1 to present",
+       "options": {
+        "A": "an ongoing conflict.",
+        "B": "an intellectual concept.",
+        "C": "a prevailing sentiment.",
+        "D": "a literary phenomenon."
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n| 31. The author mentions two books in Paragraph 1 to present ____. | 31. 作者在第一段提及两本书是为了说明____。 |\n| --- | --- |\n| [A] an ongoing conflict | [A] 一场正在上演的纠纷 |\n| [B] an intellectual concept | [B] 一个知识性的概念 |\n| [C] a prevailing sentiment | [C] 一种盛行的情绪 |\n| [D] a literary phenomenon | [D] 一种文学现象 |\n\n[精准定位] 由题干信息 two books、Paragraph 1 定位至首段（The Bench... The President's Daughter... Both of these books）。首段①句指出，若想在水石书店找到《长椅》和《总统的女儿》，很可能要费些周折。②句则指出，这两本书下周将由企鹅兰登书屋出版，而该公司目前正与水石书店处于对峙状态(a stand-off)。A 项正确。\n\n[命题解密] A 项准确把握了开篇段“由个例现象到背后原因，且意在突出背后原因”的论证逻辑，且能顺接下文，体现文章探讨的主题。\n\nB项错误抓取段落重心，句中 the new thriller 只是对《总统的女儿》的补充介绍，第一段并非重在介绍这一概念，且另一本书《长椅》为儿童读物，并不属于这一体裁。C项利用首段①句 you might have to be prepared to hunt around a bit 以及表示“这不止一例”的 the same may be true...过度联系至“人们常有的书店情结”，但作者实际强调“在水石书店找两本书会费时费力”，无关“希望能长时间流连于书店的情结”。D项由首段①句与文学体裁有关的碎片信息 new children's book、the new thriller 等臆断而来，但这些信息只是对两本书的补充介绍，首段①句描述的现象实为“在水石书店不能很快找到两本书”，无关“文学现象”。\n\n[技巧总结] 写作目的题的解题关键在于找到事例/论据所服务的现象/论点，针对开篇事例设置的写作目的题，正确项更是往往指向文章话题或主旨。本题四个选项均为抽象名词短语，说明解题需要在原文的基础上进行一定的提炼和概括。本题解题难点在于读懂首段两句之间隐含的因果关系，若无法直接得出，可借助段间关系解题：1. 第一段段末的 a stand-off，第二段段首的 The problem，第三段段首的 the issue 均暗示首段重在引出文章话题“一项纷争”。2. 第二段介绍了企鹅兰登书屋和水石书店各自的做法，明确指出水石书店正将企鹅兰登书屋的图书从显眼的地方移开（remove PRH books from prominent areas）。由这两条线索可以完善首段因果逻辑，明确作者提及两本书必然是为了引出这场纠纷，由此锁定 A 项。\n\nⅡ ① The problem began late last year, when PRH confirmed that it had introduced a credit limit with Waterstones “at a very significant level”. ② The trade magazine The Bookseller reported that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables, display spaces and windows, and were “quietly retiring them to their relevant sections”.\n\n问题始于去年年底，当时企鹅兰登书屋确认自己已“在非常大的程度上”对水石书店实施了赊购限制。行业杂志《书商》报道说，水石书店的分店经理们正被要求将企鹅兰登书屋出版的图书从桌面、展示区以及橱窗等显眼的地方移开，并“悄悄地将它们退回各自相关区域”。\n\n**语篇分析**\n\n第二段说明对峙状态的起源及双方的具体做法。关键词：①a credit limit;②remove PRH books from prominent areas。\n\n①句借企鹅兰登书屋之口(PRH confirmed)指出对峙问题的起源：企鹅兰登书屋于去年底对水石书店实行了非常严苛的赊购限制。The problem 回指首段末的 a stand-off,句子以 The problem began... when...追溯问题起源。introduce 为熟词僻义，意为“实施；采用”;credit limit 为贸易术语，意为“信用限额；赊购限制”;introduce sth with sb 为固定搭配，意为“对某人实施某物”,此处用于指出“企鹅兰登书屋对水石书店实施赊购限制”。at a very significant level(其中 significant 意为 large or important enough to have an effect“有重大意义的；显著的”)则强调“赊购限制相当严苛”。\n\n②句借行业杂志《书商》的报道(The Bookseller reported)说明水石书店所作的回应：将企鹅兰登书屋的图书搬离了显眼区域。branch managers were being told 暗含的指令发出者为“水石书店总部”,回应上句的企鹅兰登书屋的举措，形成“巨头对峙”局面。remove PRH books from prominent areas, quietly retiring them to their relevant sections 则说明水石书店的做法：将企鹅兰登书屋出版的图书从各个显眼区域撤下，退回各自相关区域，和众多同类书放在一起。retire 本意为“(令)退职；(使)退休”，这里以比喻用法形象说明企鹅兰登书屋的图书在水石书店“退居暗处”的情形。\n\n**真题精解**\n\n【深层解读】一、关注段间逻辑：本段与首段形成“引入话题—予以详释”的关系，这是案例/现象分析类文章最常见的行文方式。明确两段首尾 The problem 与 a stand-off 的回指关系是把握段间关系的关键。二、关注时态变化：本段以时态变化 PRH confirmed...it had introduced a credit limit...The Bookseller reported that Waterstones branch managers were being told to...and were...retiring...体现动作发生时间上的先后顺序，介绍“A 对 B 发起限制—B 对 A 进行回应”的对峙局面。"
+      },
+      {
+       "number": 32,
+       "score": 2,
+       "stem": "Why did Waterstones shops retire PRH books to their relevant sections?",
+       "options": {
+        "A": "To make them easily noticeable.",
+        "B": "To comply with PRH’s requirement.",
+        "C": "To respond to PRH’s business move.",
+        "D": "To arrange them in a systematic way."
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| 32. Why did Waterstones shops retire PRH books to their relevant sections? | 32. 水石书店为什么要将企鹅兰登书屋出版的图书退回各自相关区域？|\n| --- | --- |\n| [A] To make them easily noticeable. | [A] 为了使它们更容易被注意到。 |\n| [B] To comply with PRH's requirement. | [B] 为了遵循企鹅兰登书屋的要求。 |\n| [C] To respond to PRH's business move. | [C] 为了应对企鹅兰登书屋的商业行动。 |\n| [D] To arrange them in a systematic way. | [D] 为了更系统化地摆放它们。 |\n\n[精准定位] 由题干中的关键词 Waterstones shops retire PRH books to their relevant sections 可定位至第二段(retiring them to their relevant sections)。第二段①句指出，对峙局面始于去年底企鹅兰登书屋对水石书店实施了严苛的赊购限制。随后②句则说明水石书店的新举措：将企鹅兰登书屋出版的图书从显眼的地方移开，并将它们退回各自相关区域。可见，水石书店的行为是在回应企鹅兰登书屋的赊购限制。C项正确。\n\n[命题解密] C 项准确解读第二段两句所述的“企鹅兰登对水石书店发起限制——水石书店进行回应”的对峙局面。\n\nA 项与 remove...from...说明的“水石书店将企鹅兰登书屋出版的图书从引人注目的区域搬离”完全相反。B 项从第二段①句 PRH...had introduced a credit limit with Waterstones 曲解出隐含“要求”，但句中企鹅兰登书屋对水石书店并非提出具体要求，而是施加贸易限制。D 项断章取义，忽略了第二段段首 The problem began late last year 及②句 Waterstones branch managers were being told to...所体现的“针对①句所述企鹅兰登书屋的举措”之意。\n\n[技巧总结] 本题考查水石书店“将企鹅兰登书屋出版的图书退回各自相关区域”这一举动背后的原因，题干关键词 retire...to their relevant sections 明确复现原文第二段②句信息，解题重点在于借助段落结构、指代关系、动词时态等分析该句与上下文的语义逻辑。\n\n第二段①句中 The problem 回指第一段提及的“企鹅兰登书屋正与水石书店处于对峙局面”，The problem began...when PRH confirmed that it had...表明段落主旨“追溯问题起源”并明确了企鹅兰登的先发制人之举，②句 Waterstones branch managers were being told to...则体现了水石书店的反制之举。C 项关键词 respond to 明确了这种“回应/回击”关系，business move 则恰当概括“企鹅兰登书屋对水石书店加大赊购限制之举”，故正确。本题 B 项为强干扰项，考生很容易陷入“曲解两句逻辑关系”的陷阱。可借以下线索排除：1. comply with 显然不符合“双方处于对峙状态”的大前提。2. 企鹅兰登书屋并非对水石书店提出具体要求，而是施加贸易限制，PRH's requirement 不能准确概括①句内容。\n\nⅢ ① PRH declined to comment on the issue, but a spokesperson for Waterstones told me: \"Waterstones are currently operating with reduced credit terms from PRH, the only publisher in the UK to place any limitations on our ability to trade. ② We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. ③ We are hopeful with our shops now open again that normality will return and that we will be allowed to buy appropriately. ④ Certainly, our shops are exceptionally busy. ⑤ The sales for our May Books of the Month surpassed any month since 2018.\"\n\n企鹅兰登书屋拒绝就此发表评论，但水石书店的发言人告诉我：“水石书店目前经营中来自企鹅兰登的赊购期限已被缩减，在英国，这是唯一一家对我们的贸易能力施加限制的出版商。我们并没有抵制企鹅兰登书屋的图书，但正尽自己最大努力以确保在总体库存水平降低的情况下仍对顾客的需求保持良好的供应能力。现在我们的书店已重新开业（注：此处指曾因疫情关闭），希望一切能恢复正常，希望我们能被允许以一种恰当的方式购进图书。当然，我们书店的业务极其繁忙。5月份‘月度之书’的销量超过了2018年以来的任何月份。”\n\n**语篇分析**\n\n第三段介绍水石书店发言人对双方对峙局面所作的评价。关键词：① reduced credit terms; ② normality will return。\n\n①句表明书店方对企鹅兰登书屋缩减赊购期限的不满。The issue 照应第一段②句 a stand-off、第二段①句 The problem, 代指企鹅兰登书屋与水石书店的“对峙”。operating with reduced credit terms from PRH(credit terms 为专业术语，意为“信用期限；赊购期限”)回应第二段①句 it had introduced a credit limit with Waterstones, 证实企鹅兰登书屋在对水石书店实施严格的赊购限制。place... limitations on our ability to trade 则回应第二段①句 at a very significant level, 说明赊购限制相当严苛，影响了水石书店的贸易能力。the only publisher、any 则体现书店对企鹅兰登书屋的做法的不满：整个英国，限制我们贸易能力的出版商仅此一家。\n\n②句解释书店将企鹅兰登书屋的图书退回相关区域的原因。本句以 We are not boycotting PRH titles but we are doing....形成取舍，澄清书店将企鹅兰登书屋的图书从显眼区域撤下、退回相关区域，并非是在进行抵制（boycott 意为“抵制”），而是另有原因。转折之后具体解释原因：由于企鹅兰登书屋的赊购限制导致水石书店库存总量减少（the lower overall levels of stock）→因此为了保证对确有需求的顾客的供应能力（to ensure that availability for customers remains good），书店不得不降低图书的可见性，将其从显眼区域撤下。\n\n③④⑤句表达书店对于未来经营的乐观态度及对于企鹅兰登书屋解除严苛限制的希望。\n\n③句正向表明观点“书店现已重新开业，希望能回归正常，被允许以恰当的方式购进图书”。normality will return、be allowed to buy appropriately 说明企鹅兰登书屋当初对书店实施严苛赊购限制的直接原因“疫情期间的非正常情形（书店关门、销量下滑）”，并表明书店如今的希望“恢复正常，被允许以恰当的方式购进图书（即，企鹅兰登书屋解除严苛的限制）”。\n\n④⑤句进一步说明书店经营情形非常乐观(暗示赊购期限理应回归正常水平)。exceptionally busy、surpassed any month since 2018 说明书店当前情形“店内繁忙，销量回归，月度之书的销量甚至超过了疫情前”，言外之意即赊购期限应随之回调。\n\n【深层解读】一、重视细节信息传递出的人物立场：本段重在介绍水石书店发言人的话语，故人物的基本立场是“维护水石书店利益，矛头指向企鹅兰登书屋的做法，同时态度又应不卑不亢”。表示对比转折的 not、but、despite，传达希望的 We are hopeful 和表示让步强调的 Certainly 等都体现了“书店发言人”这一身份的特点。二、注意段间暗含的逻辑关系：本段承接上段，说明双方对上文所述“对峙状态”的态度，其中企鹅兰登方拒绝发表评论，因此重在介绍水石书店方的评价和澄清，其中②句“我们并没有抵制企鹅兰登书屋的图书，但正尽自己最大努力以确保在总体库存水平降低的情况下仍对顾客的需求保持良好的供应能力\"恰为对第二段中②句所述书店做法“将企鹅兰登书屋的图书搬离显眼区域”的解释澄清，可作为解答针对上段所设题目32题的辅助线索。"
+      },
+      {
+       "number": 33,
+       "score": 2,
+       "stem": "What message does the spokesperson for Waterstones seem to convey?",
+       "options": {
+        "A": "Their customers remain loyal.",
+        "B": "The credit limit will be removed.",
+        "C": "Their stock is underestimated.",
+        "D": "The book market is rather slack."
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 33. What message does the spokesperson for Waterstones seem to convey? | 33. 水石书店的发言人似乎传达了什么讯息？|\n| --- | --- |\n| [A] Their customers remain loyal. | [A] 他们的顾客依然忠实。 |\n| [B] The credit limit will be removed. | [B] 赊购限制将会被解除。 |\n| [C] Their stock is underestimated. | [C] 他们的库存被低估了。 |\n| [D] The book market is rather slack. | [D] 图书市场现在相当萧条。 |\n\n[精准定位] 由题干中人物关键词 the spokesperson for Waterstones 可定位至第三段 (a spokesperson for Waterstones)。第三段全段直接引用水石书店发言人的话语，其中①②表明企鹅兰登书屋疫情期间对水石书店实施的严格赊购限制/缩短的赊购期限对书店影响巨大。③句传达对书店重新营业后经营情势和购书方式皆恢复正常的期望。④⑤句则指出如今书店极其繁忙，五月份月度之书的销量创 2018 年来最高。整体理解可知，发言人意在强调：书店如今再度迎来繁忙，销量再创新高，企鹅兰登书屋也应该解除疫情期间对其实施的严苛赊购限制。B 项正确。\n\n[命题解密] B 项是基于③至⑤句 normality will return、will be allowed to buy appropriately、exceptionally busy、sales...surpassed any month since 2018 的合理推理。\n\nA 项将第三段②句 availability for customers remains good 错解为“顾客的可得性/忠诚性依然很好（将 for 误看为 of）”，或将③句 we will be allowed to buy 曲解为“顾客期盼能够早日从水石书店购书”，又或将④⑤句信息断章取义，也很可能认为发言人是在强调“顾客依然忠诚”，但文中实际意在强调的是“书店经营状况很好，销量回归”，并未提及顾客的态度/行为变化，remain loyal 缺乏信息支撑。C 项将第三段②句 the lower overall levels of stock 指出的“书店的总体库存量下降/较低”偷换为与之存在很大语义偏差的“库存量被低估”。D 项与④⑤句传达的“水石书店业务繁忙，图书销量再创新高”完全相悖，且两句关注的只是“水石书店的情形”，并未讨论“整个图书市场”。\n\n[技巧总结] 本题为就整段引用人物话语处设置的推理引申题，seem to convey 暗示本题指向说话人的言外之意，需要在原文的基础上进行一定推理。解题关键是结合文章大背景、说话人身份以及上下文内容梳理人物话语中的多个信息要点，明确人物想要表达的观点。\n\n具体而言，首先根据文章考查年份可知本文应写于2022或2021年，并结合文中 our shops now open again...normality will return 推知文章写作背景“疫情期间店面关门后再次开始营业”。随后具体分析段落内容，明确定位段①②句是在回应上段，指出水石书店确实受到企鹅兰登书屋的严苛赊购限制的影响。③④⑤则顺而表达意愿“随着书店恢复正常营业，且图书销量大涨，疫情期间实行的严苛赊购限制也应解除”。Certainly 一词也暗示发言人之所以强调当前“店内繁忙，销量回归”，意在表达理应解除限制，支撑③句观点。B项为对水石书店发言人话语的正确推理。其他选项既和段中具体信息有偏差，也不符合“书店发言人就一项纠纷发表观点”的身份和站位，可排除。\n\nIV ① In the meantime, PRH authors have been the losers. ② Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute.\n\n在此期间，企鹅兰登书屋的作家们一直是利益受损者。企鹅兰登书屋的知名作家可能会受些影响，但一直在祈祷纠纷早日结束的是那些中游作家，他们通常有赖于水石书店的员工对不大知名作家的书作的热情推销。\n\n第四段指出当前纠纷令作家(尤其是普通作家)利益受损。关键词：PRH authors have been the losers。\n\n①句承上启下，指出纠纷期间企鹅兰登书屋的合作作家(PRH authors)利益受损。In the meantime 搭建起语义承接，指向“水石书店与企鹅兰登书屋对峙期间”。现在完成时态 have been the losers 指出作家利益受损的情形已经持续一段时间。\n\n②句具体分析“知名作家(Big-name PRH authors)”和“中游作家(mid-list authors)”所受影响。两个并列分句 Big-name PRH authors...but it's those mid-list authors...形成对比转折。前一分句以 suffer a bit 一笔带过，指出知名作家会受些影响。后一分句则以强调句式(it's those mid-list authors...who...)聚焦中游作家，will be praying for an end 凸显这一群体所受影响之大：已经不堪打击，祈祷纠纷早日结束。分句中又插入了 who 引导的定语从句解释“中游作家受影响更大”的原因：他们有赖于水石书店的员工对不大知名作家的书作的热情推销，而如今水石书店与企鹅兰登书屋陷入纠纷，因此其图书销售大受影响。\n\n【深层解读】一、借助长短句辨清句间/内逻辑：两句间以“短句—长句”形成总分论证。②句内以长短句凸显重点关注对象：第一个分句很短，may suffer a bit 将知名作家所受影响一笔带过；第二个分句极长，聚焦作者关注重点“中游作家”。二、辨析句式结构，辨别从句功能：分句中两个 who 引导的从句功能不同，第一个 who 引导非限制性定语从句，修饰 mid-list authors，介绍“中游作家”的特征为“依赖书店员工推销书作”；第二个 who 构成强调句式 it's...who...，突出对“中游作家”的关注：正是这些中游作家一直在祈祷纠纷早日结束，言下之意即“中游作家的书作销量大幅下滑，受影响极为严重”。"
+      },
+      {
+       "number": 34,
+       "score": 2,
+       "stem": "What can be one consequence of the current dispute?",
+       "options": {
+        "A": "Sales of books by mid-list PRH writers fall off considerably.",
+        "B": "Lesser-known PRH writers become the target of criticism.",
+        "C": "Waterstones staff hesitate to promote big-name authors’ books.",
+        "D": "Waterstones branches suffer a severe reduction in revenue."
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n| 34. What can be one consequence of the current dispute? | 34. 目前的纠纷可能会有什么后果？|\n| --- | --- |\n| [A] Sales of books by mid-list PRH writers fall off considerably. | [A] 企鹅兰登书屋中游作家的书作销量大幅下滑。 |\n| [B] Lesser-known PRH writers become the target of criticism. | [B] 企鹅兰登书屋的不知名作家成为了批评对象。 |\n| [C] Waterstones staff hesitate to promote big-name authors' books. | [C] 水石书店员工对推销知名作家的书作犹豫不决。 |\n| [D] Waterstones branches suffer a severe reduction in revenue. | [D] 水石书店各分店的收入严重减少。 |\n\n[精准定位]由题文同序原则、题干关键词(consequence of the current dispute)以及选项关键词(PRH writers 等)可定位至第四段。第四段①句指出，企鹅兰登书屋的合作作家们是当前纠纷的利益受损者。②句从“知名作家”“中游作家”两个群体展开分析，知名作家会略受影响，但一直在祈祷纠纷早日结束的是那些有赖于水石书店员工推销书作的中游作家。即，如今纠纷使得中游作家的作品无法得到书店员工的大力推销，因此销量大幅下滑，A项与之对应。\n\n[命题解密] A 项是基于第四段②句 rely on Waterstones staff's passion for promoting books, will be praying for an end 得出的合理推断。\n\nB 项利用定位段①句中 have been the losers 及②句 lesser-known writers、will be praying for an end to the dispute 捏造出“与企鹅兰登书屋合作的不大名作家成为了批评的对象”，但文中指的是“销量下滑，利益受损”，并未提及“被批评”。C 项杂糅第四段②句碎片信息 Big-name PRH authors... Waterstones staff's passion for promoting books..., 将句中信息“纠纷会使水石书店员工不愿再推销中游作家/不大知名作家的书”偷换为“不愿再推销知名作家的书”。D 项由第四段中“利益受损（losers）”“受影响（suffer）”构建起的负面语义场捏造而来，但文中利益受损的群体为“企鹅兰登书屋的合作作家”，而非选项所述的“水石书店的各分店”，且第三段末两句已经指出书店生意火爆。\n\n[技巧总结] 本题针对细节信息设题，考查学生对原文细节的判断能力及推断能力。本题难点在于无法根据题干直接定位，这种情况下需结合题文同序原则及选项关键词共同定位。本题的解题关键在于辨明原文对不同群体所受影响的分析，并基于句意进行合理推理，需警惕偷换人群或过度推断的干扰项。\n\n学生根据第四段整体的总分结构以及②句的对比、强调结构可知：段落关注纠纷对与企鹅兰登书屋合作的作家(PRH authors)的影响；其中知名作家(Big-name PRH authors)稍受影响，中游作家/非知名作家(mid-list authors/lesser-known writers)受影响更大，可知A项推断合理。B项对文中关键词 praying for an end to the dispute 断章取义，C、D项杂糅文中信息，张冠李戴，均可排除。\n\nV It comes at a time when authors are already worried about the consequences of the proposed merger between PRH and another big publisher, Simon & Schuster—the reduction in the number of unaligned UK publishers is likely to lead to fewer bidding wars, lower advances, and more conformity in terms of what is published.\n\nVI ① “This is all part of a wider change towards concentration of power,” says literary agent Andrew Lownie. ② “The publishing industry talks about diversity in terms of authors and staff but it also needs a plurality of ways of delivering intellectual contact, choice and different voices. ③ After all, many of the most interesting books in recent years have come from small publishers.”\n\nⅦ We shall see whether that plurality is a casualty of the current need among publishers to be big enough to take on all-comers. [428 words]\n\n这场纷争的到来恰逢作家们已是忧心忡忡之时：作家们已在担忧企鹅兰登书屋和另一大型出版商西蒙与舒斯特拟议合并的后果——英国国内不结盟出版商数量的下降可能会导致竞标战更少，（稿酬）预付款更低，出版物雷同度更高。\n\n“这些都是一种朝向权力集中化的更广泛转变的一部分，”作家经纪人安德鲁·劳尼说道，“出版业常谈论作家和员工的多样化，但它也需要以多种方式来呈现智识的触达、（书作的）选择和不同的声音。毕竟近些年最有趣的图书中许多都是出自小型出版商之手。”\n\n这种呈现方式上的多样性是否会成为出版商们“大到能对付所有竞争者”的当下需求的牺牲品，我们将拭目以待。\n\n**语篇分析**\n\n第五至七段指出作家们当前的另一担忧“企鹅兰登书屋和另一大型出版商西蒙与舒斯特拟议合并”，并深度剖析“出版业权力集中化”的弊端。\n\n第五段介绍作家们同时还在为“大型出版商拟议合并的后果”而忧心。关键词：the consequences of the proposed merger。\n\n本段独句成段。It 依然回指前文话题“水石书店与企鹅兰登书屋的纠纷”，It comes at a time when authors are already worried about...与上段无缝衔接，营造出“一波未平一波又起”的焦灼感，引出作家们已有的担忧点/另一意义重大的事件：企鹅兰登书屋和另一大型出版商西蒙与舒斯特拟议合并。破折号引出 consequences 的同位语，以 lead to 搭建因果关系，说明合并的后果：不结盟的出版商数量下降(unaligned 源自动词 align“与……结盟”，意为“不结盟的”)→竞标战更少，(稿酬)预付款更低，出版物雷同度更高(fewer...lower...more...三个比较级连用，有力罗列出版商合并对作家群体及图书品类的损害；bidding war、advance 和 conformity 均为专有名词，分别意为“竞标战”“预付款”“雷同、一致性”)。\n\n第六段援引作家经纪人之言批判大型出版商合并现象。关键词：① concentration of power；② a plurality of ways of delivering。\n\n①句点明“企鹅兰登书屋和西蒙与舒斯特合并”的性质：权力集中化。This is all part of 承接上文内容(This 指代上段所述“两个大型出版商拟议合并及其导致的后果”),引出背后的更大趋势(即上述拟议的合并的属性):权力集中化(concentration of power)。\n\n②句批判权力集中化，强调出版业应百花齐放。本句以 but 为分水岭，欲抑先扬：前一分句肯定出版业对作者和员工多样化的关注(diversity in terms of authors and staff), talks about 为一般现在时，说明这种关注已是常态。后一分句随即开启对出版业“多样性缺失”的批评警告，it also needs 引出对“呈现方式的多样性(a plurality of ways of delivering...)”的强调。delivering 的三个并列宾语 intellectual contact, choice and different voices 明确呈现对象为“智识的触达、(书作的)选择和不同的声音”,结合本文语境“图书出版”可将其理解为“各类话题/内容/观点/风格的书作”,a plurality of ways of delivering intellectual contact, choice and different voices 即指向“各类出版方式/出版商的存在”。\n\n③句印证②句观点，指出小型出版商价值巨大。After all 引出“出版业需要多种呈现方式”的支撑理由。表示数量多的 many 及强调质量高的 the most interesting 高度肯定小型出版商的价值：颇具慧眼，为行业和读者贡献了大量精彩图书。\n\n第七段发出警告：不要让出版商的多样性成为大型出版商欲望的牺牲品。关键词：①that plurality;②a casualty。\n\n本段独句成段，干脆利落地收束全文。We shall see whether A is a casualty of the current B (casualty 意为“受害者；牺牲品”) 表面指向未来，拭目等待答案揭晓，实际关注现在情形，无奈发出警告。that plurality 回指上段 a plurality of ways of delivering... 所强调的“出版方式/出版商的多样性”。the current need... to be big enough to take on all-comers 鲜活刻画（大型）出版商“为了谋求利益，不断合并扩张，企图撂倒所有竞争者”的情形，与“出版方式百花齐放”的理想情形构成“动 vs 静”对比，暗含将其毁坏的可能，传递作者对出版业权力集中化的担忧和反对。\n\n【深层解读】一、理清段际衔接以理解段群文意：第五至七段以 This...a plurality...that plurality...环环衔接，逐层深入，深度剖析大型出版商合并的危害。二、深度挖掘作者的观点态度：本段群中第六段援引人物话语，观点最为鲜明，而其他两段中作者的观点态度则隐藏在字里行间，故需整体理解三段。第五段末引出作家们对出版商合并的担忧，并将关注点落在“将使出版物雷同度更高（more conformity in terms of what is published）”，第六段顺而批判权力集中化，指出应保持多样性，并聚焦“出版方式/出版商的多样性(a plurality of ways of delivering intellectual contact, choice and different voices)”，末段则以 We shall see whether that plurality is a casualty of...在与读者的互动中收束全文，传达作者对“出版业权力集中化”的警告，以及对“各类出版商百花齐放”的珍视。"
+      },
+      {
+       "number": 35,
+       "score": 2,
+       "stem": "Which of the following statements best represents Lownie’s view?",
+       "options": {
+        "A": "Small publishers ought to stick together.",
+        "B": "Big publishers will lose their dominance.",
+        "C": "The publishing industry is having a hard time.",
+        "D": "The merger of publishers is a worrying trend."
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 35. Which of the following statements best represents Lownie's view? | 35. 以下哪种说法最能代表劳尼的观点？|\n| --- | --- |\n| [A] Small publishers ought to stick together. | [A] 小型出版商应该团结起来。 |\n| [B] Big publishers will lose their dominance. | [B] 大型出版商将失去主导地位。 |\n| [C] The publishing industry is having a hard time. | [C] 出版业正处于艰难时期。 |\n| [D] The merger of publishers is a worrying trend. | [D] 出版商合并是一种令人担忧的趋势。 |\n\n[精准定位] 由题干中人物关键词 Lownie 可定位至第六段(Andrew Lownie)。第六段全段皆直接引用作家经纪人安德鲁·劳尼的言论。①句指出出版商的合并(This 回指上段中提及的“大型出版商合并及其后果”)体现的是权力的集中化这一广泛转变。②句强调出版业需要多种方式来呈现智识的触达、(书作的)选择和不同的声音，言下之意即“不应让少数几家大型出版商垄断”。③句则指出“小型出版商贡献了许多近年来最有趣的图书”,佐证出版业“百花齐放”的重要性。D 项正确。\n\n[命题解密] D 项正确解读第六段 This is all part of a wider change towards concentration of power...The publishing industry...needs a plurality of ways of delivering...的言下之意。\n\nA 项由第六段信息“出版业正朝权力集中化转变，这些年最有趣的图书中许多都是出自小型出版商之手”主观得出“小型出版商应团结起来，推出更多好书”，但原文并未提及小型出版商应有何动作。B 项对第五段末句信息片段断章取义，认为大型出版商在走下坡路，将失去其主导地位，但该句实则指出“大型出版商的合并增强了其主导地位，影响了作者和出版物的多样性”；B 项也曲解了第六段末句的作用：作者是在用其解释上句，指出“小型出版商有其价值，故大型出版商主导市场不可取”，并非指出“小型出版商已经崛起，大型出版商在失去主导地位”。C 项将第六段②句 The publishing industry...needs a plurality of ways...传达的“出版业需要以多种方式……”曲解为“出版业急需多种方式来……”，从而臆断出“行业处于艰难时期”。\n\n[技巧总结] 本题针对人物观点设置判断正误题，需结合前后段进行理解把握。定位段以 This 开头，需先回溯至上段，抓取上段中“大型出版商合并”这一核心信息。而后整体理解人物的观点：worried about the consequences、lead to fewer...lower...and more...、is all part of a wider change towards concentration of power...The publishing industry...needs a plurality of ways of...表明人物关注的对象为“大型出版商合并/出版业权力集中化”并理解其担忧基调“导致多样性缺失”,由此可初步判定与此一致的 D 项为正确项。最后借助末段“我们拭目以待，看这种方式上的多重性是否会成为出版商们当下需求的牺牲品”可确认 D 项正确。"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Text 4",
+     "passage": [
+      "Scientific papers are the recordkeepers of progress in research. Each year researchers publish millions of papers in more than 30,000 journals. The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal (as reflected by the title’s impact factor) and the number of citations a specific paper accumulates. The careers of scientists and the reputation of their institutions depend on the number and prestige of the papers they produce, but even more so on the citations attracted by these papers.",
+      "Citation cartels, where journals, authors, and institutions conspire to inflate citation numbers, have existed for a long time. In 2016, researchers developed an algorithm to recognize suspicious citation patterns, including groups of authors that disproportionately cite one another and groups of journals that cite each other frequently to increase the impact factors of their publications. Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles.",
+      "The advent of electronic publishing and authors’ need to find outlets for their papers resulted in thousands of new journals. The birth of predatory journals wasn't far behind. These journals can act as milk cows where every single article in an issue may cite a specific paper or a series of papers. In some instances, there is absolutely no relationship between the content of the article and the citations. The peculiar part is that the journal that the editor is supposedly working for is not profiting at all—it is just providing citations to other journals. Such practices can lead an article to accrue more than 150 citations in the same year that it was published.",
+      "How insidious is this type of citation manipulation? In one example, an individual— acting as author, editor, and consultant—was able to use at least 15 journals as citation providers to articles published by five scientists at three universities. The problem is rampant in Scopus, a citation database, which includes a high number of the new “international” journals. In fact, a listing in Scopus seems to be a criterion to be targeted in this type of citation manipulation.",
+      "Scopus itself has all the data necessary to detect this malpractice. Red flags include a large number of citations to an article within the first year. And for authors who wish to steer clear of citation cartel activities: when an editor, a reviewer, or a support service asks you to add inappropriate references, do not oblige and do report the request to the journal."
+     ],
+     "questions": [
+      {
+       "number": 36,
+       "score": 2,
+       "stem": "According to Paragraph 1, the careers of scientists can be determined by",
+       "options": {
+        "A": "how many citations their works contain.",
+        "B": "how many times their papers are cited.",
+        "C": "the prestige of the people they work with.",
+        "D": "the status they have in scientific circles."
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 36. According to Paragraph 1, the careers of scientists can be determined by ____. | 36. 根据第一段可知，科学家们的事业可由___决定。 |\n| --- | --- |\n| [A] how many citations their works contain | [A] 他们的作品包含的引用量 |\n| [B] how many times their papers are cited | [B] 他们的论文被引用的次数 |\n| [C] the prestige of the people they work with | [C] 他们与之共事的人的声望 |\n| [D] the status they have in scientific circles | [D] 他们在科学界享有的地位 |\n\n[精准定位] 由题干关键词 Paragraph 1、the careers of scientists、be determined by 可定位至第一段④句(The careers of scientists、depend on)。该句指出，科学家们的事业及其所在机构的声誉不仅取决于他们所发表论文的数量、影响力，更取决于这些论文被引用的次数，故 B 项正确。\n\n[命题解密] 题干+B 项是对第一段④句的概括与改写，how many times their papers are cited 对应原文 the citations attracted by these papers。\n\nA项将“论文累计获得的被引量”曲解为“论文含有的引用量”。C项由文中“他们所在机构的声誉”捏造出“他们所在机构全体同仁的声誉”，并将其错判为题干所问的决定因素。D项根据③④句碎片信息“科学界”“声誉/影响力”杂糅捏造而来，忽略了文中 reputation、prestige 的限定成分，文中并未提及科学家在科学界的地位。\n\n[技巧总结] 本文开篇由科研论文质量的判定因素谈到科学家们事业的决定因素，二者紧密相联。试题就二者的关联(通常体现在涉及多个主体的长难句中)命制事实细节题，解答关键在于抓取文中关联词，即首段末句中的 depend on(恰好对应题干中的 be determined by),再根据关联词前后所示的事物关联 A and B depend on C, but even more so on D(A=The careers of scientists、B=the reputation of their institutions、C=the number and prestige of the papers they produce, D=the citations attracted by these papers)判定正确项出处，即 C(他们所发表论文的数量及影响力)或 D(他们所发表论文的被引量)。\n\nⅡ ① Citation cartels, where journals, authors, and institutions conspire to inflate citation numbers, have existed for a long time. ② In 2016, researchers developed an algorithm to recognize suspicious citation patterns, including groups of authors that disproportionately cite one another and groups of journals that cite each other frequently to increase the impact factors of their publications. ③ Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles.\n\n期刊、作者和机构合谋提高被引次数的“引用卡特尔”存在已久。2016年，研究人员开发了一种算法，用来识别可疑的引用模式，包括互引比例过高的作者群体以及频繁互引以增强出版物影响因子的期刊群体。最近，这种掠夺性行为显露出了另一种表现形式：为个人作者和期刊提供语言等编辑支持的所谓“支持服务咨询公司”有时会建议投稿人为其文章添加若干引用。\n\n**语篇分析**\n\n第二段引出科研界沉疴宿疾“引用卡特尔”并介绍其表现形式。关键词：①Citation cartels;②citation patterns;③another expression。\n\n①句引出陈年旧疴“引用卡特尔”。句子由主从句构成，主句以 have existed for a long time 强调“引用卡特尔”的存在时间之长，where 引导的非限制性定语从句则以 A，B and C conspire to do sth 对它的行为主体（期刊、作者、机构）、目的（提高论文的被引量）予以解释说明，其中贬义词 conspire（意为“密谋；共谋”）充分体现了它的负面特性。注：卡特尔(cartel)本为经济学术语，指垄断利益集团，文中指由相关期刊、论文作者、机构等成员勾结而成的小团伙。\n\n②③句介绍“引用卡特尔”的表现形式。两句以 In 2016、recently 构成的“时间线：2016 年→最近”以及 suspicious citation patterns、another expression of this predatory behavior 构成的“内容线：引用的不同表现形式”形成强关联。\n\n②句指出此前已发现的旧模式：由作者或期刊组成小集团，超大比例地互引。句子以 suspicious citation patterns, including A and B 将 2016 年科研人员所发现的不良引用行为落脚在“不良作者群体”和“不良期刊群体”,并借 suspicious、disproportionately、frequently 从本质(负面问题)、形式(频繁地引用)等方面对他们的行为予以说明，进一步体现了这些群体的负面特性。\n\n③句介绍近来新显露的模式：诱导外部投稿人/作者引用集团成员的论文。句子以冒号为界，一分为二，冒号前 emerged“(从隐蔽处或暗处)出现，浮现，露出”暗示这一形式由暗到明的过程，实则反衬其已存在一段时间。this predatory behavior 在回指引用操纵行为的同时，又借贬义词 predatory(意为“利用别人的弱点谋取利益的；损人利己的”)再一次体现这一行为的负面特性：损人利己。冒号后以 so-called A that provide sth to sb and to sb sometimes advise sb to do sth 结构指出“支持服务咨询公司”的表面服务与暗里勾当：为个人作者和期刊提供语言等编辑服务 vs 让投稿人为其文章增添额外引用，其中 sometimes“有时；间或”用词较为委婉，实际暗示这类行为已成这类服务公司的常规性操作。注意，句中 their articles 指咨询公司成员的文章。\n\n【深层解读】本段以 have existed for a long time、In 2016、Recently 形成时间线，以 Citation cartels、suspicious citation patterns、this predatory behavior 构成内容线“非正常引用（引用操控、引用交易）”，说明其旧表现形式“作者/期刊小集团内部互引”和新表现形式“诱导外部的投稿人引用集团内的论文”，结合时间词 Recently 以及“重要信息靠后”的段落行文原则可推知本文重在揭露新表现形式。"
+      },
+      {
+       "number": 37,
+       "score": 2,
+       "stem": "The support service consultancies tend to",
+       "options": {
+        "A": "recommend journals to their clients.",
+        "B": "list citation patterns for their clients.",
+        "C": "ask authors to include extra citations.",
+        "D": "advise contributors to cite each other."
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| 37. The support service consultancies tend to ____. | 37. 支持服务咨询公司倾向于____。 |\n| --- | --- |\n| [A] recommend journals to their clients | [A] 向其客户推荐期刊 |\n| [B] list citation patterns for their clients | [B] 为其客户列出引用模式 |\n| [C] ask authors to include extra citations | [C] 要求作者添加额外引用 |\n| [D] advise contributors to cite each other | [D] 建议投稿人相互引用 |\n\n[精准定位] 由题干关键词 The support service consultancies 可定位至第二段③句（so-called support service consultancies）。该句指出，所谓的支持服务咨询公司为个人作者和期刊提供语言等编辑支持，他们有时会建议投稿人为其文章添加若干引用。换言之，这些支持服务咨询公司往往会要求作者添加额外引用，C 项正确。\n\n[命题解密] C 项是对句中 advise contributors to add a number of citations to their articles 的同义改写。\n\nA项结合常识“咨询公司为客户提供咨询服务”以及“作者/投稿人有发表论文之需”臆想出文中未提及的信息“支持服务咨询公司会向作者/投稿人推荐期刊”。B项杂糅第二段②③句的碎片信息“引用模式”“为个人作者和期刊提供语言等编辑服务”，捏造出“为客户列出引用模式”，但两句实为两个并列且独立的语义层，分别说明“引用卡特尔”的常规、新近表现形式，②句内容与题干所问（③句为定位句）毫无关联。D项杂糅②③句的碎片信息“作者之间互相引用”“支持服务咨询公司给投稿人的建议”，将支持服务咨询公司的建议内容“投稿人添加额外引用”偷换为“投稿人互相引用”。\n\n[技巧总结] 本题同上题，于涉及多个主体的长难句处设置事实细节题，解题关键在于将长难句的主干、枝叶分解，识别相应主体的相应行为并把握句意重心。具体而言，第二段③句以冒号为界，分为前后两个部分，前部分承上启下，起过渡作用，故解题重点在后部分。该部分的核心主干为 A sometimes advise B to do sth (A = support service consultancies, B = contributors, do sth = add...citations to their articles, 其中 contributors 取僻义“投稿人”, 与 authors 同义，their 回指 A), 内嵌枝叶为修饰 A 的定语从句，其结构为 A provide sth to C and to D (sth = language and other editorial support, C = individual authors, D = journals)。可见，句意重心为：明面上“为个人作者和期刊提供语言等编辑支持”的支持服务咨询公司私底下却时常“建议投稿人(即作者)为其文章添加额外引用”。纵观四个选项，唯有 C 项与之契合。\n\nⅢ ① The advent of electronic publishing and authors' need to find outlets for their papers resulted in thousands of new journals. ② The birth of predatory journals wasn't far behind. ③ These journals can act as milk cows where every single article in an issue may cite a specific paper or a series of papers. ④ In some instances, there is absolutely no relationship between the content of the article and the citations. ⑤ The peculiar part is that the journal that the editor is supposedly working for is not profiting at all—it is just providing citations to other journals. ⑥ Such practices can lead an article to accrue more than 150 citations in the same year that it was published.\n\n电子出版形式的出现以及论文作者对发表渠道的需求催生了成千上万的新期刊。随后不久，便出现了掠夺性期刊。这些期刊发挥着奶牛般的作用：同期登载的所有文章可能都引用了某一篇论文或是某一组论文。有些情况下，文章的内容与引文毫不相关。奇怪的是，相关编辑理应为之效力的期刊却未从中获得任何好处——它只给其他期刊提供“引用服务”。这种做法可以让一篇文章在发表当年就可累计获得150多次引用。\n\n第三、四段分析问题。\n\n第三段分析“引用卡特尔”的成因和危害。关键词：act as milk cows。\n\n①②句分析成因：电子出版的市场需求催生出大量良莠不齐的新期刊/掠夺性期刊。两句以 resulted in、wasn't far behind 构成递进逻辑“电子出版迎合了科研人员快速发表论文的需求→大量新期刊涌现→掠夺性期刊也随即出现”。其中 new、birth 表明新期刊、掠夺性期刊为出版新形势(即电子出版)下的新产物，而 thousands of、predatory 两个限定信息却将这类新生事物予以了负面加持“过量(而不足以保质)”“损人利己”。注：掠夺性期刊(predatory journal)通常指“花钱就能发表”的低品质期刊，为诱引科研人员投稿，它们通常宣称自己是顶尖国际期刊(比如其刊名常模仿某知名期刊的名称，并在前面加上 International 字样),承诺快速出版(有的短至一周),为追求出版速度往往会忽视对稿件质量的把控，缺乏严格的同行评审程序。\n\n③至⑥句通过分析具体表现说明危害：掠夺性期刊充当“奶牛”,人为操控被引量。四句以 These journals(回指 predatory journals) can act as milk cows where...→In some instances, there is...→The peculiar part is...→Such practices...串联语义链“具体角色→常见情况→特异情况→最终结果”。\n\n③句指出掠夺性期刊所承担的角色：为某些论文提供被引量的“奶牛”。milk cows 为理解难点，需结合 where 从句中 every single article in an issue...cite...所强调的信息“同期登载的所有文章都能引用某篇/组论文”以及“奶牛本身的特点：由人专门培育的产乳量高的牛”来判断它所表达的意思，即掠夺性期刊扮演着“人为操控论文被引量的工具”这一角色。\n\n④⑤句说明此类期刊的相关特征：引文与文章内容毫无关联；仅给其他期刊提供无偿的“引用服务”。④句以 In some instances、absolutely no relationship 强调此类引文与文章内容无关的情况并不少见，深层反映出此类引用模式的动机“操纵被引量”，⑤句则以 The peculiar part、the editor is supposedly working for、is not profiting at all、is just providing citations 引入“编辑”这一幕后操控者来解释这一引用模式的荒诞不经之处：本应谋求期刊利润的编辑却并未让期刊获利，而是仅仅为其他期刊提供被引量，进一步暗示期刊编辑的深层动机不是传播学术成果，而是用职务之便操纵被引量。\n\n⑥句以具体数据呈现此类引用模式的结果：论文发表当年即可获得大量被引次数。Such practices 回指上文 every single article in an issue may cite a specific paper or a series of papers、providing citations 等所示的引用行为，more than 150 citations in the same year 强调此类引用操纵行为所取得的“效果”之好，反衬其危害之大。\n\n【深层解读】结合行文思路可判断，本段重点论述的“奶牛”期刊为“引用卡特尔”新现模式的具体表现，段内③至⑥句通过描述“奶牛”期刊及其幕后操纵者展现了“引用卡特尔”的危害：不良学者利用编辑特权（而非学术能力）人为操纵被引量/影响因子，不仅扰乱公平竞争的学术环境，导致劣币驱逐良币的后果，而且增加了学术泡沫，损害学术研究的严谨性和纯洁性。"
+      },
+      {
+       "number": 38,
+       "score": 2,
+       "stem": "The function of the “milk cow” journals is to",
+       "options": {
+        "A": "boost citation counts for certain authors.",
+        "B": "help scholars publish articles at low cost.",
+        "C": "instruct first-time contributors in citation.",
+        "D": "increase the readership of new journals."
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n| 38. The function of the “milk cow” journals is to ____. | 38. “奶牛”期刊的作用是____。 |\n| --- | --- |\n| [A] boost citation counts for certain authors | [A] 提高某些论文作者的被引总数 |\n| [B] help scholars publish articles at low cost | [B] 帮助学者以低成本发表文章 |\n| [C] instruct first-time contributors in citation | [C] 对首次投稿者进行引用指导 |\n| [D] increase the readership of new journals | [D] 增加新期刊的读者人数 |\n\n[精准定位] 由题干关键词 function、the “milk cow” journals 可定位至第三段③至⑥句（These journals can act as milk cows...Such practices can lead...to...）。该句群指出某些掠夺性期刊的“奶牛”特性：本身不盈利，只为其他期刊提供“引用服务”，同期发表的所有文章可能都引用同一篇论文或同一组论文，使得一篇文章在发表当年即可获得高达 150 多次的被引量。可见，“奶牛”期刊可以帮助提高某些论文作者的被引量，A 项正确。\n\n[命题解密] A 项是对第三段③至⑥句的高度概括与提炼。其中 boost citation counts 对应段中 every single article...may cite、providing citations、accrue more than 150 citations 所传递的语义“被引量提升”，certain authors 则对应段中 a specific paper or a series of papers、an article 所暗藏的文意“期刊编辑意在提升被引量的某些论文作者（根据上下文可知，指代期刊编辑自己及其同事）”。\n\nB项由第三段①句联想到常识信息“电子出版成本更低，因而论文发表费用更低”，但文中并未谈及论文发表费用的问题，且该句尚未引出“‘奶牛’期刊”，更未谈及其作用。C项将第二段末句信息“建议投稿人增添一些额外引用（人为操纵特定论文的被引量）”曲解为“在引用方面给投稿人提供指导”。D项将第三段①句中 find outlets for their papers 误当作“奶牛”期刊的功能，并将其曲解为“为新期刊增加阅读量”，而该部分实际指“论文作者为自己的论文寻找发表渠道”，且该句指向的是“含‘奶牛’期刊在内的新期刊的出现背景”，并非“‘奶牛’期刊的作用”。\n\n[技巧总结] 本题仍为事实细节题，但定位范围不再局限于在单个句子，而是扩大至句群，故而可结合句群/段落/全文主旨解答。具体而言，第三段③至⑥句先以 These journals(回指 predatory journals) can act as milk cows 引出“奶牛”期刊的作用，进而借 where...→In some instances, there is...→The peculiar part is...→Such practices(综合性回指词)...构建语义链“具体做法(同一期所有文章可能引用同一篇/组论文)→做法的常规性(文章内容与引文毫无关联)→做法的特异性(期刊并不获利，仅提供引用服务)→做法的结果(一篇文章在发表当年就被超频繁引用)”,可见该句群的语义重心在“‘奶牛’期刊提升了某些论文的被引量”。其次，文章聚焦“引用卡特尔/引用操纵”这一学术不端问题，正确项大概率与之吻合，纵观四个选项，唯有 A 项可体现引用操纵行为。\n\nIV ① How insidious is this type of citation manipulation? ② In one example, an individual—acting as author, editor, and consultant—was able to use at least 15 journals as citation providers to articles published by five scientists at three universities. ③ The problem is rampant in Scopus, a citation database, which includes a high number of the new “international” journals. ④ In fact, a listing in Scopus seems to be a criterion to be targeted in this type of citation manipulation.\n\n这种引用操纵行为有多隐伏？在一个案例中，一名身兼作者、编辑、咨询顾问三重身份的人至少将15份期刊用作“引用提供者”，为三所大学的五名科学家的文章提供“引用服务”。这一问题在引文数据库 Scopus 中尤为猖獗，该数据库收录了大量新创办的“国际”期刊。事实上，“被 Scopus 收录”似乎成为这种引用操纵行为所针对对象的判定标准。\n\n**语篇分析**\n\n第四段分析“引用卡特尔”的隐蔽性及严重性。关键词：①insidious；②rampant in Scopus。\n\n①句(过渡句)以疑问句形式引出“引用卡特尔”的隐蔽性及严重性。this type of citation manipulation 回指上文“引用卡特尔”、“奶牛”期刊的引用操纵行为。insidious 的内涵包含两点：一是具有危害性，即损害学术研究；二是具有隐蔽性，不易甄别或发现。\n\n②句以某一典型案例 (one example) 予以说明。an individual—acting as author, editor, and consultant 照应“卡特尔”的垄断内涵：本应相互监督/牵制的多个角色合为一体；而 an individual 与 at least 15 journals、five scientists at three universities 形成的巨大反差(一人操控多家期刊，服务多个主体)\n\n既体现了这种多角色人员的职权操控力，又暗示了其引用操纵行为的隐蔽性：如此恶劣、牵涉面如此广的操纵行为竟未被发现(was able 表明行为得逞)。\n\n③④句说明“引用卡特尔”潜伏的主要领域：Scopus 数据库。两句借 Scopus 的复现以及递进说明词 In fact 实现衔接。\n\n③句概述指出问题：问题严重到失控。主句中 rampant“泛滥的；猖獗的”暗示这一问题已经到了失控的局面。which 定语从句中 a high number、the new “international” journals 从数量上凸显了所谓“新‘国际’期刊”之多，引号的使用充分体现了这些期刊的负面特性：并不具有真实的国际水准，而是打着“国际”的旗号诱引投稿人，其自身很可能存在引用操纵行为，或者因审稿不严而被引用操纵者钻空子。\n\n④句直白表述问题：“被 Scopus 收录”成为引用操纵行为的判定标准。be targeted 指“被盯上/被当成操纵对象”，照应②句中“众多期刊被利用/操纵(use...as...)”的案例。seems to 以委婉之形，传递指责之实。注：Scopus 是全球规模最大的文摘和引文数据库，其收录范围广泛，期刊种类和数量远超 SCI、EI 等老牌权威数据库。\n\n【深层解读】本段②句的典型案例是准确理解上文两段的重要线索。1.案例呈现了“引用卡特尔”最极端的模式：论文作者、编辑、咨询顾问不仅可构成小集团（第二段所述模式），甚至可以三者合一，某些论文作者同时兼任编辑和顾问，用职务之便为自己（及同僚）牟取学术利益。2.由上述极端模式也可推知，第二段的“支持服务咨询公司”和第三段的“编辑”均指向同一类型的引用操纵者：兼任顾问和编辑的不良学者。\n\nV ① Scopus itself has all the data necessary to detect this malpractice. ② Red flags include a large number of citations to an article within the first year. ③ And for authors who wish to steer clear of citation cartel activities: when an editor, a reviewer, or a support service asks you to add inappropriate references, do not oblige and do report the request to the journal. [441 words]\n\nScopus 自身拥有识别这种不端行为所需的所有数据。警示信号包括在第一年内就对一篇文章进行大量引用。对于想要避开“引用卡特尔”行为的作者来说：当编辑、审稿人或支持服务机构要求你添加不恰当的参考文献时，不要答应他们，一定要将这种请求反映给相应期刊。\n\n**语篇分析**\n\n第五段针对问题提出建议。关键词：①Scopus itself;②for authors。\n\n①②句承接上段③④句，对 Scopus 提建议：可借引用数据识别可疑的引用情况。两句借 Scopus itself has all the data necessary to detect、Red flags include 构建语义链“有能力识别（借助自身数据）→具体识别方式（借助警示信号）”。①句借 all、necessary 突出强调了 Scopus 解决问题的能力；②句则借 Red flags“警示信号；危险信号”指代数据中的可疑/反常数据。\n\n③句对论文作者(for authors)提建议：积极向上举报。who wish to steer clear of citation cartel activities 限定 authors,指向“引用卡特尔”的潜在受害者：遵守学术规范的论文作者。冒号后以“状语从句+祈使句”引出对这类论文作者的建议：不要让“引用卡特尔”得逞，要向相应期刊举报。句中 report A to B(把A举报/反映给B)这一表述暗示有些期刊其实对于自身被不良编辑操纵之事并不知情，若没人举报可能会一直被蒙在鼓里。\n\n【深层解读】本段从“数据识别”和“个人举报”两个角度提出建议，并将论述重心落于后者，再次暗示“引用卡特尔”的潜伏性特点：鉴于“正常的高被引”和“人为操纵的高被引”在数据表现上并没有特别清晰的界限，仅看数据有时难以判定暗箱操作行为，因此最可靠、准确的方式是发挥广大学者（当事人或亲历者）的监督力量。"
+      },
+      {
+       "number": 39,
+       "score": 2,
+       "stem": "What can be learned about Scopus from the last two paragraphs?",
+       "options": {
+        "A": "It fosters competition among citation providers.",
+        "B": "It has the capability to identify suspicious citations.",
+        "C": "It hinders the growth of “international” journals.",
+        "D": "It is established to prevent citation manipulation."
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 39. What can be learned about Scopus from the last two paragraphs? | 39. 从最后两段中可得知关于 Scopus 的什么信息？|\n| --- | --- |\n| [A] It fosters competition among citation providers. | [A] 它加剧了引用提供者之间的竞争。 |\n| [B] It has the capability to identify suspicious citations. | [B] 它具备识别可疑引用的能力。 |\n| [C] It hinders the growth of “international” journals. | [C] 它阻碍了“国际”期刊的发展。 |\n| [D] It is established to prevent citation manipulation. | [D] 它为防范引用操纵行为而创建。 |\n\n[精准定位] 由题干关键词 Scopus、the last two paragraphs 可定位至第四段③④句和第五段①句。第五段①句明确指出，Scopus 自身拥有识别这种不端行为（回指“引用操纵行为”）所需的数据。换言之，Scopus 可以借助其数据库识别出引用操纵行为，B 项正确。\n\n[命题解密] 题干+B 项是对第五段①句的同义改写，其中 has the capability to identify 是对 has all the data necessary to detect 的同义改写，suspicious citations 是对 this malpractice 所指代内容的还原。\n\nA项将第四段②③句的碎片信息“引用提供者”“猖獗”进行杂糅，捏造出“引用提供者之间的竞争激烈”，但文中并未谈及引用提供者（即“奶牛”期刊）之间的竞争问题，只是论及它们带来的危害“引用操纵问题”，rampant 描述的对象是“Scopus 内部的引用操纵问题”。C项曲解第四段③句中“‘国际’期刊”和 Scopus 的关联，将文意“Scopus 包含许多新创办的‘国际’期刊”曲解为“Scopus 阻碍了‘国际’期刊的发展”。且文章实际暗示此类“国际”期刊不乏充当“奶牛”的期刊，大多迎合论文发表之需，发展势头迅猛。D项将第四段③④句的文意“Scopus 内部存在严重的引用操纵问题”曲解为“Scopus 的创建意在防范这一问题”。\n\n[技巧总结] 文末两段进入“分析问题危害→提出应对问题之策”环节，期间以 Scopus 为红线，既对“问题的严重性”予以说明，又对“问题的应对之策”给出了间接性意见。本题就这一红线设置事实细节题，可结合这一红线所服务的主旨以及文章的行文结构来解答。具体而言，第四段先引 Scopus 重点说明“引用操纵问题的严重性：猖獗”,第五段接续上段，以 Scopus 自身能力说明“引用操纵的应对之策：借助数据识别”。A、C 项聚焦问题，但均与“引用操纵问题”相去甚远；B、D 项聚焦建议，但 D 项明显将文中的负面情感色彩偷换为正面情感色彩，唯有 B 项是对建议的正确解读。"
+      },
+      {
+       "number": 40,
+       "score": 2,
+       "stem": "What should an author do to deal with citation manipulators?",
+       "options": {
+        "A": "Take legal action.",
+        "B": "Demand an apology.",
+        "C": "Seek professional advice.",
+        "D": "Reveal their misconduct."
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| 40. What should an author do to deal with citation manipulators? | 40. 面对引用操纵者，论文作者应怎么做？|\n| --- | --- |\n| [A] Take legal action. | [A] 采取法律行动。 |\n| [B] Demand an apology. | [B] 要求道歉。 |\n| [C] Seek professional advice. | [C] 寻求专业建议。 |\n| [D] Reveal their misconduct. | [D] 揭露他们的不当行为。 |\n\n[精准定位] 由题干关键词 an author、deal with citation manipulators 可定位至第五段③句 (authors、steer clear of citation cartel activities)。该句对“想避开引用操纵行为的论文作者”提出建议：遇到引用操纵者（某些编辑、审稿人或支持服务机构），不要让他们得逞，要向相应期刊举报/反映。故 D 项正确。\n\n[命题解密] D 项是对句末所述建议 do report the request to the journal 的正确解读 (report sth to sb 即“向某人告发某事”, the request 为引用操纵者的不当请求)。\n\nA 项的 legal action 看似由第五段中的 malpractice、do not oblige、inappropriate 推断而来，这些字词仅强调行为不合理，并未指出其构成违法犯罪，选项中“法律行动”无据可依。B 项由第五段中的 malpractice、inappropriate 联想到“要求就不当行为道歉”这一常识，但文中并未提到该信息。C 项的 professional(可指“专业人士”)似乎对应第五段③句的“编辑”“审稿人”“支持服务机构”“期刊”，但前三者均指向引用操纵者，是问题方，并不能提供解决问题的建议；期刊虽非问题方，但文意为“向期刊举报”，而非“寻求期刊的建议”。\n\n[技巧总结] 本文篇末就论文作者如何应对引用操纵问题提出意见建议，本题就意见建议处设题。解答关键在于识别“建议”与“情境”,通常可借助特殊句式(如祈使句、强调句)来锁定答案来源。具体而言，文末句先以 for authors who...明确建议的对象，随后以冒号引出建议的内容。再进一步分析可知，建议的内容由“状语从句(描述情形)+祈使句(给出建议)”构成，因此可将答案来源进一步锁定为饱含强烈建议语气的祈使句 do not oblige and do report the request to the journal,只有 D 项是对这一祈使句的正确解读。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part B",
+   "instructions": "The following paragraphs are given in a wrong order. For questions 41 -45, you are required Paragraphs A, E, and H to reorganize these paragraphs into a coherent text by choosing from the list A-H and filling them into the numbered boxes. have been correctly placed. Mark your answers on the ANSWER SHEET. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "ordering",
+     "options": {
+      "A": "Last year marked the 150th anniversary of a series of Yellowstone photographs by the renowned landscape photographer William Henry Jackson. Jackson snapped the first- ever shots of iconic landmarks such as the Tetons, Old Faithful and the Colorado Rockies on a late 19th-century expedition through the Yellowstone Basin, conducted by the head of the U.S. Geological and Geographical Survey of the Territories, Ferdinand V. Hayden. The team included a meteorologist, a zoologist, a mineralogist, and an agricultural statistician.",
+      "B": "Two centuries ago, the idea of preserving nature, rather than exploiting it, was a novel one to many US settlers. One of the turning points in public support for land conservation efforts—and recognizing the magnificence of the Yellowstone region in particular—came in the form of vivid photographs.",
+      "C": "As an effective Washington operator, Hayden sensed that he could capitalize on the expedition’s stunning visuals. He asked Jackson to print out large copies and distributed them, along with reproductions of Moran's paintings, to each member of Congress. “The visualization, particularly those photographs, really hit home that this is something that has to be protected,” says Alicia Murphy, Yellowstone’s park historian.",
+      "D": "Throughout the trip, Jackson juggled multiple cameras and plate sizes using the collodion process that involved coating the plates with a chemical mixture, exposing them and developing the resulting images with a portable darkroom. The crude technique required educated guesses on exposure times, and involved heavy, awkward equipment—several men had to assist in its transportation. Despite these challenges, Jackson captured dozens of striking photos, ranging from majestic images like his now-famous snapshot of Old Faithful, to casual portraits of expedition members at the camp. While veterans of previous expeditions had written at length about stunning sights, these vivid photographs were another thing entirely.",
+      "E": "The journey officially began in Ogden, Utah, on June 8, 1871. Over nearly four months, dozens of men made their way on horseback into Montana and traversed along the Yellowstone River and around Yellowstone Lake. That fall, they concluded the survey in Fort Bridger, Wyoming.",
+      "F": "Though Native Americans (and later miners and fur trappers) had long recognized the area’s riches, most Americans did not. That’s why Hayden’s expedition aimed to produce a fuller understanding of the Yellowstone River region, from its hot springs and waterfalls to its variety of flora and fauna. In addition to the entourage of scientists, the team also included artists: Painter Thomas Moran and photographer Jackson were charged with capturing this astounding natural beauty and sharing it with the world.",
+      "G": "The bill proved largely popular and sailed through Congress with large majorities in favor. In quick succession, the Senate and House passed legislation protecting Yellowstone in early 1872. That March, President Ulysses S. Grant signed an act into law that established Yellowstone as the world’s first national park. While some locals opposed the designation, the decision was largely accepted—and Jackson’s photos played a key role in the fight to protect the area. “I don’t believe that the legal Prophets and Moguls, Rangers and protection would have happened in the time frame that it did without those images,” Rogues Bison and Bears 100 Years of the National Park Service. says Heather Hansen, journalist and author of , :",
+      "H": "Perhaps most importantly, these images provided documentary evidence that later made its way to government officials. Weeks after completing the expedition, Hayden collected his team’s observations into an extensive report aimed at convincing senators and representatives, along with colleagues at government agencies like the Department of the Interior, that Yellowstone ought to be preserved. 41. 42. 43. 44. 45. →A→ → E→ → H → →"
+     },
+     "order": [
+      {
+       "number": 41
+      },
+      {
+       "given": "A"
+      },
+      {
+       "number": 42
+      },
+      {
+       "given": "E"
+      },
+      {
+       "number": 43
+      },
+      {
+       "given": "H"
+      },
+      {
+       "number": 44
+      },
+      {
+       "number": 45
+      }
+     ],
+     "questions": [
+      {
+       "number": 41,
+       "score": 2,
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n**41. 本题考核的知识点是：首段的特征及作用**\n\n【选项推测】文章首段或直接点题，或交代背景，以引出下文论述。首段的首句一般为独立论述的内容，不会出现提示与上文衔接的回指词或逻辑关系词，据此便可排除首句带有回指词的[F]段（the area）、[D]段（the trip）和[G]段（The bill），答案初步锁定在[B]、[C]两段中。而[C]段首句人物 Hayden 并非以全名形式出现，不符合“首次提及的人物一定以全名出现”这一常规原则，故可排除[C]段。\n\n【答案敲定】由【路标词解析】分析可知，[B]段为首段备选项。\n\n[B]段先借对比“过去，大众完全不知要保护自然 vs 后来，大众开始意识到要保护自然”吊足读者胃口，直至段落末尾才亮明大众环保意识发生转变的原因“看到了照片”。从首段的作用来看，[B]段符合“对比式开篇”这一典型的开篇方式，且末句所述原因具有高度概括性，能够起到引出后文详细论述的作用。从与下文固定段[A]段的衔接来看，[A]段主要介绍黄石考察之旅及途中所拍摄的史上首组黄石照片，与[B]段可以形成“引出话题（公众开始保护自然/黄石地区的原因是看到了照片）→借事件具体说明”的合理衔接。综合可确定[B]段为正确项。"
+      },
+      {
+       "number": 42,
+       "score": 2,
+       "answer": "F",
+       "explanation": "> **答案：** F\n\n**42. 本题考核的知识点是：关键词复现 + 上下文逻辑衔接**\n\n【选项推测】本题对应第三段，位于固定段[A]、[E]两段之间。[A]、[E]两段均提示本题所对应选项应谈及“黄石考察之旅”，但如此定位范围太大。通过浏览各选项应较容易发现[F]段与[A]段均包含对考察队成员的介绍(The team included、the team also included)，两段的位置应较近。\n\n**【答案敲定】由【路标词解析】分析可知，[F]段为本题备选项。**\n\n[F]段首句中 the area 指向考察地“黄石地区”，与[A]段②句中 Yellowstone Basin 同指，回指衔接成立。[F]段末句 In addition to...scientists, the team also included artists 与[A]段末句 The team included a meteorologist, a zoologist, a mineralogist, and an agricultural statistician 可形成“指出考察队包括气象学家等科学家→指出除科学家外，考察队还包括艺术家”的递进关系，逻辑衔接合理。此外，从行文结构来看，[A]、[F]、[E]三段总体形成“介绍考察内容及成员→介绍考察动机及成员→叙述考察经过”的结构，符合惯常写作思路。综合可确定[F]段为正确项。"
+      },
+      {
+       "number": 43,
+       "score": 2,
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n**43. 本题考核的知识点是：代词回指 + 上下文逻辑衔接**\n\n【选项推测】本题对应第五段，位于固定段[E]、[H]两段之间。[E]段提示下文可能介绍考察结果，[H]段提示上文提及某些照片的积极作用，[C]、[D]两段均提及“此次考察拍摄到了令人惊叹的照片”以及“这些照片的作用”，故均可能入选。\n\n【答案敲定】由【路标词解析】分析可知，[C][D]两段为本题备选项。\n\n[D]段首句中 Throughout the trip 可呼应 E 段对整个考察行程的介绍 (The journey officially began... Over nearly four months... concluded the survey), 两段可形成“概述考察行程→细述考察途中的具体事件”的合理逻辑。[H]段首句中 these images 可回指 [D] 段末句中 vivid photographs, 且两段可形成“考察所得的照片不仅具有欣赏价值→更具备实用价值”的递进关系，正确体现 [H] 段段首 most importantly 的逻辑含义。综合可确定[D]段为正确项。\n\n[C]段虽提及照片的作用，看似可与[H]段衔接，但该段所谈作用“照片让人们认识到黄石地区必须得到保护”与[H]段所谈作用“照片作为黄石景观的实证，有助于说服政府官员保护黄石地区”语义相近，同属照片的实用价值，无法体现[H]段段首 most importantly 的递进含义，故排除。"
+      },
+      {
+       "number": 44,
+       "score": 2,
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n44. 本题考核的知识点是：关键词复现 + 上下文逻辑衔接\n\n【选项推测】本题对应第七段，位于固定段[H]段之后。[H]段提示下文可能介绍国会议员对考察报告的回应，[G]段核心内容与之相符；此外，[H]段要义“海登将考察报告递交给国会议员”与[C]段要义“海登将考察所获得的视觉材料递交给国会议员”相近，或为先后关系。\n\n【答案敲定】由【路标词解析】分析可知，[C][G]两段为本题备选项。\n\n[C]段详细介绍海登如何利用照片等视觉材料来说服国会议员保护黄石地区，恰与[H]段首句所述照片的作用“这些照片成为后来递交给政府官员的有关公园景观的实证”形成“总述→细述”的逻辑，print out large copies and distributed them...to each member of Congress 是对[H]段中 these images...later made its way to government officials 的具体明确，故可敲定[C]段正确。\n\n[G]段若排在[H]段之后，则[C]段只能作为末段(其余选项位置已确定)。但是[G]段提及“照片等视觉材料成功说服国会议员立法保护黄石地区”，而[C]段提及“海登将照片等视觉材料递交给国会议员”，显然[C]段应位于[G]段之前，不可能作为末段。"
+      },
+      {
+       "number": 45,
+       "score": 2,
+       "answer": "G",
+       "explanation": "> **答案：** G\n\n45. 本题考核的知识点是：上下文逻辑衔接十末段的作用\n\n【选项推测】至此备选段仅剩下[G]段，上题已确定[G]段应置于[C]段之后，故只需判断该段是否符合末段的特征。\n\n【答案敲定】由【路标词解析】分析可知，[G]段为本题备选项。\n\n[G]段明确考察途中所拍摄的照片的重要作用“成功说服国会议员立法保护黄石公园”，属于对考察意义的介绍，与末段常用于分析影响或意义的功能相符，且与首段“公众开始保护土地/黄石地区的原因是照片”形成一定呼应。从全文结构来看，文章先引出话题（[B]段），后追述具体事件“黄石考察之旅”，事件叙述部分又大体按照“考察内容([A]段)→考察目的([F]段)→考察过程及结果([E]、[D]两段)→考察意义([H]、[C]、[G]三段)”的顺序展开，逻辑顺畅，故确定[G]段为末段。\n\n至此，全文顺序确定为： [B]→ [A]→ [F]→ [E]→ [D]→ [H]→ [C]→ [G] (三)通读检验。按以上排序通读文章：[B]引出话题“促使公众保护黄石地区的部分原因是照片”—[A]引出“黄石考察之旅”，并简要介绍其组织者及随行人员—[F]介绍考察目的以及考察队中的其他成员—[E]以时间顺序概述考察“正式拉开帷幕→进行中→结束”的全过程—[D]介绍杰克逊拍摄照片的过程以及这些照片的意义“首次以生动逼真的照片记录了黄石地区的风光”—[H]介绍杰克逊所拍摄的照片被用于说服政府保护黄石地区—[C]说明照片让人们认识到保护黄石地区的重要性—[G]指出杰克逊所拍摄照片的长远意义“使黄石保护法案顺利通过”。确认思路清晰连贯、结构完整、段间层次恰当，从而最终确定答案。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part C",
+   "instructions": "Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "translation_sentences",
+     "passage": [
+      "There has been some exploration around the use of artificial intelligence (AI) in digital marketing. For example, AI can be used to analyse what type of advertising content or copy would be appropriate to “speak” to a specific target customer group by revealing information about trends and preferences through the analysis of big data. (46) <u>AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, and fashions to provide unique content in marketing messages put out through social media.</u> At the same time Al can also be used to generate content for social media posts and chat sites.",
+      "The main disadvantage of using AI to respond to customers is that there are concerns about trusting personal interactions to machines, which could lead not only to the subsequent loss of interpersonal connections, but also to a decrease in marketing personnel. (47) <u>Some believe that AI is negatively impacting on the marketer’s role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information.</u> By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative. (48) <u>Algorithms used to simulate human interactions are creating many of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be.</u>",
+      "For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult. (49) <u>If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication.</u> Therefore, unless customers are prepared to sign release agreements, the use of AI may become somewhat restricted in the future. Not only can AI help to create the marketing content, but it can also provide a non-intrusive way of delivering the content to the target customers. Data can be gathered on where the customer can be engaged, such as location, devices used, website interactions, and sites visited, to display marketing messages in appropriate forms, including emails, social media posts, pop-up advertisements, and banners at an appropriate frequency. (50) <u>The non-intrusive delivery of the marketing messages in a way that is sensitive to the needs of target customers is one of the critical challenges to the digital marketer.</u>"
+     ],
+     "questions": [
+      {
+       "number": 46,
+       "score": 2,
+       "stem": "AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, and fashions to provide unique content in marketing messages put out through social media.",
+       "answer": "人工智能也可用于识别客户的生活方式选择，包括他们的兴趣爱好、最喜爱的名人和时尚风格，进而可以通过社交媒体向客户投放针对性的营销内容。",
+       "explanation": "**真题精解**\n\n> **答案：** AI can also be used to identify the lifestyle choices of customers(0.5分)//regarding their hobbies, favourite celebrities, and fashions(0.5分)//to provide unique content in marketing messages(0.5分)//put out through social media.(0.5分)\n\n(46) AI can also be used to identify the lifestyle choices of customers(0.5分)//regarding their hobbies, favourite celebrities, and fashions(0.5分)//to provide unique content in marketing messages(0.5分)//put out through social media.(0.5分)\n\n**解题步骤**\n\n**1. 句法分析**\n\n**2.句子注释**\n\n(1)两处不定式短语的翻译：第一个不定式短语 to identify…修饰动词 used,说明人工智能可实现的作用，整体可译为“用于识别……”。第二个不定式短语 to provide…修饰动词 identify,说明人工智能识别的目的，可增添表示动作先后次序的“进而”,译为“进而提供……”。\n\n(2)两处后置定语的翻译：第一个后置定语 regarding…修饰 the lifestyle choices of customers,列举客户生活方式选择的方方面面，由于该定语较长，故宜后置处理为插入语，以逗号与前后文隔开，译为“(……生活方式选择，)包括……”。第二个后置定语 put out through social media 为过去分词短语，修饰 marketing messages,表达被动含义，即后者“通过社交媒体被发布”,可结合营销语境前置译为“通过社交媒体投放的”。\n\n**3.词义确定**\n\n(1)regarding:为现在分词演变而来的介词，意为“关于；在……方面”,可结合上下文译为“包括……”。\n\n(2) unique content: unique 本义为“独特的；独有的”，结合句内语义“人工智能通过识别客户的生活喜好，来向客户提供……的内容”可知，unique content 应表达“为不同的目标客户群量身打造营销内容”之意，可结合 in marketing messages 整体译为“专属的营销内容”或“针对性的营销内容”。\n\n(3) marketing messages: marketing 为动词 market 派生而来的名词，意为“营销”, marketing messages 可译为“营销信息”。\n\n(4) put out: 意为“公布；出版；广播”，此处可结合营销语境译为“投放”。\n\n**4. 全句整理，得出译文**\n\n人工智能也可用于识别客户的生活方式选择，包括他们的兴趣爱好、最喜爱的名人和时尚风格，进而可以通过社交媒体向客户投放针对性的营销内容。\n\nⅡ ① The main disadvantage of using AI to respond to customers is that there are concerns about trusting personal interactions to machines, which could lead not only to the subsequent loss of interpersonal connections, but also to a decrease in marketing personnel. ② (47) Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information. ③ By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative. ④ (48) Algorithms used to simulate human interactions are creating many of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be.\n\n使用人工智能来回应客户的主要缺点是，人们对于将人际互动交托于机器有所忧虑，因为这不仅可能导致日后人际关系的缺失，还可能导致营销人员的减少。(47)有些人认为，人工智能通过降低创新能力和取消工作岗位正在对营销人员的角色产生负面影响，但他们也意识到这是一种削减成本和创造新内容的方式。通过允许人工智能开发内容，一些品牌营销人员可能会发觉他们正失去对品牌叙事的掌控。(48)用于模拟人类互动的算法正在引发许多这样的担忧，尤其是因为没有人能十分确定使用人工智能与客户互动会带来什么结果。\n\n第二段转入说明采用人工智能进行营销的主要缺点和顾虑。\n\n①句总体指出人工智能的应用影响人际关系和营销人员，引发担忧。句子先以 using AI to respond to customers 由上文概述人工智能的作用转入聚焦其“回应客户”的应用，后借 trusting...to...点明“回应客户”的行为本质“将人际互动交托于机器”；which could lead not only to...but also to...串联不良后果，明确“忧虑”所在：人际关系的缺失和营销人员的减少。\n\n②句阐述部分人对于在营销中使用人工智能的辩证看法。前半句中，negatively impacting on the marketer's role 承接前句 decrease in marketing personnel，聚焦人工智能对营销人员的负面影响；by reducing creativity and removing jobs 进一步明确人工智能从“质量（降低创新能力）”和“数量（取消工作岗位）”两方面影响着营销人员的角色作用。后半句转折说明人工智能的应用也会带来好处：降低成本，创造新内容；其中的 aware(意识到)暗合首段 exploration 所铺垫的“探索—发现”基调，凸显人工智能应用于数字营销时利弊兼具的特点。\n\n③句补充指出，尽管人工智能对于开发内容有所助益，但仍会令营销人员受到冲击。develop content 承接②句 creating new information,将论述重心由前文所述的“人工智能在创造/开发内容方面的助益作用”转入“该作用对营销人员的不良影响”,losing control over the brand narrative 点明这一影响：失去对品牌叙事的掌控。find 意为“(意外或偶然地)发现，发觉”,凸显营销人员在人工智能的冲击下措手不及的失控情形。\n\n④句总结人们对于使用人工智能与客户互动的顾虑。本句先以 many of these concerns 呼应①句 there are concerns 及②句 Some believe, 并总结指出，人们对于人工智能交互的顾虑不胜枚举；后以 especially as 引出人们怀有顾虑的根本现实因素：no-one、quite sure 强调人工智能交互的研究还有很长的路要走，目前交互的效果还不明朗，交互的结果更是无法预知。"
+      },
+      {
+       "number": 47,
+       "score": 2,
+       "stem": "Some believe that AI is negatively impacting on the marketer’s role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information.",
+       "answer": "有些人认为，人工智能通过降低创新能力和取消工作岗位正在对营销人员的角色产生负面影响，但他们也意识到这是一种削减成本和创造新内容的方式。",
+       "explanation": "**真题精解**\n\n> **答案：** Some believe that AI is negatively impacting on the marketer's role(0.5分)//by reducing creativity and removing jobs,(0.5分)//but they are aware(0.5分)//that it is a way of reducing costs and creating new information.(0.5分)\n\n(47) Some believe that AI is negatively impacting on the marketer's role(0.5分)//by reducing creativity and removing jobs,(0.5分)//but they are aware(0.5分)//that it is a way of reducing costs and creating new information.(0.5分)\n\n本题考核的知识点：宾语从句、动词词组、方式状语。\n\n[解题步骤]1.句法分析主语 谓语\n\n**2.句子注释**\n\n(1) believe 的宾语从句的翻译：宾语从句的主要结构为 AI is…impacting on…by…, 指出人工智能通过某种方式对营销人员的角色产生影响；方式状语 by…位于分句末尾，应按汉语表达习惯将其提至所修饰动词之前。该从句的主要结构可译为“人工智能通过……正在对……产生影响”。\n\n(2)词组 negatively impacting on 的翻译：副词 negatively 修饰现在进行时谓语 is…impacting on, 强调影响的性质或方式是负面的，翻译时可转译为形容词，整体译为“对(……)产生负面影响”。\n\n(3)后置定语的翻译：在 it is a way of doing sth 的句式结构中，介词 of 引导后置定语修饰 a way,说明是“做某事的方式”,此处介词 of 后包含两个行为动作 reducing cost、creating new information,可分别译为“削减成本”“创造新信息/内容”。\n\n**3.词义确定**\n\n(1) believe: 这里用于引出部分人的观点，可译为“认为”。\n\n(2) information: 字面义为“信息；资讯”, 可结合上下文“人工智能生成/开发内容(generate/develop content)”, 具体译为“内容”。\n\n**4. 全句整理，得出译文**\n\n有些人认为，人工智能通过降低创新能力和取消工作岗位正在对营销人员的角色产生负面影响，但他们也意识到这是一种削减成本和创造新内容的方式。"
+      },
+      {
+       "number": 48,
+       "score": 2,
+       "stem": "Algorithms used to simulate human interactions are creating many of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be.",
+       "answer": "用于模拟人类互动的算法正在引发许多这样的担忧，尤其是因为没有人能十分确定使用人工智能与客户互动会带来什么结果。",
+       "explanation": "**真题精解**\n\n> **答案：** Algorithms used to simulate human interactions are creating many of these concerns, (1分)//especially as no-one is quite sure what the outcomes of using AI to interact with customers will be.(1分)\n\n(48) Algorithms used to simulate human interactions are creating many of these concerns, (1分)//especially as no-one is quite sure what the outcomes of using AI to interact with customers will be.(1分)\n\n**解题步骤**\n\n**1. 句法分析**\n\n**2.句子注释**\n\n(1) 定语从句的翻译：定语从句省略了指代 Algorithms 的引导词 that 和 be 动词；从句较短，翻译时可将其置于被修饰的核心名词“算法”之前，译为“的”字结构，即“用于模拟人类互动的(算法)”。\n\n(3)宾语从句的翻译：宾语从句的主语 the outcomes 由较长的介词短语 of using AI to interact with customers 修饰，整体语义为“使用人工智能与客户互动的结果”; what the outcomes...will be 可译为“……结果会是什么”,或调整译为“……会带来什么结果”。\n\n**3.词义确定**\n\n(1) simulate: 意为“模拟；模仿”, 注意不要与形近词 stimulate(促进；激励)混淆。\n\n(2) creating: 动词 create 常表示“创造；创建”的含义，此处用于描述人工智能使人们产生的反应，应取其僻义“引起，产生（感觉或印象）”。\n\n(3) concerns: 为名词 concern 的复数形式，可以表示“关心；关注”或“担忧；顾虑”, 结合前文“人工智能正产生负面影响”可知，宜选择“担忧；顾虑”的义项。\n\n(4) outcomes: outcome 既可以表示负面的“后果”，也可以表示中性的“结果”，根据句内语境“结果是好是坏尚未可知”，宜将其译为“结果”。\n\n**4. 全句整理，得出译文**\n\n用于模拟人类互动的算法正在引发许多这样的担忧，尤其是因为没有人能十分确定使用人工智能与客户互动会带来什么结果。\n\nⅢ ① For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult. ② (49) If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication. ③ Therefore, unless customers are prepared to sign release agreements, the use of AI may become somewhat restricted in the future. ④ Not only can AI help to create the marketing content, but it can also provide a non-intrusive way of delivering the content to the target customers. ⑤ Data can be gathered on where the customer can be engaged, such as location, devices used, website interactions, and sites visited, to display marketing messages in appropriate forms, including emails, social media posts, pop-up advertisements, and banners at an appropriate frequency. ⑥ (50) The non-intrusive delivery of the marketing messages in a way that is sensitive to the needs of target customers is one of the critical challenges to the digital marketer. [409 words]\n\n人工智能要想取得成功，数据必须具有可访问性，但对个人数据的使用正受到愈发严格的监管，数据的自动共享也变得愈发困难。（49）如果客户不愿分享数据，人工智能便会缺乏必要信息，以至于无法有效地运作，也无法利用机器学习来改进其营销内容和传播策略。因此，除非客户愿意签署数据授权协议，否则人工智能在未来的使用可能会受到一定程度的限制。人工智能不仅可以帮助创造营销内容，还可以以一种非侵入性的方式将内容传递给目标客户。它可以收集有关客户何种情况下可能参与品牌互动的数据，比如所处位置、使用的设备、网站交互情况和访问过的网址等，从而能够以恰当的形式（包括电子邮件、社交媒体帖文、弹出式广告和横幅广告）以及适当的频率来展示营销信息。（50）用一种对目标客户的需求保持敏感的方式非侵入性地传递营销信息是数字营销人员面临的关键挑战之一。\n\n**语篇分析**\n\n第三段分析人工智能的使用限制和发展优势。\n\n①至③句指出未来人工智能的使用可能受限。\n\n①句指出人工智能访问数据的难度增大。转折连词 but 将本句分为两个意群。but 前的意群借目的状语 For AI to be successful 和表“必需；必要”的固定结构 need to do sth 凸显数据的可访问性对于人工智能获取成功的不可或缺的作用。but 后的意群以比较级 more regulated、more difficult 转而指出，数据的可访问性越来越难以实现；and 以并列之形传递因果之意，即对使用个人数据的严格监管导致数据不再轻易自动共享，因此加剧了数据的访问难度。\n\n②句阐述缺少数据对人工智能的负面影响。If...AI will...and will not...串联起逻辑链条“(基于前述‘数据的自动共享难度增大’的情况)客户个人若不主动分享数据→人工智能获取信息不足→人工智能运作不佳，无法发挥其在营销方面的优势”,负面表达 be starved of、not be able to 强调缺少数据对于人工智能的消极影响。\n\n③句点明未来人工智能的使用局限。本句先以 Therefore 承接②句所述的“数据之于人工智能的必要性”；再以 unless 顺而引出使人工智能良好发展的唯一情况“客户自愿签署授权协议，允许个人数据被人工智能访问和使用”，unless 强调“可能性小，实现难度高”，凸显人工智能面临的情形并不乐观；最后以 restricted 点明人工智能在未来可能面临的情形：使用受限。\n\n④至⑥句着重强调人工智能在传递营销信息方面具有发展优势。\n\n④句指出人工智能可以以非侵入性的方式传递营销信息。Not only...but...also...说明人工智能在数字营销方面的两大优势，一为创造营销内容（呼应前两段中的 provide unique content、generate/develop content），二为以非侵入性的方式传递营销信息，语义重心落于后者。注：数字营销领域中，“非侵入式”是指以不会降低网站使用体验的方式投放营销信息，且这类营销信息通常更加个性化，符合客户的兴趣爱好，不会让其感到烦扰。\n\n⑤句说明人工智能如何利用收集的客户数据非侵入性地向其展示营销信息。本句以 Data can be gathered...to display marketing messages in appropriate forms...at an appropriate frequency 呈递人工智能“收集数据→以合适的形式和频率展示营销信息”的运作流程，以此阐释其非入侵性的信息传递方式。句中分别以 location, devices...sites visited 和 emails, social media posts...banners 举例凸显人工智能所收集数据之广泛细致以及营销信息呈现形式之多样周全。\n\n⑥句指出如何实现非侵入式营销对于数字营销人员来说是一大挑战。The non-intrusive delivery of the marketing messages 承接上文对“非侵入性地传递营销信息”的描述，in a way that 进一步引出要实现它所必须遵循的要旨：对目标客户的需求保持敏感。critical challenges 凸显实现难度之大(部分原因是数据愈发难以获取，部分原因可能是技术实现困难), 同时暗示非侵入式营销是大势所趋，数字营销人员须迎接并克服这一挑战。"
+      },
+      {
+       "number": 49,
+       "score": 2,
+       "stem": "If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication.",
+       "answer": "如果客户不愿分享数据，人工智能便会缺乏必要信息，以至于无法有效地运作，也无法运用机器学习来改进其营销内容和传播策略。",
+       "explanation": "**真题精解**\n\n> **答案：** If customers are not willing to share data, (0.5 分)//AI will be starved of essential information(0.5 分)//and will not be able to function effectively or employ machine learning to improve its marketing content and communication.(1 分)\n\n(49) If customers are not willing to share data, (0.5 分)//AI will be starved of essential information(0.5 分)//and will not be able to function effectively or employ machine learning to improve its marketing content and communication.(1 分)\n\n本题考核的知识点：条件状语从句、固定搭配、并列结构、熟词僻义。\n\n**解题步骤**\n\n**1. 句法分析**\n\n**2.句子注释**\n\n(1) 条件句中衔接词的翻译：本句由 If 引导的条件状语从句引出某种假设，再由主句表示基于这种假设下的反馈，构成条件句。为了体现这种条件关联，主句的翻译中应增译表示顺承的“便；就”, 与 If 构成“如果……便/就……”的逻辑衔接。\n\n(2) 主句中并列结构的翻译：will be starved... and will not be able to function effectively or (to) employ machine learning... 中包含两组并列结构，第一组并列结构 will be starved... and will not be able... 暗含因果关联，应译为“会缺乏……以至于无法……”, 第二组并列结构 to function effectively or (to) employ machine learning... 省略了相同的 to, 阐述人工智能在哪两个方面无法实现其功用，可与 not be able 合译为“无法有效地运作，也无法利用机器学习……”。\n\n**3.词义确定**\n\n(1) be starved of...:starve 的常见义为“(使)挨饿，饿死”,此处取僻义“使极其缺乏；使迫切需要”,be starved of...即表示“缺乏……”。\n\n(2) essential information: essential 可以表示“必要的；重要的”或“根本的；基本的”，由上句可知文中意在强调“数据/信息对于人工智能来说至关重要，必不可少”，因此宜选择“必要的；重要的”的义项，essential information 可译为“必要信息”。\n\n(3)employ:常见义为“雇用”，此处与“机器学习”这一复杂技术搭配，应取僻义“运用；利用”。\n\n(4) communication: (marketing) communication 指“(营销)传播”, 是使用最广泛的营销策略之一，communication 一词可适当增译为“传播策略”。\n\n**4. 全句整理，得出译文**\n\n如果客户不愿分享数据，人工智能便会缺乏必要信息，以至于无法有效地运作，也无法运用机器学习来改进其营销内容和传播策略。"
+      },
+      {
+       "number": 50,
+       "score": 2,
+       "stem": "The non-intrusive delivery of the marketing messages in a way that is sensitive to the needs of target customers is one of the critical challenges to the digital marketer.",
+       "answer": "用一种对目标客户的需求保持敏感的方式非侵入性地传递营销信息是数字营销人员面临的关键挑战之一。",
+       "explanation": "> **答案：** The non-intrusive delivery of the marketing messages(0.5分)//in a way that is sensitive to the needs of target customers(1分)//is one of the critical challenges to the digital marketer.(0.5分)\n\n(50) The non-intrusive delivery of the marketing messages(0.5分)//in a way that is sensitive to the needs of target customers(1分)//is one of the critical challenges to the digital marketer.(0.5分)\n\n本题考核的知识点：介词短语作后置定语、定语从句、固定搭配。\n\n**解题步骤**\n\n**1. 句法分析**\n\n**2.句子注释**\n\n(1) 主语的后置定语的翻译：主语 The non-intrusive delivery 由两个后置定语 of the marketing messages、in a way...共同修饰，其中 delivery 具有动作含义，宜按汉语表达习惯转译为动词，两个后置定语可分别处理为动词的宾语和状语，主语部分即可译为“用一种……方式非侵入性地传递营销信息”。\n\n**3.词义确定**\n\n(1) non-intrusive: 借助前文 in appropriate forms, at an appropriate frequency 可大致推出难词“前缀 non-(表否定)+intrusive”的含义为“不打扰的；没有侵扰生活的”，在营销语境下，宜译为“非侵入性的”。\n\n(2)sensitive to the needs:sensitive to sth 可以译为“体恤某事”或“对某事(保持)敏感”，但在营销语境下，sensitive to the needs 宜译为“对需求保持敏感”。\n\n(3) critical challenges: critical 可以表示“极重要的；关键的”或“严重的；危急的”，文中意在强调“这些挑战”对数字营销领域的未来发展有重要影响，因此宜选择“极重要的；关键的”的义项，critical challenges 可译为“关键挑战”。\n\n**4. 全句整理，得出译文**\n\n用一种对目标客户的需求保持敏感的方式非侵入性地传递营销信息是数字营销人员面临的关键挑战之一。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section III Writing — Part A",
+   "score": 10,
+   "groups": [
+    {
+     "type": "writing",
+     "questions": [
+      {
+       "number": 51,
+       "stem": "Write a notice to recruit a student for Prof. Smith’s research project on campus sports activities. Specify the duties and requirements of the job. Do not Write your answer in about 100 words on the ANSWER SHEET. use your own name in the notice; use “Li Ming” instead.",
+       "score": 10,
+       "answer": "Notice\n\nProfessor Smith is currently looking for an assistant for his research project on campus sports activities, which aims to reveal factors affecting students' sports preferences.\n\nOnce recruited, the assistant will be asked to distribute questionnaires to random students on campus and persuade them to fill it out. After collecting sufficient raw data, the assistant will need to build a database based on them and carry out further analysis of them. Hence, the prospective candidate is expected to exhibit good communication and analytical skills. The research project lasts about a month, during which the assistant can receive an hourly wage of 40 yuan.\n\nThis is a great opportunity to gain invaluable research experience. If the research project matches your academic interest, please feel free to apply by sending your résumé to profsmith@uni.com.\n\nLi Ming",
+       "explanation": "**招募启事**\n\n**一、审题谋篇**\n\n**1. 解析题目指令，确定行文要点**\n\n| | | | |\n| --- | --- | --- | --- |\n| 抓取指令关键词 | 梳理信息 | 归纳要点 | |\n| 情景&要求 | Write a notice to recruit a student for Prof. Smith's research project on campus sports activities .Specify the duties and requirements of the job . | 1. 写作类型：通知2. 写作对象：(本校)学生3. 写作话题：有关校园体育活动的研究项目4. 交际目的：为外教的研究项目招募助手 | 1. 格式：告示类。2. 语域：通知用于招募项目助手，带有公务性质，应使用正式语体，面向学生可以略带热情，以达到招募的目的。3. 内容要点：1简单介绍外教的研究项目，提出招募一名学生助手；2明确工作职责与要求。 |\n\n**2. 罗列关键词**\n\nrecruit/look for a student assistant 招募/寻找一名学生助理；be in charge of/be responsible for (doing) sth 负责(做)某事；questionnaire distribution and collection 问卷的分发与收集；data analysis 数据分析；have a passion for research 热爱研究；excellent communication and organizational skills 良好的沟通和组织能力；apply for this position 申请这一职位\n\n**3. 行文思路**\n\n第一段：简单介绍研究项目，提出招募助手；第二段：具体介绍招募岗位的职责和要求；第三段：提供联系方式，鼓励学生报名参与。\n\n**二、优秀范文赏析**\n\n**优秀范文**\n\n**Notice**\n\nProfessor Smith is currently looking for an assistant for his research project on campus sports activities, which aims to reveal factors affecting students' sports preferences.\n\n① Once recruited, the assistant will be asked to distribute questionnaires to random students on campus and persuade them to fill it out. ② After collecting sufficient raw data, the assistant will need to build a database based on them and carry out further analysis of them. ③ Hence, the prospective candidate is expected to exhibit good communication and analytical skills. ④ The research project lasts about a month, during which the assistant can receive an hourly wage of 40 yuan.\n\n**参考译文**\n\n**通知**\n\n史密斯教授目前正在为他的校园体育活动研究项目寻找一名助理，该项目旨在揭示影响学生体育偏好的因素。\n\n①被录用后，该助理将要向校园内的学生随机发放问卷，并说服他们填写完问卷。②在收集到足够多的原始数据后，助理将要在这些数据的基础上建一个数据库，并对其做进一步分析。③因此，助理候选人需要具备良好的沟通和分析能力。④该研究项目持续约一个月的时间，在此期间，助理可以获得每小时40元的工资。\n\n① This is a great opportunity to gain invaluable research experience. ② If the research project matches your academic interest, please feel free to apply by sending your résumé to profsmith@uni.com.\n\n①这是一个获得宝贵研究经验的好机会。②若该研究项目符合您的学术兴趣，请随时将您的简历发送至 profsmith@uni.com 进行申请。\n\nYours sincerely,\n\n您诚挚的，\n\nLi Ming\n\n李明\n\n[篇章衔接]第一段(1句):简单介绍外教的研究项目，提出招募一名学生助手。\n\n第二段(4句):①②句介绍招聘岗位的职责(工作内容)。③句介绍招聘岗位的要求(应聘者需具备的能力)。④句补充说明工作时间及待遇。\n\n第三段(2句):①句阐述该工作的意义，吸引学生报名参与。②句提供联系方式。\n\n[必备表达]\n\n1. assistant [n.] 助理\n\n9. raw data 原始数据\n\n2. reveal [v.] 揭示；展现\n\n10. analysis [n.] 分析\n\n3. recruit [v.] 招募；吸收(新成员)\n\n11. prospective candidate 准候选人\n\n4. distribute questionnaires 发放问卷\n\n12. exhibit [v.] 展现\n\n5. random [a.] 随机的\n\n13. last [v.] 持续\n\n6. persuade [v.] 说服\n\n14. hourly wage 时薪\n\n7. fill sth out 填写(表格)\n\n15. match [v.] 符合；契合\n\n8. sufficient [a.] 足够的\n\n16. résumé [n.] 简历\n\n[活用外刊]\n\nOn Wednesday, the authorities carried out dozens of searches related to corruption accusations.\n\n—The New York Times\n\n译文：周三，当局进行了数十次与腐败指控有关的搜查。\n\n点拨：carry out 意为“实施；完成”, 其后常接任务类名词，如 carry out an analysis/a plan/an experiment(进行分析/实行计划/进行实验)。可用以代替 do 或 make 等普通用词。\n\n[精彩句式]\n\n| | | | |\n| --- | --- | --- | --- |\n| to random students on campus 对象状语 | and 连词 | (to) persuade them to fill it out.不定式短语作宾语2 | |\n\n句子成形步骤：①写出简单句\n\nThe student is getting chosen to be the assistant.\n\nThe student will be asked to do surveys with students on campus.\n\nThe student will also be asked to make them complete the questionnaire.\n\n②利用连词将简单句整合，并将语义重叠的部分省略\n\nOnce the student is getting chosen to be the assistant, the student will be asked to do surveys with students on campus and make them complete the questionnaire.\n\nOnce getting chosen to be the assistant, the student will be asked to do surveys with students on campus and make them complete the questionnaire.\n\n④替换词语、增加修饰语，以提升表达准确性和饱满度\n\nOnce recruited, the assistant will be asked to distribute questionnaires to random students on campus and persuade them to fill it out.\n\n**模板提炼**\n\n本模板由【优秀范文】改编而来，适用于撰写各类招募启事（如招募活动志愿者或项目工作者）。\n\nNotice\n\nOur university/our organization/Professor XXX is going to host/conduct a/an 活动/项目名称. To ensure the event/project goes smoothly, we are looking for 招募对象 to assist us in organizing the activities/assist the professor in his work.\n\nOnce recruited, you will be asked to 具体的工作职责 and cope with daily tasks during the event/project. An ideal candidate should have the knowledge and skills required for the position. In addition, we expect you to be responsible, hard-working and good at communication.\n\nIf you are interested in this event/project, please do not hesitate to join us. You can email your application form to 123@hotmail.com. Please note that the deadline is 8 p.m., April 3rd.\n\nYours sincerely,\n\nLi Ming\n\n**三、写作储备**\n\n**招募启事常用表达**\n\n(1) 开篇：说明写作目的\n\n- We are looking for...to assist us in (sth/doing sth). 我们正在寻找……在(某)方面协助我们。\n\n- We plan to recruit...to... 我们计划招募……以…… - Since volunteers/student assistants are integral to the success of events on this scale, we are starting a recruitment drive.\n\n由于这种规模的活动的成功离不开志愿者/学生助理，因此我们正开展招募行动。\n\n(2) 中间段：介绍招募岗位的职责和要求\n\n- Candidates applying for this position should be competent to (do)/be capable of (doing)...\n\n申请该职位的候选人应能胜任……\n\n- The qualities we value greatly in a candidate include... 我们非常重视的候选人素质包括……\n\n- Relevant experience is desired but not a prerequisite. 有相关经验者优先，但并非必要条件。\n\n(3) 结尾：提供联系方式，表达期待\n\n- If you are interested in this position, please don't hesitate to join us.\n\n如果你对此岗位感兴趣，请立刻加入我们。\n\n- You can find applicable positions and application forms on our home page. You should email your form to 123@hotmail.com before...\n\n您能在我们的主页上找到开放申请的岗位和申请表。申请表需要在……之前发送至123@hotmail.com。\n\n- If you need further information, please feel free to contact us.\n\n若您需要更多信息，请随时与我们联系。\n\n**四、写作练习**\n\n请根据下列要求进行写作。\n\n**Directions:**\n\nWrite a notice to recruit volunteers for the upcoming sports festival in your university. Specify the duties and requirements of the job.\n\nWrite your answer in about 100 words on the ANSWER SHEET.\n\nDo not use your own name in the notice. Use \"Li Ming\" instead. (10 points)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section III Writing — Part B",
+   "score": 20,
+   "groups": [
+    {
+     "type": "writing",
+     "images": [
+      "assets/2023-1-q52.jpg"
+     ],
+     "questions": [
+      {
+       "number": 52,
+       "stem": "Write an essay based on the picture below. In your essay, you should\n1) describe the picture briefly,\n2) interpret the implied meaning, and\n3) give your comments.\nWrite your answer in 160-200 words on the ANSWER SHEET.",
+       "score": 20,
+       "image": "assets/2023-1-q52.jpg",
+       "answer": "In the picture, two teams of dragon boat racers are paddling vigorously through the water, with crowds both on the bridge and along the banks cheering them on. Delighted by this scene, an elderly lady says to her spouse, “It is really wonderful that the dragon boat racing in our village is becoming increasingly popular and exciting!”\n\nThe picture demonstrates the public's great interest in traditional Chinese culture and customs. Nowadays, many Chinese people participate in various cultural activities either during special festivals or in daily life, from which they not only derive pleasure but also acquire deeper knowledge about their own history and culture. Moreover, these activities help provide further impetus for rural revitalization. For example, villagers promote intangible cultural heritage through sports events, art performances or craft fairs in an effort to attract visitors from far and wide.\n\nIn summary, holding cultural events in the countryside is a commendable and sustainable way both to keep time-honored cultural traditions alive and to facilitate rural development. We, as the younger generation, are also responsible for doing what we can to preserve Chinese culture and give back to our hometown.",
+       "explanation": "**弘扬传统文化**\n\n**一、审题谋篇**\n\n**1. 解读图画信息，推导图画寓意**\n\n| | | |\n| --- | --- | --- |\n| 提示信息 | 信息解析 | 推导寓意 |\n| 某村的龙舟比赛正如火如荼地进行着，河岸上挤满了观众。 | 表明公众对于龙舟赛这项传统运动项目的兴致很高。 | 本图以小见大，通过刻画龙舟比赛的热闹场面反映当前更大的趋势：中国传统文化越来越受到重视，人们保护和弘扬传统文化的热情越发高涨。此外，图片场景为乡村，也可从“传统文化活动助力乡村旅游发展与振兴”的角度解读，写作时可稍带提及这一层含义。 |\n| 观赛群众中有一对年迈的夫妇，老太太对老伴说：“真好啊，咱们村的龙舟赛越来越热闹了！” | 富有阅历的老年人以乐观的口吻道出积极变化：龙舟比赛越来越受到重视，办得越来越好，让村里的节日氛围越发浓烈。 | |\n\n**2. 罗列关键词**\n\n①dragon boat racing 龙舟比赛；②paddle [n.] 船桨/[v.] 用浆划船；③athletes 运动员；④the crowd/audience/viewers 观众；⑤be bustling with noise and excitement 热闹；⑥rejuvenation of the traditional culture 传统文化复兴；⑦traditional customs 传统习俗；⑧carry forward 弘扬\n\n**3. 行文思路**\n\n第一段：描述图片；第二段：揭示图片寓意，阐述其积极意义；第三段：总结观点，发出呼吁。\n\n**二、优秀范文赏析**\n\n**优秀范文**\n\n①In the picture, two teams of dragon boat racers are paddling vigorously through the water, with crowds both on the bridge and along the banks cheering them on. ②Delighted by this scene, an elderly lady says to her spouse, “It is really wonderful that the dragon boat racing in our village is becoming increasingly popular and exciting!”\n\n**参考译文**\n\n①图中，两支龙舟参赛队伍正奋力划桨在水中穿行，聚集在桥上以及沿岸的观众在为其呐喊助威。②看到这一场景，一位老奶奶高兴地和老伴说道：“真好啊，咱们村的龙舟赛越来越热闹了！”\n\n①The picture demonstrates the public's great interest in traditional Chinese culture and customs. ②Nowadays, many Chinese people participate in various cultural activities either during special festivals or in daily life, from which they not only derive pleasure but also acquire deeper knowledge about their own history and culture. ③Moreover, these activities help provide further impetus for rural revitalization. ④For example, villagers promote intangible cultural heritage through sports events, art performances or craft fairs in an effort to attract visitors from far and wide.\n\n①图片展现了公众对中国传统文化和习俗的浓厚兴趣。②如今，不论是在特殊节日期间还是在平日生活中，许多中国人都会参与各种文化活动，从这些活动中他们不但获得了乐趣，也加深了对自身历史与文化的了解。③此外，这些活动还有助于进一步推动乡村振兴。④比如，村民们会通过体育赛事、文艺展演或手工艺品展销会来推广非物质文化遗产，以期吸引各地的游客前来参观。\n\n① In summary, holding cultural events in the countryside is a commendable and sustainable way both to keep time-honored cultural traditions alive and to facilitate rural development. ② We, as the younger generation, are also responsible for doing what we can to preserve Chinese culture and give back to our hometown.\n\n①总之，在乡村举办文化活动是一种值得推崇且可持续的方式，既能让历史悠久的文化传统得以留存，又能促进乡村发展。②我们作为年轻一代，也有责任为保护中国文化、回馈自己的家乡做些力所能及的事。\n\n[篇章衔接]第一段(2句): 描述图片。\n\n①②句描述图片(通过 two teams of dragon boat racers...with crowds...Delighted by this scene, an elderly lady says to her spouse...实现人物转换)。\n\n第二段(4句):揭示图片寓意，阐述其积极意义。\n\n①句揭示寓意(The picture demonstrates...引出主旨内涵)。②句说明图片所述趋势的文化意义(derive pleasure、acquire deeper knowledge 体现文化意义)。③④句说明图片所述趋势的经济意义，并予以例证(provide further impetus for rural revitalization 体现经济意义)。\n\n第三段(2句): 总结观点，发出呼吁。\n\n①句总结图片现象(In summary 体现总结)。②句呼吁年轻人保护文化、回馈家乡。\n\n[必备表达]\n\n1. paddle [v.] 用桨划船\n\n11. intangible cultural heritage 非物质文化遗产\n\n2. vigorously [ad.] 奋力地；用力地\n\n12. craft fair 手工艺品展销会\n\n3. crowd [n.] 人群；(体育比赛中的) 观众\n\n13. in an effort to... 以便……\n\n4. cheer sb on (比赛中)为某人加油喝彩\n\n14. from far and wide 来自各地\n\n5. spouse [n.] 配偶\n\n15. commendable [a.] 值得赞扬的\n\n6. increasingly [ad.] 越发\n\n16. sustainable [a.] 可持续的\n\n7. demonstrate [v.] 展现；展示\n\n17. keep sth alive 使某物得以留存\n\n8. custom [n.] 风俗；习俗\n\n18. time-honored [a.] 历史悠久的\n\n9. derive [v.] 获得；得到\n\n19. facilitate [v.] 促进；促使\n\n10. rural revitalization 乡村振兴\n\n20. preserve [v.] 保护\n\n**活用外刊**\n\n1. Molly's story provided further impetus for new legislation to regulate so-called big tech companies.\n\n——BBC\n\n译文：莫莉的新闻报道进一步推动了监管所谓大型科技公司的新法规。\n\n点拨：impetus 意为“动力；推动”, 短语 provide further impetus for sth 意为“进一步推动某事物的发展”, 可替换 further promote sth 等普通表达。\n\n2. She wants to return to northern Ontario to practice medicine and give back to her community, she said.\n\n——BBC\n\n译文：她说，她想回到安大略省北部行医，回馈她的社区。\n\n点拨：短语 give back to 意为“回馈；回报”, 可用以替换 repay 或 contribute to 等近义词语。\n\n[精彩句式]\n\n| | | | |\n| --- | --- | --- | --- |\n| either during special festivals or in daily life, 时间状语2 | | | |\n| but also acquire deeper knowledge 谓宾部分2 | about their own history and culture. knowledge 的后置定语 | | |\n\n**句子成形步骤：**\n\n①写出简单句\n\nNowadays, many Chinese people participate in cultural activities either during festivals or in daily life. Through these activities, they can have fun.\n\nThey can also know more about their own history and culture.\n\n②利用关系代词、连词将简单句整合，并将语义重叠的部分省略\n\nNowadays, many Chinese people participate in cultural activities either during festivals or in daily life, through which they can have fun and know more about their own history and culture.\n\n③增加修饰语并替换词语，以提升表达精准性及饱满度（注：derive 与 acquire 常与介词 from 搭配）\n\nNowadays, many Chinese people participate in various cultural activities either during special festivals or in daily life, from which they not only derive pleasure but also acquire deeper knowledge about their own history and culture.\n\n**思路拓展**\n\n此图考查“正面社会现象类”话题，主题为“弘扬传统文化”，可进一步将图片情景（乡村）与时下热点（文化活动促进乡村振兴）相联系。第二段提炼图片寓意，可围绕“当下传统文化越来越受到重视，人们保护和弘扬传统文化的热情越发高涨”这一喜人的趋势展开，可分析该趋势形成的原因（包括政策层面和大众心理层面的原因），也可分析该趋势的积极意义（包括经济意义和文化意义，且经济意义层面可适当提及对乡村振兴的积极作用）。第三段可以在上述分析的基础上发出呼吁或提出建议；具体来看，可以引用相关的名人名言或谚语来引出呼吁/建议，或者对政府和个人发出呼吁/提出建议。\n\nI ①The above picture depicts a lively scene in which ____. ②Delighted by this joyful scene full of energy and optimism, a/an ____ says in a positive tone that ____.\n\nⅡ ① This picture reflects a heartening phenomenon of our current society. ② Thanks to ____, a growing number of people have begun to ____. ③ This trend has so far made a very positive impact, and residents have reported general satisfaction with it. ④ For instance, many people affirm that the increase in ____ has contributed to ____. ⑤ Another example which illustrates the positive influence of this trend is that ____.\n\nⅢ①Based on the above analysis, it is reasonable to conclude that we should continue to encourage this trend. ② Policy-wise, the government should endeavor to ____. ③ As for individuals, we should pay more attention to ____.\n\n①上图描绘了一个热闹的场景，其中概述画面。②欣喜于这充满活力和正能量的欢快景象，一位人物以积极的口吻说图片文字。\n\n①这幅图反映了我们当前社会中一个令人鼓舞的现象。②由于原因，越来越多的人开始现象的具体内容。③到目前为止，这一趋势已经产生了非常积极的影响，居民们对该趋势普遍表示满意。④例如，许多人肯定地称积极事物/品质等的增加促进了积极影响1。⑤另一个说明这一趋势的积极影响的例子是积极影响2。\n\n①基于上述分析，我们有理由得出结论：我们应该继续鼓励这种趋势。②从政策上讲，政府应该努力对政府的建议。③至于个人，我们应该更加关注对个人的建议。\n\n模板注释：该模板适用于“积极现象/趋势类”话题作文，所给图片中的文字为人物对话。该模板的主体段落先介绍该积极现象/趋势的形成原因，随后分点阐述该现象/趋势所产生的积极影响。结尾段分别从“政府政策”和“公民个人行动”两个层面提出建议。\n\n**三、写作储备**\n\n[写作素材积累]传统是向导而非狱卒。（威廉·萨默塞特·毛姆英国作家）\n\n- Tradition is a guide and not a jailer. (William Somerset Maugham, British writer)\n\n- In recent years, Chinese scholars have begun to recognize the countryside's vast cultural heritage. A mammoth government project has cataloged roughly 9,700 examples nationwide of \"intangible cultural heritage,\" fragile traditions like songs, dances, rituals, martial arts, cuisines and theater. About 80 percent of them are rural.\n\n近年来，中国学者已经开始认识到农村蕴藏着大量的文化遗产。一个庞大的政府项目在全国范围内编列了大约9700个“非物质文化遗产”的例子——包括歌曲、舞蹈、礼俗仪式、武术、美食、戏剧等脆弱的传统。其中约有80%是农村的。\n\nBesides providing economic gain, cultural heritage preservation protects local and national identity and pride, and reminds people of their common history and progress. Moreover, it increases wellbeing: people report “higher levels of well-being and life satisfaction” when there is a specific place that they feel deeply connected to.\n\n除了能创造经济效益，保护文化遗产还能维系地方和国家的身份认同感和自豪感，使人们记住共同的历史和进步。此外，保护文化遗产还能提升人们的幸福感：当人们能与某个地方产生密切的情感联结时，他们会有“更高的幸福水平和生活满意度”。"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

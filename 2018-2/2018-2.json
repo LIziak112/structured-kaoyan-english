@@ -1,0 +1,721 @@
+{
+ "year": 2018,
+ "exam": "英语二",
+ "sections": [
+  {
+   "title": "Section I Use of English",
+   "instructions": "Read the following text. Choose the best word (s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "cloze",
+     "passage": [
+      "Why do people read negative Internet comments and do other things that will obviously be painful? Because humans have an inherent need to {{1}} uncertainty, according to a recent study in Psychological Science. The new research reveals that the need to know is so strong that people will {{2}} to satisfy their curiosity even when it is clear the answer will {{3}} .",
+      "In a series of four experiments, behavioral scientists at the University of Chicago and the Wisconsin School of Business tested students’ willingness to {{4}} themselves to unpleasant stimuli in an effort to satisfy curiosity. For one {{5}} , each participant was shown a pile of pens that the researcher claimed were from a previous experiment. The twist? Half of the pens would {{6}} an electric shock when clicked.",
+      "Twenty-seven students were told which pens were electrified; another twenty-seven were told only that some were electrified. {{7}} left alone in the room, the students who did not know which ones would shock them clicked more pens and incurred more shocks than the students who knew what would {{8}} . Subsequent experiments reproduced this effect with other stimuli, {{9}} the sound of fingernails on a chalkboard and photographs of disgusting insects.",
+      "The drive to {{10}} is deeply rooted in humans, much the same as the basic drives for {{11}} or shelter, says Christopher Hsee of the University of Chicago. Curiosity is often considered a good instinct – it can {{12}} new scientific advances, for instance – but sometimes such {{13}} can backfire. The insight that curiosity can drive you to do {{14}} things is a profound one.",
+      "Unhealthy curiosity is possible to {{15}} , however. In a final experiment, participants who were encouraged to {{16}} how they would feel after viewing an unpleasant picture were less likely to {{17}} to see such an image. These results suggest that imagining the {{18}} of following through on one’s curiosity ahead of time can help determine {{19}} it is worth the endeavor. “Thinking about long-term {{20}} is key to reducing the possible negative effects of curiosity,” Hsee says. In other words, don’t read online comments."
+     ],
+     "questions": [
+      {
+       "number": 1,
+       "score": 0.5,
+       "options": {
+        "A": "protect",
+        "B": "resolve",
+        "C": "discuss",
+        "D": "ignore"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n1. [A] protect 保护\n\n[B] resolve 消除，解释清楚；解决\n\n[C] discuss 商谈，讨论\n\n[D] ignore 忽视；不理\n\n[考点提炼] 上下文语义+动词辨析。\n\n[解题思路] ②句借一项新研究的结论回答首句设问(Because..., according to a recent study...); ③句进一步阐释研究结论(The new research reveals that...): 这种想要知道的需求是如此之强烈，……; 可见③句 the need to know 复现②句 an inherent need to ____ uncertainty, 而 to know(去了解、弄清情况)意即“去除不确定性”, [B]符合文意。\n\n[错项排除] 其余三项以 uncertainty 作宾语，均不能和 to know 形成“复现”关系，具体来看：“保护不确定性”暗含“维持现状、不去了解/探索”之意，与 the need to know 相悖；“讨论、无视不确定性”与首句“阅读负面评论(追踪内情)”的行为完全无关甚至相反，更不会“引起类似的不快”。"
+      },
+      {
+       "number": 2,
+       "score": 0.5,
+       "options": {
+        "A": "refuse",
+        "B": "wait",
+        "C": "regret",
+        "D": "seek"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n2. [A] refuse 拒绝；回绝\n\n[B] wait 等待；等候\n\n[C] regret 后悔；对……感到抱歉(遗憾)\n\n[D] seek 寻找；谋求；试图；设法\n\n[考点提炼] 句内语义+动词辨析。\n\n[解题思路] ③句研究结论为：人们想要知道的需求是如此强烈，以至于就算……,也会____满足他们的好奇心；so...that 引导结果状语从句，故结果必定是想方设法去满足好奇心，seek to do sth(=try to do sth)指“试图、设法做某事”，故[D]正确。\n\n[错项排除]“拒绝满足好奇心”与主句“迫切想知道”的逻辑正相反，“等待去满足好奇心”实属“不作为”状态，也不能体现主句逻辑，故排除[A]、[B]。[C] regret 断章取义，认为“人们为满足好奇心做了让自己痛苦的事，而事后后悔”，但无视主从句因果逻辑；且 regret to do sth 实质表示“遗憾、抱歉去做某事”，而非“后悔做了某事(regret doing sth)”之意。"
+      },
+      {
+       "number": 3,
+       "score": 0.5,
+       "options": {
+        "A": "hurt",
+        "B": "last",
+        "C": "mislead",
+        "D": "rise"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n3. [A] hurt（使）疼痛；受伤；使不快；使烦恼\n\n[B] last（使）持续；继续存在\n\n[C] mislead 误导；把人引入歧途\n\n[D] rise 上升；流传；发生\n\n[考点提炼] 句内语义+动词辨析。\n\n[解题思路] 空格句指出，即便答案明显会_____,人们还是会满足他们的好奇心。由让步逻辑词 even(尽管)可知，空格部分应表示“答案会产生负面影响”,再辅以首句关键词 negative、painful 可进一步明确此处意为“就算结果令人不快”,[A] hurt 正确。\n\n[错项排除] [B]和[D]看似符合主从句“让步转折”，但均把主语 answer 误读为“待解决的问题”，具体来看：[B]last 表“延续”时，通常主语为“事件、情形、问题”等，表示“持续一段时间”，而“答案/解决办法”本身不涉及“持续”概念；[D]rise 的主语为“问题”时，只能表达“问题出现”，而不能表达“问题加剧、变多”，rise 还可表示“流传”，但主语多为谣言等内容。[C]mislead 脱离上下文语境：首句与空格部分已知信息均指向的语义是“显然令人不快”，而“会误导人”往往发生在不自知的情况下，未必会令人不快。\n\n**词汇注释与难句分析**\n\npainful a. 令人痛苦的；令人不快的\n\ninherent a. 内在的，固有的；生来就有的\n\n**语篇分析**\n\n首段明确主题：人类为满足好奇心不惜找虐。①句开篇设问(Why do...), negative、obviously be painful 凸显人们行为的矛盾：明知不爽，为何还要自寻烦恼，激起读者探究之心。②句随即引出一项新研究予以回答(Because), inherent need 明示矛盾行为的源头：与生俱来的欲求。③句进一步阐释研究结论。the need to know 明确②句 an inherent need to resolve uncertainty 具体所指：人类渴望了解、探索未知的迫切需求；(so...)that...结果状语从句与 even...让步状语从句(answer 意为“答案，解决之道”)一同复现首句内容，重申主题。\n\nⅡ ① In a series of four experiments, behavioral scientists at the University of Chicago and the Wisconsin School of Business tested students' willingness to ____ 4 themselves to unpleasant stimuli in an effort to satisfy curiosity. ② For one ____ 5, each participant was shown a pile of pens that the researcher claimed were from a previous experiment. ③ The twist? ④ Half of the pens would ____ an electric shock when clicked.\n\n在一系列的四项实验中，芝加哥大学和威斯康辛商学院的行为科学家们针对学生是否愿意为满足好奇心而让自己遭受令人不快的刺激进行了测试。②其中一项试验中，研究人员向每一位参与者展示了一堆笔，并声称这些笔来自先前的一项实验。③一记变招？④当按动时，一半的笔会产生电击。"
+      },
+      {
+       "number": 4,
+       "score": 0.5,
+       "options": {
+        "A": "alert",
+        "B": "tie",
+        "C": "treat",
+        "D": "expose"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n4. [A] alert 使警觉；使意识到\n\n[C] treat 对待，看待；招待，款待\n\n[考点提炼] 句内语义 + 动词短语搭配。\n\n[B] tie 系；捆；束缚；使紧密结合\n\n[D] expose 暴露；使遭受；使接触\n\n[解题思路] 空格句承上引出实验测试内容(tested): 学生是否愿意为了满足好奇心而____自己· 负面刺激(students' willingness to...); 而测试内容一定与首段首句实验结论统一，因此只能表达“让自己受到、经历”的语义，expose sb/sth/oneself to sth 表示“使某人/某事面临、遭受危险或不快”，[D]正确。\n\n[错项排除] [A] alert 作动词时常见于～sb to do sth(使警觉/戒备)或～sb to sth(使意识/认识到)结构中，前者 to 为不定式符号，后者 to 为介词，文中 to stimuli 为后一种结构，但“让自己认识到刺激”≠“直接经历不快”。[B] tie 用于～sb to sth 结构时表示“使某人与某物紧密结合；使有关联”或“使某人受到某事的束缚/约束”,前者暗含因果逻辑，如 Pay increases are tied to inflation.(提高工资和通货膨胀紧密相关);后者有一定干扰，但此处“束缚”实为 to restrict sb and make them unable to do everything they want,如 be tied to the house with the baby(被孩子拴在家里),而此处刺激仅会影响情绪。[C] treat 用于～sb to sth 结构时表示“以某物招待，款待某人”,而文中“令人不快的刺激”为负面事物，不能用于招待/款待。"
+      },
+      {
+       "number": 5,
+       "score": 0.5,
+       "options": {
+        "A": "message",
+        "B": "review",
+        "C": "trial",
+        "D": "concept"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n5. [A] message 消息，信息；要旨\n\n[B] review 审查；评论；报告\n\n[C] trial 试验；审判\n\n[D] concept 概念；观念\n\n[考点提炼] 名词辨析。\n\n[解题思路] 由空格上文 a series of four experiments(一系列的四项实验)、空格句主句中的 participant(参与者)和 researcher(研究人员)以及下段末句 Subsequent experiments(随后的实验)可知，本句 For one ____,... 是在介绍其中一项实验，[C] trial 与 experiments 为近义复现，为正确项。\n\n[错项排除] [A] message、[D] concept 均与“实验(experiments)”这一关键词无关。[B] review 利用“实验报告”这一语义干扰，但空格后明显不是介绍实验结果的报告，而是对实验内容本身的描述。"
+      },
+      {
+       "number": 6,
+       "score": 0.5,
+       "options": {
+        "A": "remove",
+        "B": "weaken",
+        "C": "interrupt",
+        "D": "deliver"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n6. [A] remove 移走；清除，移除\n\n[B] weaken 削弱；减弱\n\n[C] interrupt 打断；中断\n\n[D] deliver 发出；递送；发表\n\n[考点提炼] 上下文语义 + 动词辨析。\n\n[解题思路] 由空格下段首两句“一些笔是带电的(electrified)”、“按动更多笔并遭受更多电击(clicked more pens and incurred more shocks)”可知，这些笔被按动时应该会产生、发出电击，deliver 有 to give forth or produce“发出；产出”的语义，与 incurred 形成复现关系，故[D]正确。\n\n[错项排除] [A] remove、[B] weaken 与 [C] interrupt 成立的前提是“电击本就存在”，而按动笔时才得以“移除、削弱或中断”，均与下文“按动更多笔并遭受更多电击”所暗含的“先按笔→再电击”的先后逻辑矛盾。\n\n①willingness n. 乐意；心甘情愿\n\n③twist n. 意外转折 ②stimuli n. 刺激(物)(stimulus 的复数)\n\n④shock n. 电击，触电\n\n**语篇分析**\n\n第二段引出相关实验。①句明确研究者、实验对象与实验内容。a series of four experiments 提示实验不止一项，呼应②句 For one trial 以及 a previous experiment; unpleasant stimuli 呼应首段 negative、painful、hurt，说明实验条件遵循现实情形，强调其客观性。②至④句介绍其中一项实验设定。The twist 暗示实验玄机：竟有一半的笔会发出电击。\n\n① Twenty-seven students were told which pens were electrified; another twenty-seven were told only that some were electrified. ② 7 left alone in the room, the students who did not know which ones would shock them clicked more pens and incurred more shocks than the students who knew what would 8.\n\n①有27名学生被告知哪些笔带电；另外27名学生仅被告知有一些笔带电。②当他们被单独留在房间时，那些不知道哪些笔会对自己产生电击的学生比那些知道将会发生什么的学生按动的笔更多，也受到更多的\n\n③ Subsequent experiments reproduced this effect with other stimuli, 9 the sound of fingernails on a chalkboard and photographs of disgusting insects.\n\n电击。③随后的实验利用其它刺激物再现了该结果，如指甲刮擦黑板的声音和令人作呕的昆虫图片。"
+      },
+      {
+       "number": 7,
+       "score": 0.5,
+       "options": {
+        "A": "When",
+        "B": "If",
+        "C": "Though",
+        "D": "Unless"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n7. [A] When 当……时\n\n[B] If 如果；即使；无论何时；是否\n\n[C] Though 虽然，尽管\n\n[D] Unless 除非，如果不\n\n[考点提炼]句内语义逻辑。\n\n[解题思路] 主句内容“学生按笔并遭受电击”应是从句“单独留在房间”这一时间段之内或这一时间之后所发生的动作，二者存在时间上的包含关系或先后逻辑，[A] When 符合文意。\n\n[错项排除] [B] If 和 [D] Unless(意义上相当于 If... not) 均表假设概念，原文虽为实验，但实属确切发生的情形；其次从逻辑上看，“单独在房里(或除此之外的其他情形)”并非是“按更多笔、受更多电击”发生的前提条件；另外 if 也可以表时间，相当于 whenever/every time, 如：If I feel any doubt, I inquire. (我一有疑惑就随时问人。), 但原文实验为一次发生的情况，而非习惯性动作。[C] Though 可表让步，也可表轻微转折，用于主句后，引出补充说明，起弱化语气的作用，原文不存在让步或转折逻辑。"
+      },
+      {
+       "number": 8,
+       "score": 0.5,
+       "options": {
+        "A": "continue",
+        "B": "happen",
+        "C": "disappear",
+        "D": "change"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n8. [A] continue 继续，延续\n\n[B] happen 发生\n\n[C] disappear 消失；失踪\n\n[D] change 改变；转变\n\n[考点提炼] 句内语义 + 上下文语义。\n\n[解题思路] ①句介绍实验背景，即两组人的设定，②句表明实验结论，即两组人的行为结果，故②句 who knew what would ____ VS who did not know...(不知道哪些笔会电击)分别对应①句“知道具体哪些笔带电的人(即知道会发生什么情况)VS 仅知道有些笔带电的人，[B]正确。\n\n[错项排除] [A] continue、[C] disappear 和 [D] change 均针对某已知的具体情况进行说明，而实验中一半学生已知的信息仅为“一些笔带电”而已，不存在“他们知道某情况会持续、消失或改变”的逻辑。\n\n[D] owing to 因为，由于"
+      },
+      {
+       "number": 9,
+       "score": 0.5,
+       "options": {
+        "A": "rather than",
+        "B": "regardless of",
+        "C": "such as",
+        "D": "owing to"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n[考点提炼]句内语义逻辑。\n\n[解题思路] 空格前 other stimuli 呼应上段①句 unpleasant stimuli, 而空格后 and 连接两个内容：指甲在黑板上的声音、恶心的昆虫图片；很明显为“其他令人不快的刺激(物)”的具体例子，[C] 符合文意。\n\n[错项排除] [A] rather than 所连接的前后内容为“取前舍后”的选择关系；[B] regardless of 引出的是让步内容，旨在更好地凸显主句观点，如 The fields give high and stable yields regardless of climatic circumstances.（不管天气条件如何，这块地总是保持稳产高产。）；[D] owing to 引出导致某事的原因；三项均不符合文中语义逻辑。\n\n**词汇注释与难句分析**\n\nelectrified a. 带电的\n\nincur v. 招致；遭受；引起\n\nsubsequent a. 随后的，继……之后的\n\nreproduce v. 使再次发生；再现\n\nfingernail n. 手指甲\n\nchalkboard n. 黑板\n\nWhen left alone in the room, the students who did not know which ones would shock them clicked more pens and incurred more shocks than the students who knew what would happen.\n\n功能注释：本句难点有三：一、When 引导的时间状语从句省略了主语与部分谓语，还原后为 When students were left alone...;二、主干中主语 the students 后嵌含一个 who 引导的定语从句，其内又嵌套一个 which 引导的宾语从句；三、主干中包含两个并列的“谓语+宾语”结构 clicked more pens and incurred more shocks,其后为 than...引导的比较状语。\n\n**语篇分析**\n\n第三段详述实验内容及实验结果。①句通过对比结构 were told which pens were electrified VS were told only that some were electrified 清晰呈现两组实验对象的设定。②句进而以比较结构 clicked more pens and incurred more shocks than... 引出实验结果；incurred more shocks 呼应上文 expose... to unpleasant stimuli，印证开篇论点。③句以其他实验补充论证实验结果。other stimuli 呼应上段①句 unpleasant stimuli、②句 a pile of pens；列举标记词 such as 将 other stimuli 进一步具体化，两项内容分别间接、直接 (disgusting) 对应 unpleasant；reproduced this effect 强调了实验结论的全面、可靠性。 IV ① The drive to 10 is deeply rooted in humans, much the same as the basic drives for 11 or shelter, says Christopher Hsee of the University of Chicago. ② Curiosity is often considered a good instinct — it can 12 new scientific advances, for instance — but sometimes such 13 can backfire. ③ The insight that curiosity can drive you to do 14 things is a profound one.\n\n①探索的本能需求深深根植于人类体内，几乎无异于人类对食物或住所的基本需求，芝加哥大学的奚恺元说道。②好奇心通常被认为是一种有益的本能——比如它能带来新的科学进步——但有时这种探究可能会适得其反。③好奇心会驱使人们去做自我毁灭的事，这是一种意义深远的见解。"
+      },
+      {
+       "number": 10,
+       "score": 0.5,
+       "options": {
+        "A": "discover",
+        "B": "forgive",
+        "C": "forget",
+        "D": "disagree"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n10. [A] discover 发现，找到\n\n[B] forgive 原谅；宽恕\n\n[C] forget 忘记，遗忘\n\n[D] disagree 不同意，反对；不一致\n\n[考点提炼] 上下文语义+动词辨析。\n\n[解题思路] 文章开篇(②③句)明确主题“人类想要知道的内在需求极其强烈”，第二、三段介绍与主题相关的实验，而本段首句以“____的欲求深深植根于我们体内”切入，很明显作者是“继论据（实验）之后又回归主题展开评述”，故 The drive to ____应该与 inherent need to resolve uncertainty、need to know 一致，故[A]正确。\n\n[错项排除] [B] forgive、[C] forget、[D] disagree 虽都可与 The drive to 搭配，但脱离“人类有去除不确定性问题的需求”、“好奇心太盛”的主题。"
+      },
+      {
+       "number": 11,
+       "score": 0.5,
+       "options": {
+        "A": "pay",
+        "B": "marriage",
+        "C": "schooling",
+        "D": "food"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n11. [A] pay 工资，薪金\n\n[B] marriage 婚姻；结婚\n\n[C] schooling 学校教育\n\n[D] food 食物，食品\n\n[考点提炼] 句内语义+名词辨析。\n\n[解题思路] the basic drives for 引出“人类基本欲求的对象”，空格词与 shelter(住所)并列，而选项中同属人类基本需求的只有 [D] food。注：food or shelter 为常见搭配，表示“食物或住所”。\n\n[错项排除] 其余三项也属于人的需求，但属于社会学范畴，即人类进入文明社会后才出现的需求，并非“维持生存”这种根本、内在的需求。"
+      },
+      {
+       "number": 12,
+       "score": 0.5,
+       "options": {
+        "A": "lead to",
+        "B": "rest on",
+        "C": "learn from",
+        "D": "begin with"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n12. [A] lead to 导致；造成 [B] rest on 依靠；依赖；基于；以……为基础\n\n[C] learn from 向……学习；从……得到教益[D] begin with 以……开始\n\n[考点提炼] 句内语义+动词短语辨析。\n\n[解题思路] 举例标记词 for instance 表明“它能 ____ 新的科学进步”是对“好奇心常被认为是有益的本能”的例证说明；既然“有益(good)”，那一定是能对科学进步起到积极作用，只有[A] lead to 符合该逻辑。\n\n[错项排除]“好奇心依赖/基于新的技术进步”颠倒逻辑，排除[B]；[C]错误一方面在于“好奇心”不会是“向外界学习”的主体，另一方面与[B]类似，颠倒两者关系。“好奇心以新的科学进步为起点”暗含的逻辑为“好奇心在新进步之前不存在”，显然背离“好奇乃人类天性”的主题，排除[D]。"
+      },
+      {
+       "number": 13,
+       "score": 0.5,
+       "options": {
+        "A": "withdrawal",
+        "B": "persistence",
+        "C": "inquiry",
+        "D": "diligence"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n13. [A] withdrawal 撤走；收回 [B] persistence 坚持；执着；维持\n\n[C] inquiry 探究；探索；调查 [D] diligence 勤奋；勤勉\n\n[考点提炼] 上下文语义+名词辨析。\n\n[解题思路] 空格句指出，好奇心常被认为是有益的本能，但有时这种____会适得其反(but such... can backfire)。由 such 的回指功能(近指 Curiosity, 远指 The drive to discover、the need to know)可以判断，空格词应体现这两项内容，[C]inquiry 表示“为获取信息而询问、打听的过程、举动”,符合要求。\n\n[错项排除] withdrawal 表示“取消、放弃(某行为)”的举动，与 curiosity 背后的“积极探究”之举相悖；persistence 和 diligence 虽有“积极”意味，但两词为褒义色彩，多用于对人(外在)的坚韧品质表示赞赏，而文中“好奇心”实属人类的内在本性，“太想满足好奇心”谈不上“刻意努力、坚持”。"
+      },
+      {
+       "number": 14,
+       "score": 0.5,
+       "options": {
+        "A": "self-reliant",
+        "B": "self-destructive",
+        "C": "self-evident",
+        "D": "self-deceptive"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n14. [A] self-reliant 自力更生的 [B] self-destructive 自毁的；自残的\n\n[C] self-evident 不证自明的，显而易见的 [D] self-deceptive 自欺的\n\n[考点提炼] 上下文语义+形容词辨析。\n\n[解题思路] 空格句指出，好奇心会驱使人们去做 ____ 的事情，这样的见解很深刻。由上文②句“好奇心有时会适得其反”可知，空格句意在解释说明好奇心的不利之处，空格词应表明这一负面、不利之处，[B] self-destructive 符合文意。\n\n[错项排除] [A] self-reliant 常用于说明“人或文化”，不适用于修饰 things；且该词为褒义，与②句 backfire 体现的负作用矛盾。[C] self-evident 可用于修饰 things，但色彩为中性。[D] self-deceptive 虽为负面语义，但恰与全文立意“满足好奇心的代价是情绪上的痛苦”相悖：自欺背后其实是心情的愉悦。\n\n**词汇注释与难句分析**\n\ndrive n. 本能的需求，基本欲求\n\nshelter n. 栖身之地，住处；庇护所\n\ninstinct n. 本能；直觉\n\nbackfire v. 产生事与愿违的结果\n\ninsight n. 洞悉；深刻见解\n\nprofound a. 知识渊博的；理解深刻的\n\n**语篇分析**\n\n第四段评述实验结论。首句引证指出探索的需求乃人类天性。deeply rooted in 与首段 inherent 契合；much the same as 以类比进一步凸显人类好奇心与寻觅食物和庇护之所一样实属本能。②句表明好奇心的两面性。often considered... VS but sometimes... can... 清晰呈现“惯常看法 VS 文中焦点”，重申写作立意。backfire(have the opposite result to the one that was intended)形象说明好奇心可能的代价：事与愿违。③句进一步说明好奇心的负作用。drive 暗含因果关系，引出好奇心的不良后果；insight([对复杂情况或问题的]深刻见解)与 profound(深刻的，意义深远的)强调这一看法(即全文论点)的深刻意义。\n\nV ① Unhealthy curiosity is possible to \\_15\\_, however. ② In a final experiment, participants who were encouraged to \\_16\\_ how they would feel after viewing an unpleasant picture were less likely to \\_17\\_ to see such an image. ③ These results suggest that imagining the \\_18\\_ of following through on one's curiosity ahead of time can help determine \\_19\\_ it is worth the endeavor. ④ “Thinking about long-term \\_20\\_ is key to reducing the possible negative effects of curiosity,” Hsee says. ⑤ In other words, don't read online comments. [350 words]\n\n①不过，病态的好奇心是有可能抑制的。②在最后一项实验中，那些被鼓励对“看到令人不快的图片后自己会作何感受”进行预测的参与者选择去看这种图片的可能性更小。③这些结果表明，提前想象坚持好奇心的结果有助于确定这一尝试是否值得。④“考虑长期后果是降低好奇心可能带来的负面影响的关键”,奚恺元说道。⑤换言之，不要阅读网上评论。"
+      },
+      {
+       "number": 15,
+       "score": 0.5,
+       "options": {
+        "A": "define",
+        "B": "resist",
+        "C": "replace",
+        "D": "trace"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n15. [A] define 确定，说明；下定义 [B] resist 按捺；抗拒\n\n[C] replace 接替；取代；更换 [D] trace 追溯；找到\n\n[考点提炼] 上下文语义+动词辨析。\n\n[解题思路] 段际逻辑词 however 提示语义逻辑：上文论述“好奇心的负作用”, 故本段应论述另一面，可以是“好奇心的积极作用”, 也可以是“不必太过担心这种负作用”的逻辑；结合下文②句“……的可能性更小”以及④句“降低好奇心可能的负面影响”可判断后者合理，即：病态程度的好奇心是可以避免或可控的，只有 [B] 符合文意。\n\n[错项排除][A] define 与[D] trace 虽可与 is possible to 构成合理搭配，但均与下文的实验细节无关。[C] replace 语意不明：“有可能(得到)替代”并不能确定“改变”的具体情况，换言之，“替代”的外延过大，虽然有负面的限定语 unhealthy,也不足以判断此处与下文“降低负面影响”一致。"
+      },
+      {
+       "number": 16,
+       "score": 0.5,
+       "options": {
+        "A": "overlook",
+        "B": "predict",
+        "C": "design",
+        "D": "conceal"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n16. [A] overlook 忽视，忽略\n\n[B] predict 预测，预料\n\n[C] design 设计，计划\n\n[D] conceal 隐藏，隐瞒\n\n[考点提炼] 句内语义+动词辨析。\n\n[解题思路]由过去将来时 would feel 以及下文③句关键词 imagining 可知，“看图之后会作何感受”只能是参与者对未来可能情况的想象、预测，[B]正确。\n\n[错项排除][A]、[D]两项均可以接 how they would feel...作为宾语，分别表示“无视这种感受”和“掩饰真实感受”，但下文 imagining 的宾语为 the...of following through on curiosity，其内容仍然与“好奇心”密切相关，可见实验的做法并非鼓励“逃避或遮掩这种感受”。[C]design 表示“计划、筹划”时其后常为做事的方法、体系等，而空格后为“个人感受”。"
+      },
+      {
+       "number": 17,
+       "score": 0.5,
+       "options": {
+        "A": "remember",
+        "B": "promise",
+        "C": "choose",
+        "D": "pretend"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n17. [A] remember 记住；记得 [B] promise 许诺；保证\n\n[C] choose 选择；决定 [D] pretend 假装，装作\n\n[考点提炼] 上下文语义+动词辨析。\n\n[解题思路]②句实验结果是对首句结论“病态的好奇心有可能得到抑制”的证明(论据)，因此空格部分应该表达“最终做出决定不看这种图”的语义，[C]正确，文中是对许多实验参与者行为情况的总结，故采取了“倾向性表述(were less likely to)”。\n\n[错项排除][A] remember (to do sth) 表示“记得(住)去做……”，但“记着去看这种图”与文中有关好奇心的实验及其结论“伤人，但能够得到抑制”无甚关联。“不大会去承诺看这种图片”虽然最终结果也是“不看图片”，但 promise 暗含“实验提前对受试者进行要求，让他们承诺看图”的逻辑，而非“自主抉择”，违背实验“测试人们在特定情形下会做出何种行为”的初衷。“不大会假装去看图”暗含逻辑为“更少作假”，同样无关于“抑制好奇心”的结论。"
+      },
+      {
+       "number": 18,
+       "score": 0.5,
+       "options": {
+        "A": "relief",
+        "B": "plan",
+        "C": "duty",
+        "D": "outcome"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n18. [A] relief 减轻，缓解；宽慰\n\n[B] plan 计划，打算\n\n[C] duty 义务，责任；职责\n\n[D] outcome 结果，后果\n\n[考点提炼] 上下文语义。\n\n[解题思路] 空格句是由上述实验结果得出的进一步结论(These results suggest that...),其中 imagining the ____ of following through on one's curiosity ahead of time 实际对应上文②句 predict how they would feel after viewing...，因此空格词应该能够概括“(……之后)他们作何感受”，[D]outcome 表示“(会议、讨论等无法预知的)结果”，符合文意。\n\n[错项排除]根据主题一致原则，“将好奇心坚持到底”带来的不会是宽慰，排除[A];[B]误认为“将好奇心进行到底”仅是计划，但“提前考虑计划”并不会导致观念上的转变。[C]多指“道德、法律上的义务或工作上的职责”，但“坚持好奇心”显然与义务职责无关。"
+      },
+      {
+       "number": 19,
+       "score": 0.5,
+       "options": {
+        "A": "why",
+        "B": "whether",
+        "C": "where",
+        "D": "how"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n19. [A] why 为什么\n\n[B] whether 是否\n\n[C] where 在哪里\n\n[D] how 如何，怎样\n\n[考点提炼]句内语义逻辑。\n\n[解题思路] 空格部分意为：提前想象坚持好奇心的……有助于判定 ____ 值得这一尝试，the endeavor 指代 following through on one's curiosity; 上文已知那些受邀对结果进行预想的人选择去看这些图的可能性更小，可见文意应该是：这样做有助于衡量自己如此“寻根穷究”是否值得，[B] 正确。\n\n[错项排除]“有助于确定为何值得这一尝试”言外之意即“尝试确定是值得的（，只是需明确原因）”，与原文相悖，排除[A]。上下文并未探讨“坚持好奇心”的场合或方式，排除[C]、[D]两项。"
+      },
+      {
+       "number": 20,
+       "score": 0.5,
+       "options": {
+        "A": "consequences",
+        "B": "investments",
+        "C": "strategies",
+        "D": "limitations"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n20. [A] consequences 后果\n\n[B] investments 投资；投入\n\n[C] strategies 策略；战略\n\n[D] limitations 限制，制约；局限\n\n[考点提炼] 上下文语义+名词辨析。\n\n[解题思路] 空格句引证实验结果(Hsee says)，故应该与上文③句结论一致，也即，“考虑长期____”和“降低可能的负作用”分别对应上句“提前想象坚持好奇心的结果”和“确定是否值得”，因此空格词应与 outcome 近义，[A] consequences 符合文意。\n\n[错项排除] [B]、[C] 两项均可与 long-term 构成合理搭配，但上下文并不涉及“长期投入/策略”相关内容。[D] limitations 利用“考虑好奇心的长期局限性很有裨益”的逻辑干扰，但“好奇心（本身的）局限性”并不等同于“其（对人们造成的）负面影响”。\n\n**词汇注释与难句分析**\n\nfollow through 进行到底；坚持完成\n\nahead of time 提前，提早\n\ndetermine v. 查明；测定，确定\n\nendeavor n. 尝试，努力\n\n**语篇分析**\n\n第五段补充说明另一项实验发现，借以缓和上述问题。①句摆出观点。however 转承上文对好奇心负面影响的说明，转而开启对“病态好奇心并非不可控”的乐观论述。Unhealthy 侧面肯定“好奇心并非绝对负面”，锁定控制对象。②句引出相关实验。final experiment 呼应上文 a series of four experiments、one trial；实验结果 were less likely to choose to see such an image 印证首句“可以被抑制”，暗中肯定“预估自身感受(predict)”所起的积极作用。③至⑤句明确阐释实验结果。③句 imaging the outcome of... ahead of time 与上句 predict how they would feel after... 完全对应；following through on one's curiosity 则概括上句 viewing an unpleasant picture；can help determine whether... 明示两者间关系。④句以引言总结实验结论(is key to...)。Thinking about long-term consequences 近义复现②③句 predict、imagining...。⑤句以直白告诫终结观点。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part A",
+   "instructions": "Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points)",
+   "score": 40,
+   "groups": [
+    {
+     "title": "Text 1",
+     "type": "reading",
+     "passage": [
+      "It is curious that Stephen Koziatek feels almost as though he has to justify his efforts to give his students a better future.",
+      "Mr. Koziatek is part of something pioneering. He is a teacher at a New Hampshire high school where learning is not something of books and tests and mechanical memorization, but practical. When did it become accepted wisdom that students should be able to name the 13th president of the United States but be utterly overwhelmed by a broken bike chain?",
+      "As Koziatek knows, there is learning in just about everything. Nothing is necessarily gained by forcing students to learn geometry at a graffitied desk stuck with generations of discarded chewing gum. They can also learn geometry by assembling a bicycle.",
+      "But he’s also found a kind of insidious prejudice. Working with your hands is seen as almost a mark of inferiority. Schools in the family of vocational education “have that stereotype...that it’s for kids who can’t make it academically,” he says.",
+      "On one hand, that viewpoint is a logical product of America’s evolution. Manufacturing is not the economic engine that it once was. The job security that the US economy once offered to high school graduates has largely evaporated. More education is the new principle. We want more for our kids, and rightfully so.",
+      "But the headlong push into bachelor’s degrees for all – and the subtle devaluing of anything less – misses an important point: That’s not the only thing the American economy needs. Yes, a bachelor’s degree opens more doors. But even now, 54 percent of the jobs in the country are middle-skill jobs, such as construction and high-skill manufacturing. But only 44 percent of workers are adequately trained.",
+      "In other words, at a time when the working class has turned the country on its political head, frustrated that the opportunity that once defined America is vanishing, one obvious solution is staring us in the face. There is a gap in working-class jobs, but the workers who need those jobs most aren’t equipped to do them. Koziatek’s Manchester School of Technology High School is trying to fill that gap.",
+      "Koziatek’s school is a wake-up call. When education becomes one-size-fits-all, it risks overlooking a nation’s diversity of gifts."
+     ],
+     "questions": [
+      {
+       "number": 21,
+       "score": 2.0,
+       "stem": "A broken bike chain is mentioned to show students’ lack of .",
+       "options": {
+        "A": "practical ability",
+        "B": "academic training",
+        "C": "pioneering spirit",
+        "D": "mechanical memorization"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| | |\n| --- | --- |\n| 21. A broken bike chain is mentioned to show students' lack of ____. | 21. 文中提及断裂的自行车链是为了说明学生缺乏____。 |\n| [A] practical ability | [A] 实践能力 |\n| [B] academic training | [B] 学术培训 |\n| [C] pioneering spirit | [C] 开创精神 |\n| [D] mechanical memorization | [D] 机械记忆 |\n\n[精准定位]第二段①②句指出：Koziatek 所在高中开创性地将学习视为“不是关乎书本，而是关乎实际”，③句反问：究竟何时人们开始普遍认为“学生应该能够说出第13任总统的名字、却面对断裂的自行车链不知所措”。可见，提及“自行车链事例”是为了说明“学生实际动手能力的欠缺”，[A]正确。\n\n[命题解密]正确项[A] (lack of)practical ability 是对③句 be utterly overwhelmed by a broken bike chain 及②句 practical 的概括。\n\n[B]方向错误：是对“当前教育强调内容”的概括，并非题目所问“学生欠缺的能力/当前教育忽视的对象”。[C]偷换概念：将“Koziatek 所在学校的开创精神(pioneering)”偷换为“学生的开创精神”。[D]干扰方式与[B]相似，将“当前教育强调的具体对象(mechanical memorization)”当做“当前教育忽视的对象/学生欠缺的能力”。\n\n[技巧总结]本题就涉及多个取舍、借代、指代的内容(第二、三段)考查事例写作目的，解题关键在于分清其中对应关系。具体来看：第二段①②句以取舍 not A but B 说明某所高中(a New Hampshire high school)的开创性，③句以另一取舍结构 should be... but be... 说明当前传统教育(accepted wisdom)的偏好。随后将两部分对应发现：[A]契合③句 be utterly overwhelmed by a broken bike chain (传统教育中“学生欠缺实际技能”)以及②句 practical (开创性教育注重实际),故正确。\n\nIV But he's also found a kind of insidious prejudice. Working with your hands is seen as almost a mark of inferiority. Schools in the family of vocational education “have that stereotype... that it's for kids who can't make it academically,” he says.\n\n但他也发现了一种暗中为害的偏见。用你的双手工作几乎被视为一种低劣的标记。职业教育家族的学校们“有这样一种模式化观念……它面向的是那些无法取得学业成功的孩子”，他说道。\n\n**词汇注释与难句分析**\n\ninsidious a. 暗中危害的\n\nprejudice n. 偏见\n\ninferiority n. 低等，劣等\n\nacademically ad. 纯理论地，学术上地[与实践相对]\n\n**经典搭配**\n\nworking with hands（用双手工作，实践性劳动）\n\nvocational education（职业教育）\n\nmake it ([尤指在困难情况下] 赶上；获得成功)\n\n**语篇分析**\n\n第四至七段为第三大部分：反驳当前偏见，进一步论证 Koziatek 所在高中模式的合理性：这符合当前经济发展需要，符合年轻人就业所需。\n\n第四段树靶：人们鄙视体力工作及职业教育。关键词：insidious prejudice(暗中为害的偏见)。\n\n①句引领整段：Koziatek 发现了一种暗中为害的偏见。insidious prejudice (insidious 意为 spreads gradually without being noticed, and causes serious harm [变化或问题]暗中危害的，不知不觉间加剧的；prejudice 意为 an unreasonable dislike and distrust of people — used to show disapproval“[贬义]偏见，歧视）奠定本段基调：介绍一种暗中危害、且日益加剧的偏见。\n\n②③句具体说明这一偏见。\n\n②句首先指出社会偏见：认为体力工作是低等的。working with your hands 指体力劳动；inferiority（低等，劣等）说明人们对体力劳动的鄙视。\n\n③句进而指出职业学校的偏见：那些学业差、无法升入大学的孩子才会来这里。it's for kids who can't make it academically (主语 it=vocational education; make it 兼具“[尤指在困难情况下]赶上”及“获得成功”之意；academically 意为 concerned with studying from books, as opposed to practical work “纯理论地，学术上地[与实践相对]”)回应 inferiority,说明职业学校普遍看法：职业教育“收留”的是那些无法取得学业成功的孩子(反向理解即：每个孩子的理想情形都是进入大学获得学位)。stereotype (意为 a belief of what a particular type of person or thing is like. Stereotypes are often unfair or true“模式化的思想，老一套”)与 prejudice 近义，带明显贬义，表明作者对这种看法的否定。\n\n【段落梳理】本段实则回应开篇 Stephen Koziiatek feels almost as though he has to justify his efforts: 社会鄙视体力劳动，就连职业学校都认为职业教育“收留”的是那些无法取得学业成功的孩子，所有人的理想情形都是进入大学获得学位。这一环境下，Koziiatek 所在高中却偏离传统教学，融入职业技能教育，必然会受到质疑。附注：Koziiatek 所在高中的定位：从第二、三段介绍可知，这所高中的模式为“将知识融于实践，理论与实际并重”，且传统上美国普及高中教育（强调理论及应试），职业教育从高中毕业后才开始分流。所以，这所高中并非传统意义上的“高中”，也并非传统意义上的“职业学校”，而是一种开创性的全新尝试（pioneering），可视为带有“职业教育”成分的“高中”。"
+      },
+      {
+       "number": 22,
+       "score": 2.0,
+       "stem": "There exists the prejudice that vocational education is for kids who .",
+       "options": {
+        "A": "have a stereotyped mind",
+        "B": "have no career motivation",
+        "C": "are not academically successful",
+        "D": "are financially disadvantaged"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| | |\n| --- | --- |\n| 22. There exists the prejudice that vocational education is for kids who ____. | 22.当前存在一种偏见：职业教育面向的是那些____的孩子。 |\n| [A] have a stereotyped mind | [A] 思维模式化 |\n| [B] have no career motivation | [B] 没有职业动机 |\n| [C] are not academically successful | [C] 学业不成功 |\n| [D] are financially disadvantaged | [D] 经济条件差 |\n\n[精准定位]第四段指出一种偏见：认为体力劳动是劣等的，职业教育是面向“无法取得学业成功的孩子”。可见[C]正确。\n\n[命题解密]正确项[C]are not academically successful 是对第四段③句 can't make it academically 的改写。\n\n[A]将第四段③句“职业教育学校有一种模式化认识(Schools in the family of vocational education “have that stereotype...)”改为“职业教育面向的是思维模式化的学生(vocational education is for kids who have a stereotyped mind)”。[B]对第四段③句 vocational...who can't make it 断章取义为“缺乏职业动机”，实际文中并未提及孩子们的职业动机。[D]将第四段②句 inferiority(指“体力劳动”被认为不如“脑力劳动”)曲解为 financially disadvantaged(经济条件差)，文中并未提及孩子们的家庭经济条件。\n\n[技巧总结]本题就涉及多个概念（prejudice, working with your hands, vocational education, stereotype 等）的第四段命制事实细节题，要求考生理清其间关联。具体来看，首先分析句间关系：①句提出“存在偏见（prejudice）”，②③句共同说明偏见（stereotype 与 prejudice 近义）；③句中 it 回指 vocational education，即 vocational education is for kids who can't make it academically。[C]为同义改写，故正确；其他选项利用个别词汇捏造，无法体现文中逻辑关联，故排除。\n\nV ① On one hand, that viewpoint is a logical product of America's evolution. ② Manufacturing is not the economic engine that it once was. ③ The job security that the US economy once offered to high school graduates has largely evaporated. ④ More education is the new principle. ⑤ We want more for our kids, and rightfully so.\n\nVI ① But the headlong push into bachelor's degrees for all — and the subtle devaluing of anything less — misses an important point: That's not the only thing the American economy needs. ② Yes, a bachelor's degree opens more doors. ③ But even now, 54 percent of the jobs in the country are middle-skill jobs, such as construction and high-skill manufacturing. ④ But only 44 percent of workers are adequately trained.\n\nⅦ① In other words, at a time when the working class has turned the country on its political head, frustrated that the opportunity that once defined America is vanishing, one obvious solution is staring us in the face. ② There is a gap in working-class jobs, but the workers who need those jobs most aren't equipped to do them. ③ Koziatek's Manchester School of Technology High School is trying to fill that gap.\n\n一方面，那种观点是美国发展的合理产物。制造业已不再是曾经的经济引擎。美国经济曾提供给高中毕业生的工作安稳很大程度上已逐渐消逝。“更多教育”是如今的新原则。我们想要孩子接受更多的教育，且理应如此。\n\n但慌不择路地将所有人推进学士学位——并微妙地贬抑其他较低的一切——忽略了重要的一点：那并非美国经济唯一所需。确实，学士学位会打开更多扇门。但就算是现在，我们国家依然有54%的工作是中等技能工作，如建筑和高技能制造。但仅有44%的工人接受过足够的培训。\n\n换言之，在一个“工人阶级已完全改变了这个国家的政治思路、因曾经定义美国的机会逐渐消逝而受挫”的时代，一个明显的解决办法一直就摆在我们的面前。工人阶级职位有缺口，但最需要这些工作的工人们并不具备做它们的能力。Koziatek 的曼彻斯特技术高中正在试图填补那一缺口。\n\n**词汇注释与难句分析**\n\nevaporate v. 逐渐消逝\n\nheadlong a. 轻率[仓促]的\n\nsubtle a. 微妙的\n\ndevalue v. 贬低\n\nvanish v. 消失\n\nbachelor's degree(学士学位)\n\n**经典搭配**\n\nin other words(换句话说)\n\nturn sth on its head(使人完全改变思路)\n\nbe equipped to do sth(能够胜任做某事)\n\n第五至七段反驳第四段观点，明确 Koziatek 所在学校所作尝试的重大意义。\n\n第五段先退步，指出上述观点/偏见是美国发展的合理产物。关键词：a logical product of America's evolution(美国发展的合理产物)。\n\n句提出段落主旨：上述观点是美国发展的合理产物 (that view point 回指第四段所述偏见)。On one hand 引出一方面的观点/事实，同时暗示后文会转而引出作者更为强调的观点/事实。a logical product of America's evolution 的高度概括性及强观点性暗示下文将会展开论证。\n\n句解释美国的发展缘何导致上述观点的生成。四句间为环环相扣的因果逻辑。\n\n句首先指出近些年美国经济格局的变化(解释 America's evolution):制造业不再是经济引擎。A is not... that it once was 强调今昔变化；economic engine 强调制造业(manufacturing,需要大量中等技能工人)曾经的龙头地位。\n\n句指出这一变化的直接影响(对就业的影响):高中毕业生曾经的工作稳定性不再。largely evaporated (evaporate 意为 slowly disappear“逐渐消逝”) 强调随着制造业的衰退，高中毕业生曾经的工作安稳在很大程度上已消逝。\n\n句进而指出教育原则随之变化：“更多教育”成为新的原则。More education 紧承上文：随着高中毕业生的工作安稳性不再，“更多教育”便成了新原则。the new principle（principle 意为 the basic idea that a plan or system is based on“某事物所依据的思想；原则”）强调教育思路的根本转变。\n\n句做出评论，回应①句：我们想要给孩子更多教育是正确合理的。前半句承接④句、强调如今情形“我们想要孩子接受更多教育”;后半句(so 指代前半句)对此进行评判“这是正确的”;本句暗合①句，承认第四段所述偏见中的“合理成分”。rightfully 强调“情理上的正确，理应”,为下文转而论述“不合情理的做法”埋下伏笔。\n\n第六段转而批驳指出：但“全面推行学士学位、且贬低其他较低的一切”并非美国经济所需。关键词：misses an important point(忽略了重要的一点)。\n\n句表明作者观点：“推行面向所有人的学士学位、并暗中贬抑低于此的其他一切”忽略了一个重要的事实——学士学位并非美国经济唯一所需。The headlong push into bachelor's degrees for all (headlong push into 意为 start doing something too quickly without thinking carefully“轻率[仓促]地做某事”)指向当前情形：(由于高中毕业生曾经的工作稳定性不再，所以)不假思索地转向“面向所有人推行学士学位”。— and the subtle devaluing of anything less 指向与之相伴的另一情形：贬抑低于此的其他一切（回应第四段 insidious prejudice；其中 anything less 比较对象为 bachelor's degrees，指向“职业教育”以及“Koziatek 所在高中模式”等）。misses an important point: That's not the only thing... 表明作者对这一情形的否定，且引领下文：阐释当前美国经济真正所需。\n\n句解释①句，说明美国经济的真实需求。Yes...But...为“让步(②句)——批驳(③④)”。\n\n句让步承认学士学位会带来更多机会。opens more doors 为比喻性修辞，指向更多职业机遇。\n\n句转而指出作者强调的事实：合格的中等技术工人无法满足当前经济所需。③句 But even now 承上强调当前“职位需求”:(虽然制造业不再是美国经济的引擎，虽然学士学位能带来更多机会，)但当前大部分工作依旧是不需要学士学位的中等技能工作(54%...middle-skill jobs)。④句转而强调“工人缺口”:Only...are adequately trained 强调现有工人合格比率低，不能满足美国经济所需。\n\n第七段进一步揭示当前经济所需，明确 Koziatek 所在学校教学模式的合理性。关键词：is trying to fill that gap (正在试图填补那一缺口)。\n\n句作者指出：解决方案一直摆在我们的面前。In other words 体现“浅层论证(第五、六段)——深度剖析(本段)”逻辑。\n\n状语 at a time when... 回应第五段，强调“当前问题情形”: 由于工人阶级的工作不再稳定，美国似乎将不再是“充满机会的土地”(the opportunity that once defined America is vanishing), 政治家们被此困扰，匆忙间试图普及学士学位 (has turned the country on its political head 回指 push into bachelor's degrees for all, 其中 turn sth on its head 意为 to make people think about something in the opposite way it was originally intended “倒过来想某事物，使人完全改变思路”)。\n\n主句 one obvious solution is staring us in the face 转而指出：其实解决方案显而易见却未被发现 (obvious 强调“显而易见”; staring sb in the face(意为“非常清楚/易见[你却并未看见]”), 引领下文。\n\n句具体说明这一解决方案，在“第六段所述情形”和“Koziatek 所在高中的努力”之间形成“问题—答案”逻辑。\n\n句回应第六段，明确当前情形。a gap in working-class jobs 回应第六段 54 percent of the jobs VS only 44 percent of workers，说明工人职位缺口。aren't equipped to do them 回应第六段 only... are adequately trained，指出需要这些工作的人们却不具备胜任的能力。\n\n句肯定 Koziatek 所在高中正在致力于解决问题。is trying to fill that gap 强调作者观点：这种教学模式正试图填补当前缺口（既满足当前经济发展所需，又满足年轻人就业所需）。\n\n【段落梳理】第五至七段以 In other words 体现“浅层论证(第五、六段)——深度剖析(第七段)”的逻辑，信息跨越三个层次：1)介绍当前事实(第五段①②③④句，第六段③④句，第七段①②句);2)基于事实评判(重在批判)当前现象“鄙视体力劳动，鄙视和职业教育沾边的一切，致力于让所有孩子取得学士学位(第五段⑤句，第六段①②句);3)进而肯定 Koziatek 所在高中的开创性教学(将理论教育和职业教育相结合)的意义(第七段③句)。"
+      },
+      {
+       "number": 23,
+       "score": 2.0,
+       "stem": "We can infer from Paragraph 5 that high school graduates .",
+       "options": {
+        "A": "used to have big financial concerns",
+        "B": "used to have more job opportunities",
+        "C": "are reluctant to work in manufacturing",
+        "D": "are entitled to more educational privileges"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| | |\n| --- | --- |\n| 23. We can infer from Paragraph 5 that high school graduates ____. | 23. 我们可以从第五段推知，高中毕业生____。 |\n| [A] used to have big financial concerns | [A] 曾经有巨大的经济困扰 |\n| [B] used to have more job opportunities | [B] 曾经有更多的工作机会 |\n| [C] are reluctant to work in manufacturing | [C] 不愿意进入制造业工作 |\n| [D] are entitled to more educational privileges | [D] 被赋予了更多的教育特权 |\n\n[精准定位]第五段②③句指出，随着制造业不再是经济引擎，美国经济曾经提供给高中毕业生的工作保障大部分已消失，即，高中毕业生曾因制造业的繁荣而享有比现在多的工作机会，[B]正确。\n\n[命题解密] 正确项[B] used to have more job opportunities 是对第五段③句 The job security... once offered... has largely evaporated 的反向同义表述。\n\n[A]推理方向错误：由第五段③句“曾经的工作保障消失”可知，“现在的高中毕业生”应该比“过去的高中毕业生”有更大的经济困扰。[C]对②③句解读错误：将“制造业衰落导致高中毕业生工作安稳性不再”改为“高中毕业生不愿意进入制造业(导致其衰落)”。[D]曲解④⑤句：将“我们想要孩子(不是止步于高中毕业，而是)接受更多的教育”理解为“我们赋予了高中毕业生更多的教育特权”。\n\n[技巧总结]本题涉及今昔对比及繁复因果关系链的段落(第五段)命制事实信息题。考生需要：1)借助时态变化以及其他标记(used to, once, new, now 等)明确今、昔。2)借助明显及暗含因果标记(如 A is a product of B 说明：B 为因，A 为果);3)借助今昔标记将选项分类，并对比原文信息。\n\n具体来看，首先看原文：借助时态(is not... it once was; once offered to... has...)以及 used to, once, new 等明确今、昔；借助 a logical product of... offered to... 等明确因果关联。随后将选项分类：\n\n[A]、[B]描述“过去”；[C]、[D]关乎“现在”。最后进行对比，发现[B]与原文一致，故正确。"
+      },
+      {
+       "number": 24,
+       "score": 2.0,
+       "stem": "The headlong push into bachelor’s degrees for all .",
+       "options": {
+        "A": "helps create a lot of middle-skill jobs",
+        "B": "may narrow the gap in working-class jobs",
+        "C": "is expected to yield a better-trained workforce",
+        "D": "indicates the overvaluing of higher education"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 24. The headlong push into bachelor's degrees for all ____. | 24. 慌不择路地将所有人推进学士学位____。 |\n| [A] helps create a lot of middle-skill jobs | [A] 有助于创造出大量中等技能工作 |\n| [B] may narrow the gap in working-class jobs | [B] 可能会缩小工人阶级工作的缺口 |\n| [C] is expected to yield a better-trained workforce | [C] 有望生成更加训练有素的劳动力 |\n| [D] indicates the overvaluing of higher education | [D] 表明对高等教育重要性的高估 |\n\n[精准定位]第六段①句指出，“向所有人推行学士学位、并暗中贬低其他较低的一切”并非美国经济唯一所需。②③句进一步指出，学士学位虽然会带来更多机会，但美国大部分的工作依然是中等技能工作。可见，“让所有人读大学”高估了高等教育对“给个人带来工作机会”以及“满足美国经济所需”的重要性，[D]正确。\n\n[命题解密]正确项[D]中 the overvaluing of higher education 概括第六段 devaluing of anything less... That's not the only thing the American economy needs 等。\n\n[A]对第六段②③句 opens more doors...middle-skill jobs 断章取义：由 Yes...But...形成的让步转折可知，“学士学位带来的机会”并非指“中等技能工作”。[B]利用第七段②句 There is a gap in working-class jobs 干扰，但填补这一空缺的是“Koziiatek 所在学校的教学模式”,而非“向所有人推行学士学位”。[C]源自第六段④句 But only...are adequately trained,但同样由 Yes...But...可知，“向所有人推行学士学位”无法生成更加训练有素的劳动力。\n\n[技巧总结] 本题就某具体行为(全面推行学士学位)的“可能影响”设问。可采用策略为：1)先概括各选项所考维度(如作用、影响、原因等)。2)随后借助关联词(Yes...But...体现“让步转折”;In other words 体现“进一步解读”)以及情感色彩(动词，形容词等的褒贬色彩)理顺原文逻辑关系。3)从“事实细节”和“作者整体观点态度”两个角度判断选项，确定答案。\n\n具体来看，首先概括四个选项，可发现均指向 the headlong push into bachelor's degrees for all(全面推行学士学位)的影响。随后根据文中关联词(第六段 But... Yes... But... But... 以及第七段 In other words)以及褒贬色彩(misses an important point 带否定色彩；is trying to fill that gap 带肯定态度)明确作者“对全面推行学士学位的否定，对 Koziatek 所在学校的赞赏”。最后对比选项：[D]概括事实细节 devaluing of anything less... That's not the only thing the American economy needs，且符合作者整体观点，故正确。其他三项则不仅与原文事实不符，也违背作者整体态度，故排除。\n\nVIII ① Koziatek's school is a wake-up call. ② When education becomes one-size-fits-all, it risks overlooking a nation's diversity of gifts. [370 words]\n\nKoziatek 的学校无异于一通叫醒电话（警示）。当教育变得一刀切时，它是在拿一国的天赋多样性冒险。\n\n**词汇注释与难句分析**\n\ndiversity n. 多样性，差异\n\ngift n. 天赋\n\n**经典搭配**\n\nwake-up call（叫醒电话，警示，警钟）\n\nrisk doing sth（冒险做某事）\n\none-size-fits-all（一刀切）\n\n**语篇分析**\n\n第八段收束全文，高度肯定 Koziatek 所在高中的开创性行为：无异于一通叫醒电话，令人反思当前教育的“一刀切”。关键词：a wake-up call(叫醒电话，警告)。\n\n①句以判断句式(A is sth)概括强调 Koziatek 学校的意义：a wake-up call(an event that shocks you and makes you realize that you must do something to change a situation“警示，叫醒电话”)为比喻用法，凸显该学校“令人清醒，反思当前错误”的重大意义。\n\n②句明确警示：当教育变得一刀切时，是在冒险忽视一国的天赋多样性。one-size-for-all(意为“一刀切；一体适用”)概指前文所述当前趋势“贬低职业教育，希望所有孩子接受传统高中教育，进而获得学士学位”。risks overlooking a nation's diversity of gifts 则表明作者警示：孩子天赋不同、学习方式不同、所擅长的工作也不同，而这种多样性正是一国的力量所在，当前情形却是在冒险忽视这一多样性。\n\n【段落梳理】本文文字简单，但内容繁复，不易抓住主线：前三段集中于教学方式，讨论“传统高中的书本教学 VS Koziatek 所在高中的实践性教学”,意在表明后者体现了学习方式的多样性，合理可行。后四段视角全开，讨论体力劳动与脑力劳动、职业教育与学位教育、经济发展与就业情形，制造业与国家经济之间的复杂关系，意在指出 Koziatek 所在高中的教学模式不仅有利于个人就业，且有利于美国经济。末段画龙点睛：将个人前途(give his students a better future)和国家命运(nation's diversity of gifts)统一，指出“一所高中的创新”对“整国教育”的警示意义，呼应首段、收摄全篇复杂关系。"
+      },
+      {
+       "number": 25,
+       "score": 2.0,
+       "stem": "The author’s attitude toward Koziatek’s school can bedescribed as .",
+       "options": {
+        "A": "supportive",
+        "B": "tolerant",
+        "C": "disappointed",
+        "D": "cautious"
+       },
+       "answer": "A",
+       "explanation": "· 全局真题精解 ·\n\n> **答案：** A\n\n| | |\n| --- | --- |\n| 25. The author's attitude toward Koziatek's school can be described as ____. | 25. 作者对 Koziatek 的学校的态度可描述为____。 |\n| [A] supportive | [A] 支持的 |\n| [B] tolerant | [B] 容忍的 |\n| [C] disappointed | [C] 失望的 |\n| [D] cautious | [D] 谨慎的 |\n\n[精准定位]首段指出 Koziatek 在努力给学生一个更好的未来。第二、三段介绍 Koziatek 所在高中的开创性教学，并指出这是一种可行的学习方式，符合学习的多样性。第四至七段批驳当前偏见，指出这符合当前经济发展所需及学生就业所需。末段概括评论：这无异于叫醒电话、令人清醒。可见，作者对 Koziatek 所在学校非常支持，[A]正确。\n\n[命题解密]正确项[A]体现了全文论证结构以及 Mr. Koziatek is part of something pioneering...Koziatek's...School is trying to fill that gap...Koziatek's school is a wake-up call 所传递的肯定、支持态度。\n\n[B]由文中的“让步——转折评论结构”、“贬义、褒义表述均大量存在”以及“文末以 is a wake-up call 表明的肯定态度”，认定作者对 Koziiatek 学校的总体态度为：有肯定，有批驳，总体可以接受。而实际上这种推理却将作者对“传统教育”的评判以及对“Koziiatek 学校”的论述糅杂在了一起。[C] disappointed 将文中以 mechanical、forcing、misses an important point 等表明的对“传统教育”的态度当做对“Koziiatek 学校”的态度。[D]曲解开篇... he has to justify... 以及文末 it risks...，认为作者态度是谨慎的（Koziiatek 需要论证自己努力的合理性，否则会有很大风险）。而实际上开篇意在说明 Koziiatek 努力面对颇多质疑，结尾指向“当前的传统教育”。\n\n[技巧总结] 本题就文中核心新事物(Koziatek's school)设置作者态度题，要求考生宏观把握全文。解题可采取的思路：1)梳理全篇论证结构；2)综合文中对新事物的评判中所直接透露的作者态度。切记：命题人很可能会用作者对“其他事物的态度”做干扰，也可能会用个别表述(尤其文章首尾)捏造干扰。\n\n具体来看，结合“梳理全文结构(见“精准定位”)以及“概括文中对 Koziatek 所在学校的直接评价”"
+      }
+     ]
+    },
+    {
+     "title": "Text 2",
+     "type": "reading",
+     "passage": [
+      "While fossil fuels – coal, oil, gas – still generate roughly 85 percent of the world’s energy supply, it’s clearer than ever that the future belongs to renewable sources such as wind and solar. The move to renewables is picking up momentum around the world: They now account for more than half of new power sources going on line.",
+      "Some growth stems from a commitment by governments and farsighted businesses to fund cleaner energy sources. But increasingly the story is about the plummeting prices of renewables, especially wind and solar. The cost of solar panels has dropped by 80 percent and the cost of wind turbines by close to one-third in the past eight years.",
+      "In many parts of the world renewable energy is already a principal energy source. In Scotland, for example, wind turbines provide enough electricity to power 95 percent of homes. While the rest of the world takes the lead, notably China and Europe, the United States is also seeing a remarkable shift. In March, for the first time, wind and solar power accounted for more than 10 percent of the power generated in the US, reported the US Energy Information Administration.",
+      "President Trump has underlined fossil fuels – especially coal – as the path to economic growth. In a recent speech in Iowa, he dismissed wind power as an unreliable energy source. But that message did not play well with many in Iowa, where wind turbines dot the fields and provide 36 percent of the state’s electricity generation – and where tech giants like Microsoft are being attracted by the availability of clean energy to power their data centers.",
+      "The question “what happens when the wind doesn’t blow or the sun doesn’t shine?” has provided a quick put-down for skeptics. But a boost in the storage capacity of batteries is making their ability to keep power flowing around the clock more likely.",
+      "The advance is driven in part by vehicle manufacturers, who are placing big bets on battery-powered electric vehicles. Although electric cars are still a rarity on roads now, this massive investment could change the picture rapidly in coming years.",
+      "While there’s a long way to go, the trend lines for renewables are spiking. The pace of change in energy sources appears to be speeding up – perhaps just in time to have a meaningful effect in slowing climate change. What Washington does – or doesn’t do – to promote alternative energy may mean less and less at a time of a global shift in thought."
+     ],
+     "questions": [
+      {
+       "number": 26,
+       "score": 2.0,
+       "stem": "The word “plummeting” (Line 3, Para. 2) is closest in meaning to .",
+       "options": {
+        "A": "stabilizing",
+        "B": "changing",
+        "C": "falling",
+        "D": "rising"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| | |\n| --- | --- |\n| 26. The word “plummeting”(Line 3, Para. 2) is closest in meaning to ____. | 26. plummeting 一词(第二段第三行)词义最接近____。 |\n| [A] stabilizing | [A] 稳定的 |\n| [B] changing | [B] 变化的 |\n| [C] falling | [C] 下降的 |\n| [D] rising | [D] 上升的 |\n\n[精准定位]将被考词所在句(②句)与其前后文(①③句)结合可知：一、②句借 But 表明与①句间转折关联，即②句意在转承①句“可再生能源发展的部分原因：政府及有远见企业所承诺的资金支持”指出“更为主要的原因：____的价格，尤其是风能和太阳能”;二、③句借 solar panels、wind turbines 照应②句 renewables,especially wind and solar 形成例证关联，即，③句以“太阳能电板、风力涡轮机成本分别下降 80%、近三分之一”例证②句“____的价格”。由此不难得知 plummeting 意指“正在下降的，正在降低的”，即[C]正确。\n\n[命题解密]正确项是对句间语义关联“②句转①句，③句解释②句，即 The cost... has dropped by... by... 意在说明 plummeting”的正确解读。\n\n[A]由①句“获得政府及企业资金支持”捏造出“稳定的”之意，却未看透“③句解释②句”关联；[B]虽囊括正确项“下降的”之意，却也藏有“增长的”之意，故总体暗示价格波动“时升时降”，与③句所示语义相悖；[D]由段中 growth、increasingly 望文生义而来，并未真实把握文意。\n\n[技巧总结]词义推断题考查学生结合上下文推断词义的能力，解题关键在：根据句间语义逻辑揣摩被考词与上下文“同向”、“反向”关系。如本题，只要抓住段中三句语义逻辑“②句转①句(But),③句解释②句(solar...wind...→especially wind and solar)”即可快速解题。\n\nⅢ ① In many parts of the world renewable energy is already a principal energy source. ② In Scotland, for example, wind turbines provide enough electricity to power 95 percent of homes. ③ While the rest of the world takes the lead, notably China and Europe, the United States is also seeing a remarkable shift. ④ In March, for the first time, wind and solar power accounted for more than 10 percent of the power generated in the US, reported the US Energy Information Administration.\n\n在世界很多地区，可再生能源已成为主要能源。比如，在苏格兰，风力涡轮机能为95%的家庭提供充足的电力。在其他国家领先之际，尤其是中国和欧洲，美国也迎来了显著的转变。据美国能源情报署报道，3月美国风能、太阳能发电比重首次超过10%。\n\n**词汇注释与难句分析**\n\nprincipal a. 最重要的，主要的\n\nnotably ad. 尤其是，特别地\n\nremarkable a. 显著的\n\n**经典搭配**\n\ntake the lead(取得领先地位)\n\n**语篇分析**\n\n第三段说明现状：可再生能源在全球很多地区已成为主要能源，即便在美国也迎来了显著转变。关键词为：①already a principal energy source(已经成为主要能源);②also seeing a remarkable shift(也在见证显著转变)。\n\n①②句聚焦全球。for example 实现两句间例证关联。\n\n①句直指全球现状：在很多地区已成为主要能源。many、already、principal 分别从区域、时间、重要性上界定可再生能源全球发展态势：在很多地区已经超越传统能源、独居鳌头。本句实质呼应文首句强调指出：尽管当前传统化石燃料仍占世界能源总供应的 85%,但在世界很多地区，可再生能源的发展已经反超传统化石燃料取得主导地位，其未来之势不可阻挡。\n\n②句以苏格兰地区例证①句。enough、95 percent 分别从数量、占比上展示苏格兰地区风能发展态势：为 95% 的家庭提供充足电力，已占据主导地位。\n\n③④句聚焦美国。for the first time... accounted for more than 10 percent 与 a remarkable shift 的上下义关系实现两句间解释说明关联。\n\n③句直指美国现状：也迎来显著变化。remarkable(unusual or surprising and therefore deserving attention or praise)一词双关，既强调“美国可再生能源取得非凡成绩”,更暗示“可再生能源在美国可能受阻，但即便如此，也依然取得可喜成绩，所以令人出乎意料”,并借此进一步反衬可再生能源发展之势不可挡。注：句中同级比较(While...also...)“其他国家领先之时，美国也在见证显著变化”结合常识“美国通常在各方面都占据领先地位”亦可推知“可再生能源在美国受阻”。\n\n④句援引数据说明③句。for the first time... accounted for more than 10 percent 以“首度占比超\n\n10%”说明“美国可再生能源取得非凡进步”之余，却与①②句“其余地区已经发展为主要能源，如苏格兰占比高达95%”形成极度反差，以此再度暗示可再生能源在美国遇阻，预示后文可能有详解。"
+      },
+      {
+       "number": 27,
+       "score": 2.0,
+       "stem": "According to Paragraph 3, the use of renewable energy in America .",
+       "options": {
+        "A": "is progressing notably",
+        "B": "is as extensive as in Europe",
+        "C": "faces many challenges",
+        "D": "has proved to be impractical"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 27. According to Paragraph 3, the use of renewable energy in America ____. | 27. 根据第三段，美国可再生能源的应用____。 |\n| [A] is progressing notably | [A] 正在显著进步 |\n| [B] is as extensive as in Europe | [B] 与欧洲一样广泛 |\n| [C] faces many challenges | [C] 面临诸多挑战 |\n| [D] has proved to be impractical | [D] 已被证明不切实际 |\n\n[精准定位]第三段③句指出：在其他国家(尤其中国、欧洲)领先之际，美国也迎来显著改变；④句进而解释：3月美国风能、太阳能发电占比首次超过10%。由此可见，美国可再生能源的应用也正在取得显著进步，[A]正确。\n\n[命题解密]正确项是对第三段③④句中 seeing a remarkable shift、for the first time...accounted for more than 10 percent 的合理概括。\n\n[B]由③句 also 捏造而来，而该词在句中实际用以表明“两种不同的良性发展状况：中国、欧洲等其他国家在可再生能源使用方面遥遥领先，美国这个国家则在见证显著转变”而非“两种相似的使用情况”；[C]、[D]均由第四段②句特朗普对待可再生能源态度“不靠谱，所以不重视”捏造而来，但并非题干所考查要点“可再生能源在美国的实际发展状况（第三段内容）”。\n\n[技巧总结]已定位段落的事实细节题应将正确项锁定在定位段落，据由其他段落内容设置的选项通常可被认定为干扰项。解答时需：一、由题干其他关键词（除锁定段落关键词外）再准确定位段内某一意群/句群；二、合理推导该定位意群/句群文意、并选取与之相近的选项。如本题，根据题干 in America 可定位至第三段③④句；然后借由“③④句间阐释关联(for the first time...accounted for more than 10 percent 诠释 seeing a remarkable shift)”以及“③句 While...also...所示性质相似、等级不同——欧洲等其他国家领先、美国取得显著进步”可知该意群意在说明“美国虽未取得像欧洲那样的成绩，但也在见证显著向善改变”，由此锁定[A]。\n\nIV ① President Trump has underlined fossil fuels—especially coal—as the path to economic growth. ② In a recent speech in Iowa, he dismissed wind power as an unreliable energy source. ③ But that message did not play well with many in Iowa, where wind turbines dot the fields and provide 36 percent of the state’s electricity generation—and where tech giants like Microsoft are being attracted by the availability of clean energy to power their data centers.\n\n特朗普总统强调化石燃料——尤其煤炭——作为经济发展的路径。在爱荷华州的最近一次演讲中，他将风能摒弃为不可靠的能源。但这个说法在爱荷华州并不怎么被群众买账，该州的风力涡轮机遍布田野并且供应该州36%的发电量——微软等技术巨擘也被这里能为其数据中心供电的清洁能源的易获得性吸引。\n\n**词汇注释与难句分析**\n\nunderline v. 强调\n\npath n. (有助于实现某事的)道路，途径\n\ndismiss v. 拒绝考虑，否定\n\navailability n. 可用性，可得性\n\n**经典搭配**\n\nplay with(被接受)\n\ntech giant(科技巨擘)\n\n| | | | |\n| --- | --- | --- | --- |\n| where | tech giants like Microsoft | are being attracted by the availability of clean energy | to power their data centers. |\n\nBut that message did not play well with many in Iowa, where wind turbines dot the fields and provide 36 percent of the state's electricity generation—and where tech giants like Microsoft are being attracted by the availability of clean energy to power their data centers.\n\n功能注释：本句主干为 that message did not play well with many。and 连接的两个 where 引导的定语从句分别以风力涡轮机铺设情况以及科技巨头被吸引的原因说明爱荷华州新能源欣欣向荣的发展之势。\n\n**语篇分析**\n\n第四段补充美国状况：特朗普总统虽不予重视，但仍难阻挡强劲之势。关键词为：① underlined(强调);② did not play well(并不买账)。\n\n句说明特朗普站位：不重视可再生能源。并列结构 underlined fossil fuels as、dismissed wind power as 形成反差，表明两句间对比关联。\n\n句指出特朗普重视化石燃料，尤其是煤炭。蕴藏褒义色彩的 underline“在……画线（以示重视），强调”、path“（有助实现某事的）道路，途径”借助介词 as“当作”传递出特朗普重视传统能源的原因：认为它们有助于经济发展；especially coal 实质借“煤炭”反衬特朗普总统站位不顾环境大局：一味强调其对经济发展的重要性、而忽略其对环境条件的恶劣影响。\n\n句指出特朗普将风能视为不可靠能源。极尽贬义色彩的 dismiss“认为某人/物不重要而不予考虑；对……不屑一顾”、unreliable“不可靠的”借助介词 as“当作”传递出特朗普不重视风能的原因：认为它不靠谱，即，既不一定能推动经济（结合①句“化石燃料如煤炭有助经济发展”推断而来）、又不一定能保护环境（结合常识“发展可再生能源意在保护环境”推断而来）。\n\n句说明特朗普站位的支持率：不高。But 表明两层次间转折关联，并将语义重点落于本层次：虽说总统在爱荷华州对风能予以抨击，但其言论并未在该州取得好的反响(did not play well with many“并不被群众买账”,注：play with 意为 to be received or accepted by“被接受”,如：a speech that played poorly with voters);两个 where 定语从句进而分别以风力涡轮机铺设情况(dot the fields“遍布田野”)及其发电量占比情况(36 percent“36%”)以及科技巨头被吸引至此创建数据中心的原因(being attracted by the availability of clean energy“清洁能源的易获得性”)说明爱荷华州风能欣欣向荣之势，从而得以解释主句。\n\n全段关键点：实以风能为例阐释特朗普总统对可再生能源的整体站位及其站位的受欢迎度。"
+      },
+      {
+       "number": 28,
+       "score": 2.0,
+       "stem": "It can be learned that in Iowa, .",
+       "options": {
+        "A": "wind is a widely used energy source",
+        "B": "wind energy has replaced fossil fuels",
+        "C": "tech giants are investing in clean energy",
+        "D": "there is a shortage of clean energy supply"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| | |\n| --- | --- |\n| 28. It can be learned that in Iowa, ____. | 28. 可以推断在爱荷华州，____。 |\n| [A] wind is a widely used energy source | [A] 风能是被广泛应用的能源 |\n| [B] wind energy has replaced fossil fuels | [B] 风能已取代化石燃料 |\n| [C] tech giants are investing in clean energy | [C] 科技巨头正在投资清洁能源 |\n| [D] there is a shortage of clean energy supply | [D] 清洁能源存在供应短缺 |\n\n[精准定位]根据 in Iowa 可直接定位至第四段②③句。其中②句指出特朗普在爱荷华州直接将风能摒弃为不靠谱能源，③句前半句转而指出这一说法在爱荷华州并不被买账，后半句随即呈现该州实际情况：风力涡轮机遍布田野并且供应该州 36% 的发电量。由此可见，[A] 正确。\n\n[命题解密]正确项[A]是对③句 wind turbines dot the fields and provide 36 percent of the state's electricity generation 的合理推断。\n\n[B]只见 dot the fields 却未见 provide 36 percent, 将“遍布田野”夸大为“取代化石燃料”而忽视“占比 36%（不及一半）”; [C]将③句末“因被爱荷华州清洁能源的易获得性吸引，科技巨头纷纷前来设立数据中心(以期实现清洁能源供电)”曲解为“投资清洁能源”; [D]与[B]恰相反，只见 provide 36 percent 未见 dot the fields, 将“占比 36%”狭隘理解为“供给不足”, 与③句“该州清洁能源极易获得”相悖。\n\n[技巧总结]事实细节题的解答关键在：速看题干及选项以明确考查要点，进而根据考查要点定位原文，最后将定位处与选项匹配得出正确答案。如本题，快速浏览题干及选项可知，本题就第四段“清洁能源在爱荷华州的情况”设题；随后于第四段中快速搜寻信息发现，段中唯有③句涉及爱荷华州清洁能源的情况，其中 wind turbines dot the fields and provide 36 percent...揭示出风能在爱荷华州的广泛应用，[A]与之对应，故正确。\n\nV ① The question “what happens when the wind doesn’t blow or the sun doesn’t shine?” has provided a quick put-down for skeptics. ② But a boost in the storage capacity of batteries is making their ability to keep power flowing around the clock more likely.\n\n虽说怀疑论者机智地以“如果不刮风、不出太阳，会发生什么？”这一问话予以奚落，但是，电池存储容量的提升正使其更有可能能够昼夜不停地持续供电。\n\n**词汇注释与难句分析**\n\nquick a. 聪明的，敏锐的，脑子反应快的\n\nput-down n. 贬损的话，奚落的话\n\nskeptic n. 持怀疑态度的人\n\n**语篇分析**\n\n第五段接续分析原因：电池存储容量提升，持续供电更为可能。关键词为：keep power flowing around the clock more likely(昼夜不停持续供电更为可能)。\n\n①句抛出怀疑论者疑问：不刮风、不出太阳怎么办？quick“聪敏的，脑子反应快的，敏锐的”、put-down“贬低(或奚落)的话，使对方不再作声的反驳”明确指出怀疑论者“不刮风、不出太阳，电量不足怎么办”这一质疑非常聪敏、将支持者质疑得哑口无声！却巧借 has provided 这一现在完成时态对这一质疑的时效性予以了否定：在过去能够奚落支持者，但随着事态发展，这一问题已失去驳斥效应，也即暗示可再生能源的持续供应当前取得长足进步。\n\n②句回击怀疑论者质疑：电池存储量的提升使持续不间断供电变得愈发可能(无需担心不刮风、不出太阳没电可用)。boost in the storage capacity of batteries“电池存储量的增强”、ability to keep power flowing around the clock“全天候持续供电的能力”、more likely“更加可能发生的、更加可能是真的”清晰传递当前电池容量取得的进步，借此回击①句怀疑论者质疑。注：is making 一表因果关联：电池存储能力提升→全天候供电更为可能；二表这一作用力/影响力正在发生中，亦即，电池存储技术在提升，全天候供电日趋可行。\n\n全段关键点：采取欲抑先扬手法，先褒奖怀疑论者质疑思路敏捷，后驳斥该质疑完全不成其为问题。\n\nVI ① The advance is driven in part by vehicle manufacturers, who are placing big bets on battery- powered electric vehicles. ② Although electric cars are still a rarity on roads now, this massive investment could change the picture rapidly in coming years.\n\n**词汇注释与难句分析**\n\nadvance n. 进步，进展\n\nmassive a. (尺寸、数量、规模)非常大的\n\npicture n. 情况，局面\n\nin part(在某种程度上)\n\nplace big bets on(在……上下大赌注)\n\nbe a rarity(极为罕见)\n\n**经典搭配**\n\n**语篇分析**\n\n第六段补充电池存储量提升的原因：汽车制造商巨额投资的推动。关键词为：driven in part by(部分由……驱动)。\n\n①句直指部分原因：汽车制造商巨额投资电动汽车电池存储技术的推动。driven in part by 明确因果关联“汽车制造商大额投入→电池存储技术提升”之时，暗示还有其他原因的驱动；big bets 强调汽车制造商在电池存储研发上投入巨额资金，暗示该技术将带来重大改观。\n\n②句进而指出这一巨额投资将会带来的巨大影响：未来几年内电池供电能力将发生迅速改变。massive 复现 big,再度强调汽车制造商斥巨资发展电池技术；Although 以及对比组 still a rarity...now VS could change the picture rapidly in coming years 明确句内让步转折逻辑：当前，电动汽车(因电池存储能力欠缺)虽仍少见 VS 未来几年内，这一巨额投资将带来快速成效(电池技术将得到提升，电动汽车将变得寻常可见);其中 rapidly in coming years 以巨资所取成效之快说明电池存储技术即将发生翻天覆地变化，从而给怀疑论者对阴天、无风天担忧予以反驳，至此得以解释上段首句。\n\n本段实为上段补充，两段因果逻辑链如下：汽车制造商斥巨资研发电池存储技术(本段①句)→电池存储技术显著提升(本段②句)→随时供电愈加快速变成现实(上段②句)→怀疑论者“不刮风、不出太阳怎么办”的疑虑将在几年之后彻底解除(上段①句)。"
+      },
+      {
+       "number": 29,
+       "score": 2.0,
+       "stem": "Which of the following is true about clean energy according to Paragraphs 5&6？",
+       "options": {
+        "A": "Its application has boosted battery storage.",
+        "B": "It is commonly used in car manufacturing.",
+        "C": "Its continuous supply is becoming a reality.",
+        "D": "Its sustainable exploitation will remain difficult."
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n| 29. Which of the following is true about clean energy according to Paragraphs 5&6? | 29. 根据第五、六段，以下哪种关于清洁能源的说法正确？|\n| --- | --- |\n| [A] Its application has boosted battery storage. | [A] 它的应用提高了电池的存储容量。 |\n| [B] It is commonly used in car manufacturing. | [B] 它通常用于汽车制造业中。 |\n| [C] Its continuous supply is becoming a reality. | [C] 它的持续供应正在成为现实。 |\n| [D] Its sustainable exploitation will remain difficult. | [D] 它的可持续开发仍然困难重重。 |\n\n[精准定位]第五段②句指出“电池存储容量的提升使得连续不断供电变得更为可能”，意即“可再生能源有望实现持续供应”，故[C]正确。\n\n[命题解密]正确项是对第五段②句 making their ability to keep power flowing around the clock more likely 的合理改写。\n\n[A]将第五段②句“电池存储容量的提升促成清洁能源的持续供应”因果逻辑颠倒为“清洁能源的应用提升了电池存储容量”;[B]将第六段首句“汽车制造商的巨额投资推动可再生能源电池存储容量提升，从而使之不间断供应变得更为可能”曲解为“可再生能源通常用于汽车制造业中”；[D]由第五段首句怀疑论者论调“不出太阳、不刮风时，可再生能源供应将遇挫”捏造出“可持续开发困难重重”，而真实文意（即作者之意）是“可再生能源持续供应将越来越有可能成为现实”。\n\n[技巧总结]Which 型事实细节题的典型解题思路是“利用选项关键词回文对应，一一比对以判对错”。如本题，首先根据选项关键词将其回文定位：[A]boosted battery storage 对应第五段②句、[B]car manufacturing 对应第六段①句 vehicle manufacturers、[C]continuous supply 对应第五段②句 flowing around the clock、[D]sustainable exploitation 对应第五段①句“What happens when the wind doesn't blow or the sun doesn't shine?”；随后一一比对发现，[A]颠倒因果逻辑，[B]曲解信息、[D]张冠李戴。\n\nⅦ ① While there's a long way to go, the trend lines for renewables are spiking. ② The pace of change in energy sources appears to be speeding up—perhaps just in time to have a meaningful effect in slowing climate change. ③ What Washington does—or doesn't do—to promote alternative energy may mean less and less at a time of a global shift in thought. [416 words]\n\n尽管长路漫漫，但是可再生能源的趋势线在快速上扬。能源的变化速度似乎在加快——或许正好能够给减缓气候变化带来积极影响。在全球思想转型之际，无论华盛顿在推动可替代性能源中做什么或不做什么，其影响将愈来愈小。\n\n**词汇注释与难句分析**\n\nspike v. (数量或比率的) 激增\n\nmeaningful a. 有意义的，重要的\n\n**经典搭配**\n\ntrend line(趋势线)\n\nspeed up(加速)\n\nalternative energy(替代能源)\n\n**语篇分析**\n\n第七段总结并重申观点：可再生能源趋势线加速上扬，是未来全球大势所趋。关键词为：①spiking(激增);②mean less and less(作用愈来愈小)。\n\n①句借“可再生能源趋势线正在加速上扬”说明“可再生能源发展之势强劲”。While 同文首句，表明“‘向可再生能源转型之路漫漫无期’丝毫无法阻挡‘其趋势线在加速上扬’”，实质强调“可再生能源发展之势强劲”；spiking“激增”本用以说明数量、容量等，此处用以描述趋势线，故将其延伸处理为“快速上扬”。\n\n②句借“这一趋势的重大利好：及时减缓气候变化”暗示“这一趋势乃人心所向”。破折号前 appears to 表明向可再生能源加速转型的迹象已经显现(注：由“speeding up 呼应 spiking”可知“change in energy sources 即指 change for renewables”),借此解释①句主句；破折号后 a meaningful effect 将该现象产生的影响定性：富有意义的，并借 just in time 表明该影响的“及时雨”性质：及时有效减缓气候变化，借此暗示这一趋势将成为人心所向，不被其他“恶势力”影响。\n\n③句借“特朗普政府在这一趋势中的影响力逐渐减弱”说明“可再生能源发展势不可挡”。What Washington does—or doesn't do(华盛顿代指“美国政府，也即特朗普政府”)实则将语义重点落于破折号后 or doesn't do, 以此呼应第四段“特朗普认为可再生能源不靠谱，传统能源如煤炭才是经济发展之路”，强调指出“可再生能源并未受到特朗普政府的真正鼓励”; mean less and less at a time of a global shift in thought(其中 mean 意指“重要，意义重大”, less and less 意表“越来越少”)则指出美国政府这种站位对全球局势的影响力愈来愈小：在全球关乎可再生能源的思想发生转型之际，美国的不鼓励态度并不能左右全世界人民对可再生能源的拥抱态度，可再生能源未来发展之势无力阻挡。"
+      },
+      {
+       "number": 30,
+       "score": 2.0,
+       "stem": "It can be inferred from the last paragraph that renewable energy .",
+       "options": {
+        "A": "will bring the US closer to other countries",
+        "B": "will accelerate global environmental change",
+        "C": "is not really encouraged by the US government",
+        "D": "is not competitive enough with regard to its cost"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| | |\n| --- | --- |\n| 30. It can be inferred from the last paragraph that renewable energy ____. | 30. 由末段可推断出，可再生能源____。 |\n| [A] will bring the US closer to other countries | [A] 将使美国更接近于其他国家 |\n| [B] will accelerate global environmental change | [B] 将加速全球环境变化 |\n| [C] is not really encouraged by the US government | [C] 并未真正获得美国政府鼓励 |\n| [D] is not competitive enough with regard to its cost | [D] 在成本上没有足够的竞争力 |\n\n[精准定位]文末句“在全球思想转型之际，无论华盛顿(美国政府代称)在推动可替代能源(此处代指可再生能源)中做什么或不做什么，其对全球可再生能源不可阻挡强劲之势的影响力愈来愈小”实际暗藏文意为“不管美国政府鼓励不鼓励可再生能源发展，其全球发展势头都势不可挡”，言外之意亦即“美国政府并未真正鼓励可再生能源发展”，故[C]正确。\n\n[命题解密]正确项[C]是对文末句所隐藏深意的深刻挖掘，是对美国政府对待可再生能源真实态度的正确解读。\n\n[A]中 closer to other countries 与文末句 mean less and less at a time of a global shift in thought 相悖(“全球思想转型之际，影响力愈来愈小”即意味着“全球在变，美国不变，其与其他国家差距愈来愈大”);[B]中 accelerate 与②句 slow 相悖；[D]属于只见树木不见森林(只见①句从句 there's a long way to go,未见①句主句 the trend lines...are spiking),与“趋势上扬”所蕴藏的“具有竞争力”相悖。\n\n[技巧总结]段落推理题的解答关键在“紧贴段落主旨”。解题步骤通常是：一、将搜索范围内的信息归纳整理；二、比对选项与整理出的信息，正确项具有抽象性，不直接对应原文字句，而是其思想内容的升华；而干扰项则常在原文信息的基础上强加关联或篡改语义；三、利用文中其他部分的信息验证正确项。如本题，末段三句分别指出：①可再生能源为大势所趋；②可再生能源有助于减缓气候变化；③美国在可替代性能源上的抉择在全球范围内的影响将愈来愈小。仔细对比选项与原文信息发现，[A]、[D]分别偏离原文③句和①句信息；[B]与②句信息相悖，只有[C]是对末段末句的高度概括推理，再结合第四段首两句特朗普对于可再生能源的态度，可敲定[C]正确。"
+      }
+     ]
+    },
+    {
+     "title": "Text 3",
+     "type": "reading",
+     "passage": [
+      "The power and ambition of the giants of the digital economy is astonishing- Amazon has just announced the purchase of the upmarket grocery chain Whole Foods for ＄ 13.5bn, but two years ago Facebook paid even more than that to acquire the WhatsApp messaging service, which doesn’t have any physical product at all. What WhatsApp offered Facebook was an intricate and finely detailed web of its users’ friendships and social lives.",
+      "Facebook promised the European commission then that it would not link phone numbers to Facebook identities, but it broke the promise almost as soon as the deal went through. Even without knowing what was in the messages, the knowledge of who sent them and to whom was enormously revealing and still could be. What political journalist, what party whip, would not want to know the makeup of the WhatsApp groups in which Theresa May’s enemies are currently plotting? It may be that the value of Whole Foods to Amazon is not so much the 460 shops it owns, but the records of which customers have purchased what.",
+      "Competition law appears to be the only way to address these imbalances of power. But it is clumsy. For one thing, it is very slow compared to the pace of change within the digital economy. By the time a problem has been addressed and remedied it may have vanished in the marketplace, to be replaced by new abuses of power. But there is a deeper conceptual problem, too. Competition law as presently interpreted deals with financial disadvantage to consumers and this is not obvious when the users of these services don’t pay for them. The users of their services are not their customers. That would be the people who buy advertising from them – and Facebook and Google, the two virtual giants, dominate digital advertising to the disadvantage of all other media and entertainment companies.",
+      "The product they’re selling is data, and we, the users, convert our lives to data for the benefit of the digital giants. Just as some ants farm the bugs called aphids for the honeydew they produce when they feed, so Google farms us for the data that our digital lives yield. Ants keep predatory insects away from where their aphids feed; Gmail keeps the spammers out of our inboxes. It doesn’t feel like a human or democratic relationship, even if both sides benefit."
+     ],
+     "questions": [
+      {
+       "number": 31,
+       "score": 2.0,
+       "stem": "According to Paragraph 1, Facebook acquired WhatsApp for its .",
+       "options": {
+        "A": "digital products",
+        "B": "user information",
+        "C": "physical assets",
+        "D": "quality service"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 31. According to Paragraph 1, Facebook acquired WhatsApp for its ____. | 31. 根据第一段，Facebook 收购 WhatsApp 是为了后者的____。 |\n| [A] digital products | [A] 数字产品 |\n| [B] user information | [B] 用户信息 |\n| [C] physical assets | [C] 有形资产 |\n| [D] quality service | [D] 优质服务 |\n\n[精准定位]首段①句破折号后指出 Facebook 高价收购没有任何实体产品的 WhatsApp，②句暗示原因：WhatsApp 能为其提供一张精细的用户朋友关系和社交生活网，也即“用户信息”，[B] 正确。\n\n[命题解密]正确项[B]user information 概括文中 What... was an... web of its users' friendships and social lives。\n\n[A]、[C]源于①句“没有任何实体产品(doesn't have any physical product)”，但文中“在线通信服务”不同于[A]中电子书、电子音乐等“数字产品”；[C]中的“资产”问题在文中并未提及，实际上文意恰恰暗示“收购与物质、金钱关系不大”。[D]将表褒义的词汇 intricate and finely detailed 与段中 service 强加关联，但用户关系网复杂详尽≠其服务品质好。\n\n[技巧总结]语义取舍、转折处(尤其是首段)与全文主旨息息相关，常常作为命题焦点出现，所以必须重视 but/yet/however 等转折词后的内容，对于 not...but.../rather than/instead of 等取舍结构，则须重点明辨“取”的内容(“舍”常为干扰来源之一)。本文首段①句后半部分及②句构成一个取舍结构：WhatsApp...doesn't have any...What WhatsApp offered Facebook was...,末句是“取”的内容，故而为解题关键，对 an...web of its users'...加以概括即可。\n\nⅡ ① Facebook promised the European commission then that it would not link phone numbers to Facebook identities, but it broke the promise almost as soon as the deal went through. ② Even without knowing what was in the messages, the knowledge of who sent them and to whom was enormously revealing and still could be. ③ What political journalist, what party whip, would not want to know the makeup of the WhatsApp groups in which Theresa May's enemies are currently plotting? ④ It may be that the value of Whole Foods to Amazon is not so much the 460 shops it owns, but the records of which customers have purchased what.\n\nFacebook 当时向欧委会承诺不会把电话号码与 Facebook 身份信息相关联，但协议刚获准通过，它就背弃了这一承诺。即使不了解信息的具体内容，但其发送者以及接收者的（身份）信息在极大程度上也会透漏内情，且这种情况仍会继续。特蕾莎·梅的政敌正在其中进行密谋的那些 WhatsApp（聊天）群，哪个政治记者，哪个党鞭会不想知道其成员构成？也许，Whole Foods 对于亚马逊的价值与其说是在于它旗下的 460 间店铺，倒不如说在于其顾客的购买记录。\n\n**词汇注释与难句分析**\n\nenormously ad. 极其，非常\n\nrevealing a. 揭示内情的，泄密的\n\nmakeup n. (小组或团队的) 组成，构成\n\nplot v. 密谋，策划\n\nlink...to...(使挂钩，使联系起来)\n\ngo through(被认可，成交；通过)\n\nparty whip(党鞭，党组织秘书)\n\nnot so much..., but...（与其说，毋宁说）\n\n**经典搭配**\n\nWhat political journalist, what party whip, would not want to know the makeup of the WhatsApp groups in which Theresa May's enemies are currently plotting?\n\n功能注释：本句是一个特殊疑问句，由于提问对象是主语，句子采用陈述语序；of the WhatsApp groups 为后置定语限定中心词 makeup,后面再嵌套一个 which 引导定语从句，先行词 the WhatsApp groups 在从句中做状语。\n\n第二至四段评述事件：科技巨头势力若不加控制地发展，终将伤及用户权益。\n\n第二段承上明示并购事件背后的问题：威胁用户隐私。关键词为：① broke the promise(食言);② enormously revealing(极大程度上会泄密)。\n\n句揭露事件主角 Facebook 行径：背弃事前对欧委会的承诺。then 将场景拉回收购之前，开启评述视角；link phone numbers to Facebook identities 实指将 WhatsApp 用户的手机号码与 Facebook 账号相匹配，从而在了解用户身份的情况下洞悉其社交信息。as soon as... (刚……便，一……就) 暗示 Facebook 初衷不良：就想快速打通手机与账号信息而已。go through 指 is approved by a legislature or committee “(法案、协议等) 获得 (立法机构或委员会) 通过”。\n\n句说明并购事件的问题所在。\n\n句直接揭露问题：关联号码和账号足以掌握用户各种信息。Even without(even 指“就算，即使”)奠定全句“让步一转折”逻辑，without knowing what was in the massages 表明 Facebook 关联之举的表面情况：不侵入 WhatsApp 信息内容；过去进行时 was enormously revealing 转而强调现实情形，revealing 意为 providing knowledge, as about a person's life, that was previously unknown or considered intimate“揭示内情的、泄密的”,enormously(非常地，在极大程度上)和将来时 and still could be(revealing)分别从程度及时间上(不仅是过去时)强调问题的严峻性。\n\n句以政治阴谋为例说明关联号码与账号对隐私的威胁。全句以“反诘+排比”句 What..., what... would not want to know... (哪些……, 哪些……, 会不想知道……) 强调并引申观点：多少人都对政要隐私虎视眈眈，以期窥得机密情报，他们尚且不能保证隐私安全，如此看来，普通人的隐私保护更是镜花水月。定语从句 in which (=where) 形式上修饰 groups(用户组、聊天群) 说明“群聊天内容”, 实际上暗示 WhatsApp 普及度之高，潜在价值巨大。\n\n注：whip(党鞭)为政党名词，起源于英国，是议会中负责督导本党议员出席会议及投票的纪律主管，主要职责是确保本党议员都参与投票、协调本党各个选区议员的利益、确保本党议员在投票时能够精诚团结、形成政治合力。\n\n句回顾开篇引子事件，通过揭示其收购本质强化观点。It may be that...(It 为形式主语)继上述分析后，引出作者对开篇事件原因的推测；not so much..., but...(与其说是……,倒不如说是……)先展示“通常的，但不够准确的”看法(即亚马逊收购的表面动机),随后加以纠正，揭示深层原因：为了获取顾客的购买行为相关信息。可见，两起并购都是意在掌握无形但威力巨大的用户信息数据，因而涉及对人们隐私权的侵犯，为下文展开论述铺垫。\n\n注：文中 not so much A, but B 是固定用法 not so much A as B 的变体形式，如：He is not so much a writer as a reporter.(他与其说是个作家，毋宁说是个记者);此外，该含义还可以由 less A than B, more B than A,B rather than A 等结构表达。"
+      },
+      {
+       "number": 32,
+       "score": 2.0,
+       "stem": "Linking phone numbers to Facebook identities may .",
+       "options": {
+        "A": "worsen political disputes",
+        "B": "mess up customer records",
+        "C": "pose a risk to Facebook users",
+        "D": "mislead the European commission"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| | |\n| --- | --- |\n| 32. Linking phone numbers to Facebook identities may ____. | 32. 把电话号码与 Facebook 身份信息 (ID) 关联可能会 ____。 |\n| [A] worsen political disputes | [A] 加剧政治争端 |\n| [B] mess up customer records | [B] 搞乱用户记录 |\n| [C] pose a risk to Facebook users | [C] 给 Facebook 用户带来风险 |\n| [D] mislead the European commission | [D] 误导欧盟委员会 |\n\n[精准定位]第二段②③句指出 Facebook 背弃承诺，将电话号码与 Facebook ID 挂钩。其危害是：即使不了解信息的具体内容，但消息接收者与发送者的信息也会极大程度上泄露内情 (enormously revealing), 如此一来用户自然会面临隐私威胁，[C] 正确。\n\n[命题解密]题干 Linking...to...与[C]中的 pose a risk to 分别对应文中 the knowledge of who sent them and to whom 以及 enormously revealing。\n\n[A]源于③句“政治相关者们无不想知道首相的政敌正在哪个 WhatsApp 群里活跃”，但此处实为例证，借助最敏感的政治问题来强调关联后泄密程度之甚，选项属于过度推断。[B]利用 revealing、records 等词干扰，将“泄露用户信息”偷换为“搞乱用户信息”。[D]源于首句“Facebook 事先向欧委会许下承诺，达成目的后又毁约”，但误导欧委会的，是 Facebook 的承诺内容（不关联），而非题干所述的毁约之举（关联）。\n\n[技巧总结] 事实题针对的虽然是文中细节，但也与主旨难脱干系，因此除精准定位、逐一比对选项之外，还可以借助全文或段落主旨来辅助解题。通读第二段发现作者论述的中心实际在“Facebook 举措对用户(users)的影响”(②③句的 who sent them and to whom、the WhatsApp groups,包括末句 records of which customers...均指向 users),结合首段末句语义中心也指向“用户的(朋友社交)情况”,据此可判断本文为“揭示、解决问题型议论文(数字巨头垄断对用户权益的威胁)”,故先锁定[C],再回原文验证，发现 pose a risk to 在文中亦有所指，而[A]和[D]分别聚焦“政治”和“欧委会”,偏离主旨，[B]则不痛不痒，不能触及核心利害关系。\n\nIII ① Competition law appears to be the only way to address these imbalances of power. ② But it is clumsy. ③ For one thing, it is very slow compared to the pace of change within the digital economy. ④ By the time a problem has been addressed and remedied it may have vanished in the marketplace, to be replaced by new abuses of power. ⑤ But there is a deeper conceptual problem, too. ⑥ Competition law as presently interpreted deals with financial disadvantage to consumers and this is not obvious when the users of these services don't pay for them. ⑦ The users of their services are not their customers. ⑧ That would be the people who buy advertising from them — and Facebook and Google, the two virtual giants, dominate digital advertising to the disadvantage of all other media and entertainment companies.\n\n竞争法似乎是解决这些权力失衡问题的唯一办法。但它却笨拙不堪。一方面，相较于数字经济中革新的步伐，它太慢了。某个问题待其得到解决和补救时，这个问题可能已经在市场中蒸发不见了，取而代之的是新的权力滥用。但是还存在一个更深层的概念性问题。当前所阐释的竞争法应对的是消费者的经济损失问题，而当这些服务的用户并不是它们的支付者时，法规就不明确了。其（数字巨头）服务的用户不是它们的顾客。它们的顾客是那些花钱购买广告的人——而 Facebook 和 Google 这两大实质上的巨头，它们掌控了数字广告，这不利于所有其他的媒体和娱乐公司。\n\n**词汇注释与难句分析**\n\naddress v. (着手)解决，处理(问题)\n\nclumsy a. 笨拙、不灵活的；使用不便的\n\nremedy v. 纠正，改正；治疗，救治\n\nabuse n. 滥用\n\nconceptual a. 观念上的，概念上的\n\nvirtual a. 实际上的；[计]虚拟的\n\n**经典搭配**\n\ninterpret...with...(把……理解/解释为……)\n\nto sb's disadvantage(对……不利)\n\n**语篇分析**\n\n第三段指出针对问题的现有法律手段，并分析其不足。关键词为：clumsy(笨拙不堪的)。\n\n①句引出应对“用户权益面临威胁”的法律：竞争法。these imbalances of power 点题，明确全文所述问题的焦点：权力的不平衡，也即“数字巨头垄断之势渐显，竞争对手、用户都变得愈发弱势”的现状；address 取僻义“(着手)解决、处理(问题)”。全句借助 appears to be... 传递的“不确定语气”暗示作者对于问题解决办法的质疑，开启下文对竞争法缺陷的探讨。\n\n②至⑧句转而指出竞争法存在的问题。其中②句总起；③④句为问题一（浅层），⑤至⑧句为问题二（深层）。\n\n②句以 clumsy 一词对竞争法定性：笨拙不实用。clumsy 看似简单，实则颇具内涵：既有“(外形太重太大，因而) 笨拙不灵便”之意，还含有“(程序、内容等太复杂，因而) 难操作、使用不便”之意；前者暗示竞争法有“僵化、拖后腿”之过，即整体跟不上现状，后者暗示竞争法具体规定太过复杂，反而难以发挥应有效力。\n\n③④句指出竞争法的直接问题：与数字经济时代脱节。\n\n③句亮明问题。For one thing 引出问题之一。very slow(slow 指“耗时的，效率低下的”)直戳要害，compared to 引出竞争法远远落后的对象：数字经济中的各种变化，即法律不能与时俱进，根据时代变化而做出及时的更新和调整。\n\n④句加以解释。a problem has been addressed and remedied 表明竞争法并非不能解决问题，但由 By the time(等到，到……之时)引出，暗示“为时已晚”，也即后半句 it may have vanished... 所示，状语 to be replaced by new... 引出新的问题，凸显数字经济市场中风云变幻，而竞争法完全跟不上时代脚步的尴尬窘境。abuses of power (abuse 指 the use of sth in a wrong way or for a bad purpose) 继首句 these imbalances of power 后进一步明确论述焦点：数字巨头利用自身垄断之权行不当之事。\n\n⑤句过渡，引出更深层的问题。conceptual(dealing with ideas or based on them)限定 problem,说明下文将深入竞争法的法规，就其法理基础展开批判。\n\n⑥句呈现问题：竞争法规定的保护对象是“消费者”而非“用户”。as presently interpreted(as 表示“按……的方式；如同”;interpret 意为 to clarify or explain the meaning of “阐明，说明”)修饰 Competition law,提示本句从“现行法律条文的内涵用意”入手说明问题。disadvantage 此处指 damage or loss, esp. to reputation or finances“(尤指声誉或财务方面的)损失”,介词 to 引出遭受损失的主体 consumers,也就是说，现行竞争法规定，享受保护权的是购买产品或服务的“消费者”。\n\n后半句 and...（[表示延续上个陈述的意思]而）顺而表明问题所在；其中 this 代指 Competition law as...，when 引出现行法规无法企及的情况（obvious 意为“清楚、明确的”）：服务的使用者不是掏钱者时，也即，当 users ≠ consumers 时。\n\n⑦⑧句进一步解释问题。取舍形式“are not...；That would be...”提示重心落于后句。\n\n⑦句承上解释“不付费(don't pay)”内涵：用户并非顾客。customers 进一步具化 consumers 内涵，突显“买卖关系”。换言之，根据现行竞争法规，数字时代的用户权益无法得到保障。\n\n⑧句补充指出数字时代的“顾客”:广告购买者。the people who buy advertising from them 暗传讽刺：数字时代下，要说平台的“顾客”,只能是那些“出钱投放广告的人”,也即“广告主(advertisers)”,旨在保障大众权益的竞争法几乎形同虚设；破折号后引出 Facebook 和 Google 的霸主地位，virtual 限定 giants(注：原文为 duopoly,即“两强垄断”),意为“结果或事实上的，尽管没在名义上获得认可，或正式承认”,与 to the disadvantage of(不利于)一暗一明，强调竞争法的局限性：互联网双寡头垄断早已是不争事实，却仍是反垄断的法外之地；要保障大众权益，亟需重新界定反垄断条例以及保护规则。"
+      },
+      {
+       "number": 33,
+       "score": 2.0,
+       "stem": "According to the author, competition law .",
+       "options": {
+        "A": "should serve the new market powers",
+        "B": "may worsen the economic imbalance",
+        "C": "should not provide just one legal solution",
+        "D": "cannot keep pace with the changing market"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 33. According to the author, competition law ____. | 33. 作者认为，竞争法 ____。 |\n| [A] should serve the new market powers | [A] 应该服务于新的市场权力 |\n| [B] may worsen the economic imbalance | [B] 可能会加剧经济不平衡 |\n| [C] should not provide just one legal solution | [C] 不该只提供一种法律对策 |\n| [D] cannot keep pace with the changing market | [D] 无法跟上变化的市场的步伐 |\n\n[精准定位]由题干关键词 competition law 定位至第三段，②句直接指出，竞争法笨拙不堪(clumsy), ③句引出原因之一：它跟不上数字经济变化的速度，[D]符合文意。\n\n[命题解密][D]是对③句 very slow compared to the pace of change within the digital economy 的合理概括。\n\n[A]由④句“新的权力滥用取代了旧问题”臆断而来，但该句意在说明竞争法更新太慢：好不容易解决了问题，新垄断又形成了；新的市场权力恰恰是竞争法意欲约束的对象，而非其所服务的对象。[B]利用 imbalances、economy、financial disadvantage 等碎片信息干扰，但作者仅指出其“无法遏制数字巨头垄断、维护用户权益”，并未表明其对(宏观)经济的影响。[C]由①②句 the only way to address、clumsy 过度推测而来，但文意是说“竞争法作为目前唯一能应对垄断的方式，整体未能跟上现实发展”，而非质疑其具体策略单一。\n\n[技巧总结]当目标段落信息量大且选项信息四散难以定位时，可借助“划分意群并归纳整合信息”的办法解题。本题对应的第三段中，前两句可总领全段，而由③句 For one thing...和⑤句 But there is a deeper conceptual problem...可知本段主要论及两个问题，即竞争法跟不上时代(③④句)，以及竞争法在概念上存在问题(⑤至⑧句)，据此即可快速锁定[D]。"
+      },
+      {
+       "number": 34,
+       "score": 2.0,
+       "stem": "Competition law as presently interpreted can hardly protect Facebook users because .",
+       "options": {
+        "A": "they are not defined as customers",
+        "B": "they are not financially reliable",
+        "C": "the services are generally digital",
+        "D": "the services are paid for by advertisers"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| | |\n| --- | --- |\n| 34. Competition law as presently interpreted can hardly protect Facebook users because ____. | 34. 当前所阐释的竞争法很难保护 Facebook 用户是因为 ____。 |\n| [A] they are not defined as customers | [A] 他们没有被定义为消费者 |\n| [B] they are not financially reliable | [B] 他们的经济状况不可靠 |\n| [C] the services are generally digital | [C] Facebook 的服务总体上是数字的 |\n| [D] the services are paid for by advertisers | [D] Facebook 的服务是由广告主买单的 |\n\n[精准定位]⑤句引出竞争法的第二个问题：概念性问题，⑥⑦句进而解释：当前所阐释的法律是“保护消费者不受经济损失(... to consumers)”,但问题在于用户(users)没有为服务付钱，不能算作消费者，因而他们难以受到法律保护的原因在于“身份定位问题”,即没被定义为消费者(即顾客),[A]正确。\n\n[命题解密]题干 can hardly protect Facebook users 对应原文 this is not obvious, 选项是综合⑤⑥⑦句得出的结论。\n\n[B]将⑥句用户“不(用)为服务买单(don't pay for them)”篡改为“经济上无能力为服务买单(not financially reliable)”。[C]偏离文意：竞争法的保护效力并不由服务或产品性质决定，而是由其对象是否“购买产品或服务”,即“是否为消费者”决定。[D]把⑧句“Facebook 的顾客是那些付钱买广告的人(而非用户), 即广告主”微妙扭曲为“Facebook 的服务是广告主偿付的”, 换句话说，“广告主买单的对象”不等于 (或不能转化为)“数字平台的一切服务”, 只能说“广告收入是 Facebook 很大一部分收入来源”。\n\n[技巧总结]当因果细节题对应的原文并无明显的因果逻辑词时，应意识到命题人可能意欲考查长难句或复杂关系，此时可从反复出现的关键概念或复杂关系入手，体味作者深层用意。如本题，将题干定位至⑥句后发现⑥至⑧句都在解释作为矛盾焦点的“身份问题”，即：Facebook 用户（users）为何不是消费者、谁又是消费者（consumers/customers）；而[B]、[C]均与身份问题无关，[D]看似从侧面否定了用户的消费者身份，但本身信息有误，用 the services 偷换了文中 advertising。[A]与⑤句“竞争法存在概念性问题”契合，体现作者用意：在全新环境下，法律对于保护对象的身份定位正在扼杀自身效力，使得应该被保护的人无法得到保护。\n\nIV ① The product they're selling is data, and we, the users, convert our lives to data for the benefit of the digital giants. ② Just as some ants farm the bugs called aphids for the honeydew they produce when they feed, so Google farms us for the data that our digital lives yield. ③ Ants keep predatory insects away from where their aphids feed; Gmail keeps the spammers out of our inboxes. ④ It doesn't feel like a human or democratic relationship, even if both sides benefit. [397 words]\n\n它们售卖的产品是数据，而我们这些用户，将我们的生活转化为数据，为数字巨头盈利之用。就好像有些蚂蚁会养殖一种名为蚜虫的昆虫，以获取它们进食时分泌出的蜜露，同样地，Google 养殖我们是为了获取我们数字生活所产生的数据。蚂蚁防范食肉昆虫靠近其蚜虫进食之处；Gmail 防范垃圾邮件发送者入侵我们的收件箱。这可不像一种人类的，或者说民主的关系，尽管双方均能够获益。\n\n**词汇注释与难句分析**\n\nconvert v. 使转变，转化；改装，改造\n\nfarm v. 养殖；耕种；承包出去\n\nbug n. 昆虫，小虫子；缺陷\n\naphid n. 蚜虫\n\npredatory a. 捕食性的，食肉的\n\nspammer n. 垃圾邮件发送者\n\nKER\n\nanalogy n. 类推；类似；类比(35题)\n\n**经典搭配**\n\nfor sb's benefit（为了某人的利益，为了帮助某人）\n\neven if (即使，就算)\n\n**语篇分析**\n\n第四段继续深入揭示问题。关键词为：doesn't feel like a human or democratic relationship(不像人类间，或者说民主的关系)。\n\n①句揭破数字巨头的盈利本质：售卖用户数据。上段对“数字巨头 VS 用户”买卖关系做出单向说明：用户并不是(数字服务的)所谓的消费者；本段进而道破数字巨头的卖点：并非数字服务，而是“用户数据”。convert our lives to data 实指“数字经济下用户行为尽在大数据掌握中”;全句利用“第一人称以及同位语的重复强调功用(and we, the users)”以及“揶揄口吻(for the benefit of... = for sb's benefit,为某人的利益)”提醒人们意识到这一内在本质关系，即，用户其实为服务支付了比金钱更昂贵的代价(一切生活隐私),但却难以得到法律的保护。\n\n②③句类比生物界动物依存关系(Just as...)阐释“数字巨头 VS 用户”关系的实质。\n\n③句类比：蚂蚁为蚜虫防范天敌→Google 邮箱为我们防范垃圾邮件。本句利用“分号”表现类比关系，keeps...away from...与 keep...out of...描画蚜虫与我们被“守护神”保护的场景，aphids 被 their 限定，微妙传达“蚜虫实际上由蚂蚁主宰”之意，暗示数字巨头实质已掌控我们的生活。\n\n④句讽刺上述关系，明确作者批驳立意。a human or democratic relationship 特指“(区别于生物界单纯追求生存/优胜劣汰的)人类关系”,democratic 细化了 human 内涵(or 用于“给予更确切的信息”,意为“或者说”),前者意为 believing in or practicing social equality“信仰/践行社会公平的、民主的”,doesn't feel like..., even if both sides benefit 看似语气温和，实则对“人类社会所独有的秩序、道德正在褪去，和谐繁荣的背后是大众被渔利”的现状加以抨击，呼吁对数字经济加强及时有效的监管。"
+      },
+      {
+       "number": 35,
+       "score": 2.0,
+       "stem": "The ants analogy is used to illustrate .",
+       "options": {
+        "A": "a win-win business model between digital giants",
+        "B": "a typical competition pattern among digital giants",
+        "C": "the benefits provided for digital giants’ customers",
+        "D": "the relationship between digital giants and their users"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| | |\n| --- | --- |\n| 35. The ants analogy is used to illustrate ____. | 35. 作者使用蚂蚁的类比来阐明____。 |\n| [A] a win-win business model between digital giants | [A] 数字巨头间一种双赢的商业模式 |\n| [B] a typical competition pattern among digital giants | [B] 数字巨头间一种典型的竞争模式 |\n| [C] the benefits provided for digital giants' customers | [C] 数字巨头的用户享受到的实惠 |\n| [D] the relationship between digital giants and their users | [D] 数字巨头及其用户之间的关系 |\n\n[精准定位] 末段②③句把动物界现象(蚂蚁养殖、保护蚜虫以获取蜜露)与我们的世界(Google 养殖/保护我们以获取我们的数据)相类比；末句对这种关系加以讽刺，可见该类比意在揭示以 Google、Facebook 为代表的科技巨头 VS 用户之间的不平等关系，[D]符合文义。\n\n[命题解密][D]是对末段 It doesn't feel like a human or democratic relationship, even if...（就算惠及双方，但……）所含观点的合理推测。\n\n[A]从“蚂蚁养蚜虫，蚜虫以蜜露供养蚂蚁”的关系中得出“两者互利”的结论，但选项只聚焦“数字巨头”，不涉及“用户”；其次忽略作者在文末以及全文所体现的作者态度，即“批驳数字巨头借垄断地位渔利广大用户，希望相关法律能有所作为，保障用户权益”。[B]与文中 ants farm the bugs...for...（为……而养）所体现的“利用关系”扭曲为“竞争关系”，同样不涉及“用户”。[C]从“蚜虫有人养、有人护”的情形中臆测出“用户享受数字巨头为其带来的实惠”，与[A]一样无视作者的态度导向。\n\n[技巧总结]末段利用修辞势必影射全文主旨，正确项一定是对文章关键信息的再现。解题可采取“先梳理文章主线，再排除偏离主线及作者态度的选项”的办法。具体到本题，从篇章结构看，本文虽由科技公司间的兼并收购引入，但后三段都在探讨“巨头与其用户的关系”,而[A]和[B]只针对“数字巨头之间”的情况；[C]虽然涉及“巨头与用户”双方，但积极导向背离全文总体态度，只有[D]正确体现文中主要关系，契合作者态度。"
+      }
+     ]
+    },
+    {
+     "title": "Text 4",
+     "type": "reading",
+     "passage": [
+      "To combat the trap of putting a premium on being busy, Cal Newport, author of Deep Work: Rules for Focused Success in a Distracted World, recommends building a habit of “deep work” – the ability to focus without distraction.",
+      "There are a number of approaches to mastering the art of deep work – be it lengthy retreats dedicated to a specific task; developing a daily ritual; or taking a “journalistic” approach to seizing moments of deep work when you can throughout the day. Whichever approach, the key is to determine your length of focus time and stick to it.",
+      "Newport also recommends “deep scheduling” to combat constant interruptions and get more done in less time. “At any given point, I should have deep work scheduled for roughly the next month. Once on the calendar, I protect this time like I would a doctor’s appointment or important meeting”, he writes.",
+      "Another approach to getting more done in less time is to rethink how you prioritise your day – in particular how we craft our to-do lists. Tim Harford, author of Messy: The Power of Disorder to Transform Our Lives, points to a study in the early 1980s that divided undergraduates into two groups: some were advised to set out monthly goals and study activities; others were told to plan activities and goals in much more detail, day by day.",
+      "While the researchers assumed that the well-structured daily plans would be most effective when it came to the execution of tasks, they were wrong: the detailed daily plans demotivated students. Harford argues that inevitable distractions often render the daily to-do list ineffective, while leaving room for improvisation in such a list can reap the best results.",
+      "In order to make the most of our focus and energy, we also need to embrace downtime, or as Newport suggests, “be lazy”.",
+      "“Idleness is not just a vacation, an indulgence or a vice; it is as indispensable to the brain as vitamin D is to the body…[idleness] is, paradoxically, necessary to getting any work done,” he argues.",
+      "Srini Pillay, an assistant professor of psychiatry at Harvard Medical School, believes this counterintuitive link between downtime and productivity may be due to the way our brains operate. When our brains switch between being focused and unfocused on a task, they tend to be more efficient.",
+      "“What people don’t realise is that in order to complete these tasks they need to use both the focus and unfocus circuits in their brain,” says Pillay."
+     ],
+     "questions": [
+      {
+       "number": 36,
+       "score": 2.0,
+       "stem": "The key to mastering the art of deep work is to .",
+       "options": {
+        "A": "keep to your focus time",
+        "B": "list your immediate tasks",
+        "C": "make specific daily plans",
+        "D": "seize every minute to work"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| | |\n| --- | --- |\n| 36. The key to mastering the art of deep work is to ____. | 36. 掌握深度工作艺术的关键是____。 |\n| [A] keep to your focus time | [A] 坚守你的专注时间 |\n| [B] list your immediate tasks | [B] 列出你的紧迫任务 |\n| [C] make specific daily plans | [C] 制定具体的日常计划 |\n| [D] seize every minute to work | [D] 争分夺秒地工作 |\n\n[精准定位]第二段在概述了深度工作的几种方法后指出：无论采取哪种方法，关键是(the key is to...)要确定你的专注时间并严格坚守。可知掌握这一技巧的关键是坚守预定的专注时间，[A]正确。\n\n[命题解密]题干+正确项[A]同义改写第二段末句，keep to your focus time 是对 stick to it 的明确。\n\n[B]将第四段①句信息“把待办事项按优先次序列出清单(craft our to-do lists)”曲解为“列出紧急任务的清单(list your immediate tasks)”，且这只是具体方法之一，并非题目所问关键要诀(the key)。[C]将第二段①句 dedicated to a specific task; developing a daily ritual 所述两种掌握深度工作艺术的具体方法“长久专注于某一特定工作，或是形成一种日常惯例”糅杂为 make specific daily plans，并将其当做掌握深度工作艺术的关键。[D]源自第一段 putting a premium on being busy 以及第二段①句 seizing moments of deep work，但“时时刻刻忙碌工作”是本文反对的低效做法，与文章所提倡的“深度工作”相对。\n\n[技巧总结]本题主要考查第二段(涉及较多细节信息，且涉及代词回指等)所述关键事实。解题关键是首先明确题目意在“关键信息(the key)”,随之确定解题方向：剥离次要信息，聚焦重点信息。具体来看，首先发现①句破折号后列举多个例子解释 a number of approaches,属于细节，可略读；随后发现①句主干(掌握深度工作有很多方法)与②句(无论哪种方法，关键是要……)构成紧密递进，传递万变不离其宗之意，the key 实际指的便是“掌握深度工作的关键”(题干所问),从而聚焦其后表语 to...;最后分析发现 it 就近指代 focus time,确定[A]正确。\n\nNewport also recommends “deep scheduling ” to combat constant interruptions and get more done in less time. ② “At any given point, I should have deep work scheduled for roughly the next month. ③ Once on the calendar, I protect this time like I would a doctor’s appointment or important meeting”, he writes.\n\n纽坡特还建议“深度规划”以对抗持续干扰并在更短的时间内完成更多的工作。“在任何特定时刻，我都会为接下来的大约一个月制定深度工作计划。一旦落于日程表，我就会一如守护就诊预约或重要会议安排一样守护这一时间安排”，他写道。\n\n**词汇注释与难句分析**\n\nscheduling n. 日程安排，排程\n\ninterruption n. 打扰，打岔\n\nroughly ad. 大约，差不多\n\n**语篇分析**\n\n第三至九段论述对抗干扰、实现高效工作的多种具体策略。\n\n第三段介绍具体策略一：提前进行“深度规划”。关键词：deep scheduling(深度规划)。\n\n①句承上指出对抗持续干扰、实现高效工作之策：深度规划。Newport also recommends 进一步引出 Newport 的具体建议。目的状语 to combat constant interruptions and get more done in less time 回应首段 building a habit of “deep work”—the ability to focus without distraction,再度明确 Newport 书作的目的：指导人们“告别低效忙碌，提升工作效率”。“deep scheduling”(深度规划)为本段关键新信息，随后各句论证对象。\n\n②③句 Newport 以自身经验说明“如何进行深度规划”。\n\n②句说明规划的制定原则：任何时候都提前制定深度计划。At any given point, I should(在任何特定时刻，我都会……)强调制定深度工作规划应风雨无阻；have deep work scheduled(have sth done[使某事被做]结构，意为“将深度工作进行规划”)解释①句“deep scheduling”;for roughly the next month 说明深度规划的合适时间跨度。\n\n③句说明其规划的执行原则：一经制定，严格遵守(Once...,I...)。Once on the calendar (calendar 意为 a schedule of events“日程表”)回应上文 scheduling 及 scheduled,从“规划制定”转入“规划实施”。带有神圣庄严感的动词 protect(守护，保卫),辅以 like 引导的方式状语(like 作连词，意为 in the same way as“像……一样”;would 后承前省略 protect),凸显 Newport 对日程表的绝对重视：就像“遵守就诊预约或重要会议安排”一样“守护深度工作计划”。\n\n【段落梳理】前三段话题由大到小，逐步具体：第一段提出全文话题“避免陷入忙碌陷阱、打造深度工作”的习惯（building a habit of “deep work”—the ability to focus without distraction）；第二段指出“深度工作”的多种基本方法及唯一不变宗旨（a number of approaches to mastering the art of deep work... the key is...）；第三段则进一步明确“打造深度工作习惯”内涵——对抗持续干扰、实现高效工作/提高工作效率，并给出一项具体策略：提前进行深度规划（“deep scheduling”）。\n\nIV ① Another approach to getting more done in less time is to rethink how you prioritise your day—in particular how we craft our to-do lists. ② Tim Harford, author of Messy: The Power of Disorder to Transform Our Lives, points to a study in the early 1980s that divided undergraduates into two groups: some were advised to set out monthly goals and study activities; others were told to plan activities and goals in much more detail, day by day.\n\nV ① While the researchers assumed that the well-structured daily plans would be most effective when it came to the execution of tasks, they were wrong: the detailed daily plans demotivated students. ② Harford argues that inevitable distractions often render the daily to-do list ineffective, while leaving room for improvisation in such a list can reap the best results.\n\n**词汇注释与难句分析**\n\nprioritise v. 按重要性排列\n\ncraft v. 精心制作\n\nwell-structured a. 结构良好的，条理清晰的\n\ndemotivate v. 使失去动力，使消极\n\nrender v. 使变得；使处于某状态\n\nimprovisation n. 即兴表演\n\nreap v. 收获，取得(成果)\n\n**经典搭配**\n\nto-do list(任务清单，待办事项清单)\n\n功能注释：本句主干为 Harford argues that...。that 引导宾语从句，宾语从句中包含由 while 连接的两个并列句，二者对比凸显灵活长期计划的抗干扰优势。\n\n**语篇分析**\n\n第四、五段给出具体策略二：反思自己对每日的精心规划（即：制定计划不要过于详尽具体，而是要留出临时应变的空间）。\n\n第四段首先介绍策略“反思你对每日的时间规划”。关键词：rethink how you prioritise your day(反思你每日的时间规划)。\n\n①句概述策略。Another approach to getting more done in less time 回应上段 Newport... recommends... to get more done in less time, 引出实现高效工作的另一具体策略。how you prioritise your day—in particular how we craft our to-do lists(prioritise 意为“确定[事项]的优先顺序”); craft 强调“精心制作”)以“—in particular”(in particular 意为“特别，尤其”, 用于引出典型事例或方面)实现语义递进，将关注点从“每日的时间安排”聚焦至“每日任务表的精心制作”。rethink(意为 to think about again in order to decide if any changes should be made“重新考虑，反思”)提出建议：反思“你精心制作每日任务清单”的方式是否需要调整改变。\n\n②句援引 Harford 书作所引研究，介绍两种任务规划方法(意在以研究发现说明为何需要反思，应如何调整)。that divided undergraduates into two groups 说明研究方法：对比实验，将受试对象分为两组。冒号后呈现两组对象的不同规划方式：一组设定每月目标和学习活动计划(set out monthly goals and study activities) VS 另一组设定更详细的、逐日的目标和活动计划 (plan activities and goals in much more detail, day by day)。\n\n第五段说明研究结论并予以解释，指出过于详细的计划反而会适得其反。关键词：demotivated students(使学生失去动力)。\n\n①句从“研究预先假定”引出“研究最终发现”。While the researchers assumed that... they were wrong... 让步转折结构凸显研究结果出人意料：推翻了原先的假定。\n\nWhile 从句让步指出研究者的预先假定：井井有条的每日计划对于任务执行会极为有效。when it came to the execution of tasks 明确制定计划的目的：用于更好执行任务。well-structured daily plans 呼应上段 plan activities and goals in much more detail, day by day,再度凸显其特点——系统、详尽。would be most effective 展现研究者对详细日计划效用的高度预期。\n\n主句转折明确实验结果：详尽的每日计划反而令学生受挫(效果并不好)。判断句式 they were wrong 简短有力，推翻研究者假定。the detailed daily plans 回指 the well-structured daily plans。demotivated students(demotivate 意为“使失去动力、使变得消极”)与 be most effective 形成对比，明确研究真实结果：与研究者的预想完全相反，详尽的每日计划反而使学生失去了动力。\n\n②句介绍 Harford 对研究结果的阐释：在任务列表中留出临时应变的空间才能收获最佳结果。Harford argues(论证，提出理由) 引出对②句发现的解释；while 体现句内对比，衔接两组因果关系。\n\nthat 从句中前一分句以 often render(to cause something to be in a particular condition“使变得，使处于某种状态”)体现因果关系，明确详尽的每日任务清单失效原因：无可避免的干扰（inevitable distractions），即：计划过于详尽紧凑，一旦遇到突发情况则被打乱，后续任务随之步步被动，任务单最终失效。\n\nthat 从句中后一分句以 can reap 体现另一组因果关系，明确月任务清单有效的原因：为临时应变留出了空间 (leaving room for improvisation), 即：一旦遇到突发状况，可进行调整；其中 improvisation 意为 “[事先无准备，因意外之事而被迫做出的] 临机应变”。\n\n【段落梳理】第四、五段以典型的首尾圆合结构明确作者观点：第四段①句概括指出实现高效工作的策略：反思你是怎样安排你的每一天，尤其是怎样精心打造你的任务表——中间详述一项对比研究——第五段末句方借解释研究结果明确策略所指：计划不要过于详尽具体，要留出临时应变的空间。"
+      },
+      {
+       "number": 37,
+       "score": 2.0,
+       "stem": "The study in the early 1980s cited by Harford shows that .",
+       "options": {
+        "A": "distractions may actually increase efficiency",
+        "B": "daily schedules are indispensable to studying",
+        "C": "students are hardly motivated by monthly goals",
+        "D": "detailed plans may not be as fruitful as expected"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| | |\n| --- | --- |\n| 37. The study in the early 1980s cited by Harford shows that ____. | 37. 哈福德所引用的20世纪80年代初研究表明____。 |\n| [A] distractions may actually increase efficiency | [A] 干扰实际上可能会提高效率 |\n| [B] daily schedules are indispensable to studying | [B] 每日计划表对学习是不可或缺的 |\n| [C] students are hardly motivated by monthly goals | [C] 月度目标对学生几乎没有激励作用 |\n| [D] detailed plans may not be as fruitful as expected | [D] 详细的计划可能不像预期的那样富有成效 |\n\n[精准定位]根据题干关键词 study in the early 1980s、Harford 定位到第四、五段。文中首先指出研究方法：将大学生分成两组，一组制定月度计划，一组制定详细的每日计划。随后论述研究发现：详细的每日计划反而使学生失去动力，留出临时应变空间才能实现最佳效果，可见[D]正确。\n\n[命题解密]正确项[D]概括第五段①②句：as expected 对应①句所述研究者预期；detailed plans may not be as fruitful 概括 the detailed daily plans demotivated students...ineffective。\n\n[A]与第五段②句“不可避免的干扰因素往往会使每日任务清单无效（the daily to-do list ineffective）”完全相悖。[B]将第五段①句研究者预期“详细的每日计划表有利于学生高效执行任务”当做事实，原文随后指出预期错误，实际并非如此。[C]对第五段①句偷换概念：使学生受挫的是“详尽的每日计划(daily plans)”，而非选项中的“每月目标(monthly goals)”。\n\n[技巧总结]本题就研究发现命制事实细节题。解题关键在于区分信息：1)区分研究结果、研究对象、研究结论等信息；2)区分“研究者预先假定”和“研究真实发现”;3)区分“就A组研究对象的发现”和“就B组研究对象的发现”。\n\n具体看本题，首先分析第四、五段信息发现：第四段只提及研究方法，研究结果应在第五段。随后发现第五段①句前半句 While the researchers assumed...介绍的是研究者的预先假定，后半句 they were wrong:...才说明研究真实发现，且表明研究发现推翻了预先假定。第五段②句是对研究结果的解释，也可作为判断正确项的信息。由此可确定[D]为题目所问研究发现，其它选项均错误。\n\nVI ① In order to make the most of our focus and energy, we also need to embrace downtime, or as Newport suggests, “be lazy”.\n\nⅦ ①“Idleness is not just a vacation, an indulgence or a vice; it is as indispensable to the brain as vitamin D is to the body... is, paradoxically, necessary to getting any work done,” he argues.\n\nVIII ① Srini Pillay, an assistant professor of psychiatry at Harvard Medical School, believes this counterintuitive link between downtime and productivity may be due to the way our brains operate. ② When our brains switch between being focused and unfocused on a task, they tend to be more efficient.\n\nIX ① “What people don’t realise is that in order to complete these tasks they need to use both the focus and unfocus circuits in their brain,” says Pillay. [439 words]\n\n若要充分利用自身专注力以及精力，我们还需要“拥抱闲暇时间”，或如纽波特所说，“偷偷懒”。\n\n“闲散不仅仅是一次假期、一种放纵或一个恶习；它之于大脑就像维他命D之于身体一样不可或缺……矛盾的是，它对于完成任何工作都不可或缺”，他提出。\n\n斯利尼·皮莱，哈佛医学院的一位精神病学助理教授，认为“闲暇时光”与“生产效率”之间有违直觉的联系可能源于我们大脑的运作方式。当我们的大脑就某项工作在“集中注意力”与“分散注意力”之间切换时，它们往往更高效。\n\n“人们没有意识到的是，要完成这些工作，他们需要使用‘专注’和‘分心’两种大脑回路”,皮菜说道。\n\n**词汇注释与难句分析**\n\ndowntime n. 停工期，休息\n\nidleness n. 懒惰，空闲\n\nindulgence n. 沉溺，放纵\n\nvice n. 恶行，堕落\n\npsychiatry n. 精神病学\n\ncircuit n. 电路，回路\n\ndesirable a. 可取的，理想的(38题)\n\nmake the most of(充分利用)\n\n**语篇分析**\n\n第六至九段说明具体策略三：拥抱“闲暇时间”,让大脑得以在“专注”和“分心”之间切换。\n\n第六段提出观点：“拥抱闲暇，适时偷懒”有助于提升专注力。关键词：①embrace downtime（拥抱闲暇）；②be lazy（偷偷懒）。\n\nIn order to make the most of our focus and energy 再次回应开篇 building a habit of “deep work”—the ability to focus without distraction, 明确本文写作目的。we also need to... 引出提升专注力的另一具体策略。embrace downtime, or... be lazy (embrace 意为 “拥抱，欣然接受”; downtime 指 “[机器]停机时间；[人]休息时间”; or 引出更直白的说法) 为本段关键新信息，倡导人们接受闲暇，适时偷懒 (与首段 being busy 形成强对比，批驳 “忙碌崇拜”、强调 “张弛有道”)。\n\n第七段阐释适时偷懒(休息)的重要性：对大脑不可或缺，对完成任何工作都非常重要。关键词：idleness(空闲，无事做)。\n\n句子主题 Idleness 同义替换上段 downtime、lazy。句子整体以 Idleness is not just...; it is... indispensable... is... necessary 强调“空闲(idleness)”的重要性，三部分之间形成语义递进。\n\nIdleness is not just... (just 意为 nothing more than the thing“只是”) 首先否定惯常认识“清闲是不好的东西，等同于假期、放纵、恶习 (a vacation, an indulgence or a vice)”。it is as indispensable to the brain as vitamin D is to the body 进而类比强调清闲之于大脑的必不可少：犹如维他命 D 之于身体。 is, paradoxically, necessary... 最终作结，高度肯定“清闲”之于“工作”的意义：于完成任何工作 (any work) 都不可或缺。paradoxically (in a way that is surprising because it is the opposite of what you would expect“自相矛盾地，似非而是地”) 此处具体含义为 idleness (不做事) 与 getting work done (完成工作) 在许多人眼中是相互矛盾的 (作者观点：实际并不矛盾)。\n\n第八段进一步解释为何闲暇对大脑至关重要，对完成工作不可或缺。关键词：the way our brains operate (我们大脑的运作方式)。\n\n①句概述指出原因：闲暇与生产力之间的正向联系源自“大脑的运作方式”。句子以 A may be due to B 传递因果解释关系。\n\nA(this counterintuitive link between downtime and productivity) 回指上段结论 idleness is, paradoxically, necessary to getting any work done, 其中 counterintuitive(违反直觉的)对应 paradoxically (似乎矛盾的)。B (the way our brains operate) 明确原因：大脑运作方式决定了这种联系的存在。\n\n②句详细说明“大脑运作方式”。When our brains... they tend to... 传递因果条件关系：大脑在“集中注意力”与“分散注意力”间切换时往往更高效(efficient 意为 able to do tasks successfully, without wasting time or energy“高效的”),即：劳逸结合更高效。\n\n第九段最终明确指出“完成工作需要专注和分心两种大脑回路”，反驳开篇所提错误认知“认为忙碌最有效”。关键词：both the focus and unfocus circuits(专注和分心两种大脑回路)。\n\nWhat people don't realise 引出公众忽视事实/认知偏差，暗中回应开篇 putting a premium on being busy。in order to... they need to... 传递“必然因果关系”; both the focus and unfocus circuits in their brain(其中 circuits 本意为“电路”, 这里喻指“思维方式”)形式并列但重在强调后者：完成工作不仅需要“专注”, 还需要“分心”(否定惯常认识“忙碌最重要最有意义；清闲无价值甚至是罪恶”)。\n\n【段落梳理】第六至九段逐步具体，阐释观点：“适当偷懒”有利于“专注高效”：第六段明确观点（we need to embrace downtime/be lazy）→第七段说明偷懒对大脑、对工作的重要性（Idleness...is... indispensable...necessary...）→第八段进而解释原因：大脑在“专注”和“分心”之间切换时最高效（switch between being focused and unfocused on a task）→最后作者反驳错误认知：没有认识到大脑的工作原理（What people don't realise is...）。"
+      },
+      {
+       "number": 38,
+       "score": 2.0,
+       "stem": "According to Newport, idleness is .",
+       "options": {
+        "A": "a desirable mental state for busy people",
+        "B": "a major contributor to physical health",
+        "C": "an effective way to save time and energy",
+        "D": "an essential factor in accomplishing any work"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n**真题精解**\n\n| | |\n| --- | --- |\n| 38. According to Newport, idleness is ____. | 38. 根据纽坡特的观点，闲散是____。 |\n| [A] a desirable mental state for busy people | [A] 忙碌人群的理想心理状态 |\n| [B] a major contributor to physical health | [B] 维持身体健康的主要因素 |\n| [C] an effective way to save time and energy | [C] 节约时间和精力的有效方式 |\n| [D] an essential factor in accomplishing any work | [D] 完成任何工作的必要因素 |\n\n[精准定位]根据题干中 Newport、idleness 定位至七段 Newport 观点：闲散是大脑所必需，对于完成任何工作来说都非常必要。可见[D]正确。\n\n[命题解密]正确项[D]是对第七段 is...necessary to getting any work done 的同义改写。\n\n[A]夸大其词：将 Newport 观点“大脑在工作状态之外需要适时放松”夸大为“闲散可取，忙碌不可取；用闲散替代忙碌”。[B]强加关联：将第七段类比“闲散是大脑必需，就像维生素 D 是人体必需”糅杂为“懒散是维持人体健康的重要因素”。[C]将第六段“闲散可以使我们充分利用精力(make the most of...energy)”曲解为“可以节约精力(save energy)”,并对 downtime(停工，休息)的构词 down+time 望文生义，臆断出“节约时间(save time)”。\n\n[技巧总结]本题考查人物观点，关键在于将各选项与原文信息进行比对：正确项需要不仅与原文方向一致，还要程度契合(不能夸大或弱化);错误项则可能与原文相悖，或者虽然方向正确但夸大其词，或者在原文提及的两个信息之间强加关联或改变关系。\n\n具体来看，[D] an essential factor in accomplishing any work 是“绝对肯定表述”，很多考生可能第一眼之后便会怀疑其正确性，但对比原文发现，它与原文 necessary to getting any work done 无论是在方向上还是在程度上都完全契合，故为正确项。其他三个选项虽表达“看似严谨客观”，但对比后发现[A]夸大其词，[B]强加关联，[C]则偷换关系且捏造信息。"
+      },
+      {
+       "number": 39,
+       "score": 2.0,
+       "stem": "Pillay believes that our brains’ shift between being focusedand unfocused .",
+       "options": {
+        "A": "can result in psychological well-being",
+        "B": "can bring about greater efficiency",
+        "C": "is aimed at better balance in work",
+        "D": "is driven by task urgency"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| | |\n| --- | --- |\n| 39. Pillay believes that our brains' shift between being focused and unfocused ____. | 39. 皮莱认为我们的大脑在专注状态和非专注状态之间的切换____。 |\n| [A] can result in psychological well-being | [A] 能促进心理健康 |\n| [B] can bring about greater efficiency | [B] 能带来更高效率 |\n| [C] is aimed at better balance in work | [C] 旨在更好地平衡工作 |\n| [D] is driven by task urgency | [D] 由任务的紧迫性所驱动 |\n\n[精准定位]根据题干人物 Pillay 定位至第八、九段。第八段②句指出 Pillay 观点：当大脑在专注状态和非专注状态之间切换时，往往更有效率，可见[B]正确。\n\n[命题解密]题干+正确项[B]是对第八段②句的同义改写：shift 对应 switch; greater efficiency 对应 be more efficient。\n\n[A]由文中 psychiatry 一词捏造出 psychological well-being,但这是关于 Pillay 人物身份的介绍，与其观点无关。[C]将第八段末句“在专注于某项任务和非专注于该任务之间切换(on a task)“曲解为“平衡工作内的不同任务(balance in work)”。[D]利用文中 task 一词设置干扰，但 Pillay 并未提及工作的紧迫性(urgency 属于捏造信息)。\n\n[技巧总结]本题考查人物观点，解题思路与上题相似，但本题题干信息更充足，可直接锁定第八段末句，很容易确定“题干+[B]”是对该句的同义改写，而[C]中 balance 虽近义对应 switch between...,但被平衡的对象与原文不符。[A]利用原文个别词汇臆断出原文未论及的信息，[D]围绕原文关键词汇设置文中未提及信息，均排除。"
+      },
+      {
+       "number": 40,
+       "score": 2.0,
+       "stem": "This text is mainly about .",
+       "options": {
+        "A": "ways to relieve the tension of busy life",
+        "B": "approaches to getting more done in less time",
+        "C": "the key to eliminating distractions",
+        "D": "the cause of the lack of focus time"
+       },
+       "answer": "B",
+       "explanation": "· 全局真题精解 ·\n\n> **答案：** B\n\n| | |\n| --- | --- |\n| 40. This text is mainly about ____. | 40. 本文主要是关于____。 |\n| [A] ways to relieve the tension of busy life | [A] 缓解忙碌生活的紧张的方法 |\n| [B] approaches to getting more done in less time | [B] 在更短时间内完成更多工作的方法 |\n| [C] the key to eliminating distractions | [C] 消除干扰的要诀 |\n| [D] the cause of the lack of focus time | [D] 造成专注时间不足的原因 |\n\n[精准定位]本文第一段提出全文话题：拒绝低效忙碌，打造“深度工作”的习惯。第二段说明“深度工作”的多种基本方法及唯一不变的宗旨。第三至九段论述深度工作、提高工作效率的多种具体策略。\n\n可见[B] approaches to getting more done in less time 体现全文核心话题。 [命题解密][B] approaches to getting more done in less time 是对 building a habit of “deep work”—the ability to focus without distraction... combat constant interruptions and get more done in less time... to getting more done in less time... In order to make the most of our focus and energy... 等所体现的文章主旨的高度概括。\n\n[A]将文章意旨“避免陷入过度重视忙碌的陷阱(To combat the trap of putting a premium on being busy”理解为与之存在巨大偏差的“缓解忙碌生活的紧张(to relieve the tension of busy life)”。[C]虽可以算是文章关键信息，但相对全篇还是太窄，未能触及文章核心：文章并非从始至终都局限于“如何排除干扰(elminating distractions)，而是视角是更高一层的“如何实现深度、高效工作”。[D]偏离文章主线，文中主要论述“坚守专注时间，增强专注力，在较少的时间内尽可能完成更多的工作”的方法，只是某些地方暗示“外在干扰会造成专注时间不足”，且并未集中讨论“缺乏专注的原因”。\n\n[技巧总结]本题为话题提炼型的文章主旨题。可从两个方向入手解答：一，从文章入手，概括文章核心语句，梳理文章结构，找到文章反复出现的关键词，从而确定正确项；二，从选项入手，假定选项是一篇文章的标题，设想以此为标题的文章会如何展开，然后对照文章排除不恰当选项。注意：干扰项通常以偏概全，或过于宽泛笼统，或混杂无关信息/曲解原文信息等。\n\n具体来看，首先梳理文章行文结构（见“精准定位”）、概括文章核心语句（见“命题解密”正确项设置），初步确定[B]正确，其他三项偏离主旨。随后借助“从选项设想文章内容”法：假若文章核心话题为[A]，则必然会讲述“生活中的忙碌、随之产生的压力、如何缓解这种压力”；假若为[C]，则应该是讲述“干扰的危害、排除干扰的方法”；假如为[D]，则应该是讲述“专注时间不足的危害，及其成因”，而这些都不是本文内容，故排除。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part B",
+   "instructions": "Read the following text and answer the questions by choosing the most suitable subtitles from the list A-G for each numbered paragraph (41-45). There are two extra subtitles which you do not need to use. Mark your answers on the ANSWER SHEET. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "heading_matching",
+     "options": {
+      "A": "Just say it",
+      "B": "Be present",
+      "C": "Pay a unique compliment",
+      "D": "Name, places, things",
+      "E": "Find the “me too”s",
+      "F": "Skip the small talk",
+      "G": "Ask for an opinion"
+     },
+     "passage": [
+      "Five ways to make conversation with anyone",
+      "Conversations are links, which means when you have a conversation with a new person a link gets formed and every conversation you have after that moment will strengthen the link.",
+      "You meet new people every day: the grocery worker, the cab driver, new people at work or the security guard at the door. Simply starting a conversation with them will form a link.",
+      "Here are five simple ways that you can make the first move and start a conversation with strangers.",
+      "{{41}}",
+      "Suppose you are in a room with someone you don’t know and something within you says “I want to talk with this person” – this is something that mostly happens with all of us. You wanted to say something – the first word – but it just won’t come out, it feels like it is stuck somewhere. I know the feeling and here is my advice: just get it out.\n\nJust think: what is the worst that could happen? They won’t talk with you? Well, they are not talking with you now!\n\nI truly believe that once you get that first word out everything else will just flow.\n\nSo keep it simple: “Hi”, “Hey”or “Hello” – do the best you can to gather all of the enthusiasm and energy you can, put on a big smile and say “Hi”.",
+      "{{42}}",
+      "It is a problem all of us face; you have limited time with the person that you want to talk with and you want to make this talk memorable.\n\nHonestly, if we got stuck in the rut of “hi”, “hello”, “how are you?” and “what is going on?”, you will fail to give the initial jolt to the conversation that can make it so memorable.\n\nSo don’t be afraid to ask more personal questions. Trust me, you’ll be surprised to see how much people are willing to share if you just ask.",
+      "{{43}}",
+      "When you meet a person for the first time, make an effort to find the things which you and that person have in common so that you can build the conversation from that point. When you start conversation from there and then move outwards, you’ll find all of a sudden that the conversation becomes a lot easier.",
+      "{{44}}",
+      "Imagine you are pouring your heart out to someone and they are just busy on their phone, and if you ask for their attention you get the response “I canmultitask”.\n\nSo when someone tries to communicate with you, just be in that communication wholeheartedly. Make eye contact. Trust me, eye contact is where all the magic happens. When you make eye contact, you can feel the conversation.",
+      "{{45}}",
+      "You all came into a conversation where you first met the person, but after some time you may have met again and have forgotten their name. Isn’t that awkward! So, remember the little details of the people you met or you talked with; perhaps the places they have been to, the places they want to go, the things they like, the things they hate – whatever you talk about.\n\nWhen you remember such things you can automatically become investor in their wellbeing. So they feel a responsibility to you to keep that relationship going.",
+      "That’s it. Five amazing ways that you can make conversation with almost anyone. Every person is a really good book to read, or to have a conversation with!"
+     ],
+     "questions": [
+      {
+       "number": 41,
+       "score": 2.0,
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n41.[答案]A [精解]第四至六段指出，想和陌生人交谈又怯于开口时，应勇敢地开口，一旦开口，自然而然就能与对方开始交谈，具体做法是用简短的话语主动打招呼。[A]“请说出来”与段群主旨相符，标题主题词 say 与段群关键词 say/come out/get out 复现或近义替换。\n\n[干扰项设置][F]主题词 the small talk 虽包括第六段末句“Hi”、“Hey”、“Hello”等打招呼用语，但该段实为鼓励读者使用这些简短的词打招呼，与选项意思相悖。"
+      },
+      {
+       "number": 42,
+       "score": 2.0,
+       "answer": "F",
+       "explanation": "> **答案：** F\n\n42.[答案] F [精解]第七至九段指出，人们普遍会面临一个问题，即“在有限的交谈时间里一味客套寒暄，导致对话难以深入、从而无法留下深刻印象”,对此，人们应该询问更加私人的问题。[F]“略过闲谈”契合段群主旨。\n\n[干扰项设置][G] Ask for an opinion 似与第九段 don't be afraid to ask/people are willing to share if you just ask 近义，但该段所述询问对象实为交谈对象比较私人的信息(personal questions),而非其个人意见(an opinion),且该选项也无法表达第七、八段暗含的“客套寒暄太占时间，应做简略处理”。"
+      },
+      {
+       "number": 43,
+       "score": 2.0,
+       "answer": "E",
+       "explanation": "> **答案：** E\n\n43.[答案] E [精解]第十段指出，初次见面应努力找出两人的共同点，由此出发可顺利展开对话。[E]“找到共同点”与本段主旨一致，the “me too”s 同义替换首句 the things which you and that person have in common。"
+      },
+      {
+       "number": 44,
+       "score": 2.0,
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n44.[答案] B [精解]第十一、十二段指出，“己所不欲勿施于人”，我们既然不愿被忽视，就应该避免忽视别人，全心全意投入对话，与对方进行眼神交流。[B]“身/心处现场”与段群主旨一致，Be present 与第十二段①句 be in that communication wholeheartedly 近义。\n\n[干扰项设置][G]中 Ask for 虽复现第十段 ask for, 但第十段 ask for 的对象为“关注(attention)”而非“意见(opinion)”, 且此处只是细枝末节，选项断章取义，无法概括段群主旨“要进行眼神交流、全心全意投入对话”。"
+      },
+      {
+       "number": 45,
+       "score": 2.0,
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n45.[答案] D [精解]第十三、十四段指出，我们常会遇到“忘记对方名字”的尴尬情形，针对性地，我们应该记住对方的细节信息，包括姓名，他们去过或想去的地方，喜欢或讨厌的东西等。[D]“名字，地点，事物”概括了段群列举的三种具体细节，契合段群主旨。\n\n[干扰项设置][C] Pay a unique compliment 干扰源自本段群关键词 remember the details, “给予有针对性、特殊的赞美”可能是“记住对方身上的细节”的目的。但本段群侧重于“记住交谈对象的细节信息”这一建议本身，顺便提及其作用/目的“可避免尴尬情况、维系二人关系”，完全没有涉及 compliment 相关内容，故[C]是主观臆测、过度联想的干扰项。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section III Translation",
+   "instructions": "Translate the following text into Chinese. Write your translation neatly on the ANSWER SHEET. (15 points)",
+   "score": 15,
+   "groups": [
+    {
+     "type": "translation_full",
+     "passage": [
+      "A fifth grader gets a homework assignment to select his future career path from a list of occupations. He ticks “astronaut” but quickly adds “scientist” to the list and selects it as well. The boy is convinced that if he reads enough, he can explore as many career paths as he likes. And so he reads – everything from encyclopedias to science fiction novels. He reads so passionately that his parents have to institute a “no reading policy” at the dinner table.",
+      "That boy was Bill Gates, and he hasn’t stopped reading yet – not even after becoming one of the most successful people on the planet. Nowadays, his reading material has changed from science fiction and reference books: recently, he revealed that he reads at least 50 nonfiction books a year. Gates chooses nonfiction titles because they explain how the world works. “Each book opens up new avenues of knowledge to explore”, Gates says."
+     ],
+     "questions": [
+      {
+       "number": 46,
+       "score": 15.0,
+       "answer": "一个五年级学生拿到一份家庭作业，要求从一份职业列表中选择将来的职业道路。他勾选了“宇航员”，但很快在表上添加了“科学家”，并将它也选上。这个男孩子相信，只要他读得够多，那么他想探索多少职业道路都可以。于是，他就这样读书——从百科全书到科幻小说，什么都看。他如饥似渴地读书，以至于他的父母不得不立下一条吃饭时“不许看书的规矩”。\n\n那个男孩就是比尔盖茨，他没有停止阅读，甚至在他成为这个星球上最成功的人士之一后，仍旧没有停下来。现在，他的阅读材料已经不再是科幻小说和工具书了：最近据他所说，他一年内至少读了50本非科幻小说。比尔盖茨选择非科幻小说类书籍，是因为这类书籍解释了世界是如何运作的。“每本书都开辟了新的知识探索渠道。”盖茨说。",
+       "explanation": "> **答案：** 参考译文见下文\n\n**一、文章总体分析**\n\n本文节选自 Blinkist 2017 年 3 月 16 日一篇题为 Why Bill Gates Reads 50 Books a Year(为什么比尔·盖茨一年读 50 本书)的文章。选文以比尔·盖茨幼时一份家庭作业完成情况引出他对阅读的痴爱，并指出他至今仍孜孜不倦。文章句子结构比较简单，有一些熟词僻义，可通过上下文推断具体含义。\n\nI ① A fifth grader gets a homework assignment to select his future career path from a list of occupations. ② He ticks “astronaut” but quickly adds “scientist” to the list and selects it as well. ③ The boy is convinced that if he reads enough, he can explore as many career paths as he likes. ④ And so he reads—everything from encyclopedias to science fiction novels. ⑤ He reads so passionately that his parents have to institute a “no reading policy” at the dinner table.\n\n一个五年级学生拿到一份家庭作业，要求从一份职业列表中选择将来的职业道路。他勾选了“宇航员”，但很快在表上添加了“科学家”，并将它也选上。这个男孩子相信，只要他读得够多，那么他想探索多少职业道路都可以。于是，他就这样读书——从百科全书到科幻小说，什么都看。他如饥似渴地读书，以至于他的父母不得不立下一条吃饭时“不许看书的规矩”。\n\n**词汇注释与难句分析**\n\ngrader n. ……年级学生\n\ntick v. 打勾；打对号\n\nastronaut n. 宇航员\n\nconvinced a. 坚信的；深信的\n\nencyclopedia n. 百科全书\n\ninstitute v. 制定(政策等);实行\n\n**语篇分析**\n\n第一段描绘出一个“为探索未来职业道路而勤于阅读”的男孩形象。\n\n①②③句为一个意群，以“男孩一份家庭作业的完成情况”引出“他对‘勤阅读与职业道路探索之间因果关联’的解读”。\n\n①②句先介绍男孩对家庭作业的完成情况：并未按列表所示选项予以勾选，而是新添选项并同时勾选。两句语义重心借助 but 落于②句第二分句，其后 quickly adds... and selects... as well“快速添加并勾选”形似对男孩完成家庭作业的客观描述，实则既表明男孩反应敏捷、聪明敏锐——“能快速做出非常规处理”,又表明其读书多、知识丰富——“知道‘科学家’同‘宇航员’一样，也是一份职业，而它竟然未被列入家庭作业列表中”。\n\n③句后引出他对勤阅读与职业道路探索之间因果关联的解读：多读书能拓宽职业道路。本质由被动态延伸而来的形容词 convinced 一语双关，既含被动义“因读书多而敏锐发现家庭作业列表中遗漏‘科学家’这一职业，故而相信书读得越多就能探索越多职业道路”,借此反衬他之所以能够那么处理家庭作业的原因：书读得多；又含形容义“坚信的，信服的：就是非常执着而又坚定不移地相信，勤阅读能探索更多职业道路”,借此反衬其幼时读书的目标(之一):探索未来职业之路。if he reads... he can explore... 形成“条件—结果”逻辑：只要读书够多，就能随意探究职业道路，突出强调“读书多与探索更多职业道路之间的因果关联”。\n\n④⑤句为另一意群，指出男孩在该解读下的行为后果：孜孜不倦，以至于父母不得不立下“吃饭时不得读书的规矩”。And so 表明两意群间因果链接。\n\n④句指出男孩阅读覆盖面广：无所不看。everything from... to... 强调其涉猎范围大。\n\n⑤句指出男孩阅读充满热情：吃饭不忘看书。so... that...“如此……以致于……”结构以热情形成的结果“父母下令吃饭时不许读书”来强调其阅读痴迷程度之高。\n\nⅡ ① That boy was Bill Gates, and he hasn't stopped reading yet—not even after becoming one of the most successful people on the planet. ② Nowadays, his reading material has changed from science fiction and reference books: recently, he revealed that he reads at least 50 nonfiction books a year. ③ Gates chooses nonfiction titles because they explain how the world works. ④ “Each book opens up new avenues of knowledge to explore”, Gates says. [153 words]\n\n**词汇注释与难句分析**\n\ntitle n. (书刊的)一种，一本\n\navenue n. 途径；手段\n\n**语篇分析**\n\n第二段揭示男孩身份，并描绘其“为探索世界运行而继续勤于读书”的伟人形象。\n\n句(过渡句)承上揭示男孩身份“比尔·盖茨”，启下预示将对其功成名就后依然痴迷阅读的描述。hasn't stopped reading yet 借现在完成时态强调比尔·盖茨幼时阅读习惯持续至今，暗示该习惯依然在对其人生产生重大影响；not even after... 借 even 强调指出哪怕是在他功成名就之后依然在坚持阅读，暗示他对阅读的目标定位相较年幼时“寻找职业道路（以获取成功）”产生了变化。\n\n句详细阐述现如今比尔·盖茨的阅读兴趣、痴迷程度及目标定位。Nowadays、recently 明确意群着力点“当前”，与首段形成今昔对比。\n\n句指出其阅读兴趣发生改变：由幼时虚构类作品过渡到非虚构类作品。冒号前实质暗示其幼时阅读兴趣“科幻小说及参考书”，意在开发想象力及满足学习功用；冒号后则借其当前阅读兴趣及阅读量“每年至少50本非虚构作品”以及强调词 at least“至少”复现其幼时对阅读的痴迷。\n\n句指出其选择非虚构作品的原因(目标定位):探索世界如何运行、开辟新的知识途径。explain how the world works 形似说明书籍内容，实则表明盖茨先生当前阅读意在探索世界运行方式；opens up new avenues of knowledge to explore 则以拟人手法“书籍打开了新的知识探索通道”表明非虚构作品能够满足其当前对知识的诉求。\n\n**三、难句分析**\n\nThe boy is convinced that if he reads enough, he can explore as many career paths as he likes.\n\n本句涉及的难点：宾语从句、条件状语从句、比较状语从句。\n\n系动词加上 surprised、convinced、sure、afraid 等表示心理作用的形容词时可构成动词短语，在语法上相当于一个及物动词，后面可跟一个由 that 引导的从句作宾语。句中 that 从句作 is convinced 的宾语，具体说明男孩坚定不移相信的东西。\n\nif 本译作“如果；倘若”，而 if he... he can... 结构意在强调男孩信念“‘读书多’就能‘探索更多职业道路’”，故将其译作“只要”更能契合该结构所传递出的充分条件之意。\n\nas many as he likes 实际补充完整为 as many as he likes to explore, 字面意思即“和他想要探索的职业道路一样多”，换句话即“想要探索多少职业道路就可以探索多少职业道路”。\n\nHe reads so passionately that his parents have to institute a \"no reading policy\" at the dinner table.\n\n本句涉及的难点：结果状语从句、固定结构、熟词僻义。\n\n**要点注释**\n\npassionately 本指“炽热地，狂热地”，此处根据其后蕴藏文意“连吃饭时也看书”而将其处理为“如饥似渴地”更形象生动。\n\ninstitute...policy 的翻译有两个难点，一是确定动词 institute 的含义。首先从中文的常用动宾搭配“……政策”，可以猜测“制定”、“废除”两个方向。然后根据 he reads so passionately（读书太过狂热）推测，父母应该是采取措施遏制过于狂热的读书势头，即“制定”不许读书的政策。二是确定 institute...policy 的具体译法。“制定……政策”较为正式，而根据文中语境“家庭生活”可知 policy 更倾向于“规矩，规则，原则”，故整体处理为“立下……规矩”更契合文中场景。\n\nat the dinner table 既可指“在餐桌旁”，亦可指“就餐”，此处由其前 a “no reading policy”“不许读书的规矩”可推测“就餐”更契合文意。\n\nThat boy was Bill Gates, and he hasn't stopped reading yet—not even after becoming one of the most successful people on the planet.\n\n本句涉及的难点：并列结构、让步时间状语、熟词僻义。\n\n**要点注释**\n\nafter 可以单纯表示时间上的“之后”，如 We'll leave after lunch.（我们将在午饭后动身）；也可以表示内含因果关系的“之后”，如 After winning the prize she became famous overnight.（她获奖后一夜之间成名了）；还可以表示内含让步关系的“之后”，如 After all our advice, he still insists on going.（尽管我们劝阻，他仍然坚持要去）。此处根据 even (used to emphasize sth unexpected or surprising in what you are saying“甚至，即使”) 所蕴藏的出乎意料之意，可知句意实为“比尔·盖茨功成名就之后本可停止阅读，而他竟然依然痴迷阅读”，也即，主句与 after 结构之间存在让步一转折关系，故而将 after 处理为“尽管/即便”更为恰当。\n\n破折号后的 not 实际是破折号前 hasn't 否定之意的复现，其后省略 stopped reading，意即“(即便他……人士之一)也没有停止阅读”，但由于破折号前已完整传达出“没有停止阅读”之意，如果再补充完整会显得分外累赘，故可直接省略不译。\n\nNowadays, his reading material has changed from science fiction and reference books: recently, he revealed that he reads at least 50 nonfiction books a year.\n\n本句涉及的难点：并列结构、宾语从句、地点状语。\n\n**句法分析**\n\n**Gates chooses nonfiction titles because they explain how the world works.**\n\n本句涉及的难点：原因状语从句、宾语从句、熟词僻义。\n\ntitle 常见义为“标题，题目”，此处是熟词僻义，意为“(书刊等的)一种，一本”，可译为“作品”。\n\nbecause 的因果逻辑翻译，除了可以简单地选用对应的“因为，由于”,还可以采取增译法、选择汉语习惯表达“之所以……是因为……”,用以强调盖茨选择非虚构作品的理由。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section IV Writing — Part A",
+   "score": 10,
+   "groups": [
+    {
+     "type": "writing",
+     "questions": [
+      {
+       "number": 47,
+       "score": 10.0,
+       "stem": "Suppose you have to cancel your travel plan and will not be able to visit Professor Smith. Write him an email to\n1) apologize and explain the situation, and\n2) suggest a future meeting.\nYou should write about 100 words on the ANSWER SHEET.\nDo not use your own name. Use “Li Ming” instead.\nDo not write your address. (10 points)",
+       "answer": "Dear Professor Smith,\n\nI am writing to apologize for not being able to visit you as planned, since I have to cancel my travel plan for some reason. I am terribly sorry for any inconvenience this causes you and any changes that it necessitates in your current plans.\n\nI have been looking forward to seeing you since we made the appointment. Unexpectedly, I was asked to substitute for a classmate who suddenly fell ill to attend an important meeting. If it is possible, I would like to reschedule our appointment to a time convenient for you.\n\nThank you for understanding in this matter. Looking forward to your reply.\n\nSincerely yours,\nLi Ming",
+       "explanation": "**一、审题谋篇**\n\n**1. 解析题目指令，确定行文要点**\n\n| | | | |\n| --- | --- | --- | --- |\n| 抓取指令关键词 | 梳理信息 | 归纳要点 | |\n| 情景&要求 | Suppose you have to cancel your travel plan and will not be able to visit Professor Smith .Write him an email to 1) apologize and explain the situation, and 2) suggest a future meeting . | 1.写信人身份：“你”,即大学生2.写作对象：史密斯教授3.写作话题：因不能如约拜访而致歉4.写作类型：书信5.交际目的：致歉并做出弥补(提议下次会面) | 1.格式：书信(道歉信)。2.语域：收信人身份为教授，用语应尊敬、礼貌；“私人拜访”并非公务，文字不必过于拘谨。3.内容要点：1致歉并解释原因；2约定下次会面。 |\n\n**2. 罗列关键词**\n\napologize 道歉；cancel 取消；appointment 约定；reschedule 重新安排\n\n**3. 行文思路**\n\n第一段：说明写信的目的，表示歉意；第二段：解释原因，并询问下次见面时间；第三段：感谢谅解并期待回复。\n\n**优秀范文**\n\nDear Professor Smith, ①I am writing to apologize for not being able to visit you as planned, since I have to cancel my travel plan for some reason. ②I am terribly sorry for any inconvenience this causes you and any changes that it necessitates in your current plans.\n\n① I have been looking forward to seeing you since we made the appointment. ② Unexpectedly, I was asked to substitute for a classmate who suddenly fell ill to attend an important meeting. ③ If it is possible, I would like to reschedule our appointment to a time convenient for you.\n\n①Thank you for understanding in this matter. ② Looking forward to your reply.\n\n**参考译文**\n\n亲爱的史密斯教授：①我因故不得不取消旅行计划，因此不能如约拜访您了，特写信向您致歉。②给您带来的不便以及给您的计划带来的变动，我深表歉意。\n\n①约定后我就一直很期待见到您。②没想到，我临时被要求替代一名突然生病的同学参加一个重要会议。③如果可能的话，我想重新约定一个您方便的时间与您见面。\n\n①感谢您对此事的理解。②期待您的回复。\n\nSincerely yours,\n\nLi Ming 真诚的，李明\n\n[必备表达]\n\n1. terribly [ad.] 非常\n\n2. necessitate [v.] 使……不可避免\n\n5. substitute for 替代，顶替\n\n3. look forward to 期待\n\n6. fall ill 生病\n\n4. unexpectedly [ad.] 出乎意料地\n\n7. attend [v.] 出席\n\n[精彩句式]\n\n谓语 目的状语句子成形步骤：①写出简单句\n\nI was asked to attend a meeting.\n\nI will replace a classmate.\n\nThe classmate was ill.\n\n②利用代词将简单句整合\n\nI was asked to replace a classmate who was ill to attend a meeting.\n\n③通过替换动词、增加副词等增加表达精确性、内容饱满度及美感\n\nUnexpectedly, I was asked to substitute for a classmate who suddenly fell ill to attend an important meeting.\n\n[篇章衔接]引言部分(2句):①句说明道歉事由，并简要说明原因；②句表示歉意。\n\n主体部分(3句):①句让步表达对原本约定的期待；②句转而说明不能前往的原因；③句进行弥补：约定下次会面时间。\n\n结尾部分(2句):①句感谢谅解；②句表达对回复的期待。\n\n[模板提炼]本模板由【优秀范文】提炼而来，适用于道歉信。\n\nDear ____,\n\nI am writing to apologize for 道歉事由，since 简述原因。I am terribly sorry for any inconvenience this causes you and any changes that it necessitates in your current plans.\n\nI have been looking forward to seeing you since we made the appointment. Unexpectedly, I ____. If it is possible, I would like to reschedule our appointment at a time that is convenient for you.\n\nThank you for understanding in this matter. Looking forward to your reply.\n\nSincerely yours,\n\nLi Ming\n\n**三、写作储备**\n\n**道歉信常用表达**\n\n(1) 开篇：说明写作目的\n\n- I want to write you a letter to apologize. 我想给你写信道歉。\n\n- Please accept my sincere apology for... 请接受我因……诚挚的歉意。\n\n- Please accept this letter as my formal apology for what happened on (location/event/issue...).\n\n请把这封信作为我对发生在……(地点或事件)的正式道歉。\n\n(2) 中间段：说明理由/提出补救措施\n\n- It was not my intention to cause any damage or inconvenience. 我并非有意造成不良影响或不便。\n\n- I would try to offer an explanation for my behavior/what happened, although this is by no means an excuse. 我会试图解释我的行为/所发生的的事情，尽管这无论如何不能作为一种借口。\n\n- Would it be convenient for you if...? 您方便……吗？\n\n- Would you prefer to...? 您愿意……吗？\n\n(3) 结尾：再次表示歉意，请求原谅\n\n- I sincerely thank you for hearing me out. Again, I am sorry for what happened.\n\n真诚地感谢您听我说完。再次对发生的事情表示歉意。\n\nAgain, I deeply apologize for the problems my actions caused, and I hope I can work to make it right. 再次为我的行为所造成的麻烦深表歉意，我希望自己能够处理好这件事。\n\n- I am sorry to..., and hope that this has not caused you any great inconvenience.\n\n对……我感到抱歉，并希望这没有给您造成太多不便。\n\n**四、写作练习**\n\n请根据下列要求进行写作。\n\n**Directions:**\n\nFor unexpected reason(s), you missed the appointment with your friend Jack to go to the National Library yesterday. Write him a letter to make an apology, state your reason(s) and suggest a solution.\n\nYou should write neatly on the ANSWER SHEET.\n\nDo not sign you own name at the end of the letter, use \"Li Ming\" instead.\n\nDo not write the address. (10 points)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section IV Writing — Part B",
+   "score": 15,
+   "groups": [
+    {
+     "type": "writing",
+     "images": [
+      "assets/2018-2-q48.jpg"
+     ],
+     "questions": [
+      {
+       "number": 48,
+       "score": 15.0,
+       "stem": "Write an essay based on the chart below. In your writing, you should\n1) interpret the chart, and\n2) give your comments.\nYou should write about 150 words on the ANSWER SHEET. (15 points)",
+       "answer": "The pie chart clearly illustrates the factors consumers take into account when selecting a restaurant in a certain city in 2017. Among all of them, distinguishing features of a restaurant account for the largest proportion (36.3%). Next come the service and environment, which constitute 26.8% and 23.8% respectively, much higher than the price (8.4%). Other factors make up 4.7%.\n\nWhat the statistics reflect is closely related to our economic development. For one thing, as per capita disposable income has risen, more and more people can afford to dine out, and it is natural that they care more about factors offering high-quality enjoyment rather than that of price, which used to be among their primary concerns. For another, an increasing number of restaurants with similar price levels are available to customers, so more attention would be paid to factors as features, service and environment.\n\nPredictably, the catering consumption upgrade will continue, and catering companies should identify what consumers really need and improve their overall competitive power.",
+       "explanation": "**一、审题谋篇**\n\n1. 分析图表数据，解读背后现象\n\n| | | |\n| --- | --- | --- |\n| 图表信息 | 信息解析 | 推导寓意 |\n| 图表下方标题为“2017年某市消费者选择餐厅时的关注因素” | 食客对不同因素的关注度从高到低排列为“特色>服务>环境>价格>其他”;其中特色、服务以及环境总占比高达80%以上，远超价格因素占比。 | 经济飞速发展的当下，一方面消费者经历了从“价格敏感型”向“价值敏感型”的过渡，更加注重高品质的享受；另一方面餐饮行业整体发展势头良好，竞争愈发激烈，为消费者提供了更多选择的空间，而“特色”作为核心竞争力之一，自然成为占比最重的考虑因素。 |\n| 图表中各因素所占比例分别为：特色36.30%、服务26.80%、环境23.80%、价格8.40%、其他4.70% | | |\n\n**2. 罗列关键词**\n\n描写关键词：pie chart 饼状图；account for 占……(比例); constitute 组成；make up 构成 话题关键词：take into account 考虑；feature 特色；service 服务；environment 环境；per capita 人均；dine out 外出进餐\n\n**3. 行文思路**\n\n第一段：描述图表；第二段：明确图表反映的现象，分析原因；第三段：提出建议。\n\n**二、优秀范文赏析**\n\n**优秀范文**\n\n① The pie chart clearly illustrates the factors consumers take into account when selecting a restaurant in a certain city in 2017. ② Among all of them, distinguishing features of a restaurant account for the largest proportion (36.3%). ③ Next come the service and environment, which constitute 26.8% and 23.8% respectively, much higher than the price (8.4%). ④ Other factors make up 4.7%.\n\n① What the statistics reflect is closely related to our economic development. ② For one thing, as per capita disposable income has risen, more and more people can afford to dine out, and it is natural that they care more about factors offering high-quality enjoyment rather than that of price, which used to be among their primary concerns. ③ For another, an increasing number of restaurants with similar price levels are available to customers, so more attention would be paid to factors as features, service and environment.\n\n① Predictably, the catering consumption upgrade will continue, and catering companies should identify what consumers really need and improve their overall competitive power.\n\n**参考译文**\n\n①饼状图清晰阐明了2017年某城市消费者选择餐厅时关注的因素。②在所有因素中，餐厅的特色占比最高，为36.3%。③接下来是服务和环境，占比分别是26.8%和23.8%，均远高于占比为8.4%的价格因素。④其他因素占比为4.7%。\n\n①图中数据所反映的现象与我们的经济发展情况紧密相关。②一方面，随着人均可支配收入的提高，越来越多的人有能力负担外出就餐的支出，他们自然会更看重价格（消费者曾经最看重的因素之一）以外能够提供高品质享受的因素。③另一方面，如今有越来越多同等价位的餐厅可供选择，因此消费者会更多关注产品特色、服务以及环境等因素。\n\n①可以预见的是，大众餐饮消费升级仍会持续，而餐饮企业应洞察消费者的需求，提升自身综合竞争力。\n\n**必备表达**\n\n1. illustrate [v.] 阐明\n\n5. disposable income 可支配收入\n\n2. distinguishing [a.] 有区别的\n\n6. primary concern 首要关心的问题\n\n3. proportion [n.] 部分\n\n7. predictably [ad.] 可预见地\n\n4. respectively [ad.] 各自地\n\n8. catering companies 餐饮企业\n\n**活用外刊**\n\n1. Both Britain and America peaked with a share of about 50%, in 1914 and 1967 respectively.\n\n—The Economist\n\n译文：英国和美国分别在1914年和1967年以50%的份额达到顶峰。\n\n点拨：respectively 意为“分别地，各自地”,常用于描述数据，表示前文所提及的两项内容分属不同范畴或发生在不同时间等。\n\n2. If you're caught out in the snow, your primary concern is to maintain body temperature.\n\n—The Wall Street Journal\n\n译文：如果你被大雪困住了，你的首要任务就是维持体温。\n\n点拨：primary concern 意为“首要关心的问题”，其中 primary 可替换为 main/major/most important 等。\n\n**精彩句式**\n\n**句子成形步骤：**\n\n①写出简单句\n\nPeople's income has risen.\n\nMany people can afford to eat out.\n\nThey care more about enjoyment than price.\n\nPrice used to be their first concern.\n\n**②利用连词、代词将简单句整合**\n\nAs people's income has risen, they can afford to eat out and care more about enjoyment than price, which used to be their first concern.\n\n③通过替换名词、动词，添加形容词等增加表达精确性、内容饱满度及美感\n\nAs per capita disposable income has risen, more and more people can afford to dine out, and it is natural that they care more about factors offering high-quality enjoyment rather than that of price, which used to be among their primary concerns.\n\n④采用衔接首段，使文字连贯，层次清晰\n\nFor one thing, as per capita disposable income has risen...\n\n**篇章衔接**\n\n第一段(4句):描述图表。①句概述图表内容；②③④句由大到小展示图表数据，以...account for the largest...Next come...much higher than...Other factors...衔接。\n\n第二段(3句):分析现象成因。①句概述原因；②③句分别从消费者的角度和餐厅经营者的角度分析原因，以 For one thing...For another...衔接。\n\n第三段(1句): 提出建议。预估市场需求，对餐饮行业提出建议。\n\n**应用模板**\n\n该思路适用于关于“选择/关注因素/原因等”的占比分析，如：高校学生创业的原因调查、人们选择定居城市的考虑因素等。\n\n| | |\n| --- | --- |\n| I1From the information given in the pie chart, we can see the survey on 图表主题.2 Those account for ____, the biggest among all of the factors, while _makes up only.II1 Multiple factors underlie the phenomenon reflected in the chart.2The most important factor to be considered is the fact that ____, which has a significant effect on ____.3In the second place,.III1In view of the discussion above, it is no surprise to see such phenomenon in the current context of ____.2 And there is reason to believe that this trend will continue in the years to come. | 1从饼状图显示的信息中，我们可以看到关于_的调查。2那些_占比_,在所有的因素中占比最高，而_占比仅为_。1图表所反映的现象是许多因素合力的结果。2其中最重要的因素是_这一事实，它对_有重要影响。3其次，_。1基于上述探讨，在当下_的背景下出现这种现象不足为奇。2而且有理由相信这一趋势在未来仍会持续。 |\n\n模板注释：第二段分析现象背后的两方面原因；第三段发表对于图中现象/趋势的总体看法，并对未来情形作出判断。\n\n**三、写作储备**\n\n**话题表述补充**\n\n关于经济：prosperity [n.] 繁荣；boom [n.] 繁荣兴旺；economic recovery 经济复苏；purchasing power 购买力；service industry 服务行业；enterprise image 企业形象；advertisement campaign 广告宣传活动\n\n**写作素材积累**\n\n- Tastes and shopping habits are in flux as consumers rein in purchases of luxury items overseas, become more discerning at home and prioritise spending on their health, families and experiences, recent studies show.\n\n近期几项研究显示，品味和购物习惯正在变化，消费者在海外收敛了奢侈品购买，在国内变得更加挑剔，同时对自己的健康、家庭和体验优先安排支出。\n\n- Increasingly, Chinese people look for memorable experiences rather than products, with cinema, dining, spa visits and travel all posting a robust following. They go to the opera in Italy, watch the Northern Lights in Scandinavia and dine at Michelin-starred restaurants in Paris.\n\n越来越多的中国人寻找难以忘怀的体验，而不是产品，影院、餐饮、水疗和旅游都迎来旺盛需求。他们去意大利观看歌剧，去北欧领略北极光，在巴黎的米其林星级餐厅用餐。"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

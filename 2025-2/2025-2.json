@@ -1,0 +1,672 @@
+{
+ "year": 2025,
+ "exam": "英语二",
+ "sections": [
+  {
+   "title": "Section I Use of English",
+   "instructions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "cloze",
+     "passage": [
+      "There are many understandable reasons why you might find it difficult to ask for help when you need it. Psychologists have been interested in this {{1}} for decades, not least because people’s widespread {{2}} to ask for help has led to some high-profile failures.",
+      "Asking for help takes {{3}} . It involves communicating a need on your part — there’s something you can’t do. {{4}} , you’re broadcasting your own weakness, which can be {{5}} . You might have {{6}} about losing control of whatever it is you are asking for help with. {{7}} someone starts to help, perhaps they will take over, or get a credit for your early efforts. Yet another {{8}} that you might be worried about is being a nuisance or {{9}} the person you go to for help.",
+      "If you struggle with low self-esteem, you might find it especially difficult to {{10}} for help because you have the added worry of the other person {{11}} your request. You might see such refusals as implying something {{12}} about the status of your relationship with them. To {{13}} these difficulties, try to remind yourself that everyone needs help sometimes. Nobody knows everything and can do everything all by themselves. And while you might {{14}} coming across as incompetent, there’s actually research that shows that advice-seekers are {{15}} as more competent, not less.",
+      "Perhaps most encouraging of all is a paper from 2022 by researchers at Stanford University, in California, that involved a mix of contrived help-seeking interactions and asking people to {{16}} times they’d sought help in the past. The findings showed that help-seekers generally underestimate how {{17}} other people will be to help and how good it will make the help-giver feel (for most people, having the chance to help someone is highly {{18}} ).",
+      "So bear all this in mind the next time you need to ask for help. {{19}} , take care over who you ask and when you ask them. And if someone can’t help right now, avoid taking it personally. They might just be too {{20}} , or they might not feel confident about their ability to help."
+     ],
+     "questions": [
+      {
+       "number": 1,
+       "options": {
+        "A": "illusion",
+        "B": "discussion",
+        "C": "tradition",
+        "D": "question"
+       },
+       "answer": "D",
+       "explanation": "A. illusion 幻想；错觉\n\nB. discussion 讨论；商讨\n\nC. tradition 传统；传统的信仰（或风俗）\n\nD. question 问题；困惑\n\n考点 词义辨析\n\n> **答案：** D\n\n**答案精解**\n\n结合第1、2题选项分析空格所在句（段[1]②句）的语法结构可知：段[1]②句结构是“主句+原因状从”，空格位于主句中。主句的主干结构是“主+系+表”，空格处在主句中与 in this 共同构成介词短语，作状语。【解读结果】空格处应表示某种事物。\n\n【看本句】本句提到，心理学家一直对“这个事物”感兴趣，还提到对其感兴趣的最突出的原因。由本句提到的内容无法得知“这个事物”的具体指代，亦无法得知空格处所表示的事物，故需联系上下文。【看上文】本段①句提到，有许多合情合理的原因可以解释为什么当你需要帮助时你可能会觉得开口求助很难。【提要点】由本段①句可知，“这个事物”指代①句中提到的“为什么当你需要帮助时你可能会觉得开口求助很难”这一问题，由此可知，心理学家一直对这个问题感兴趣。\n\n综上可知，空格所填词应表示“问题”。D项 question 符合要求，故正确。\n\n**错项剖析 本题错项为 A、B、C。**\n\nAC illusion 和 tradition 代入文中意为 “心理学家一直对这个幻想 / 传统感兴趣”，而空格所在句上文并未提及与幻想或传统相关的信息，故都排除。\n\nB discussion 代入文中意为 “心理学家一直对这个讨论感兴趣”，而段[1]①句仅提及 “有许多合情合理的原因可以解释为什么当你需要帮助时你可能会觉得开口求助很难”，并未对此展开讨论，故排除。"
+      },
+      {
+       "number": 2,
+       "options": {
+        "A": "reluctance",
+        "B": "ambition",
+        "C": "tendency",
+        "D": "enthusiasm"
+       },
+       "answer": "A",
+       "explanation": "A. reluctance 不情愿；勉强\n\nB. ambition 野心；雄心\n\nC. tendency 倾向；趋势\n\nD. enthusiasm 热情；热心\n\n考点 词义辨析\n\n> **答案：** A\n\n结合第1题的分析可知：段[1]②句结构是“主句+原因状从”，空格位于原因状语从句中。从句的主干结构是“主+谓+宾”，空格处与 people's widespread 共同构成名词短语，作主语，且该名词短语被动词不定式短语 to ask for help 修饰。【解读结果】空格处应表示一种情感态度或行为趋势，且该情感态度或行为趋势具有 widespread（普遍的）这一特点，并与 to ask for help（寻求帮助）有关。\n\n【看本句】本句提到，几十年来，心理学家一直对这个问题感兴趣，尤其是因为人们普遍存在的对于寻求帮助的情感态度或行为趋势已经导致了一些广受关注的失败事件。【提要点】结合第1题的分析可知，本句中的“这个问题”指的是本段①句提到的“为什么当你需要帮助时你可能会觉得开口求助很难”。本句表明“需要帮助时觉得开口求助很难”受到心理学家关注的原因之一是人们和求助有关的某种情感态度或行为趋势已经导致了负面结果。“需要帮助时觉得开口求助很难”表明人们不愿开口求助的态度和倾向。\n\n综上可知，人们普遍不情愿寻求帮助。A项 reluctance 符合要求，故正确。\n\n**错项剖析 本题错项为 B、C、D。**\n\nBCD ambition、tendency 和 enthusiasm 代入文中意为 “普遍存在的寻求帮助的野心 / 倾向 / 热情”，均不符合文中 “需要帮助时觉得开口求助很难” 的语境，故都排除。"
+      },
+      {
+       "number": 3,
+       "options": {
+        "A": "attention",
+        "B": "talent",
+        "C": "courage",
+        "D": "patience"
+       },
+       "answer": "C",
+       "explanation": "A. attention 专心；注意\n\nB. talent 天赋；天才\n\nC. courage 勇气；胆量\n\nD. patience 耐心；忍耐力\n\n考点 词义辨析\n\n> **答案：** C\n\n**答案精解**\n\n语法解读 结合选项分析空格所在句（段[2]①句）的语法结构可知：段[2]①句的主干结构是“主+谓+宾”，空格处在句中作宾语。【解读结果】空格处应表示某种事物，且该事物为 takes（需要）这一动作的承受者。\n\n【看本句】本句提到，寻求帮助需要____。由本句提到的内容无法得知空格处所表示的事物，故需联系上下文。【看下文】段[2]②句提到，它（寻求帮助）需要你表达自己的需求，即有些事情你做不到。【提要点】寻求帮助需要表明自己无法做到某些事，即正视并承认自己的不足。而正视并承认自己的不足需要个体具备勇敢的品质和豁达的心态。\n\n答案 综上可知，空格处应表示与“勇敢”“豁达”相关的含义。C项 courage 可表示“勇气；胆量”，判断 符合要求，故正确。\n\n**错项剖析 本题错项为 A、B、D。**\n\nAD attention 和 patience 代入文中意为 “寻求帮助需要专心 / 耐心”，均无法与段[2]②句提到的 “它（寻求帮助）需要你表明有些事自己无法做到” 构成合理的语义衔接，故都排除。\n\nB talent 代入文中意为 “寻求帮助需要天赋”，这意味着人需要有某种与生俱来的做好某事的能力才能去寻求帮助，但寻求帮助是每个人在遇到问题或困难时都可以采取的一种行为，并不要求个人拥有某种天赋，故排除。"
+      },
+      {
+       "number": 4,
+       "options": {
+        "A": "At any time",
+        "B": "In other words",
+        "C": "By all means",
+        "D": "On the contrary"
+       },
+       "answer": "B",
+       "explanation": "A. At any time 在任何时候；随时\nB. In other words 换句话说；换言之\nC. By all means 可以；没问题\nD. On the contrary 与此相反；恰恰相反\n\n考点 逻辑关系\n\n> **答案：** B\n\n**答案精解**\n\n语法 结合第4、5题选项分析空格所在句（段[2]③句）的语法结构可知：段[2]③句结构是“主句+定从”，解读 空格位于句首，在句中作插入语。【解读结果】空格处应体现本句与上文之间的逻辑关系。\n\n【看本句】本句提到，你在公开自己的弱点。由本句提到的内容无法得出空格处所体现的逻辑关系，故需联系上下文。【看上文】段[2]②句提到，它（寻求帮助）需要你表明自己无法做到某些事情。【提要点】空格所在句提到的“你在公开自己的弱点”是对②句提到的“你要表明自己无法做到某些事情”的解释说明。\n\n答案 综上可知，空格处应能体现本句与段[2]②句之间解释说明的逻辑关系。B项 In other words 符合判断 要求，故正确。\n\n**错项剖析 本题错项为 A、C、D。**\n\nA At any time 一般在句中作时间状语，强调时间的灵活性，无法体现空格所在句与上文之间的逻辑关系，故排除。\n\nC By all means 用于当别人提出请求或征求许可时表示同意或允许，这与原文中“寻求（他人）帮助”的语境不符，也无法体现空格所在句与上文之间的逻辑关系，故排除。\n\nD On the contrary 用于对比或反驳前面提到的观点或陈述，强调对比的逻辑关系，不能体现原文中解释说明的逻辑关系，故排除。"
+      },
+      {
+       "number": 5,
+       "options": {
+        "A": "unrealistic",
+        "B": "deceptive",
+        "C": "tiresome",
+        "D": "uncomfortable"
+       },
+       "answer": "D",
+       "explanation": "A. unrealistic 不切实际的\n\nB. deceptive 欺骗性的；误导的\n\nC. tiresome 令人厌烦的；讨厌的\n\nD. uncomfortable 令人担忧的，令人不安的\n\n考点 词义辨析\n\n> **答案：** D\n\n**答案精解**\n\n结合第4题的分析可知：段[2]③句结构是“主句+定从”，空格位于从句中。从句的主干结构是“主+系+表”，空格处在句中作表语。【解读结果】空格处应体现主语 which（指代 you're broadcasting your own weaknesses，即你在公开自己的弱点）的某种特点。\n\n【看本句】本句提到，你在公开自己的弱点，这可能是____。由本句提到的内容无法得出空格处所表示的特点，故需联系上下文。【看下文】段[2]④句提到，你可能担心给人留下无能的印象。【提要点】段[2]④句是对③句的进一步说明，指出了公开自己的弱点可能会让自己担心给人留下无能的印象。\n\n综上可知，公开自己的弱点可能是令人担忧的。D项符合要求，故正确。\n\n**错项剖析 本题错项为 A、B、C，其中 C 为易错项。**\n\nAB unrealistic 和 deceptive 代入文中意为 “你在公开自己的弱点，这可能是不切实际的 / 欺骗性的”，均无法与段[2]④句中提到的 “你可能担心给人留下无能的印象” 构成合理的语义衔接，故都排除。\n\ntiresome 代入文中意为 “你在公开自己的弱点，这可能是令人厌烦的”，这无法与段[2]④句中提到的 “你可能担心给人留下无能的印象” 构成合理的语义衔接，故排除。\n\n易错归因 考生容易忽略上下文语境，认为“公开弱点可能是令人厌烦的”这一说法合情合理，从而误选该项。"
+      },
+      {
+       "number": 6,
+       "options": {
+        "A": "doubts",
+        "B": "concerns",
+        "C": "suggestions",
+        "D": "secrets"
+       },
+       "answer": "B",
+       "explanation": "A. doubts 怀疑，不确定\n\nB. concerns 担心，忧虑\n\nC. suggestions 建议；提议\n\nD. secrets 秘密；机密\n\n考点 词义辨析\n\n> **答案：** B\n\n**答案精解**\n\n语法解读结合选项分析空格所在句（段[2]⑤句）的语法结构可知：段[2]⑤句的主干结构是“主+谓+宾”，空格处在本句中作宾语，被介词短语 about losing control of...help with 修饰。【解读结果】空格处应表示某种抽象事物，且这一事物与 losing control of...with（对……失去控制权）有关。\n\n【看本句】本句提到，你可能会有_, 关于对你正在寻求帮助的事情失去控制权。由本句提到的内容无法得知空格处所表示的事物，故需联系上下文。【看上文】段[2]③句提到，公开自己的弱点 (即向他人求助) 可能会令自己感到担忧，接着④句指出一种具体的担忧：担心给人留下无能的印象。【提要点】与④句相似，⑤句中的 “对正在寻求帮助的事情失去控制权” 也是一种在求助时会给人带来不安感的具体担忧。\n\n综上可知，空格处应表示“担心；担忧”。B项 concerns 符合要求，故正确。\n\n**错项剖析 本题错项为 A、C、D。**\n\nACD\n\ndoubts、suggestions 和 secrets 代入文中，意为 “关于对你正在寻求帮助的事情失去控制权，你可能会感到怀疑 / 提出建议 / 有秘密”，均无法与上下文构成合理的语义衔接，故都排除。"
+      },
+      {
+       "number": 7,
+       "options": {
+        "A": "Once",
+        "B": "Unless",
+        "C": "Although",
+        "D": "Before"
+       },
+       "answer": "A",
+       "explanation": "A. Once 一旦；一……就\n\nB. Unless 除非；如果不\n\nC. Although 虽然；尽管\n\nD. Before 在……以前\n\n考点 逻辑关系\n\n> **答案：** A\n\n**答案精解**\n\n结合选项分析空格所在句（段[2]⑥句）的语法结构可知：段[2]⑥句结构是“状从+主句”，空格位于状语从句中。从句的主干结构是“主+谓+宾”，空格处为从句的引导词。【解读结果】空格处应体现从句和主句之间的逻辑关系。\n\n【看本句】从句提到有人开始帮助你；主句指出，也许他们会接手（你所求助的事情），或者将你之前的努力都归功于自己。【提要点】由主句中 perhaps 所体现的猜测语气以及 they'll 所体现的将来时态可知，主句内容是对将来的预测，即在从句内容所表示的条件下，将来会发生什么。\n\n综上可知，状语从句应是主句的条件。A项 Once 表示“一旦”时，可引导条件状语从句，符合要求，故正确。\n\n**错项剖析 本题错项为 B、C、D。**\n\nB Unless 虽可用于引导条件状语从句，但其强调“某事只能在特定的情况下才能发生或成立”，代入文中意为“除非有人开始帮助你，否则他们可能会接手（你所求助的事情），或者将你之前的努力都归功于自己”，不符合逻辑，故排除。\n\nCD Although 引导让步状语从句，Before 引导时间状语从句，二者均无法引导条件状语从句，故都排除。"
+      },
+      {
+       "number": 8,
+       "options": {
+        "A": "theory",
+        "B": "choice",
+        "C": "factor",
+        "D": "context"
+       },
+       "answer": "C",
+       "explanation": "A. theory 意见；看法\n\nB. choice 选择；抉择\n\nC. factor 因素；要素\n\nD. context 背景，环境\n\n考点 词义辨析\n\n> **答案：** C\n\n**答案精解**\n\n结合第8、9题选项分析空格所在句（段[2]⑦句）的语法结构可知：段[2]⑦句结构是“主句+定从1+定从2”，空格位于主句中，主句的主干结构是“主+系+表1+表2”，空格处在句中与 another 共同构成名词短语，作主语，该名词短语被定语从句 that you might be worried about 修饰。【解读结果】空格处应表示某种事物，且该事物的特点是 you might be worried about（你可能担心的）。\n\n【看本句】又一个你可能担心的____是，你会惹人厌烦或……你前去求助的人。由本句提到的内容无法得知空格处所表示的事物，故需联系上下文。【看上文】段[2]⑥句指出公开自己的弱点可能会令人担忧，段[2]④~⑥句具体描述你不愿求助的原因并指出令你担忧的具体因素。【提要点】由本句句首的 Yet another（又一个）和空格后的定语从句可知，本句应是承接上文，继续说明另一个你可能担忧的因素。\n\n综上可知，空格处应表示“因素”。C项 factor 符合要求，故正确。\n\n**错项剖析 本题错项为 A、B、D。**\n\nABD theory、choice 和 context 代入文中意为 “另一个你可能担心的意见 / 选择 / 背景是……”，而上文并未提及其他意见 / 选择 / 背景，故都排除。"
+      },
+      {
+       "number": 9,
+       "options": {
+        "A": "overpraising",
+        "B": "outperforming",
+        "C": "reassessing",
+        "D": "inconveniencing"
+       },
+       "answer": "D",
+       "explanation": "A. overpraising 过度夸奖，过分赞扬\n\nB. outperforming 超过；胜过\n\nC. reassessing 重新考虑；再次评价\n\nD. inconveniencing 给（某人）带来不便，添麻烦\n\n考点 词义辨析\n\n> **答案：** D\n\n**答案精解**\n\n结合第8题的分析可知：段[2]⑦句结构是“主句+定从1+定从2”，空格位于主句中，主句的主干结构是“主+系+表1+表2”，空格处在句中与 the person 共同构成动名词短语，作第二个表语，且该表语被省略了关系词 who/whom/that 的定语从句 you go to for help 修饰。【解读结果】空格处应表示一个动作，该动作由 the person you go to for help（你前去求助的人）承受。\n\n【看本句】本句提到，又一个你可能担心的因素是，你会惹人厌烦或____你前去求助的人。【提要点】由本句中的并列连词 or 可知，“____ the person you go to for help”应与“being a nuisance（惹人厌烦）”语义指向一致，均表示在求助时担心给他人带来不便或困扰。\n\n答案 综上可知，空格处表示的动作应为“给人造成不便”或“给人带来困扰”。D项 inconveniencing 判断 符合要求，故正确。\n\n**错项剖析 本题错项为 A、B、C。**\n\noverpraising、outperforming 和 reassessing 代入文中意为 “过度夸奖 / 超过 / 重新考虑你前去求助的人”，均与原文中 “在求助他人时可能会有的担忧” 的语境不符，故都排除。"
+      },
+      {
+       "number": 10,
+       "options": {
+        "A": "reach out",
+        "B": "settle down",
+        "C": "turn over",
+        "D": "look back"
+       },
+       "answer": "A",
+       "explanation": "A. reach out 与某人联系以获得帮助\nB. settle down（在某地）定居下来\nC. turn over 翻转；翻身\nD. look back 回忆；回顾\n\n考点 词义辨析\n\n> **答案：** A\n\n**答案精解**\n\n结合第10、11题选项分析空格所在句（段[3]①句）的语法结构可知：段[3]①句结构是“条件状从+主句+原因状从”，空格位于主句中。主句的主干结构是“主+谓+宾+宾补”，其中 it 为形式宾语，空格处在主句中与 to 和 for help 共同构成动词不定式短语，作真正的宾语，especially difficult 作宾语补足语。【解读结果】空格处应表示一个动作，该动作的目的与 help（帮助）有关，且该动作有 especially difficult（尤其困难）这一特征。\n\n【看本句】本句提到，如果你受自卑感困扰，你可能会觉得____帮助尤其困难，因为你还担心对方……你的请求。由本句提到的内容无法得知空格处所表示的动作，故需联系上下文。【看上文】段[1]指出有许多合情合理的原因可以解释为什么当你需要帮助时你可能会觉得开口求助很难；段[2]分析了你在需要帮助时却不愿向他人寻求帮助的原因。【提要点】本句承接段[2]，继续阐述你不愿向他人寻求帮助的原因。\n\n答案 综上可知，空格所在部分应表示与“向他人寻求帮助”类似的含义。A项 reach out 表示“与某人判断联系以获得帮助”，符合要求，故正确。\n\n**错项剖析 本题错项为 B、C、D。**\n\nB settle down 后面通常跟表地点的内容，无法与空格后的 for help（为获得帮助）构成合理的语义搭配，故排除。\n\nC turn over 通常用于描述主动翻转以改变位置，无法与空格后的 for help（为获得帮助）构成合理的语义搭配，故排除。\n\nD look back 表示 “回忆；回顾”，其后一般跟介词 on 或 at 来具体指明回忆的对象，与文中用法不符，故排除。"
+      },
+      {
+       "number": 11,
+       "options": {
+        "A": "declining",
+        "B": "considering",
+        "C": "criticizing",
+        "D": "evaluating"
+       },
+       "answer": "A",
+       "explanation": "A. declining 拒绝，谢绝\nB. considering 仔细考虑，细想\n\nC. criticizing 批评；批判\n\nD. evaluating 评价；评估\n\n考点 词义辨析\n\n> **答案：** A\n\n**答案精解**\n\n语法解读语义剖析\n\n【看本句】本句提到，如果你受自卑感困扰，你可能会觉得向他人求助尤其困难，因你还担心对方____你的请求。由本句提到的内容无法得出空格处所表示的动作，故需联系上下文。【看下文】段[3]②句提到，你可能会把这种拒绝看作某种暗示。【提要点】段[3]②句承接段[3]①句，②句中的 “这种拒绝” 与①句中的 “对方____你的请求” 相对应，二者语义一致。\n\n答案判断综上可知，空格处应表示“拒绝”。A项 declining 符合要求，故正确。\n\n**错项剖析 本题错项为 B、C、D。**\n\nconsidering、criticizing 和 evaluating 代入文中，意为 “因为你还担心对方考虑 / 批评 / 评价你的请求”，均无法与段[3]②句中的“你可能会把这种拒绝看作某种暗示”构成合理的语义衔接，故都排除。"
+      },
+      {
+       "number": 12,
+       "options": {
+        "A": "unnecessary",
+        "B": "negative",
+        "C": "strange",
+        "D": "impractical"
+       },
+       "answer": "B",
+       "explanation": "A. unnecessary 不必要的；多余的\n\nB. negative 负面的；消极的\n\nC. strange 奇怪的；奇特的\n\nD. impractical 不切实际的；不现实的\n\n考点 词义辨析\n\n> **答案：** B\n\n**答案精解**\n\n语法解读结合选项分析空格所在句（段[3]②句）的语法结构可知：段[3]②句的主干结构是“主+谓+宾+宾补”，空格处位于宾补中，与 implying something 共同构成动名词短语，作介词 as 的宾语。空格处在动名词短语中作定语，修饰 something。【解读结果】空格处应表示 something（某事物）的某种特点。\n\n语义\n\n剖析\n\n【看本句】本句提到，你可能会把这种拒绝（某人拒绝帮助你）看作你们之间的关系状态的某种暗示。由本句提到的内容无法得出空格处所表示的特点，故需联系上下文。【看上文】段[3]①句提到，如果你受自卑感困扰，你可能会觉得求助很难，因为你担心对方拒绝你的请求。【提要点】段[3]②句承接段[3]①句，分析担心被拒绝而不愿求助的人的想法：将被拒绝看作人际关系的某种信号，由此可推知，当你向他人求助却遭到拒绝时，你可能会觉得对方的拒绝暗示着你们之间的关系状态不佳。\n\n答案 综上可知，空格所在部分应能表达“不好的某种暗示”之意。B项 negative 表示“负面的；消极判断的”，代入文中，符合要求，故正确。\n\n**错项剖析 本题错项为 A、C、D。**\n\nACD unnecessary、strange 和 impractical 代入文中意为 “你可能会把这种拒绝看作你们关系状态的某种不必要的 / 奇怪的 / 不切实际的暗示”，语义不通，故都排除。"
+      },
+      {
+       "number": 13,
+       "options": {
+        "A": "explain",
+        "B": "identify",
+        "C": "predict",
+        "D": "overcome"
+       },
+       "answer": "D",
+       "explanation": "A. explain 解释，说明\n\nB. identify 认出；找到\n\nC. predict 预言；预告\nD. overcome 克服；解决\n\n考点 词义辨析\n\n> **答案：** D\n\n**答案精解**\n\n语法解读结合选项分析空格所在句（段[3]③句）的语法结构可知：段[3]③句是祈使句，空格处在本句中与 To 和 these difficulties 共同构成动词不定式短语，作目的状语。【解读结果】空格处应表示一个动作，该动作由祈使句暗含的主语 You（你）发出，由宾语 these difficulties（这些困难）承受。\n\n语义\n\n剖析\n\n【看本句】本句提到，为了____这些困难，试着提醒自己，每个人都有需要帮助的时候。由本句提到的内容无法得知“这些困难”的具体指代，亦无法得出空格处所表示的动作，故需联系上下文。【看上下文】段[2]和段[3]①②句提到，人们由于担心暴露自己的缺点、给他人留下无能的印象或被他人拒绝等问题而不愿求助；段[3]④句指出没有人无所不知，也没人能独自完成所有的事情；段[3]⑤句提到，有研究表明寻求建议的人会被……是更有能力的。【提要点】“这些困难”指的是段[2]和段[3]①②句提到的在寻求帮助时可能会有的各种担忧；段[3]④⑤句为段[3]⑥句提供更多依据，这三句旨在为需要帮助的人树立求助的信心，由此可知，段[3]⑧句意在倡导人们解决或克服段[2]和段[3]⑪②句所述的不愿求助的相关问题，认清每个人都有需要帮助的时候这一事实。\n\n答案判断综上可知，空格处应表示“解决”或“克服”。D项 overcome 符合要求，故正确。\n\n**错项剖析 本题错项为 A、B、C。**\n\nABC explain、identify 和 predict 代入文中，意为 “为了解释 / 认出 / 预言这些困难，试着提醒自己，每个人都有需要帮助的时候”，均无法与段[3]④⑤句构成合理的语义衔接，故都排除。"
+      },
+      {
+       "number": 14,
+       "options": {
+        "A": "deny",
+        "B": "forget",
+        "C": "miss",
+        "D": "fear"
+       },
+       "answer": "D",
+       "explanation": "A. deny 否认；否定\n\nB. forget 忘记；遗忘\n\nC. miss 错过；赶不上\n\nD. fear 担心；担忧\n\n考点 词义辨析\n\n> **答案：** D\n\n**答案精解**\n\n语法解读\n\n【看本句】本句提到，尽管你可能____给人留下无能的印象，但实际上有研究表明，寻求建议的人会被……是更有能力的，而非能力较差的。【提要点】本句前后内容之间存在让步转折的逻辑关系，表达“与你的认知不同，寻求建议的人并非能力较差”之意。\n\n答案\n\n判断\n\n综上可知，空格处的动作应能用于引出“你可能给人留下无能的印象”这一认知，D项 fear 代入文中意为“你可能担心给人留下无能的印象”，符合要求，故正确。\n\n**错项剖析 本题错项为 A、B、C。**\n\ndeny 代入文中意为 “你可能否认给人留下无能的印象”，与原文段[3]⑤句逗号后的内容无法形成语义上的转折，故排除。\n\nBC\n\nforget 和 miss 均无法与空格后的 coming across as incompetent（给人留下无能的印象）构成合理的语义搭配，故都排除。"
+      },
+      {
+       "number": 15,
+       "options": {
+        "A": "disguised",
+        "B": "perceived",
+        "C": "followed",
+        "D": "introduced"
+       },
+       "answer": "B",
+       "explanation": "A. disguised 伪装；假扮\n\nB. perceived 认为；将……视为\n\nC. followed 跟随；跟着；随后\n\nD. introduced 把……介绍（给）\n\n考点 词义辨析\n\n> **答案：** B\n\n**答案精解**\n\n【看本句】本句提到，尽管你可能担心给人留下无能的印象，但实际上有研究表明，寻求建议的人会被____是更有能力的，而非能力较差的。【提要点】由本句中的 while 可知，本句逗号前后内容之间存在让步转折关系。逗号前提到你可能担心给人留下无能的印象，逗号后转而指出人们对寻求建议的人的实际印象——更有能力，而非能力较差。\n\n答案判断综上可知，空格所在部分意在说明人们对寻求建议的人的真实看法和实际印象。B项 perceived 可与 are 和 as 构成搭配 be perceived as，表示“被认为，被视为”，代入文中意为“寻求建议的人被认为更有能力”，符合要求，故正确。\n\n**错项剖析 本题错项为 A、C、D。**\n\ndisguised 和 introduced 代入文中意为 “有研究表明，寻求建议的人被伪装成 / 介绍为更有能力的，而非能力较差的人”，但下文中并不涉及寻求建议的人被伪装成或介绍为更有能力的人的相关研究内容，故都排除。\n\nC followed 通常用于表示在空间或时间上跟随某人或某事物，与文中用法不符，故排除。"
+      },
+      {
+       "number": 16,
+       "options": {
+        "A": "recall",
+        "B": "classify",
+        "C": "analyse",
+        "D": "compare"
+       },
+       "answer": "A",
+       "explanation": "A. recall 回忆起；记起\n\nB. classify 分类；归类\n\nC. analyse 分析，剖析\n\nD. compare 比较；对比\n\n考点 词义辨析\n\n> **答案：** A\n\n**答案精解**\n\n结合选项分析空格所在句（段[4]①句）的语法结构可知：段[4]①句结构是“主句+定从”，空格位于定语从句中。从句的主干结构是“主+谓+宾”，空格处和 of contrived...to 及 times 共同构成介词短语，作宾语 a mix 的后置定语，其中 and 连接的名词短语 contrived help-seeking interactions 和动名词短语 asking people to ____ times 并列，二者均作介词 of 的宾语，空格处在动名词短语中与 to 和 times 构成动词不定式短语，作 people 的补足语。【解读结果】空格处应表示一个动作，这个动作由 people（人们）发出，由 times〔（经历的）一段……时间〕承受。\n\n【看本句】本句提到，研究人员在2022年发布了一份研究报告，报告包含了人为设计的求助互动情景并让参与者____他们过去寻求帮助的（真实）经历。【提要点】研究应该是包含了人为设计和真实发生的两类求助场景，其中真实发生的求助场景应该是参与者以往经历过的、存在于他们记忆中的，因而需要他们将其回忆或回想起来。\n\n综上可知，空格处应能表达“回忆、回想”之意。A项 recall 表示“回忆起；记起”，符合要求，故正确。\n\n**错项剖析 本题错项为 B、C、D。**\n\nclassify 通常用于表示按照一定的标准将事物分组或归类，而文中意在表达让参与者提供自己的经历以获取研究所需要的信息，而非让参与者将自己的经历进行分类，故排除。\n\nC analyse 通常用于表示对事物的本质、结构等进行剖析，以理解或阐释该事物，而文中说的是要求普通实验参与者做的事情，让其对自身求助经历进行剖析不符合常理，故排除。\n\ncompare 通常用于表示将两个或多个事物进行比较，以找出它们的相似之处或不同之处，而下文段[4]句提到的研究结果并不涉及参与者求助经历的比较，可知空格处与比较无关，故排除。"
+      },
+      {
+       "number": 17,
+       "options": {
+        "A": "brave",
+        "B": "disapproving",
+        "C": "willing",
+        "D": "hesitant"
+       },
+       "answer": "C",
+       "explanation": "A. brave 勇敢的；无畏的\n\nB. disapproving 不赞成的；表示反对的\n\nC. willing 愿意的；乐意的\n\nD. hesitant 犹豫的；踌躇的\n\n考点 词义辨析\n\n> **答案：** C\n\n**答案精解**\n\n【看本句】本句提到，研究结果表明，求助者通常会低估他人多么____帮忙，以及帮助别人让施助者多么愉悦。【提要点】结合并列连词 and 可知，两个 how 引导的宾语从句语义指向一致，由第二个 how 引导的宾语从句所传达的语义“帮助别人给人带来的愉悦程度（被求助者低估了）”可知，第一个 how 引导的宾语从句想要表达的是：他人对帮忙的乐意程度（被求助者低估了）。\n\n综上可知，空格处应表示与“愿意；乐意；想要”相关的含义。C项 willing 符合要求，故正确。\n\n**错项剖析 本题错项为 A、B、D。**\n\nA brave 代入文中意为 “求助者通常会低估他人帮忙的勇气”，文中并未提及帮助他人需要勇气的相关信息，故排除。\n\ndisapproving 与 hesitant 代入文中分别意为 “求助者通常会低估他人有多不赞成去帮忙” 和 “求助 BD 者通常会低估他人在提供帮助方面多么犹豫”，二者均无法与 and 后的内容形成合理的语义衔接，故都排除。"
+      },
+      {
+       "number": 18,
+       "options": {
+        "A": "relaxing",
+        "B": "surprising",
+        "C": "rewarding",
+        "D": "demanding"
+       },
+       "answer": "C",
+       "explanation": "A. relaxing 令人放松的；轻松的\nB. surprising 令人吃惊的；使人惊奇的\nC. rewarding 有意义的，值得做的\nD. demanding 费力的；要求高的\n\n考点 词义辨析\n\n> **答案：** C\n\n**答案精解**\n\n结合第 17 题的分析可知：段[4]②句结构是“主 + 谓 + 宾从”，空格位于括号中的句子中，括号中句子的主干结构是“主 + 系 + 表”，空格处与 highly 共同构成形容词短语，作表语。【解读结果】空格处应表示主语 having the chance to help someone（有机会帮助别人）的某种特点或属性。\n\n【看本句】本句提到，求助者通常会低估他人多么愿意帮忙以及帮助别人让施助者多么愉悦（对大多数人来说，有机会帮助别人是非常____）。【提要点】括号中的内容是对 that help-seekers...feel 的补充说明，故括号中的内容应表明大多数人非常愿意帮助别人并乐在其中，即对大多数人来说有帮助别人的机会是非常荣幸的或令人开心的。\n\n答案 综上可知，空格处应能表达与“荣幸的”或“令人开心的”相关的含义。C项 rewarding 含“有意义的，值得做的”之意，符合要求，故正确。\n\n**错项剖析 本题错项为 A、B、D。**\n\nA relaxing（令人放松的）所含的感情色彩虽然是正向的，但其代入文中意为“有机会帮助别人是非常令人放松的”，不符合语境，故排除。\n\nBD surprising 和 demanding 代入文中意为 “对大多数人来说，有机会帮助别人是非常令人吃惊的 / 费力的”，语义不通，故都排除。"
+      },
+      {
+       "number": 19,
+       "options": {
+        "A": "Thus",
+        "B": "Also",
+        "C": "Finally",
+        "D": "Instead"
+       },
+       "answer": "B",
+       "explanation": "A. Thus 因此，因而\n\nB. Also 此外；也\n\nC. Finally 最后，终于\n\nD. Instead 反而；却\n\n考点 逻辑关系\n\n> **答案：** B\n\n**答案精解**\n\n结合选项分析空格所在句（段[5]②句）的语法结构可知：段[5]②句是祈使句，其结构是“谓+宾从1+宾从2”，空格位于句首，作插入语。【解读结果】空格处应体现本句和上句之间的逻辑关系。\n\n【看本句】本句提到，要谨慎选择求助对象及求助时机。由本句提到的内容无法得出本句和上句之间的逻辑关系，故需联系上下文。【看上文】段[5]①句提到，下次你需要寻求帮助时，请记住这一切（上文中提到的人们愿意帮助他人等相关内容）。【提要点】段[5]①句实质上是作者的建议——在需要帮助时，别害怕，大胆求助，段[5]②句接着补充关于求助的另一条建议。\n\nB项 Also 含“此外；也”之意，可用于引出更多关于某人或某物的内容，符合要求，故正确。\n\n**错项剖析 本题错项为 A、C、D。**\n\nAD\n\nThus 通常用于引出某种结果或推论，Instead 通常用于引出与上文相反或不同的情况，均不能表示原文的逻辑关系，故都排除。\n\nC\n\nFinally 通常用于引出一系列相关事物中的最后一个，但段[5]②句并非作者所列的最后一条建议，故排除。"
+      },
+      {
+       "number": 20,
+       "options": {
+        "A": "polite",
+        "B": "proud",
+        "C": "busy",
+        "D": "lazy"
+       },
+       "answer": "C",
+       "explanation": "A. polite 有礼貌的；客气的\n\nB. proud 自豪的；骄傲的\n\nC. busy 忙碌的；无暇的\n\nD. lazy 懒散的；懒惰的\n\n考点 词义辨析\n\n> **答案：** C\n\n**答案精解**\n\n结合选项分析空格所在句（段[5]④句）的语法结构可知：段[5]④句是并列句，空格位于分句一中。分句一的主干结构是“主+系+表”，空格处与 too 共同构成形容词短语，作表语。【解读结果】空格处应表示主语 They（他们）的某种状态或品质。\n\n【看本句】本句提到，他们可能只是太____了，或者对自己提供帮助的能力没有信心。由本句提到的内容无法得出空格处所表示的状态或品质，故需联系上文。【看上文】段[5]③句提到，如果有人当下无法提供帮助，不要往心里去。【提要点】段[5]④句应解释他人有时无法提供帮助的原因。结合常识可知，人有时候无法给他人提供帮助，可能是因为当时处于一种无法脱身的状态。\n\n综上可知，空格处应能表示“无法脱身的”之意。C项 busy 意为“忙碌的；无暇的”，符合要求，故正确。\n\n**错项剖析 本题错项为 A、B、D。**\n\nAB polite 和 proud 代入文中意为 “他们可能只是太礼貌 / 太自豪了，或者对自己提供帮助的能力没有信心”，均语义不通，故都排除。\n\nD lazy 代入文中意为 “他们可能只是太懒散了，或者对自己提供帮助的能力没有信心”，这与原文段[4]②句提到的 “人们乐于帮助他人” 不符，故排除。\n\n答案汇总，规律验证\n\n| | | |\n| --- | --- | --- |\n| 答案汇总 | 1~5 DACBD 6~10 BACDA 11~15 ABDDB 16~20 ACCBC | 5A5B5C5D |\n| 结论 | A、B、C、D四个选项作为正确答案出现的频次均为5,符合命题规律。 | |"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part A",
+   "instructions": "Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points)",
+   "score": 40,
+   "groups": [
+    {
+     "type": "reading",
+     "title": "Text 1",
+     "passage": [
+      "U.S. customers historically tipped people they assumed were earning most of their income via tips, such as restaurant servers earning less than the minimum wage. In the early 2010s, a wide range of businesses started processing purchases with iPads and other digital payment systems. These systems often prompted customers to tip for services that were not previously tipped.",
+      "Today’s tip requests are often not connected to the salary and service norms that used to determine when and how people tip. Customers in the past nearly always paid tips after receiving a service, such as at the conclusion of a restaurant meal, after getting a haircut or once a pizza was delivered. That timing could reward high-quality service and give workers an incentive to provide it.",
+      "It’s becoming more common for tips to be requested beforehand. And new tipping technology may even automatically add tips.",
+      "The prevalence of digital payment devices has made it easier to ask customers for a tip. That helps explain why tip requests are creeping into new kinds of services. Customers now routinely see menus of suggested default options — often well above 20% of what they owe. The amounts have risen from 10% or less in the 1950s to 15% around the year 2000 to 20% or higher today. This increase is sometimes called tipflation — the expectation of ever-higher tip amounts.",
+      "Tipping has always been a vital source of income for workers in historically tipped services, like restaurants, where the tipped minimum wage can be as low as US $2.13 an hour. Tip creep and tipflation are now further supplementing the income of many low-wage service workers.",
+      "Notably, tipping primarily benefits some of these workers, such as waiters, but not others, such as cooks and dishwashers. To ensure that all employees were paid fair wages, some restaurants banned tipping and increased prices, but this movement towards no-tipping services has largely fizzled out.",
+      "So to increase employee wages without raising prices, more employers are succumbing to temptations of tip creep and tipflation. However, many customers are frustrated because they feel they are being asked for too high of a tip too often. And, as our research emphasizes, tipping now seems to be more coercive, less generous, and often completely dissociated from service quality."
+     ],
+     "questions": [
+      {
+       "number": 21,
+       "stem": "According to Paragraph 1, the practice of tipping in the U.S. ____",
+       "options": {
+        "A": "was regarded as a sign of generosity.",
+        "B": "was considered essential for waiters.",
+        "C": "was a way of rewarding diligence.",
+        "D": "was optional in most businesses."
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\nParagraph 1、tipping 和 U.S.\n\n【回文定位】由 Paragraph 1 可定位至段[1]，又因 tipping 与段[1]①句中的 tipped（给小费）相对应，且 U.S. 原定位词出现在段[1]①句，故可定位至该句。\n\n段[1]①句提到，美国顾客历来会给他们认为主要靠小费获取大部分收入的人小费，如低薪的餐馆服务员。由此可知，在美国，人们认为小费是餐馆服务员主要的收入来源，小费对于餐馆服务员来说是十分重要的。题干中的 the practice of tipping in the U.S. + B 项是对段[1]①句内容的合理推断，故正确。\n\n**错项剖析 本题错项为 A、C、D。**\n\nA、C两项内容均在段[1]中无法定位，该段并未提及在美国给小费的做法被视为慷慨的一种标志或在美国给小费的做法是奖励勤奋的一种方式的相关信息。A、C两项均属于无中生有，故都排除。\n\n【找关键词】most businesses。【回文定位】结合题干关键词 Paragraph 1 可定位至段[1]，又因 most businesses 与段[1]②句中的 a wide range of businesses（众多企业）表意相近，故可定位至该句。【比对匹配】段[1]②句提到，众多企业开始使用 iPad 和其他数字支付系统处理付款。该句仅提及美国众多企业的收款方式情况，由此无法得知多数企业给小费的情况，故需联系上下文分析。【辐射匹配】浏览上下文发现，段[1]③句中的 These systems 指代段[1]②句中的 iPads and other digital payment systems，且该句提到了与支付小费有关的信息，故可联系该句解题。段[1]③句提到，这些数字支付系统会提醒顾客为本无须支付小费的服务付费。由此可知，众多企业会通过其支付系统提醒顾客支付原本不需要支付的小费，但并未提及支付小费这件事是否可以选择。D 项属于无中生有，故排除。\n\n| | | |\n| --- | --- | --- |\n| 22 Compared with tips in the past, today's tips ____. | 与过去的小费相比，如今的小费____。 | 段[2]12句段[7]3句 |\n| A. are paid much less frequentlyB. are less often requested in advanceC. have less to do with service qualityD. contribute less to workers' income | A.被支付的频率低得多B.较少被提前索要C.与服务质量的关系不大D.对工作者的收入贡献较小 | 段[7]23句段[3]1句段[2]1句段[7]3句段[5] |"
+      },
+      {
+       "number": 22,
+       "stem": "Compared with tips in the past, today’s tips ____",
+       "options": {
+        "A": "are paid much less frequently.",
+        "B": "are less often requested in advance.",
+        "C": "have less to do with service quality.",
+        "D": "contribute less to workers’ income."
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\ntips in the past 和 today's tips\n\n【回文定位】tips in the past 与段[2]②句中的...in the past...paid tips (……过去……支付小费) 相对应，且 today's tips 原词出现在段[2]①句，并与段[7]③句中的 tipping now (如今给小费) 相对应，故可定位至这三句。\n\n【比对匹配】段[2]①句提到，如今索要小费与过去常常决定何时以及如何给小费的工资和服务标准无关；段[2]②句提到，顾客过去总是先接受服务后支付小费；段[7]③句提到，如今给小费似乎往往与服务质量完全无关。综合段[2]①句和段[7]③句可知，过去的小费与服务标准相关，即与服务质量相关，而如今的小费与服务质量无关。C项是对今昔小费差异的合理概括，故正确。\n\n**错项剖析 本题错项为 A、B、D。**\n\nA 【找关键词】are paid...frequently。【回文定位】are paid...frequently 与段[7]②句中的 are being asked for...too often（被索要……过于频繁）相对应，故可定位至该句。【比对匹配】段[7]②句提到，许多顾客因过于频繁地被索要过高的小费而感到沮丧。此处仅提及小费更频繁地被索要，但由此并不能得知这是如今还是过去索要小费的情况，故需联系上下文分析。【辐射匹配】浏览上下文发现，段[7]③句句首的 And 表明了该句与段[7]②句为顺承关系，且该句提到了如今小费的特点，故可联系该句解题。段[7]③句提到如今给小费多了强制性。由此可知，段[7]②句提到的是如今给小费的情况，也就是说，如今小费的支付频率更高，而非更低。A 项属于反向干扰，故排除。\n\nB 【找关键词】are...requested in advance。【回文定位】are...requested in advance 与段[3]①句中的 be requested beforehand（提前被索要）表意相同，故可定位至该句。【比对匹配】段[3]①句提到，预先索要小费变得越来越普遍。可见，如今的小费经常被提前索要，并非较少被提前索要。B 项属于反向干扰，故排除。\n\nD 【找关键词】contribute...to workers' income。【回文定位】contribute...to workers' income 与段[5]①句中的 a...source of income for workers（工作者的……收入来源）和段[5]②句中的 supplementing\n\nD the income of...workers（补充……工作者的收入）相对应，故可定位至这两句。【比对匹配】段[5]①句提到，小费一直是在收取小费的服务行业中工作的低薪工作者的重要收入来源；段[5]②句提到，小费渐涨和小费通胀如今正在进一步补充低薪服务行业工作者的收入。由此可知，如今的小费对低薪D 服务行业工作者的收入贡献较大，并非较小，且低薪工作者并不能代表所有工作者。D项属于曲解文意，故排除。"
+      },
+      {
+       "number": 23,
+       "stem": "Tip requests are creeping into new kinds of services as a result of ____",
+       "options": {
+        "A": "the advancement of technology.",
+        "B": "the desire for income increase.",
+        "C": "the diversification of business.",
+        "D": "the emergence of tipflation."
+       },
+       "answer": "A",
+       "explanation": "| | | | |\n| --- | --- | --- | --- |\n| 23 | Tip requests are creeping into new kinds of services as a result of _. | 索要小费正逐渐出现在新型服务中 是因为_。 | 段[4]2句 |\n| A. the advancement of technologyB. the desire for income increaseC. the diversification of businessD. the emergence of tipflation | A.科技的进步B.对收入增加的渴望C.业务的多样化D.“小费通胀”现象的出现 | 段[4]12句段[4]5句原文未提段[4]5句段[5]2句段[7]1句 | |\n\n> **答案：** A\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\n【找关键词】；Tip requests are creeping into new kinds of services\n\n【回文定位】；Tip requests are creeping into new kinds of services 原词出现在段[4]2句，故可定位至该句。\n\n【比对匹配】；段[4]2句提到，这有助于解释为什么索要小费正逐渐出现在新型服务中。由此无法得知“这”的具体指代，故需联系上文解题。\n\n辐射匹配；浏览上文发现，段[4]1句内容是“这”的具体指代，故可联系该句解题。段[4]1句提到，向顾客索要小费因数字支付设备的普及而变得更加容易。综合段[4]12句可知，索要小费正逐渐出现在新型服务中的原因在于数字支付设备的普及。同时，结合常识可知，数字支付设备属于科技范畴，其普及是一种科技进步的体现。因此，索要小费正逐渐出现在新型服务中是由于科技的进步。A项是对索要小费正逐渐出现在新型服务中的原因的合理推断，故正确。\n\n错项剖析 本题错项为B、C、D。\n\nB．【找关键词】desire 和 income increase。【回文定位】desire 与段[4]5句中的 expectation(期望)表意相近，income increase 与段[4]6句中的 ever-higher tip amounts(越来越高的小费金额)相对应，故可定位至该句。【比对匹配】段[4]5句提到，这种增长有时被称为“小费通胀”——期望小费金额不断增长。“期望小费金额不断增长”反映了依靠小费获得一部分收入的人“对收入增加的渴望”。但由此无法确定这是否为索要小费现象正逐渐出现在新型服务中的原因，故需联系上下文。【辐射匹配】根据【答案精解】处的分析可知，索要小费正逐渐出现在新型服务中的原因是科技的进步，并不是对收入增加的渴望。B项属于答非所问，故排除。\n\nC．【找关键词】business。【回文定位】business 原词出现在段[1]2句，故可定位至该句。【比对匹配】段[1]2句提到，在21世纪10年代初，众多企业开始使用 iPad 和其他数字支付系统处理付款。此处并未提到业务多样化的相关信息。C项属于无中生有，故排除。\n\nD．【找关键词】tipflation。【回文定位】tipflation 原词出现在段[4]5句、段[5]2句和段[7]1句，故可定位至这三句。【比对匹配】段[4]5句提到，这种增长(建议的小费金额的增长)被称为“小费通胀”,——期望小费金额不断增长；段[5]2句提到，小费渐涨和小费通胀如今正在进一步补充许多低薪服务行业工作者的收入；段[7]1句提到，越来越多的雇主想通过小费渐涨和小费通胀在不提高价格的情况下增加员工工资。这三句提到了小费通胀、其影响以及雇主对小费通胀的看法，且由段[4]5句明显可得知，确实出现了“小费通胀”现象，但由此无法确定这是否为索要小费现象正逐渐出现在新型服务中的原因，故需联系上下文。【辐射匹配】由【答案精解】处的分析可知，科技的进步使得索要小费正逐渐出现在新型服务中。同时可以推知，“小费通胀”是科技进步使得向顾客索要小费变得越来越容易的附加结果，并非索要小费出现在新型服务中的原因。D项属于答非所问，故排除。"
+      },
+      {
+       "number": 24,
+       "stem": "The movement toward no-tipping services was intended to ____",
+       "options": {
+        "A": "promote consumption.",
+        "B": "enrich income sources.",
+        "C": "maintain reasonable prices.",
+        "D": "guarantee income fairness."
+       },
+       "answer": "D",
+       "explanation": "The movement toward no-tipping services was intended to ____.；这种向无小费服务的转变的目的是____。；段[6]2句\n\nA. promote consumption\nB. enrich income sources\nC. maintain reasonable prices\nD. guarantee income fairness；A.促进消费B.丰富收入来源C.维持合理的价格D.确保收入公平；原文未提段[5]1句段[6]2句段[6]2句\n\n> **答案：** D\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\nmovement toward no-tipping services movement toward no-tipping services 原词出现在段[6]②句，故可定位至该句。\n\n【比对匹配】段[6]②句提到，一些餐馆禁止给小费并提高了价格，以确保所有员工都能拿到公平的工资，然而这种向无小费服务的转变在很大程度上失败了。由此可知，一些餐馆禁止给小费并提高价格是实现向无小费服务转变的具体做法，而这种转变的目的是确保所有员工都能拿到公平的工资，即确保收入公平。D项是对向无小费服务转变的目的的同义转述，故正确。\n\n**错项剖析 本题错项为 A、B、C。**\n\nA 【找关键词】consumption。【回文定位】consumption 与段[1]②句中的 purchases（购买）表意相近，A 故可定位至该句。【比对匹配】段[1]②句提到，在 21 世纪 10 年代初，众多企业开始使用数字支付系统处理付款。此处并未提及促进消费的相关信息。A 项属于无中生有，故排除。\n\nB 【找关键词】income sources。【回文定位】income sources 与段[5]①句中的 source of income（收入来源）表意相同，故可定位至该句。【比对匹配】段[5]①句提到，对于历来就收取小费的服务性行业 的工作者来说，小费一直是重要的收入来源。由此可推知，向无小费服务转变会减少这部分工作者的收入来源，而非丰富他们的收入来源。B 项属于反向干扰，故排除。\n\nC 【找关键词】prices。【回文定位】prices 原词出现在段[6]②句和段[7]①句，故可定位至这两句。【比对匹配】段[6]②句提到，一些餐馆禁止给小费并提高了价格，以确保所有员工都能拿到公平的工资，\n\nC 但这种向无小费服务的转变在很大程度上失败了。由此可知，实现向无小费服务转变的做法是提高价格，并非维持合理的价格。C项属于曲解文意，故排除。已由段[6]②句排除该项，故此处不再分析段[7]①句。"
+      },
+      {
+       "number": 25,
+       "stem": "It can be learned from the last paragraph that tipping ____",
+       "options": {
+        "A": "is becoming a burden for customers.",
+        "B": "helps encourage quality service.",
+        "C": "is vital to business development.",
+        "D": "reflects the need to reduce prices."
+       },
+       "answer": "A",
+       "explanation": "段[7]\n\nA. is becoming a burden for customers\n\nA. 正成为顾客的一种负担 段[7]②③句\n\nB. helps encourage quality service\n\nB. 有助于鼓励优质服务 段[7]③句\nC. is vital to business development\n\nC. 对企业发展至关重要 原文未提\nD. reflects the need to reduce prices\n\nD. 反映了降低价格的需求 段[7]①句\n\n> **答案：** A\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\nthe last paragraph 和 tipping\n\n【回文定位】由 the last paragraph 可定位至段[7]，又因 tipping 原词出现在段[7]③句，且与段[7]①②句中的 tip 定位（小费）相对应，故可定位至段[7]。\n\n段[7]①句提到，更多的雇主正屈服于小费渐涨和小费通胀的诱惑；段[7]②句提到，许多顾客因觉得被索要过高的小费且这种情况过于频繁而感到沮丧；段[7]③句提到，如今给小费似乎更具强制性、不那么慷慨，且往往与服务质量完全无关。结合段[7]②③句可知，如今给小费不再是自愿行为，顾客因被频繁索要过高的小费而产生沮丧情绪。由此可推知，如今给小费的行为给顾客造成经济和心理压力，即对顾客来说给小费这一行为正变成他们的一种负担。A项是对给小费这一行为带来的影响的合理推断，故正确。\n\n**错项剖析 本题错项为 B、C、D。**\n\n【找关键词】quality service。【回文定位】结合题干关键词 the last paragraph 可定位至段[7]，又因 quality service 和段[7]③句中的 service quality（服务质量）相对应，故可定位至该句。【比对 B 匹配】段[7]③句提到，如今给小费似乎更具强制性、不那么慷慨，且往往与服务质量完全无关。该句表明如今给小费几乎与服务质量无关，即如今的小费制度并没有起到太大的鼓励优质服务的作用。B 项属于反向干扰，故排除。\n\nC 项内容在段[7]中无法定位，该段并未提及给小费对企业发展的重要性的相关信息。C 项属于无中生有，故排除。\n\n【找关键词】prices。【回文定位】结合题干关键词 the last paragraph 可定位至段[7]，又因 prices 原词出现在段[7]①句，故可定位至该句。【比对匹配】段[7]①句提到，为了在不提高价格的情况下增加员工工资，更多的雇主正屈服于小费渐涨和小费通胀的诱惑。由此可知，雇主希望通过小费渐涨和小费通胀增加员工工资但不提高价格，然而，不提高价格并不等同于降低价格。D 项属于曲解文意，故排除。"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Text 2",
+     "passage": [
+      "When it was established, the National Health Service (NHS) was visionary: offering high-quality, timely care to meet the dominant needs of the population it served. Nearly 75 years on, with the UK facing very different health challenges, it is clear that the model is out of date.",
+      "From life expectancy to cancer and infant mortality rates, we are lagging behind many of our peers. With more than 6.8 million on waitlists, healthcare is becoming increasingly inaccessible for those who cannot opt to pay for private treatment; and the cost of providing healthcare is increasingly squeezing our investment in other public services. As demand for healthcare continues to grow, pressures on the workforce — which is already near breaking point — will only become more acute.",
+      "Many of the answers to the crisis in health and care are well rehearsed. We need to be much better at reducing and diverting demand on health services, rather than simply managing it. Much more needs to be invested in communities and primary care to reduce our reliance on hospitals. And capacity in social care needs to be greater, to support the growing number of people living with long-term conditions.",
+      "Yet despite two decades of strategies and a number of major health reforms, we have failed to make meaningful progress on any of these aims. That is why the Reform think tank is launching a new programme of work entitled “Reimagining health”, supported by ten former health ministers. Together, we are calling for a much more open and honest conversation about the future of health in the UK, and an “urgent rethink” of the hospital-centric model we retain.",
+      "This must begin with the question of how we maximise the health of the nation, rather than “fix” the NHS. It is estimated, for example, that healthcare accounts for only about 20% of health outcomes. Much more important are the places we live, work and socialise — yet there is no clear cross-government strategy for improving these social determinants of health. Worse, when policies like the national obesity strategy are scrapped, taxpayers are left with the hefty price tag of treating the illnesses, like diabetes, that result.",
+      "Reform wants to ask how power and resources should be distributed in our health system. What health functions should remain at the centre, and what should be given to local leaders, often responsible for services that create health, and with a much better understanding of the needs of their populations?"
+     ],
+     "questions": [
+      {
+       "number": 26,
+       "stem": "According to the first two paragraphs, the NHS ____",
+       "options": {
+        "A": "is troubled by funding deficiencies.",
+        "B": "can hardly satisfy people’s needs.",
+        "C": "can barely retain its current employees.",
+        "D": "is rivalled by private medical services."
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\n| | |\n| --- | --- |\n| 找关键词 | the first two paragraphs 和 NHS |\n| 回文定位 | 由 the first two paragraphs 可定位至段[1]~[2],又因 NHS 原词出现在段[1]①句，故可定位至该句。 |\n| 比对匹配 | 段[1]①句提到，英国国家医疗服务体系(NHS)创立之初颇具远见：提供优质、及时的医疗护理来满足所服务人群的主要需求。由此无法得出正确答案，故需联系下文解题。 |\n| 辐射匹配 | 浏览下文发现，NHS 是段[1]②句中 the model 的具体所指，该句提到 NHS 体系下英国的医疗现状，接着段[2] 具体说明现状，故可联系段[1]②句和段[2]解题。段[1]②句指出，目前英国面临截然不同的医疗挑战，NHS 的服务模式明显已经过时。段[2]①句指出，英国国民健康状况落后于许多同类国家；段[2]②③句提到，等待医疗救治的人员数量庞大，医疗服务变得愈发难以获得，而人们对医疗服务的需求仍在持续增长，医疗人员承受着巨大压力，也就是说，医疗服务供不应求。综上可知，NHS 的服务模式已经难以满足人们的需求。题干中的 the NHS + B 项是对段[2]②③句主要内容的合理概括，故 B 项正确。 |\n\n**错项剖析 本题错项为 A、C、D。**\n\nA 【找关键词】funding deficiencies。【回文定位】funding deficiencies 与段[2]②句中的 squeezing out investment（挤压资金投入）相对应，故可定位至该句。【比对匹配】段[2]②句提到，提供医疗服务的成本越来越严重地挤压着其他公共服务方面的资金投入。该句仅能说明提供医疗服务的成本不断增加，无法说明 NHS 受到资金不足的困扰。A 项属于过度推理，故排除。\n\nC 【找关键词】employees。【回文定位】employees 与段[2]③句中的 the workforce（医疗人员）相对应，故可定位至该句。【比对匹配】段[2]③句提到，随着对医疗服务的需求持续增长，本就濒临崩溃的医疗人员所承受的压力只会更大。此处仅提到医疗从业人员的压力已接近极限，但由此无法得知 NHS 的现有员工是否会因此离职。C 项属于过度推理，故排除。\n\nD 【找关键词】private medical services。【回文定位】private medical services 与段[2]②句中的 private treatment（私立医疗）表意相近，故可定位至该句。【比对匹配】段[2]②句提到，那些无法选择支付私立医疗费用的人越来越难以获得医疗服务。此处仅提及有一些人无法通过选择私立医疗来获取医疗服务这一情况，并未提及 NHS 面临私立医疗服务竞争的相关信息。D 项属于无中生有，故排除。"
+      },
+      {
+       "number": 27,
+       "stem": "One answer to the crisis in health and care is to ____",
+       "options": {
+        "A": "boost the efficiency of hospitals.",
+        "B": "lighten the burden on social care.",
+        "C": "increase resources for primary care.",
+        "D": "reduce the pressure on communities."
+       },
+       "answer": "C",
+       "explanation": "| | | | |\n| --- | --- | --- | --- |\n| 27 | One answer to the crisis in health and care is to_. | 针对医疗和护理危机的一个解决办法是_。 | 段[3]1句 |\n| A. boost the efficiency of hospitalsB. lighten the burden on social careC. increase resources for primary careD. reduce the pressure on communities | A. 提高医院的效率B. 减轻社会关怀的负担C. 增加基础医疗资源D. 减少社区方面的压力 | 原文未提段[3]4句段[3]1 3句段[2]6句段[3]3句 | |\n\n> **答案：** C\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\n【找关键词】answer to the crisis in health and care\n\n【回文定位】answer to the crisis in health and care 原词出现在段[3]①句，故可定位至该句。\n\n比对段[3]①句提到，针对医疗和护理危机的诸多解决办法都已被反复探讨过。由此无法得知解决医疗和护理危机的具体办法，故需联系上下文解题。\n\n辐射匹配 浏览上下文发现，段[3]②~④句具体说明了解决医疗和护理危机的办法，故可联系这三句解题。段[3]②句提到，我们需要更好地减少和转移医疗服务需求；段[3]③句提到，社区和基础医疗方面的投入需要加大，以减少人们对医院的依赖。综合段[3]①③句可知，针对医疗和护理危机的一个解决办法是增加基础医疗资源。C项是对段[3]③句中的 Much more needs to be invested in...primary care 的同义转述，故正确。已由段[3]①③句得出答案，故不再分析段[3]④句。\n\n**错项剖析 本题错项为 A、B、D。**\n\nA 【找关键词】hospitals。【回文定位】hospitals 原词出现在段[3]③句，故可定位至该句。【比对匹配】A 段[3]③句提到，我们需要在社区和基础医疗方面加大投入，以减少人们对医院的依赖。此处并未提及提高医院效率的相关信息。A 项属于无中生有，故排除。\n\nB 【找关键词】social care。【回文定位】social care 原词出现在段[3]④句，故可定位至该句。【比对匹配】段[3]④句提到，我们需要提高社会关怀方面的能力，以帮助越来越多患有长期疾病的人。由此可知，解决医疗和护理危机还需要更好地进行社会关怀，并非减轻社会关怀的负担。B 项属于曲解文意，故排除。\n\nD 【找关键词】pressure 和 communities。【回文定位】pressure 原词出现在段[2]③句，communities 原词出现在段[3]③句，故可定位至这两句。【比对匹配】段[2]③句指出，随着对医疗服务的需求持续增长，医疗人员所承受的压力越来越大；段[3]③句提到，我们需要通过增加社区和基础医疗方面的投入来减少人们对医院的依赖。由此可知，为了应对医疗和护理危机，社区需要承担更多的医疗服务工作。进而可推知，社区方面分担的压力可能会有所增加，而非减少。D 项属于反向干扰，故排除。"
+      },
+      {
+       "number": 28,
+       "stem": "“Reimagining health” is aimed to ____",
+       "options": {
+        "A": "reinforce hospital management.",
+        "B": "readjust healthcare regulations.",
+        "C": "restructure the health system.",
+        "D": "resume suspended health reforms."
+       },
+       "answer": "C",
+       "explanation": "28 “Reimagining health” is aimed to ____. “Reimagining health” 旨在 ____。 段[4]②句\n\nA. reinforce hospital management\n\nA. 加强医院管理 原文未提\n\nB. readjust healthcare regulations\n\nB. 重新调整医疗法规 原文未提\nC. restructure the health system\n\nC. 重构医疗体系 段[4]③句\nD. resume suspended health reforms\n\nD. 重启暂停的医疗改革 段[6]①句\n\n原文未提\n\n> **答案：** C\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\n\"Reimagining health\"\n\n“Reimagining health”原词出现在段[4]②句，故可定位至该句。\n\n【比对匹配】段[4]②句指出，“Reimagining health”是“改革”智库推出的一项新的工作计划，并且得到了十位卫生部前部长的支持。该句仅介绍了“Reimagining health”计划的发起者及支持者，由此无法得知其具体目的，故需联系上下文解题。\n\n辐射匹配 浏览上下文发现，段[4]①句涉及推出“Reimagining health”计划的原因，段[4]③句说明了该计划的诉求，段[6]①句则揭示了其发起者的关注焦点，故可联系这三句解题。段[4]①句提到，我们在（解决医疗和护理危机的相关）目标上没有取得实质性进展；段[4]③句提到，应该就英国医疗的未来展开更加开放和坦诚的对话，要对英国现存的以医院为中心的医疗模式进行“紧急反思”；段[6]\n\n**辐射匹配**\n\n①句提到，“改革”智库希望探讨在医疗体系中权力和资源应该如何分配的问题。由段[4]③句和段[6]①句可推知，“Reimagining health”计划旨在反思、重构医疗模式。C项是对“Reimagining health”计划的具体目的的合理推断，故正确。\n\n**错项剖析 本题错项为 A、B、D。**\n\n【找关键词】hospital 和 management。【回文定位】hospital 原词出现在段[3]③句，management 与段[3]②句中的 managing 相对应，故可定位至这两句。【比对匹配】段[3]②句提到，我们要更好地减少和转移医疗服务需求，而不仅仅是对需求进行管理；段[3]③句提到，我们要通过加大社区和基础医疗方面的投入来减少人们对医院的依赖。这两处是针对医疗和护理危机提出的解决措施，并未涉及对医院进行管理的相关信息。A 项属于无中生有，故排除。\n\nB B项内容在文中无法定位，文章并未提及调整医疗法规的相关信息。B项属于无中生有，故排除。\n\n【找关键词】health reforms。【回文定位】health reforms 原词出现在段[4]①句，故可定位至该句。【比对匹配】段[4]①句提到，尽管二十年间制定了诸多战略并进行了多项重大医疗改革，我们在（解决医疗和护理危机的相关）目标上并没有取得实质性进展。此处仅提及医疗改革效果不佳，并未提及医疗改革暂停与重启的相关信息。D 项属于无中生有，故排除。"
+      },
+      {
+       "number": 29,
+       "stem": "To maximise the nation’s health, the author suggests ____",
+       "options": {
+        "A": "introducing relevant taxation policies.",
+        "B": "paying due attention to social factors.",
+        "C": "reevaluating major health outcomes.",
+        "D": "enhancing the quality of healthcare."
+       },
+       "answer": "B",
+       "explanation": "| | | | |\n| --- | --- | --- | --- |\n| 29 | To maximise the nation’s health, the author suggests _. | 为了最大限度地提升国民健康水平，作者建议_。 | 段[5]1句 |\n| A. introducing relevant taxation policiesB. paying due attention to social factorsC. reevaluating major health outcomesD. enhancing the quality of health care | A.推行相关税收政策B.充分关注社会因素C.重新评估主要的健康结果D.提高医疗质量 | 原文未提段[5]3句原文未提原文未提 | |\n\n> **答案：** B\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\n【回文定位】maximise the nation's health 与段[5]①句中的 maximise the health of the nation（最大限度地提升国民健康水平）表意相同，故可定位至该句。\n\n比对段[5]①句提到，必须从“如何最大限度地提升国民健康水平”这一问题入手，而非仅仅“修复”NHS。匹配由此无法得知作者就该问题给出的具体建议，故需联系上下文。\n\n浏览上下文发现，段[5]②~④句是对段[5]①句的具体阐述，故可联系这三句解题。段[5]②句提到，只有约20%的健康结果是由医疗服务带来的；段[5]③句指出，人们生活、工作和社交的场所对健康的影响更大，然而目前并没有明确的跨政府部门战略来改善这些社会因素。由段[5]③句可知，社会因素对健康的影响更大，但目前却没有明确的跨政府部门战略来改善这些因素。这说明社会因素并未得到充分的关注，由此可知，作者建议关注社会因素。B项是对段[5]③句内容的合理推断，故正确。已由段[5]③句得出答案，故此处不再分析段[5]④句。\n\n**错项剖析 本题错项为 A、C、D。**\n\nA 【找关键词】taxation 和 policies。【回文定位】taxation 与段[5]④句中的 taxpayers（纳税人）相对应，policies 原词出现在段[5]④句，故可定位至该句。【比对匹配】段[5]④句提到，更糟糕的是，当国家肥胖症防治战略之类的政策被废除时，纳税人就得为治疗由此引发的疾病（如糖尿病）承担高昂的费用。此处并未提及推行税收政策的相关信息。A 项属于无中生有，故排除。\n\nC 【找关键词】health outcomes。【回文定位】health outcomes 原词出现在段[5]②句，故可定位至该句。\n\n【比对匹配】段[5]②句提到，据估计，只有约 20% 的健康结果是由医疗服务带来的。此处仅表明医疗服务这一因素在健康结果中起的作用较小，并未提及对主要的健康结果进行重新评估的相关信息。\n\nC 项属于无中生有，故排除。\n\nD 【找关键词】quality of health care。【回文定位】quality of health care 与段[1]①句中的 high-quality...care（优质的……护理）相对应，故可定位至该句。【比对匹配】段[1]①句提到，NHS 成立之初立志为人们提供优质、及时的医疗护理，来满足人们的需求。此处意在说明 NHS 成立之初的理念，并未提到作者建议现在要通过提高医疗质量来最大限度地提升国民健康水平。D 项属于无中生有，故排除。"
+      },
+      {
+       "number": 30,
+       "stem": "It can be inferred that local leaders should ____",
+       "options": {
+        "A": "exercise their power more reasonably.",
+        "B": "develop a stronger sense of responsibility.",
+        "C": "play a bigger role in the health system.",
+        "D": "understand people’s health needs better."
+       },
+       "answer": "C",
+       "explanation": "A. exercise their power more reasonably\nB. develop a stronger sense of responsibility\nC. play a bigger role in the health system\nD. understand people's health needs better\n\nA. 更合理地行使权力\n\nB. 培养更强的责任感\n\nC. 在医疗体系中发挥更大的作用\n\nD. 更好地了解人们的健康需求\n\n原文未提\n\n段[6]②句\n\n段[6]②句\n\n> **答案：** C\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\nlocal leaders 原词出现在段[6]②句，故可定位至该句。\n\n【比对匹配】段[6]②句探讨了中央和地方领导的医疗职能分配情况，并表明地方领导在负责公众健康服务工作方面具有优势。由此可推知，地方领导应该发挥其优势，承担更多的医疗职能，以便更好地为民众提供健康服务。题干中的 local leaders should + C 项是对段[6]②句内容的合理推断，故正确。\n\n**错项剖析 本题错项为 A、B、D。**\n\nA 【找关键词】power。【回文定位】power 原词出现在段[6]①句，故可定位至该句。【比对匹配】段[6]①句提到“改革”智库希望探讨权力和资源在医疗体系中的分配，由此无法得知地方领导是否应该更合理地行使权力，故需联系上下文。【辐射匹配】浏览上下文发现，段[6]②句是对段[6]①句的进一步说明，故可联系该句分析。段[6]②句提到，一些医疗职能应当保留在中央，一些应下放给地方领导，地方领导在负责公众健康服务工作方面具有优势。综上可知，这两句探讨的是医疗职能在中央与地方领导之间的分配问题，而非地方领导是否应该更合理地行使权力这一问题。A 项属于无中生有，故排除。\n\nB 【找关键词】responsibility。【回文定位】responsibility 与段[6]②句中的 responsible（负责任的）为同根词，故可定位至该句。【比对匹配】段[6]②句探讨了中央和地方领导的医疗职能分配情况，并指出地方领导往往负责关乎民众健康的服务工作，且更了解当地民众的需求。此处仅陈述地方领导的相关职责，并未提及地方领导自身责任感的相关信息。B项属于无中生有，故排除。\n\nD 【找关键词】understand people's...needs better。【回文定位】understand people's...needs better 与段[6]②句中的a much better understanding of the needs of their populations（更好地了解民众的需求）相对应，故可定位至该句。【比对匹配】段[6]②句提到，地方领导往往对当地民众的需求有着更深入的了解。由此可知，对当地民众的需求有更深入的了解是地方领导已经具备的优势，并非他们未来应该去做的事情。D项属于曲解文意，故排除。"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Text 3",
+     "passage": [
+      "Heat action plans, or HAPs, have been proliferating in India in the past few years. In general, an HAP spells out when and how officials should issue heat warnings and alert hospitals and other institutions. Nagpur’s plan, for instance, calls for hospitals to set aside “cold wards” in the summer for treating heatstroke patients, and advises builders to give construction laborers a break from work on very hot days.",
+      "But implementation of existing HAPs has been uneven, according to a report from the center for Policy Research. Many lack adequate funding, it found. And their triggering thresholds often are not customized to the local climate. In some areas, high daytime temperatures alone might serve as an adequate trigger for alerts. But in other places, nighttime temperatures or humidity might be as important a gauge of risk as daytime highs.",
+      "Mumbai’s April heat stroke deaths highlighted the need for more nuanced and localized warnings, researchers say. That day’s high temperature of roughly 36°C was 1°C shy of the heat wave alert threshold for coastal cities set by national meteorological authorities. But the effects of the heat were amplified by humidity — an often neglected factor in heat alert systems — and the lack of shade at the late-morning outdoor ceremony.",
+      "To help improve HAPs, urban planner Kotharkar’s team is working on a model plan that outlines best practices and could be adapted to local conditions. Among other things, she says, all cities should create a vulnerability map to help focus responses on the populations most at risk.",
+      "Such mapping doesn’t need to be complex, Kotharkar says. “A useful map can be created by looking at even a few key parameters.” For example, neighborhoods with a large elderly population or informal dwellings that cope poorly with heat could get special warnings or be bolstered with cooling centers. The Nagpur project has already created a risk and vulnerability map, which enabled Kotharkar to tell officials which neighborhoods to focus on in the event of a heat wave this summer.",
+      "HAPs shouldn’t just include short-term emergency responses, researchers say, but also recommend medium- to long-term measures that could make communities cooler. In Nagpur, for example, Kotharkar’s team has been able to advise city officials about where to plant trees to provide shade. HAPs could also guide efforts to retrofit homes or modify building regulations. “Reducing deaths in an emergency is a good target to have, but it’s the lowest target,” says Climate researcher Chandni Singh."
+     ],
+     "questions": [
+      {
+       "number": 31,
+       "stem": "According to Paragraph 1, Nagpur’s plan proposes measures to ____",
+       "options": {
+        "A": "tackle extreme weather.",
+        "B": "ensure construction quality.",
+        "C": "monitor emergency warnings.",
+        "D": "address excessive workloads."
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\nParagraph 1 和 Nagpur's plan\n\n由 Paragraph 1 可定位至段[1]，又因 Nagpur's plan 原词出现在段[1]③句，故可定位至该句。\n\n段[1]②句提到，那格浦尔市的计划要求医院在夏季留出“清凉病房”来救治中暑患者，还建议建筑商让建筑工人在酷热天气停工休息。由此可推知，那格浦尔市的计划提出这些措施是为应对极端高温天气，降低其带来的不良影响。A项是对那格浦尔市的计划提出措施的目的的合理推断，故正确。\n\n**错项剖析 本题错项为 B、C、D。**\n\n【找关键词】construction。【回文定位】construction 原词出现在段[1]③句，故可定位至该句。【比对匹配】段[1]③句提到，那格浦尔市的计划建议建筑商让建筑工人在酷热天气停工休息。此处并未提及确保施工质量的相关信息。B 项属于无中生有，故排除。\n\n【找关键词】emergency warnings。【回文定位】结合题干关键词 Paragraph 1 可定位至段[1]，又因 emergency warnings 与段[1]②句中的 heat warnings（高温预警）相对应，故可定位至该句。【比对匹配】段[1]②句提到，通常，应对高温行动计划会详细说明官员发布高温预警的时间及方式。此处仅说明计划中包含发布高温预警的时间和方式，并非说明计划提出措施的目的是监测紧急预警。C 项属于曲解文意，故排除。\n\nD 项内容在段[1]中无法定位，该段并未提及解决工作量过大的问题的相关信息。D 项属于无中生有，故排除。\n\n| 32 | One problem with existing HAPs is that they ____. | 现有的应对高温行动计划（HAPs）存在的一个问题是它们____。 | 定位 |\n| --- | --- | --- | --- |\n| A | prove too costly to be implemented | 执行成本太高 | 段[2]②句，但属于过度推断 |\n| B | lack localized alert-issuing criteria | 缺乏贴合当地情况的警报发布标准 | 段[2]①③句 |\n| C | give delayed responses to heat waves | 对热浪响应延迟 | 原文未提 |\n| D | keep hospitals under great pressure | 给医院带来巨大压力 | 原文未提 |"
+      },
+      {
+       "number": 32,
+       "stem": "One problem with existing HAPs is that they ____",
+       "options": {
+        "A": "prove too costly to be implemented.",
+        "B": "lack localized alert-issuing criteria.",
+        "C": "give delayed responses to heat waves.",
+        "D": "keep hospitals under great pressure."
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\nexisting HAPs\n\nexisting HAPs 原词出现在段[2]①句，故可定位至该句。\n\n比对段[2]①句提到，政策研究中心的一份报告显示，现有的 HAPs 的执行情况参差不齐。此处仅提及匹配现有的 HAPs 的整体执行情况，由此无法得出正确答案，故需联系上下文解题。\n\n浏览上下文发现，段[2]②③句进一步说明 HAPs 存在的问题，故可联系这两句解题。段[2]②句提到，许多 HAPs 都缺乏足够的资金支持；段[2]③句提到，警报的触发阈值往往不是根据当地气候定制的。由段[2]①③句可知，现有的 HAPs 的其中一个问题是它们往往没有根据当地气候设定警报触发阈值，即缺乏贴合当地情况的警报发布标准。B 项加题干是对段[2]①③句内容的合理推断，故 B 项正确。\n\n**错项剖析 本题错项为 A、C、D，其中 A 为易错项。**\n\nA 【找关键词】too costly 和 implemented。【回文定位】too costly 与段[2]②句中的 lack adequate funding（缺乏足够的资金）相对应，implemented 与段[2]①句中的 implementation（执行）为同根词，故可定位至这两句。【比对匹配】段[2]①句仅提及现有的 HAPs 的执行情况参差不齐，并未提到执行成本的相关信息。段[2]②句提到，许多 HAPs 都缺乏足够的资金支持。该句仅说明现有的许多 HAPs 面临资金不足的问题，但这些资金不足问题是否由现有 HAPs 执行成本太高造成则不得而知。A 项属于过度推理，故排除。\n\n易错归因 考生容易仅根据段[2]②句提到的“许多 HAPs 都缺乏足够的资金支持”，主观臆断出它们缺乏足够的资金的原因是执行成本太高，从而误选该项。\n\nC 【找关键词】responses 和 heat waves。【回文定位】responses 原词出现在段[4]②句和段[6]①句，heat waves 原词出现在段[3]②句和段[5]④句，故可定位至这四句。【比对匹配】段[3]②句提到，（孟买 4 月份发生中暑死亡事件的）那天的高温比国家气象部门为沿海城市设定的热浪警报阈值低 1℃。由此可推知，因当天的高温没有达到热浪警报阈值，所以现有的 HAPs 没有做出相应的预警说明，而非 HAPs 对热浪的响应延迟。C 项属于曲解文意，故排除。已由段[3]②句排除 C 项，故不再分析段[4]②句、段[5]④句和段[6]①句。\n\nD 【找关键词】hospitals。【回文定位】hospitals 原词出现在段[1]②③句，故可定位至这两句。【比对匹配】段[1]②句提到，应对高温行动计划会详细说明官员向医院及其他机构发出预警的时间及方式；段[1]③句提到，那格浦尔市的计划要求医院在夏季留出“清凉病房”来救治中暑患者。由此可知，段[1]③句是对段[1]②句的举例说明，以那格浦尔市为例说明应对高温行动计划对医院的要求。此处并未提及医院承受巨大压力。D 项属于无中生有，故排除。\n\n| 33 | Mumbai's case shows that India's heat alert systems need to ____. | 孟买的案例表明，印度的高温预警系统需要____。 | 定位 |\n| --- | --- | --- | --- |\n| A | include other factors besides temperature | 纳入除温度外的其他因素 | 段[3]②③句 |\n| B | take subtle weather changes into account | 考虑细微的天气变化 | 原文未提 |\n| C | prioritize potentially disastrous heat waves | 优先考虑潜在的灾难性热浪 | 原文未提 |\n| D | draw further support from local authorities | 获得地方当局的更多支持 | 原文未提 |"
+      },
+      {
+       "number": 33,
+       "stem": "Mumbai’s case shows that India’s heat alert systems need to ____",
+       "options": {
+        "A": "include other factors besides temperature.",
+        "B": "take subtle weather changes into account.",
+        "C": "prioritize potentially disastrous heat waves.",
+        "D": "draw further support from local authorities."
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\nMumbai's case 和 heat alert systems\n\nMumbai's case 与段[3]①句中的 Mumbai's April heat stroke deaths（孟买4月份发生的中暑死亡事件）相对应，又因 heat alert systems 原词出现在段[3]③句中，且与段[3]②句中的 the heat wave alert（热浪警报）相对应，故可定位至段[3]。\n\n【比对匹配】段[3]①句提到，研究人员表示，孟买4月份发生的中暑死亡事件表明预警需要更细致、更贴合当地情况。段[3]②③句指出，事件发生当天的高温约为36℃，比国家气象部门为沿海城市设定的热浪警报阈值低1℃，但湿度这一在高温预警系统中常被忽视的因素，以及阴凉处的缺少，都加剧了高温的影响。由此可推知，尽管最高气温未达到警报阈值，但湿度和阴凉处的缺少等因素也会加剧高温的影响，从而产生严重的后果。因此，印度的高温预警系统也应考虑除温度外的其他因素。A项加题干是对段[3]内容的合理推断，故A项正确。\n\n**错项剖析 本题错项为 B、C、D。**\n\n【找关键词】weather。【回文定位】由题干关键词可定位至段[3]，又因 weather 与段[3]②句中的 temperature（气温）和段[3]③句中的 the heat（高温）、humidity（湿度）相对应，故可定位至这两句。【比对匹配】段[3]②③句提到，（孟买中暑死亡事件）当天的高温比国家气象部门为沿海城市设定的热浪警报阈值低 1℃，但高温预警系统中常被忽视的湿度因素加剧了高温的影响。此处意在强调湿度对高温影响的作用，指出高温预警系统需要考虑湿度这一因素，但湿度只是影响天气变化的因素和预测天气变化的依据，湿度变化并不能等同于天气变化。B 项属于偷换概念，故排除。\n\n【找关键词】heat waves。【回文定位】heat waves 原词出现在段[3]②句和段[5]④句，故可定位至这两句。\n\n【比对匹配】段[3]②句提到，（孟买4月份发生中暑死亡事件的）那天的高温低于国家气象部门为沿海城市设定的热浪警报阈值；段[5]④句提到，根据风险和脆弱性地图，官员能够得知今年夏天热浪来袭时应该关注哪些街区。这两处均未提及灾难性的热浪的相关信息。C项属于无中生有，故排除。\n\n【D 项】文中虽多次提及官员，但并未提及与获取地方当局更多支持相关的信息。D 项属于无中生有，故排除。\n\n| 34 | Kotharkar holds that a vulnerability map can help ____. | Kotharkar 认为，脆弱性地图有助于____。 | 定位 |\n| --- | --- | --- | --- |\n| A | prevent the harm of high humidity | 防止高湿度带来的危害 | 原文未提 |\n| B | target areas needing special attention | 确定需要特别关注的区域 | 段[4]②句、段[5]④句 |\n| C | expand the Nagpur project's coverage | 扩大那格浦尔市计划的覆盖范围 | 原文未提 |\n| D | make relief plans for heat-stricken people | 为深受高温困扰的人群制定救助计划 | 原文未提 |"
+      },
+      {
+       "number": 34,
+       "stem": "Kotharkar holds that a vulnerability map can help ____",
+       "options": {
+        "A": "prevent the harm of high humidity.",
+        "B": "target areas needing special attention.",
+        "C": "expand the Nagpur project’s coverage.",
+        "D": "make relief plans for heat-stricken people."
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\n【回文定位】Kotharkar 为段[4]②句中 she 的具体指代，原词出现在段[5]④句，且 a vulnerability map 原词出现在段[4]②句和段[5]④句，故可定位至这两句。\n\n【比对匹配】段[4]②句提到，她（Kotharkar）认为所有城市都应该绘制一份脆弱性地图，以帮助将应对措施重点聚焦在最有风险的人群上。段[5]④句指出，根据那格浦尔市的计划绘制的风险和脆弱性地图，Kotharkar 能够告知官员们，如果今年夏天热浪来袭应该关注哪些街区。综上可知，Kotharkar 认为脆弱性地图有助于确定最有风险的人群以及需要重点关注的区域，以帮助将应对措施聚焦在这些人群及区域上。B项加题干是对段[5]④句内容的同义转述，故B项正确。\n\n**错项剖析 本题错项为 A、C、D。**\n\nA 【找关键词】humidity。【回文定位】humidity 原词出现在段[2]⑤句和段[3]③句，故可定位至这两句。【比对匹配】段[2]⑤句提到，在其他地方，夜间的温度或湿度或许也是衡量高温风险的重要指标；段[3]③句提到，湿度使得高温的影响更加严重。综上可知，湿度是衡量高温风险的重要指标，也会加重高温的影响。这两句仅体现了湿度的影响，并未提及脆弱性地图可以防止高湿度带来的危害。A 项属于无中生有，故排除。\n\nC 【找关键词】Nagpur project。【回文定位】Nagpur project 原词出现在段[5]④句，故可定位至该句。【比对匹配】段[5]④句提到，那格浦尔市的计划绘制的风险和脆弱性地图使得 Kotharkar 能够告知官员们今年夏天热浪来袭时需要关注的街区。由此可知，脆弱性地图可以帮助确定需要关注的区域，并非扩大计划的覆盖范围。C项属于曲解文意，故排除。\n\nD 【找关键词】heat-stricken people。【回文定位】heat-stricken people 与段[1]③句中的 heatstroke patients（中暑患者）和段[4]②句中的 the populations most at risk（最有风险的人群）相对应，故可定位至这两句。【比对匹配】段[1]③句仅提及那格浦尔市的计划要求医院在夏季留出“清凉病房”来救治中暑患者，与脆弱性地图无关。段[4]②句提到，她（Kotharkar）表示，所有城市都应该绘制一份脆弱性地图，以帮助将应对措施重点聚焦在最有风险的人群上。由此不能推出脆弱性地图有助于为深受高温困扰的人群制定救助计划。D 项属于过度推理，故排除。\n\n| 35 | According to the last paragraph, researchers suggest that HAPs should ____. | 根据最后一段可知，研究人员建议应对高温行动计划（HAPs）应该____。 | 定位 |\n| --- | --- | --- | --- |\n| A | focus more on heatstroke treatment | 更多关注中暑治疗 | 段[6]①句，但与原意相反 |\n| B | invite wider public participation | 邀请更广泛的公众参与 | 原文未提 |\n| C | apply for more government grants | 申请更多政府拨款 | 原文未提 |\n| D | serve a broader range of purposes | 服务于更广泛的目标 | 段[6]①④句 |"
+      },
+      {
+       "number": 35,
+       "stem": "According to the last paragraph, researchers believe that HAPs should ____",
+       "options": {
+        "A": "focus more on heatstroke treatment.",
+        "B": "invite wider public participation.",
+        "C": "apply for more government grants.",
+        "D": "serve a broader range of purposes."
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\nthe last paragraph、researchers suggest 和 HAPs\n\n由 the last paragraph 可定位至段[6]，又因 researchers suggest 与段[6]①句中的 researchers say（研究人员称）和段[6]④句中的 says...researcher（研究人员表示）相对应，且 HAPs 原词出现在段[6]①句，故可定位至这两句。\n\n段[6]①句提到，研究人员称，HAPs 不应只包含短期应急响应措施，还应提出能让社区变得更凉爽的中长期措施。段[6]④句以气候研究人员 Chandni Singh 的观点表明，减少紧急情况下的死亡人数只是最低目标。综上可推知，研究人员认为 HAPs 不应仅满足于减少紧急情况下的死亡人数这一最低目标，而应追求更高的目标，通过更多能让社区变得更凉爽的中长期措施从根本上提高社区应对高温的能力，减少高温对居民的影响，也就是说，HAPs 应该服务于更广泛的目标。D项是对研究人员对 HAPs 建议的合理推断，故正确。\n\n**错项剖析 本题错项为 A、B、C。**\n\n【找关键词】heatstroke treatment。【回文定位】结合题干关键词 the last paragraph 可定位至段[6]，又因 heatstroke treatment 与段[6]①句中的 short-term emergency responses（短期应急响应措施）相对应，故可定位至该句。【比对匹配】段[6]①句提到，研究人员称，HAPs 不应只包含短期应急响应措施，还应提出能让社区变得更凉爽的中长期措施。中暑治疗是一种应急医疗措施，是短期应急响应措施的一部分，而此处强调 HAPs 应包含更多中长期措施，并非应更多地关注中暑治疗。A 项属于曲解文意，故排除。\n\nB 项内容在段[6]无法定位，该段并未提及邀请更多公众参与的相关信息。B项属于无中生有，故排除。\n\n【找关键词】government。【回文定位】结合题干关键词 the last paragraph 可定位至段[6]，又因 government 与段[6]②句中的 city officials（市政官员）相对应，故可定位至该句。【比对匹配】段[6]②句提到，在那格浦尔市，Kotharkar 的团队已经能够就在何处种树以提供阴凉处的问题向市政官员提出建议。此处并未提及申请更多的政府拨款的相关信息。C 项属于无中生有，故排除。"
+      }
+     ]
+    },
+    {
+     "type": "reading",
+     "title": "Text 4",
+     "passage": [
+      "Navigating beyond the organised pavements and parks of our urban spaces, desire paths are the unofficial footprints of a community, revealing the unspoken preferences, shared shortcuts and collective choices of humans. Often appearing as trodden dirt tracks through otherwise neat green spaces, these routes of collective disobedience cut corners, bisect lawns and cross hills, representing the natural capability of people (and animals) to go from point A to point B most effectively.",
+      "Urban planners interpret desire paths as more than just convenient shortcuts; they offer valuable insights into the dynamics between planning and behaviour. Ohio State University allowed its students to navigate the Oval, a lawn in the centre of campus, freely, then proceeded to pave the desire paths, creating a web of effective routes students had established.",
+      "Yet, reluctance persists among other planners to integrate desire paths into formal plans, citing concerns about safety, environmental impact, or primarily, aesthetics. A Reddit webpage devoted to the phenomenon, boasting nearly 50,000 members, showcases images of local desire paths adorned with signs instructing pedestrians to adhere to designated walkways, underscoring the rebellious nature inherent in these human-made tracks. This clash highlights an ongoing struggle between the organic, user-driven evolution of public spaces and the desire for a visually curated and controlled urban environment.",
+      "The Wickquasgeck Trail is an example of a historical desire path, created by Native Americans to cross the forests of Manhattan and move between settlements quickly. This trail, when Dutch colonists arrived, was widened and made into one of the main trade roads across the island, known at the time as de Heere Straat, or Gentlemen’s Street. Following the British assumption of control in New York, the street was renamed Broadway. Notably, Broadway stands out as one of the few areas in NYC that defies the grid-based system applied to the rest of the city, cutting a diagonal across parts of the city.",
+      "In online spaces, desire paths have sparked a fascination that can approach obsession, with the Reddit page serving as a hub. Contributors offer a wide array of stories, from little-known new shortcuts to long-established alternate routes.",
+      "Animal desire paths, such as ducks forging trails through frozen ponds or dogs carving direct routes in gardens, highlight the adaptability of these trails in both human and animal experiences. As desire paths criss-cross through both physical and virtual landscapes, they stand as a proof of the collective insistence on forging unconventional routes and embracing the spirit of communal choice."
+     ],
+     "questions": [
+      {
+       "number": 36,
+       "stem": "According to Paragraph 1, desire paths are a result of ____",
+       "options": {
+        "A": "the curiosity to explore surrounding hills.",
+        "B": "the necessity to preserve green spaces.",
+        "C": "the tendency to pursue convenience.",
+        "D": "the wish to find comfort in solitude."
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\n关键词 Paragraph 1 和 desire paths\n\n由 Paragraph 1 可定位至段[1]，又因 desire paths 原词出现在段[1]①句，故可定位至该句。\n\n比对\n\n匹配\n\n段[1]①句提到，心选小路是社区的非正式足迹，其揭示了人们心照不宣的偏好、共享的捷径和集体的选择。结合常识，捷径指到达某地距离更近的路线，而捷径能够给人们带来便利。由此可知，心选小路可能是人们追求便利的结果。由此可初步判断C项正确，但还需联系段[1]其他句进行验证，因该段只有两句，故可联系段[1]②句进行验证。\n\n段[1]②句提到，这些路径（心选小路）抄近道、穿过草坪、越过山丘，体现了人类（以及动物）从A点到B点最高效移动的本能。结合常识，本能是一种内在的、固有的行为倾向，它驱使人们不自觉地采取某种惯常的行为。由此可知，人们是在追求便利、高效这一行为倾向的驱使下，而不自觉地选择了“抄近道、穿过草坪、越过山丘”等非常规路径——心选小路。换言之，人们追求便利的倾向促使心选小路的形成。题干中的 desire paths are a result of + C 项是对段[1]内容的合理概括，故正确。\n\n**错项剖析 本题错项为 A、B、D。**\n\n【找关键词】hills。【回文定位】hills 原词出现在段[1]②句，故可定位至该句。【比对匹配】段[1]②句提到，这些路径抄近道、穿过草坪、越过山丘，体现了人类（以及动物）从A点到B点最高效移动的本能。本句仅提到人们越过山丘从而形成了新路径，并未提及与人们探索周边山丘的好奇心相关的信息。A项属于无中生有，故排除。\n\n【找关键词】green spaces。【回文定位】green spaces 原词出现在段[1]②句，故可定位至该句。【比对匹配】段[1]②句提到，这些（因）集体不遵守规则（而形成）的路径（心选小路）通常表现为穿过原本整洁的绿地的土路。由此可知，心选小路的形成破坏了绿地，原文并未提及与保护绿地的必要性相关的信息。B 项属于无中生有，故排除。\n\nD项内容在段[1]中无法定位，该段并未提及与寻求独处的舒适感的愿望相关的信息。D项属于无中生有，故排除。"
+      },
+      {
+       "number": 37,
+       "stem": "It can be inferred that Ohio State University ____",
+       "options": {
+        "A": "intends to improve its desire paths.",
+        "B": "leads in the research on desire paths.",
+        "C": "guides the creation of its desire paths.",
+        "D": "takes a positive view of desire paths."
+       },
+       "answer": "D",
+       "explanation": "It can be inferred that Ohio State University ____. 从文中可以推断出，俄亥俄州立大学____。\n\n段[2]②句\n\nA. intends to improve its desire paths\n\nA. 打算改善其心选小路 原文未提\nB. leads in the research on desire paths\n\nB. 在心选小路的研究方面处于领先地位 原文未提\n\nC. guide the creation of its desire paths\n\nC. 指导其心选小路的创建 段[2]②句\n\nD. takes a positive view of desire paths\n\nD. 对心选小路持积极看法 段[2]②句\n\n> **答案：** D\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\nOhio State University\n\nOhio State University 原词出现在段[2]②句，故可定位至该句。\n\n【比对匹配】段[2]②句提到，俄亥俄州立大学会铺砌学生自由穿行 Oval 草坪所形成的心选小路，创建出一个由学生开辟的有效路线网络。由此可推知，俄亥俄州立大学尊重学生自由穿行的意愿，认可心选小路的价值，对心选小路持积极看法。题干中的 Ohio State University + D 项是对段[2]②句内容的合理推断，故正确。\n\n**错项剖析 本题错项为 A、B、C。**\n\nAB 文章虽多次提到 desire paths，但并未提及俄亥俄州立大学打算改善其心选小路或其在心选小路的研究方面处于领先地位的相关信息。A、B 两项均属于无中生有，故都排除。\n\n【找关键词】creation 和 desire paths。【回文定位】creation 与段[2]②句中的 creating（创建）为同根词，且 desire paths 原词出现在该句，故可定位至段[2]②句。【比对匹配】段[2]②句提到，俄亥俄州立大学允许学生自由穿行 Oval 草坪，并铺砌了这些学生走出的心选小路，创建出由学生自主开辟的路线网络。由此可知，这些心选小路是学生自主开辟的，该大学只是参与了其创建的过程，并未对这一过程进行指导。C 项属于曲解文意，故排除。"
+      },
+      {
+       "number": 38,
+       "stem": "The images on the Reddit webpage reflect ____",
+       "options": {
+        "A": "conflicting opinions on the use of desire paths.",
+        "B": "the call to upgrade the designing of public spaces.",
+        "C": "the demand for proper planning of desire paths.",
+        "D": "growing concerns over the loss of public spaces."
+       },
+       "answer": "A",
+       "explanation": "| | | | |\n| --- | --- | --- | --- |\n| 38 | The images on the Reddit webpage reflect ____. | Reddit 网页上的图片反映了____。 | 段[3]2句 |\n| A. conflicting opinions on the use of desire paths | A. 关于使用心选小路的矛盾的观点 | 段[3]2~3句 | |\n| B. the call to upgrade the designing of public spaces | B. 对升级公共空间设计的呼吁 | 原文未提 | |\n| C. the demand for proper planning of desire paths | C. 对合理规划心选小路的需求 | 原文未提 | |\n| D. growing concerns over the loss of public spaces | D. 对公共空间流失的担忧日益加剧 | 原文未提 | |\n\n> **答案：** A\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\nimages 和 the Reddit webpage\n\nimages 和 the Reddit webpage 原词均出现在段[3]②句，故可定位至该句。\n\n段[3]②句提到，Reddit 网页上展示的当地心选小路的图片显示，这些小路设有指示行人遵循指定走道的标志，这凸显了这些人为踏出的小路所固有的反叛属性。由此可知，人们为了便利而开辟心选小路，而这些小路上的标志又在提醒人们要遵循指定走道。可见，人们对于使用心选小路还是指定走道这一问题存在矛盾。由此可初步判断 A 项正确，但还需联系上下文进行验证。\n\n浏览上下文发现，段[3]③句中的 This clash 指段[3]②句中提到的“心选小路设有指示行人遵循指定走道的标志”这一现象，故可联系该句进行验证。段[3]③句提到，这一矛盾凸显了一种持续存在的斗争，它发生在公共空间（道路）由使用者主导的自然演变与追求看上去精心规划且可控的城市环境之间。由此可知，该句是对段[3]②句内容的进一步说明。综上可知，人们对是否使用心选小路存在相互矛盾的观点。A项加题干是对段[3]②③句内容的合理推断，故正确。\n\n**错项剖析 本题错项为 B、C、D。**\n\nB 【找关键词】public spaces。【回文定位】public spaces 原词出现在段[3]③句，故可定位至该句。【比对匹配】段[3]③句提到，对公共空间的利用方式存在矛盾，并未提及对升级公共空间设计的呼吁的相关信息。B 项属于无中生有，故排除。\n\nC 【找关键词】planning。【回文定位】planning 原词出现在段[2]①句，且与段[2]①句中的 planners（城市规划者）以及段[3]①句中的 planners（城市规划者）和 plans（规划）为同根词，故可定位至这两句。\n\nC 【比对匹配】段[2]①句提到，城市规划者认为心选小路可以为规划与行为之间的动态关系提供宝贵的思路；段[3]①句提到，其他城市规划者因担心安全问题、环境影响等坚持不愿将心选小路纳入正式规划。这两句分别提到心选小路的价值与弊端，均未提及与合理规划心选小路的需求有关的信息。\n\nC 项属于无中生有，故排除。\n\nD 【找关键词】concerns 和 public spaces。【回文定位】concerns 原词出现在段[3]①句，public spaces 原词出现在段[3]③句，故可定位至这两句。【比对匹配】段[3]①句提到，由于担心安全问题等，其他城市规划者不愿将心选小路纳入正式规划；段[3]③句提到，对公共空间的利用方式存在矛盾。这两句均未提及公共空间的流失以及对此的担忧的相关信息。D 项属于无中生有，故排除。"
+      },
+      {
+       "number": 39,
+       "stem": "The example of the Wickguasgeck Trail illustrates ____",
+       "options": {
+        "A": "the growth of New York City.",
+        "B": "the Dutch origin of desire paths.",
+        "C": "the importance of urban planning.",
+        "D": "the recognition of desire paths."
+       },
+       "answer": "D",
+       "explanation": "| | | | |\n| --- | --- | --- | --- |\n| 39 | The example of the Wickquasgeck Trail illustrates _. | Wickquasgeck Trail 的例子说明_。 | 段[4]1句 |\n| A. the growth of New York CityB. the Dutch origin of desire pathsC. the importance of urban planningD. the recognition of desire paths | A. 纽约市的发展B. 心选小路的荷兰起源C. 城市规划的重要性D. 对心选小路的认可 | 段[4]34句段[4]2句原文未提段[4] | |\n\n> **答案：** D\n\n**答案精解 本题为写作目的题，从题干关键词入手解题最为高效**\n\nThe example 和 the Wickquasgeck Trail\n\nThe example 和 the Wickquasgeck Trail 原词均出现在段[4]①句，故可定位至该句。\n\n段[4]①句提到，Wickquasgeck Trail 是历史上心选小路的一个典型代表，它使美洲原住民能够穿越曼哈顿森林并快速往返于各个定居点之间。可见，Wickquasgeck Trail 给美洲原住民带来了益处。但由此无法得知作者引用 Wickquasgeck Trail 的例子想要说明的内容，故需联系上下文解题。\n\n联系上下文发现，段[4]②句中的 This trail 指代段[4]①句中的 The Wickquasgeck Trail，而段[4]③④句中的 Broadway 是段[4]①句中的 The Wickquasgeck Trail 经过历史发展后的新名称，故可联系这三句解题。段[4]②句提到，荷兰殖民者到来后，这条小路（Wickquasgeck Trail）被拓宽，并发展为岛上的主要贸易道路之一；接着段[4]③④句提到，英国人后来将这条街改名为百老汇，它是纽约市少数几个未采用网格布局系统的区域之一，它斜穿部分城区。综合段[4]内容可知，Wickquasgeck Trail 长久以来持续得到重视和发展，可见作者引用该例意在说明人们对心选小路的认可。D 项是对作者引用 Wickquasgeck Trail 的例子想要说明内容的合理推断，故正确。\n\n**错项剖析 本题错项为 A、B、C。**\n\nA 【找关键词】New York City。【回文定位】New York City 与段[4]③句中的 New York（纽约）和段[4]④句中的 NYC（纽约市）表意相同，故可定位至这两句。【比对匹配】段[4]⑥句提到，这条街道（Wickquasgeck Trail）在英国人接管纽约后被改名为百老汇；段[4]④句提到，百老汇是纽约市少数几个打破该市其他地区采用的网格布局系统的区域之一。可见，这两句介绍了纽约市的百老汇街道发展的相关信息，并非纽约市的发展。A 项属于过度推理，故排除。\n\nB 【找关键词】Dutch。【回文定位】Dutch 原词出现在段[4]②句，故可定位至该句。【比对匹配】段[4]②句提到，荷兰殖民者到来后，这条小路（Wickquasgeck Trail）被拓宽，并成为岛上的主要贸易道路之一。此处是说荷兰殖民者推动了这条心选小路的发展，并非心选小路起源于荷兰。B 项属于曲解文意，故排除。\n\nC 【找关键词】urban 和 planning。【回文定位】urban 和 planning 原词均出现在段[2]①句，故可定位至该句。【比对匹配】段[2]①句提到，城市规划者认为心选小路可以为规划与行为之间的动态关系提供宝贵思路。由此可知，此处表达的是心选小路对城市规划的意义，并未提及与城市规划的重要性相关的信息。C 项属于无中生有，故排除。"
+      },
+      {
+       "number": 40,
+       "stem": "It can be learned from the last paragraph that desire paths ____",
+       "options": {
+        "A": "reveal humans’ deep respect for nature.",
+        "B": "are crucial to humans’ mental wellbeing.",
+        "C": "are a human imitation of animal behavior.",
+        "D": "show a shared trait in humans and animals."
+       },
+       "answer": "D",
+       "explanation": "It can be learned from the last paragraph that desire paths ____.\n\n从最后一段可以得知，心选小路____。\n\n段[6]\n\nA. reveal humans' deep respect for nature\nB. are crucial to humans' mental well-being\nC. are a human imitation of animal behaviour\nD. show a shared trait in humans and animals\n\nA.揭示了人类对自然深深的敬意B.对人类的心理健康至关重要C.是人类对动物行为的模仿D.体现了人类和动物共有的特性\n\n原文未提\n\n段[6]①句\n\n段[6]①句\n\n> **答案：** D\n\n**答案精解 本题为细节理解题，从题干关键词入手解题最为高效**\n\nthe last paragraph 和 desire paths\n\n【回文定位】由 the last paragraph 可定位至段[6]，又因 desire paths 原词出现在段[6]①句和段[6]②句，故可定位至这两句。\n\n【比对匹配】段[6]①句提到，动物也会为自己开辟心选小路，这凸显了心选小路在人类和动物经历中的适应性。由此可推知，无论是人类还是动物所开辟的这些路径，都具有能够适应各自环境和行为模式的特点，这表明人类和动物在这方面存在共同的特性。题干中的 desire paths + D 项是对段[6]①句内容的合理推断，故正确。已由段[6]①句得出答案，故此处不再分析段[6]②句。\n\n**错项剖析 本题错项为 A、B、C。**\n\nAB A、B两项内容在段[6]中均无法定位，该段并未提及人类对自然深深的敬意或人类的心理健康的相关信息。A、B两项均属于无中生有，故都排除。\n\n【找关键词】human 和 animal。【回文定位】human 和 animal 原词均出现在段[6]①句，故可定位至该句。段[6]①句提到，动物的心选小路凸显了这些小路在人类和动物经历中的适应性。由此可知，无论是人类还是动物，都会开辟心选小路，这些小路是人类和动物在各自经历中适应环境的结果，并非人类对动物行为的模仿。C 项属于曲解文意，故排除。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part B",
+   "instructions": "Read the following text and answer the questions by choosing the most suitable subheading from the list A-G for each of the numbered paragraphs (41-45). There are two extra subheadings which you do not need to use. Mark your answers on the ANSWER SHEET. (10 points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "heading_matching",
+     "options": {
+      "A": "Stay positive",
+      "B": "Respect the past",
+      "C": "Use channels",
+      "D": "Give it time",
+      "E": "Invite resistance",
+      "F": "Be a salesman",
+      "G": "Be humble"
+     },
+     "passage": [
+      "Five Steps to Suggesting a Change at Work That’ll Actually Get Taken Seriously",
+      "Everyone wants to be that person — the one who looks at the same information as everyone else, but who sees a fresh, innovative solution. However, it takes more than simply having a good idea. How you share it is as important as the suggestion itself.",
+      "Why? Because writing a new script — literally or figuratively — means that other team members will have to adapt to something new. So whether you’re suggesting a (seemingly) benign change like streamlining outdated protocol, or a bigger change like adding an hour to each workday so people can leave early on Fridays, you’re asking others to reimagine their workflow or schedule. Not to mention, if the process you’re scrapping is one someone else suggested, there’s the possibility of hurt feelings.",
+      "To gain buy-in on an innovative, new idea, follow these steps:",
+      "{{41}}",
+      "Great ideas don’t stand alone. In other words, you can’t mention your suggestion once and expect it to be adopted. To see a change, you’ll need to champion your plan and sell its merits. In addition, you need to be willing to stand up to scrutiny and criticism and be prepared to explain your innovation in different ways for various audiences.",
+      "{{42}}",
+      "Sometimes it makes sense to go to your boss first. But other times, it’s useful to build a coalition among your co-workers or other stakeholders. When it works, it works great — because you’re ready for your stubborn supervisor’s pushback with answers like, “Actually, I connected with a few people in our tech department to discuss how much time these kinds of website updates would take, and they suggested they have the bandwidth.”",
+      "{{43}}",
+      "One of the biggest barriers to gaining buy-in occurs when the owner of an idea is viewed as argumentative, defensive, or close-minded. Because, let’s be honest: No one likes a know-it-all. So, if people disagree with you, don’t be indignant. Instead, listen to their concerns fully, try to understand their perspective, and include their concerns (and possible remedies) in future discussions.",
+      "So, instead of saying, “Martha, our current slogan is confusing and should be updated,” you could try, “Martha raises a great point that our current slogan has a long history for our stakeholders, but I wonder if we might be able to brainstorm a tagline that could build on that — and be clearer for new customers.”",
+      "{{44}}",
+      "New ideas are the grandchildren of old ones. In other words, don’t throw old solutions under the bus to make your improvement stand out. Remember that in light of whatever the problem the old system solved — or, maybe, has failed to solve in recent memory — it was a great idea at the time. Appreciating the older contributions as you suggest future innovations helps bolster the credibility of your idea.",
+      "{{45}}",
+      "When pitching a new idea, it’s important to use the language of abundance instead of the language of deficit. Instead of saying what is wrong, broken, or suboptimal, talk about what is right, fixable, or ideal. For example, try, “I can see lots of applications for this new approach” rather than, “This innovation is the only way.” Be optimistic but realistic, and you will stand out."
+     ],
+     "questions": [
+      {
+       "number": 41,
+       "answer": "F",
+       "explanation": "> **答案：** F\n\n**(41. F) 当个推销员**\n\n段[2]①好的想法不会孤立存在。②换句话说，你不能只提一次你的建议就指望它被采纳。③要想看到改变，你需要捍卫你的计划并推销它的优点。④此外，你要愿意经受审查和批判，并愿意以不同的方式向不同的听众解释你的新想法。"
+      },
+      {
+       "number": 42,
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n**(42. C) 利用渠道**\n\n段[3]①有时候先去找你的上司是明智之举。②但其他时候，在你的同事或其他利益相关者中建立联盟是很有用的。③当这种方法奏效时，效果就会非常好——因为你已经准备好用这样的回答来应对固执的上司的反对：“实际上，我和我们技术部门的一些人已经交流过，讨论了这类网站更新需要花费多少时间，他们表示自己有精力来做这件事。”"
+      },
+      {
+       "number": 43,
+       "answer": "G",
+       "explanation": "> **答案：** G\n\n**(43. G) 保持谦逊**\n\n段[4]①当某个想法的提出者被视为好争辩的、有戒心的或思想保守的人时，获得认可的最大障碍之一就出现了。②因为，说实话：没人喜欢自以为无所不知的人。③所以，如果人们不同意你的观点，不要感到愤怒。④相反，要充分倾听他们的担忧，试着理解他们的观点，并将他们的担忧（以及可能的解决办法）纳入未来的讨论。⑤因此，不要说“玛莎，我们当前的标语很令人费解，应该更新一下”，slogan is confusing and should be updated,\" you could try, \"Martha raises a great point that our current slogan has a long history for our stakeholders, but I wonder if we might be able to brainstorm a tagline that could build on that—and be clearer for new customers.\"\n\n**(44. B) Respect the past**\n\n段[5]①New ideas are the grandchildren of old ones. ②In other words, don't throw old solutions under the bus to make your improvement stand out. ③Remember that in light of whatever the problem the old system solved—or, maybe, has failed to solve in recent memory—it was a great idea at the time. ④Appreciating the older contributions as you suggest future innovations helps bolster the credibility of your idea.\n\n**(45. A) Stay positive**\n\n段[6]①When pitching a new idea, it's important to use the language of abundance instead of the language of deficit. ②Instead of saying what is wrong, broken, or suboptimal, talk about what is right, fixable, or ideal. ③For example, try, “I can see lots of applications for this new approach” rather than, “This innovation is the only way.” ④Be optimistic but realistic, and you will stand out.\n\n你可以试着说“玛莎提出了一个很好的观点，我们当前的标语对我们的利益相关者来说有着悠久的历史，但我在想，我们能否集思广益，想出一个既能以此为基础又能让新客户更明白的标语”。"
+      },
+      {
+       "number": 44,
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n**(44. B) 尊重过去**\n\n段[5]①新想法是旧想法的衍生物。②换句话说，不要为了凸显你的改进而否定旧的解决方案。③记住，考虑到旧体系解决过的任何问题——或者，也许在最近未能解决什么问题——它在当时都是个很棒的想法。④在你提议未来的新想法时，赞赏过去的贡献有助于增强你的想法的可信度。"
+      },
+      {
+       "number": 45,
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n**(45. A) 保持积极**\n\n段[6]①在推销新想法时，使用富足性语言（积极的语言）而非匮乏性语言（消极的语言）至关重要。②不要说什么是错的、有问题的或不太理想的，而要谈论什么是正确的、可解决的或理想的。③例如，试着说“我能看到这种新方法有很多应用（场景）”，而不是说“这种创新是唯一的办法”。④要保持乐观但也要实事求是，这样你就能脱颖而出。\n\n**其他选项精译**\n\nD. Give it time\n\nD. 给它时间\nE. Invite resistance\n\nE. 直面阻力\n\n**逐题细解 深度剖析**\n\n**答案精解**\n\n**第一步 浏览选项，预测段意**\n\n| 选项(小标题) | 译文 | 预测段意 |\n| --- | --- | --- |\n| A. Stay positive | A. 保持积极 | 本段可能讲述保持积极的方法或重要性。 |\n| B. Respect the past | B. 尊重过去 | 本段可能讲述过去的经验或尊重过去经验的重要性。 |\n| C. Use channels | C. 利用渠道 | 本段可能讲述利用渠道的重要性或介绍可以利用的渠道。 |\n| D. Give it time | D. 给它时间 | 本段可能讲述如何做到给它时间或给予一定的时间所带来的好处。 |\n| E. Invite resistance | E. 直面阻力 | 本段可能讲述直面阻力的好处以及应对阻力的方法。 |\n| F. Be a salesman | F. 当个推销员 | 本段可能介绍需要被推销的事物或讲述推销的方法。 |\n| G. Be humble | G. 保持谦逊 | 本段可能讲述保持谦逊的方法或重要性。 |\n\n**第二步 推测段意，匹配选项**\n\n**41**\n\n**找关键词**\n\n(全段)\n\n段[2] ①Great ideas (好的想法) don't stand alone (不会孤立存在). 首句 ②In other words (换句话说), you (你) can't mention (不能提到) your suggestion (你的建议) once (一次) and (然后) expect (指望) it (它) to be adopted (被采纳). ③To see a change, you (你) 'll need to champion (捍卫) your plan (你的计划) and (并且) sell (推销) its (它的) merits (优点). ④In addition (此外), you (你) need to be willing (愿意) to stand up to (经得起) scrutiny (审查) and criticism (批判) and (并且) be prepared (愿意) to explain (解释) your innovation (你的新想法) in different ways (以不同的方式) for various audiences (给不同的听众). 尾句\n\n**段意推测**\n\n| | | | |\n| --- | --- | --- | --- |\n| 位置 | 梳理逻辑 | 理解句意 | 推测段意 |\n| 首句 | 本句无有效逻辑相关词，故不作梳理。 | 好的想法不会孤立存在。 | |\n| 2句 | In other words 用于引出解释说明的内容，表明本句解释说明首句；and 表示顺承，其前信息(you、can't mention、your suggestion、once)和其后信息(expect、it、be adopted)为顺承关系，其中 it 指代本句中的 your suggestion。 | 换句话说，你不能提一次你的建议然后指望它被采纳。 | 本段讲述了好的想法需要捍卫与推销以使其被接受，并提到推销过程中所面临的挑战。 |\n| 3句 | and 表示并列，其前信息(champion、your plan)和其后信息(sell、its、merits)存在并列关系；its 指本句中的 your plan。 | 你要捍卫你的计划并推销它的优点。 | |\n| 尾句 | In addition 表示补充说明，引出与上文相关的信息；and 表示并列，其前信息(be willing、stand up to、scrutiny、criticism)和其后信息(be prepared、explain、your innovation、in different ways、for various audiences)存在并列关系。 | 此外，你要愿意经受审查和批判，并愿意以不同的方式给不同的听众解释你的新想法。 | |\n\n**答案确定**\n\n推测出的段意中的“好的想法需要推销”符合由 F 项预测的内容中的“介绍需要被推销的事物”。本段指出你需要推销自己的想法以使其被接受，并提到推销过程中可能面临的挑战，其中 sell 与 F 选项中的 salesman 相对应。故选 F。\n\n**找关键词**\n\n(全段)\n\n段[3]①Sometimes it makes sense (是明智的) to go to your boss first (先去找你的上司). 首句 ②But 注 段落中加粗内容为逻辑相关词，加下划线内容为句意相关词。\n\n(但是) other times, it's useful (有用的) to build (建立) a coalition (联盟) among your co-workers (你的同事) or other stakeholders (其他的利益相关者). ⑥When (当……时) it (它) works (奏效), it (它) works (起效) great (极好地) — because you're ready for your stubborn supervisor's pushback with answers like, \"Actually, I connected with a few people in our tech department to discuss how much time these kinds of website updates would take, and they suggested they have the bandwidth.\"尾句\n\n**段意推测**\n\n| | | | |\n| --- | --- | --- | --- |\n| 位置 | 梳理逻辑 | 理解句意 | 推测段意 |\n| 首句 | 本句无有效逻辑相关词，故不作梳理。 | 先去找你的上司是明智的。 | |\n| 2句 | But 表示转折，其后信息(useful、build、coalition、your co-workers、other stakeholders)为核心信息。 | 但是，在你的同事或其他的利益相关者中建立联盟是有用的。 | 本段讲述了提建议或想法时可以使用的两种渠道：找上司、在同事或其他的利益相关者中建立联盟。 |\n| 尾句 | When 表示条件，其引导的从句的内容为主句动作发生的条件；两个 it 均指代本段2句中的 build a coalition among your co-workers or other stakeholders。 | 当“在你的同事或其他的利益相关者中建立联盟”这一方法奏效时，它的效果会极好。 | |\n\n**答案确定**\n\n推测出的段意中的“提建议或想法时可以使用的两种渠道”符合由 C 项预测的内容中的“介绍可以利用的渠道”。本段中的“找上司”和“在同事或其他利益相关者中建立联盟”为两种具体的可以利用的渠道。故选 C。\n\n【找关键词】(首句 + ②句 + ③句 + ④句)\n\n段[4] ①One of the biggest barriers (最大障碍之一) to gaining buy-in (获得认可) occurs (出现) when (当……时) the owner of an idea (一个想法的提出者) is viewed as (被视为) argumentative (好争辩的), defensive (有戒心的), or close-minded (思想保守的). 首句 ②Because (因为), let's be honest: No one (没人) likes (喜欢) a know-it-all (自以为无所不知的人). ③So (所以), if (如果) people (人们) disagree with (不同意) you (你), don't be indignant (不要感到愤怒). ④Instead (相反地), listen to (倾听) their (他们的) concerns (担忧) fully, try (尝试) to understand (理解) their (他们的) perspective (观点), and include (使成为……的一部分) their (他们的) concerns (担忧) (and possible remedies) in future discussions (未来的讨论). ⑤So, instead of saying, “Martha, our current slogan is confusing and should be updated,” you could try, “Martha raises a great point that our current slogan has a long history for our stakeholders, but I wonder if we might be able to brainstorm a tagline that could build on that—and be clearer for new customers.”尾句\n\n| | | | |\n| --- | --- | --- | --- |\n| 位置 | 梳理逻辑 | 理解句意 | 推测段意 |\n| 首句 | when 表示时间，引出主句的信息发生的时间。 | 当一个想法的提出者被视为好争辩的、有戒心的或思想保守的(人)时，获得认可的最大障碍之一就出现了。 | 本段指出不谦逊的人所提出的想法可能不那么容易被认可，并说明在提出想法时需要保持谦逊以及如何保持谦逊。 |\n| 2句 | Because 表示原因，说明首句信息的原因。 | 因为没人喜欢自以为无所不知的人。 | |\n| 3句 | So 表示结果，表明本段2句与本句之间存在因果关系；if 表示条件，其引导的从句信息为主句信息发生的条件。 | 所以，如果人们不同意你(的观点),不要感到愤怒。 | |\n| 4句 | Instead 意为“相反地”,引出与3句相反的信息(listen to、their、concerns、try、understand、their、perspective、include、their、concerns、future discussions);三个 their 均指3句中的 people。 | 相反，要倾听他们的担忧，尝试理解他们的观点，并将他们的担忧纳入未来的讨论。 | |\n\n【找关键词】(首句 + ②句 + 尾句)\n\n段[6]①When (当……时) pitching (推销) a new idea (新想法), it's important (重要的) to use (使用) the language of abundance [富足性语言 (积极的语言)] instead of (而不是) the language of deficit [匮乏性语言 (消极的语言)]. 首句 ②Instead of (而不是) saying (说) what is wrong, broken, or suboptimal (什么是错的、有问题的或不太理想的), talk about (谈论) what is right, fixable, or ideal (什么是正确的、可解决的或理想的). ③For example, try, “I can see lots of applications for this new approach” rather than, “This innovation is the only way.” ④Be optimistic (乐观的) but (但是) realistic (实事求是的), and (那么) you (你) will stand out (脱颖而出). 尾句\n\n| | | | |\n| --- | --- | --- | --- |\n| 位置 | 梳理逻辑 | 理解句意 | 推测段意 |\n| 首句 | When 表示时间，引出主句的信息发生的时间；instead of 表示选择，其后内容(the language of deficit)是不被选择的对象。 | 在推销新想法时，使用富足性语言(积极的语言)而不是匮乏性语言(消极的语言)很重要。 | 本段可能在讲述推销新想法时使用积极且切合实际的语言的重要性，并提供了具体的做法。 |\n| 2句 | Instead of 表示选择，其后内容(saying、what is wrong, broken, or suboptimal)是不被选择的对象。 | 不要说什么是错的、有问题的或不太理想的，而要谈论什么是正确的、可解决的或理想的。 | |\n| 尾句 | but 表示转折，表明其前后信息之间存在转折关系；and 表示结果，其后信息(you、stand out)为其前信息(optimistic、but、realistic)的结果。 | 保持乐观但也要实事求是，那么你将脱颖而出。 | |\n\n推测出的段意“推销新想法时使用积极且切合实际的语言的重要性，并提供了具体的做法”符合由A项预测的段意“保持积极的方法或重要性”。本段首句指出推销新想法时使用积极的语言很重要，②句说明了使用积极的语言的具体做法，尾句再次点明保持积极态度的重要性，且尾句中的 Be optimistic 与A项 Stay positive 表意相同。故选A。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section III Translation",
+   "instructions": "Translate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)",
+   "score": 15,
+   "groups": [
+    {
+     "type": "translation_full",
+     "passage": [
+      "You know the moment — the conversation slows, then there’s a pause. It’s awkward, and so awkward that some people will panic and say anything. Do we all find such silences so stressful?",
+      "Researchers analysed the frequency and impact of gaps greater than 2 seconds during conversations, including an overview of previous studies which indicate that the fear of awkward silences can be so extreme that people avoid talking to strangers, even though doing so is likely to be an enjoyable experience.",
+      "During conversations with short gaps, people feel more connected to their conversation partners. But such feelings of connection markedly dip when entering a long gap. Long gaps between strangers are likely to be followed by a change in topic.",
+      "But the opposite seems to be true for conversations between friends. Long gaps there saw increased connection. Between friends, longer gaps seem to provide natural moments for reflection and expression."
+     ],
+     "questions": [
+      {
+       "number": 46,
+       "score": 15,
+       "answer": "你知道那种时刻吧——谈话慢了下来，然后出现了停顿。这种场面令人尴尬，尴尬到让一些人惊慌失措，只能随便说些什么。我们都认为这样的沉默让人倍感压力吗？\n\n研究者们分析了谈话期间超过2秒的停顿的发生率及影响，并回顾了先前一些研究的综述，这些研究表明，人们太过担心尴尬的沉默，以至于他们会避免和陌生人交谈，尽管这样做很可能是一种令人愉快的体验。\n\n在有短暂停顿的谈话中，人们感觉与其交谈对象的关系更加亲密。然而，当谈话陷入长时间的停顿时，这种亲密感会显著降低。陌生人之间谈话的长时间停顿易于引发话题的转换。\n\n但是，对于朋友之间的谈话，情况似乎恰好相反。在这种情况下，长时间的停顿使彼此的关系更加亲密。朋友之间，较长时间的停顿似乎给仔细思考和表情流露提供了自然而然的时机。",
+       "explanation": "> **答案：** 参考译文见下文\n\n**命题分析 精准备考**\n\n| | | | |\n| --- | --- | --- | --- |\n| 文章来源 | Science Illustrated [《好奇少年》(原《奇点科学》)] 低频 | | |\n| 文章标题 | Why do We Panic in Silences During Conversations? (《为什么在交谈中遇到沉默时我们会感到恐慌？》) | | |\n| 发表日期 | 2023年4月6日 | 文章体裁——话题 | 说明文——社会生活 高频 |\n| 节选词数 | 150词 | | |\n| 考点分布 | 介词短语(二段、三段13句、四段13句);从句(一段2句、二段);并列结构(一段12句);省略结构(一段12句);There be 句型(一段1句);代词指代(一段2句);when + 现在分词短语结构(三段2句);单词在具体语境中的翻译(四段2句) | | |\n\n**英汉对照 | 纵览全文**\n\n段[1]①You know the moment—the conversation slows, then there's a pause. ②It's awkward, and so awkward that some people will panic and say anything. ③Do we all find such silences so stressful?\n\n段[2]①Researchers analysed the frequency and impact of gaps greater than 2 seconds during conversations, including an overview of previous studies which indicate that the fear of awkward silences can be so extreme that people avoid talking to strangers, even though doing so is likely to be an enjoyable experience.\n\n段[3]①During conversations with short gaps, people feel more connected to their conversation partners. ②But such feelings of connection markedly dip when entering a long gap. ③Long gaps between strangers are likely to be followed by a change in topic.\n\n段[4]①But the opposite seems to be true for conversations between friends. ②Long gaps there saw increased connection. ③Between friends, longer gaps seem to provide natural moments for reflection and expression.\n\n段[1]①你知道那种时刻吧——谈话慢了下来，然后出现了停顿。②这种场面令人尴尬，尴尬到让一些人惊慌失措，只能随便说些什么。\n\n③我们都认为这样的沉默让人倍感压力吗？\n\n段[2]①研究者们分析了谈话期间超过2秒的停顿的发生率及影响，并回顾了先前一些研究的综述，这些研究表明，人们太过担心尴尬的沉默，以至于他们会避免和陌生人交谈，尽管这样做很可能是一种令人愉快的体验。\n\n段[3]①在有短暂停顿的谈话中，人们感觉与其交谈对象的关系更加亲密。②然而，当谈话陷入长时间的停顿时，这种亲密感会显著降低。③陌生人之间谈话的长时间停顿易于引发话题的转换。\n\n段[4]①但是，对于朋友之间的谈话，情况似乎恰好相反。②在这种情况下，长时间的停顿使彼此的关系更加亲密。③朋友之间，较长时间的停顿似乎给仔细思考和表情流露提供了自然而然的时机。\n\n**逐句翻译 精雕细琢**\n\n**第一段**\n\n①句\n\n①You know the moment // ②—the conversation slows, // ③then there's a pause.\n\n考点\n\n③层：并列结构破题重点、There be 句型、省略结构\n\n**逐层翻译**\n\n①层 You know the moment\n\n【译主干】You 译为 “你”，know 译为 “知道”，the moment 可译为 “这样的时刻”。【得译文】你知道这样的时刻。\n\n②层 —the conversation slows\n\n【译主干】the conversation 译为“谈话”，slows 可译为“慢了下来”。【得译文】谈话慢了下来。\n\n③层 and then there's a pause\n\n【译主干】there's a pause 为 There be 句型，可译为“有了停顿”。【译修饰】then 可译为“然后”。【得译文】然后有了停顿。\n\n**译文初成**\n\n①层译文：你知道这样的时刻；②层译文：谈话慢了下来；③层译文：然后有了停顿。\n\n【提要点】②层和③层语法结构完整，二者之间用逗号隔开，且③层含有连接性副词 then，可知②③层为省略连词 and 的并列结构，且存在时间上的先后顺序，②③层按原文顺序译出即可；①层语法结构完整，②③层为一个整体，其中②层含有破折号，同时②③层译文提到的“谈话慢了下来，然后有了停顿”是对①层译文提到的“这样的时刻”的具体描述，可知②③层是对①层中的 the moment 的解释说明，整体按原文顺序译出即可。译文顺序：①②③。\n\n【初级译文】你知道这样的时刻突破重点1——谈话慢了下来，然后有了突破重点2停顿。\n\n**译文突破**\n\n【突破重点 1】直译导致该处译文的表达稍显生硬，结合原文语境可知，这里是在引导读者联想一种自己亲身经历过的场景，为使语气更加亲切、自然，该处译文可突破为“你知道那种时刻吧”。\n\n【突破重点2】结合原文语境可知，此处描写的是“谈话逐渐变缓，随后陷入停顿”这一动态发展过程，但“有”体现的是一种静态状态，因此该处译文可突破为“出现了”。\n\n【升级译文】你知道那种时刻吧——谈话慢了下来，然后出现了停顿。\n\n②句\n\n①It's awkward, // ②and so awkward // ③that some people will panic and say anything.\n\n①层：代词指代\n\n**考点**\n\n**逐层翻译**\n\n①层 It's awkward\n\n【译主干】It 指代上文中提到的“谈话放缓随后陷入停顿”这一场景，可译为“这种场面”，'s（is）译为“是”；awkward 译为“令人尴尬的”。【得译文】这种场面是令人尴尬的。\n\n②层 and it is so awkward\n\n【译主干】awkward 译为“令人尴尬的”。【译修饰】so 译为“如此”。and 译为“而且”。【得译文】而且如此令人尴尬。\n\n③层 that some people will panic and will say anything\n\nthat 为从句引导词，暂不译出。【译主干】some people 译为 “有些人”，will panic 译为 “会惊慌失措”，say 译为 “说”，anything 译为 “随便什么”。and 译为 “然后”。【提要点】为使译文通顺，say anything 可整体译为 “随便说些什么”。【得译文】有些人会惊慌失措然后随便说些什么。\n\n**译文初成**\n\n①层译文：这种场面是令人尴尬的；②层译文：而且如此令人尴尬；③层译文：有些人会惊慌失措然后随便说些什么。\n\n【提要点】①层语法结构完整，②层语法结构完整且含有连词 and，可知①②层为 and 连接的并列结构，按原文顺序译出即可；②层与③层中存在固定结构 “so...that...”，且③层译文提到的“有些人会惊慌失措然后随便说些什么”是②层译文提到的“如此令人尴尬”带来的结果，由此可知，③层作②层的结果状语，此时 so...that 引导结果状语从句，可一起译为“如此……以至于……”，按原文顺序译出即可。译文顺序：①②③。\n\n【初级译文】这种场面是令人尴尬的突破重点1，而且如此令人尴尬以至于有些人会惊慌失措然后随便说些什么突破重点2。\n\n**译文突破**\n\n【突破重点1】为使译文更符合汉语表达习惯，该处译文可突破为“这种场面令人尴尬”。\n\n【突破重点2】为使译文逻辑更加紧凑，表达更加简洁、流畅，该处译文可突破为“尴尬到让一些人惊慌失措，只能随便说些什么”。\n\n【升级译文】这种场面令人尴尬，尴尬到让一些人惊慌失措，只能随便说些什么。\n\n**③句**\n\nDo we all find such silences so stressful?\n\n【初级译文】我们都认为这样的沉默充满压力突破重点吗？【译文突破】突破重点“这样的沉默充满压力”中的“充满压力”实际上体现的是人的心理状态，因此可在其前增译“让人”；同时，为增强译文的表意效果，“充满压力”可突破为“倍感压力”。【升级译文】我们都认为这样的沉默让人倍感压力吗？\n\n**第二段**\n\n①Researchers analysed the frequency and impact of gaps greater than 2 seconds during conversations, // ②including an overview of previous studies // ③which indicate that the fear of awkward silences can be so extreme // ④that people avoid talking to strangers, // ⑤even though doing so is likely to be an enjoyable experience.\n\n①层：介词短语作后置定语\n\n**考点**\n\n**逐层翻译**\n\n介词短语作后置定语，修饰 the frequency and impact\n\n①层\n\nResearchers analysed the frequency and impact『of gaps greater than 2 seconds』 『during conversations』\n\n介词短语作后置定语，修饰 gaps greater than 2 seconds\n\n【译主干】Researchers 译为 “研究者们”, analysed 译为 “分析了”, the frequency and impact 译为 “发生率及影响”。【译修饰】of gaps greater than 2 seconds 可译为 “超过 2 秒的停顿的”, during conversations 译为 “谈话期间的”。【提要点】介词短语作后置定语，翻译时，of gaps...seconds 可置于 the frequency and impact 之前，during conversations 可置于 gaps...seconds 之前。【得译文】研究者们分析了谈话期间超过 2 秒的停顿的发生率及影响。\n\n②层 including an overview of previous studies 为介词短语，可译为“包括对先前研究的综述”。\n\nwhich indicate...（宾从）\n\nthat 引导的宾语从句，作 indicate 的宾语\n\n宾从 that the fear [of awkward silences] can be so extreme\n\n介词短语作后置定语，修饰 the fear\n\nwhich 为从句引导词，暂不译出。【译主干】indicate 译为 “表明”，宾从 that the fear of awkward silences can be so extreme 可译为 “对尴尬沉默的担心会如此严重”。【得译文】表明对尴尬沉默的担心会如此严重。\n\n④层\n\nthat people avoid talking「to strangers」\n\n介词短语作状语，表对象 that 为从句引导词，暂不译出。【译主干】people 译为 “人们”, avoid 译为 “避免”, talking 译为 “交谈”。 【译修饰】to strangers 可译为 “和陌生人”。 【提要点】状语翻译时位置较灵活，介词短语作状语，可置于 talking 之前译出。 【得译文】人们避免和陌生人交谈。\n\n⑤层\n\neven though doing so is likely to be an enjoyable experience\n\neven though 为从句引导词，译为 “尽管”。【译主干】doing so 译为 “这样做”，指上文提到的 “和陌生人交谈”，is likely to be 译为 “很可能是”，an enjoyable experience 译为 “一种令人愉快的体验”。【得译文】尽管这样做很可能是一种令人愉快的体验。\n\n译文初成①层译文：研究者们分析了谈话期间超过2秒的停顿的发生率及影响；②层译文：包括对先前研究的综述；③层译文：表明对尴尬沉默的担心会如此严重；④层译文：人们避免和陌生人交谈；⑤层译文：尽管这样做很可能是一种令人愉快的体验。\n\n【初级译文】研究者们分析了谈话期间超过2秒的停顿的发生率及影响，包括对先前研究的综述突破重点1，这些研究表明对尴尬沉默的担心会如此严重突破重点2，以至于人们突破重点3避免和陌生人交谈，尽管这样做很可能是一种令人愉快的体验。\n\n**译文突破**\n\n【突破重点1】为明确研究者所做的工作，且使译文表达更加流畅，该处译文可突破为“并回顾了先前一些研究的综述”。\n\n【突破重点2】为使译文与上文衔接更加紧凑，同时凸显“担心”的主体，增强译文的可读性，该处译文可突破为“这些研究表明，人们太过担心尴尬的沉默”。\n\n【突破重点3】为避免前后用词重复，并使译文表达更加流畅，该处译文可突破为“他们会”。\n\n【升级译文】研究者们分析了谈话期间超过2秒的停顿的发生率及影响，并回顾了先前一些研究的综述，这些研究表明，人们太过担心尴尬的沉默，以至于他们会避免和陌生人交谈，尽管这样做很可能是一种令人愉快的体验。\n\n**第三段**\n\n①句\n\n①During conversations with short gaps, // ②people feel more connected to their conversation partners.\n\n①层：介词短语作状语\n\n考点\n\n②层：介词短语作状语\n\n**逐层翻译**\n\n①层 During conversations with short gaps 为介词短语，可译为 “在有短暂停顿的谈话期间”。\n\n②层 people feel more connected [to their conversation partners] 介词短语作状语，表对象\n\n【译主干】people 译为 “人们”，feel 译为 “感觉”，more connected 可译为 “更有联系”。【译修饰】to their conversation partners 可译为 “与其交谈对象”。【提要点】状语翻译时位置较灵活，介词短语作状语，可置于 more connected 之前译出。【得译文】人们感觉与其交谈对象更有联系。\n\n译文初成①层译文：在有短暂停顿的谈话期间；②层译文：人们感觉与其交谈对象更有联系。\n\n【提要点】②层语法结构完整，语义上描述了交谈者的感受，①层为介词短语且逗号将其与②层隔开，①层译文“在有短暂停顿的谈话期间”是对人们产生“与其交谈对象更有联系”这种感觉的时间进行说明，由此可知，①层作②层的时间状语，按原文顺序译出即可。译文顺序：①②。\n\n【初级译文】在有短暂停顿的谈话期间突破重点1，人们感觉与其交谈对象更有联系突破重点2。\n\n**译文突破**\n\n【突破重点1】为使译文更符合中文的表达习惯，该处译文可突破为“在有短暂停顿的谈话中”。\n\n【突破重点2】直译导致该处译文的表达略显生硬，因此该处译文可突破为“与其交谈对象的关系更加亲密”。\n\n【升级译文】在有短暂停顿的谈话中，人们感觉与其交谈对象的关系更加亲密。\n\n②句\n\n①But such feelings of connection markedly dip // ②when entering a long gap.\n\n考点 ②层：when + 现在分词短语结构 破题重点\n\n**逐层翻译**\n\n①层 But such feelings of connection markedly dip\n\n【译主干】such feelings of connection 指上文提到的因谈话中的短暂停顿而产生的亲密感，可译为“这种亲密感”；dip 译为“降低”。【译修饰】markedly 译为“显著地”。But 译为“然而”。【得译文】然而这种亲密感显著地降低。\n\n②层 when entering a long gap 为 “when + 现在分词短语” 结构，可译为 “当进入长时间的停顿时”。\n\n译文初成①层译文：然而这种亲密感显著地降低；②层译文：当进入长时间的停顿时。\n\n【提要点】②层译文提到的“当进入长时间的停顿时”是①层译文提到的“这种亲密感显著地降低”发生的时间，可知②层作①层的时间状语，为使译文通顺，翻译时②层可置于①层中的 But 之后。 【初级译文】然而突破重点1 当进入长时间的停顿突破重点2 时，这种亲密感显著地降低突破重点3。\n\n**译文突破**\n\n【突破重点1】为使语气稍加停顿，提高译文的可读性，该处译文可突破为“然而，”。\n\n【突破重点2】为凸显表达主体，同时使译文与上文衔接更加紧密，该处译文可突破为“谈话陷入长时间的停顿”。\n\n【突破重点3】为进一步凸显句内逻辑关系，并使译文更加通顺，该处译文可突破为“会显著降低”。\n\n【升级译文】然而，当谈话陷入长时间的停顿时，这种亲密感会显著降低。\n\n③句\n\nLong gaps between strangers are likely to be followed by a change in topic.\n\n考点 介词短语作后置定语\n\n【提要点】介词短语 between strangers 和 in topic 均作后置定语，分别修饰 Long gaps 和 a change，翻译时，前者可置于 Long gaps 之前，后者可置于 a change 之前。【初级译文】陌生人之间的长时间停顿（突破重点1）很可能被话题的转换跟着（突破重点2）。【译文突破】（突破重点1）为使表意更加明确，该处译文可突破为“陌生人之间谈话的长时间停顿”。（突破重点2）为使译文更符合中文“多动词、多主动”的表达习惯，并凸显“陌生人之间的长时间停顿”与“话题的转换”之间的因果关系，该处译文可突破为“易于引发话题的转换”。【升级译文】陌生人之间谈话的长时间停顿易于引发话题的转换。\n\n**第四段**\n\n①句\n\nBut the opposite seems to be true for conversations between friends.\n\n考点\n\n介词短语作状语、介词短语作后置定语\n\n【提要点】介词短语 between friends 作后置定语，修饰 conversations，翻译时可置于 conversations 之前；状语翻译时位置较灵活，介词短语 for conversations between friends 作状语，可置于 the opposite 之前译出。【初级译文】但是，对于朋友之间的谈话，相反的情况似乎是真实的突破重点。【译文突破】突破重点为使译文更符合中文的表达习惯，该处译文可突破为“情况似乎恰好相反”。【升级译文】但是，对于朋友之间的谈话，情况似乎恰好相反。\n\n②句\n\nLong gaps there saw increased connection.\n\n考点 单词在具体语境中的翻译\n\n【提要点】there 指上文中提到的“朋友之间的谈话”这一场景，可根据语境译为“在这种情况下”；状语翻译时位置较灵活，副词 there 作状语，可置于句首译出，并用逗号与其后内容隔开。【初级译文】在这种情况下，长时间的停顿见证了更加亲密突破重点。【译文突破】突破重点为使译文表意更加完整，表达更加流畅，该处译文可突破为“使彼此的关系更加亲密”。【升级译文】在这种情况下，长时间的停顿使彼此的关系更加亲密。\n\n③句\n\n①Between friends, // ②longer gaps seem to provide natural moments for reflection and expression.\n\n考点\n\n①层：介词短语作状语②层：介词短语作状语\n\n**逐层翻译**\n\n①层 Between friends 为介词短语，可译为“朋友之间”。\n\n②层 longer gaps seem to provide natural moments 「for reflection and expression」\n\n介词短语作状语，表对象\n\n【译主干】longer gaps 可译为“较长时间的停顿”，seem to provide 可译为“似乎提供了”，natural moments 可译为“自然的时机”。【译修饰】for reflection 词汇重点1 and expression 词汇重点2 可译为“给仔细思考和表情”。【提要点】状语翻译时位置较灵活，介词短语作状语，可置于 provide 之前译出。【得译文】较长时间的停顿似乎给仔细思考和表情提供了自然的时机。\n\n译文初成①层译文：朋友之间；②层译文：较长时间的停顿似乎给仔细思考和表情提供了自然的时机。\n\n【提要点】②层语法结构完整，②层译文提到较长时间的停顿的作用，①层为介词短语且逗号将其与②层隔开，①层译文将范围限定在朋友之间，由此可知，①层作②层的状语，按原文顺序译出即可。译文顺序：①②。\n\n【初级译文】朋友之间，较长时间的停顿似乎给仔细思考和表情突破重点1提供了自然的突破重点2时机。\n\n**译文突破**\n\n【突破重点1】为使译文表意更加清晰，表达更加顺畅，该处译文可突破为“表情流露”。\n\n【突破重点2】结合语境可知，这个时机是在与朋友进行交谈的过程中，随着较长时间停顿的出现而顺势产生的，为凸显这种自然延续性，该处译文可突破为“自然而然的”。\n\n【升级译文】朋友之间，较长时间的停顿似乎给仔细思考和表情流露提供了自然而然的时机。\n\n**词汇重点**\n\n√正译 仔细考虑"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section IV Writing — Part A",
+   "score": 10,
+   "groups": [
+    {
+     "type": "writing",
+     "questions": [
+      {
+       "number": 47,
+       "stem": "Suppose you are planning a short play based on a classic Chinese novel. Write your friend John an email to:\n1) introduce the play, and\n2) invite him to take part in it.\nWrite your answer in about 100 words on the ANSWER SHEET.\nDo not use your own name in your email. Use “Li Ming” instead.",
+       "score": 10,
+       "answer": "Dear John,\n\nI'm currently planning a short play. I'm writing to invite you to act in the play.\n\nThe play is adapted from The Romance of the Three Kingdoms, which will start filming on December 30th. It will show the great stories of strategy, loyalty and heroism from this classic Chinese novel. It not only has attractive plots and rich characters, but also contains profound wisdom, and it provides a great opportunity to explore Chinese culture. Considering your love for Chinese culture, I believe your excellent acting skills and passion for the arts will make the plot in the play vivid.\n\nI would appreciate it if you could join us. Look forward to your early reply.\n\nYours sincerely,\nLi Ming",
+       "explanation": "**审题构思 谋篇布局**\n\n**指令解读**\n\n| | | | |\n| --- | --- | --- | --- |\n| 写作指令 | 要素提取 | 审题结果 | |\n| Suppose you are planning a short play based on a classic Chinese novel. Write your friend John an email to 1) introduce the play, and 2) invite him to take part in it. Write your answer in about 100 words on the ANSWER SHEET.Do not sign your own name in your email; use “Li Ming” instead. | 你正在策划一部基于中国经典小说的短剧你的朋友约翰电子邮件介绍这部短剧邀请他参演该剧约100词用“Li Ming”— | 写作类型 | 邀请信中频 |\n| 写作对象 | 约翰 | | |\n| 写作目的 | 向约翰介绍自己正在策划的、基于中国经典小说的短剧并邀请他参演 | | |\n| 词数要求 | 约100词 | | |\n| 写信人 | Li Ming | | |\n| 可用时态 | 一般现在时、一般将来时 | | |\n\n正文\n\n开头段 表明目的 【目的】邀请约翰参演自己正在策划的一部短剧 …… 句①②中间段 介绍短剧 【基本信息】剧本来源、拍摄开始时间 …… 句①说明邀请理由 【短剧主题】关于谋略、忠诚与英雄主义的伟大故事 …… 句②\n\n【短剧特点】情节人物俱佳，蕴含深刻智慧 …… 句③\n\n【短剧意义】是体验中国文化的好机会 ……\n\n结尾段 表达期望 【期望1】期待约翰的加入 …… 句①\n\n【期望2】期望尽快得到回复 …… 句②\n\n**行文布局**\n\n**邀请信**\n\n**称呼**\n\nDear John,\n\n**客套语及署名**\n\nYours sincerely, Li Ming\n\n**范文初成**\n\n**写作要点**\n\n1. 称呼（居左顶格对齐）：接收人姓名——\n\n2. 正文（各段首行缩进，两端对齐）：开头段表明写信目的——\n\n中间段介绍短剧并说明邀请理由\n\n**结尾段表达期望**\n\n**3. 客套语（居右对齐）：**\n\n4. 署名（居右与结尾客套语左起对齐）：写信人姓名 ____\n\n**稳扎稳打**\n\n**标准范文**\n\nDear John, ①I'm currently planning a short play. ②I'm writing to invite you to act in the play.\n\nThe play is adapted from The Romance of the Three Kingdoms, which will start filming on December 30th. It will show the great stories of strategy, loyalty and heroism from this classic Chinese novel. It not only has attractive plots and rich characters, but also contains profound wisdom, and it provides a great opportunity to explore Chinese culture. Considering your love for Chinese culture, I believe your excellent acting skills and passion for the arts will make the plot in the play vivid.\n\n①I would appreciate it if you could join us. ②Look forward to your early reply.\n\n- Yours sincerely,\n\n- Li Ming\n\n**参考译文**\n\n**亲爱的约翰：**\n\n① 我正在策划一部短剧。 ② 我写信是想邀请你参演这部剧。\n\n①该剧改编自《三国演义》，将于12月30日开始拍摄。②它将展现这部中国经典小说中关于谋略、忠诚与英雄主义的伟大故事。③它不但有着引人入胜的情节和丰富的人物形象，而且蕴含着深刻的智慧，为体验中国文化提供了一个非常好的机会。④鉴于你对中国文化的热爱，我相信你出色的演技和对艺术的热情会让剧中的情节生动逼真。\n\n①如果你能加入我们，我将不胜感激。②期待你的早日回复。\n\n你真诚的\n\n李明\n\n**逐步升级 全面突破**\n\n**开头段**\n\n**①②句 表明目的**\n\n**标准范文**\n\n①I'm currently planning a short play. ②I'm writing to invite you to act in the play.\n\n**升级范文**\n\n①I'm reaching out to extend an invitation to you to act in the short play which I'm currently planning.\n\n【①升级词汇】将②句中的 writing 调整为 reaching out，使表达更加丰富，同时营造出一种热切邀请的氛围。\n\n【②升级词汇】将②句中的 invite 替换为 extend an invitation to，使表达更加多样。\n\n【③升级句式】将①句调整为 which 引导的限定性定语从句，与②句合并为一句，使句子层次分明、重点突出。\n\n**中间段**\n\n**①②③句 介绍短剧**\n\n**标准范文**\n\n①The play is adapted from The Romance of the Three Kingdoms, which will start filming on December 30th. ②It will show the great stories of strategy, loyalty and heroism from this classic Chinese novel. ③It not only has attractive plots and rich characters, but also contains profound wisdom, and it provides a great opportunity to explore Chinese culture.\n\n**升级范文**\n\n①The play, adapted from The Romance of the Three Kingdoms, will start filming on December 30th. ②It will recreate the epic tales of strategy, loyalty and heroism from this classic Chinese novel. ③It not only features gripping plots and rich characters, but also contains profound wisdom, providing a fascinating glimpse into Chinese culture.\n\n【①升级句式】将①句由主从复合句调整为简单句，使表达更加精炼。其中，将 is adapted from... 调整为过去分词短语 adapted from... 作后置定语，并将其置于主语 The play 和谓语 will start 之间，形成主谓分隔结构，使句子更富有层次感。\n\n【②升级词汇】将②句中的 show the great stories 调整为 recreate the epic tales，使情感色彩更加浓厚。\n\n【③升级词汇】将③句中的 has attractive plots 替换为 features gripping plots，突出了情节的吸引力之深。\n\n【④升级词汇】将③句中的 a great opportunity to explore 替换为 a fascinating glimpse into，强调通过短暂的体验就能有所感悟，使句子情感色彩更加强烈。\n\n【⑤升级句式】将③句中的 and it provides... 调整为现在分词短语 providing... 作状语，使得句间关系更清晰，句子结构更加紧凑，凸显了短剧的意义。\n\n**④句 说明邀请理由**\n\n**标准范文**\n\n④Considering your love for Chinese culture, I believe your excellent acting skills and passion for the arts will make the plot in the play vivid.\n\n**升级范文**\n\n④Considering your love for Chinese culture, your excellent acting skills and passion for the arts, I believe, will bring the plot in the play to life.\n\n注 范文中加粗内容为词汇升级部分，加下划线内容为句式升级部分。\n\n【①升级词汇】将④句中的 make the plot in the play vivid 调整为 bring the plot in the play to life，使表达更生动。\n\n【②升级句式】将④句由主从复合句调整为简单句，并将 I believe 调整为插入语，置于主语 your excellent... arts 和谓语 will breathe 之间，形成主谓分隔，使表达更加简洁，结构更加平衡。\n\n**结尾段**\n\n**①②句 表达期望**\n\n①I would appreciate it if you could join us.\n\n②Look forward to your early reply.\n\n**升级范文**\n\n①It would be appreciated if you could join us.\n\n②Await your response at your earliest convenience.\n\n【①升级句式】将①句由主动语态 I would appreciate it... 调整为被动语态 It would be appreciated..., 使句子语气更加委婉。\n\n【②升级词汇】将②句中的 Look forward to 调整为 Await，使表达更加简洁明了。\n\n【③升级词汇】将②句中的 early reply 替换为 response at your earliest convenience，使语气更加礼貌，情感更加真挚。\n\n**升级范文 高分在握**\n\n**升级范文**\n\n**Dear John,**\n\n①I'm reaching out to extend an invitation to you to act in the short play which I'm currently planning.\n\n①The play, adapted from The Romance of the Three Kingdoms, will start filming on December 30th. ②It will recreate the epic tales of strategy, loyalty and heroism from this classic Chinese novel. ③It not only features gripping plots and rich characters, but also contains profound wisdom, providing a fascinating glimpse into Chinese culture. ④Considering your love for Chinese culture, your excellent acting skills and passion for the arts, I believe, will bring the plot in the play to life.\n\n①It would be appreciated if you could join us. ②Await your response at your earliest convenience.\n\n**参考译文**\n\n亲爱的约翰：①我写信是想邀请你参演一部我正在策划的短剧。\n\n①该剧改编自《三国演义》，将于12月30日开始拍摄。②它将重现这部中国经典小说中关于谋略、忠诚与英雄主义的史诗故事。③它不仅情节扣人心弦，人物形象丰富，还蕴含着深刻的智慧，能让人领略到中国文化的魅力。④鉴于你对中国文化的热爱，我相信你出色的演技和对艺术的热情会让剧中的情节栩栩如生。\n\n①如果你能加入我们，我将不胜感激。\n\n②期待你方便时尽早给予回复。\n\nYours sincerely,\n\nLi Ming\n\n你真诚的\n\n李明\n\n**写作素材 助力备考**\n\n**模板素材**\n\n**邀请信（短剧参演邀请）**\n\n**称呼 → Dear 收信人姓名，**\n\n**正文**\n\n**开头段 表明目的**\n\n素材1①I'm reaching out to extend an invitation to you to act in 演出的项目.\n\n素材2①I am writing to introduce an exciting project—演出的项目，and I hope you will agree to perform a part in it.\n\n素材3①I'm excited to share the 演出的项目，and I would be delighted if you could be a part of it.\n\n**中间段 介绍短剧 + 说明邀请理由**\n\n素材1①The play, adapted from 剧本来源，will start filming on 拍摄开始日期. ②It will recreate 短剧主题. ③It not only features 短剧的情节特征 plots and 短剧的人物特征 characters, but also contains 短剧的其他特点，providing 短剧的意义. ④Considering 邀请原因，受邀者的优势，I believe, will bring the plot in the play to life.\n\n素材2①We are planning to film a production of 剧本来源 on 拍摄开始日期. ②The play will focus on 短剧主题. ③It not merely features the plots with 短剧的情节特征 and the characters with 短剧的人物特征，but also implies 短剧的其他特点，offering 短剧的意义. ④Given 邀请原因，I strongly believe 受邀者的优势 will make the plot in the play come alive.\n\n素材3①The play, which will be filmed on 拍摄开始日期，is inspired by 剧本来源. ②It will delve into 短剧主题. ③With its 短剧的情节特征 plots and 短剧的人物特征 characters, as well as 短剧的其他特点，it offers 短剧的意义. ④In consideration of 邀请原因，I am fully convinced 受邀者的优势 will inject vitality into the plot in the play.\n\n**结尾段 → 表达期望**\n\n素材1①It would be appreciated if you could join us. ②Await your response at your earliest convenience.\n\n素材2①Your participation with us would be highly valued. ②And it would be most appreciated if you could get back to me as quickly as possible.\n\n素材3①I would be thrilled if you could join us in this endeavor. ②Look forward to your response at your earliest convenience.\n\nYours sincerely,\n\n写信人"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section IV Writing — Part B",
+   "score": 15,
+   "groups": [
+    {
+     "type": "writing",
+     "questions": [
+      {
+       "number": 48,
+       "stem": "Write an essay based on the chart below. In your essay, you should\n1) describe and interpret the chart, and\n2) give your comments.\nWrite your answer in about 150 words on the ANSWER SHEET.\n某社区老年人主要日常休闲活动调查\n90.80%\n68.30%\n34.70%\n31.80%\n18.40%\n看电视 散步 养花 阅读 下棋",
+       "score": 15,
+       "answer": "The given bar chart depicts the detailed information of the primary leisure activities of the elderly in a certain community. Those who choose to watch television make up the largest proportion of the respondents, up to 90.8%, and those who choose to take walks come second, at 68.3%. In contrast, those who favor planting flowers, reading and playing chess occupy smaller shares: 34.7%, 31.8% and 18.4% respectively.\n\nThe causes of these differences can be summarized as follows. First of all, watching television is an extremely convenient way to access information and enjoy entertainment, which is why the vast majority of elderly people choose it. Secondly, walking is a low-intensity outdoor activity suitable for many of the elderly. Besides, although planting flowers, reading and playing chess are also beneficial, more often than not, only the elderly who are interested in these activities will participate in them.\n\nIn short, diverse leisure activities play a crucial role in enriching the lifestyles of the elderly. Therefore, the elderly are advised to try more forms of leisure activities, besides the current ones, to bring more color to their lives.",
+       "explanation": "**审题构思 谋篇布局**\n\n**指令解读**\n\n| | | | |\n| --- | --- | --- | --- |\n| 写作指令 | 要素提取 | 审题结果 | |\n| Write an essay. In your essay, you should 1) describe and interpret the chart, and 2) give your comments. Write your answer in about 150 words on the ANSWER SHEET. | 描述并说明图表内容发表评论 | 内容要求 | 1. 描述并说明图表内容2. 发表评论 |\n| 约150词 | 词数要求 | 约150词 | |\n| 百分比 | 写作话题 | 社会生活 低频 | |\n| 柱形图 | 图表主题 | 某社区老年人主要日常休闲活动情况 | |\n| 横坐标：某社区老年人主要日常休闲活动类别 | 图表类型 | 柱形图 | |\n| 标题：某社区老年人主要日常休闲活动调查 | 数据特征 | 静态占比 | |\n| 看电视 某社区老年人主要日常休闲活动调查 | 图表中某社区老年人的主要日常休闲活动信息：选择看电视的人占90.8%,选择散步的人占68.3%,选择养花的人占34.7%,选择阅读的人占31.8%,选择下棋的人占18.4%。选择各种主要日常休闲活动的老年人的占比排名：选择看电视的人>选择散步的人>选择养花的人>选择阅读的人>选择下棋的人 | 数据解读 | 1. 看电视是某社区老年人最主要的日常休闲活动；2. 选择养花、阅读、下棋的老年人的占比明显低于选择看电视和散步的老年人的占比；3. 选择下棋作为日常休闲活动的老年人最少。 |\n\n**行文布局**\n\n**社会生活静态占比类**\n\n| | | | | |\n| --- | --- | --- | --- | --- |\n| 开头段 | 描述图表 | 总体描述 | 【图表类型】柱形图 | 句1 |\n| 【图表主题】某社区老年人主要休闲活动的信息 | | | | |\n| 描述数据 | 具体描述选择各种休闲活动的老年人的占比情况并进行对比 | 句23 | | |\n| 中间段 | 分析原因 | 引出原因 | 引起这些差异的原因可以总结如下 | 句1 |\n| 原因1 | 看电视是一种极为便捷的获取信息和享受娱乐的方式 | 句2 | | |\n| 原因2 | 散步是一种低强度户外活动，适合许多老年人 | 句3 | | |\n| 原因3 | 只有对养花、阅读和下棋真正感兴趣的人才会参与其中 | 句4 | | |\n| 结尾段 | 总结全文 | 表达观点 | 多样化的休闲活动对丰富老年人的生活方式很重要 | 句1 |\n| 提出建议 | 建议老年人参与更多形式的休闲活动 | 句2 | | |\n\n**范文初成 稳扎稳打**\n\n**写作要点**\n\n**标准范文**\n\n1. 开头段：描述 图表\n\n- ①The given bar chart depicts the detailed information of the primary leisure activities of the elderly in a certain community. ②Those who choose to watch television make up the largest proportion of the respondents, up to 90.8%, and those who choose to take walks come second, at 68.3%. ③In contrast, those who favor planting flowers, reading and playing chess occupy smaller shares: 34.7%, 31.8% and 18.4% respectively.\n\n2. 中间段：分析原因\n\nThe causes of these differences can be summarized as follows. First of all, watching television is an extremely convenient way to access information and enjoy entertainment, which is why the vast majority of elderly people choose it. Secondly, walking is a low-intensity outdoor activity suitable for many of the elderly. Besides, although planting flowers, reading and playing chess are also beneficial, more often than not, only the elderly who are interested in these activities will participate in them.\n\n**3. 结尾段：总结全文**\n\nIn short, diverse leisure activities play a crucial role in enriching the lifestyles of the elderly. Therefore, the elderly are advised to try more forms of leisure activities, besides the current ones, to bring more color to their lives.\n\n**参考译文**\n\n①题目所给的柱形图描述了某社区老年人的主要休闲活动的详细信息。②选择看电视的人在受访者中所占的比例最大，达到90.8%，选择散步的人位居第二，占比68.3%。③相比之下，喜欢养花、阅读和下棋的人占比较小：分别为34.7%、31.8%和18.4%。\n\n①引起这些差异的原因可以总结如下。②首先，看电视是一种极为便捷的获取信息和享受娱乐的方式，这就是绝大多数老年人选择它的原因。③其次，散步是一种低强度的户外活动，适合许多老年人。④此外，尽管养花、阅读和下棋也是有益的活动，但往往只有对这些活动感兴趣的老年人才会参与其中。\n\n①总之，多样化的休闲活动在丰富老年人的生活方式中发挥着至关重要的作用。②因此，除了当前这些休闲活动，建议老年人尝试更多类型的休闲活动，为他们的生活增添更多色彩。\n\n**逐步升级 全面突破**\n\n**开头段**\n\n**①句 描述图表——总体描述**\n\n①The given bar chart depicts the detailed information of the primary leisure activities of the elderly in a certain community.\n\n**升级范文**\n\n①What is depicted in the given bar chart is the detailed information of the primary leisure activities of the elderly in a certain community.\n\n注 范文中加粗内容为词汇升级部分，加下划线内容为句式升级部分。\n\n**②③句 描述图表——描述数据**\n\n**标准范文**\n\n②Those who choose to watch television make up the largest proportion of the respondents, up to 90.8%, and those who choose to take walks come second, at 68.3%. ③In contrast, those who favor planting flowers, reading and playing chess occupy smaller shares: 34.7%, 31.8% and 18.4% respectively.\n\n**升级范文**\n\n②Those who choose to watch television make up the largest proportion of the respondents, up to 90.8%, followed by those who choose to take walks, at 68.3%, while those who favor planting flowers, reading and playing chess occupy smaller shares: 34.7%, 31.8% and 18.4% respectively.\n\n【①升级句式】将②句中并列句的分句二调整为过去分词短语作状语，简化表达的同时也使句式更高级。\n\n【②升级句式】将②③两句调整为 while 连接的并列句，更能凸显各项数据之间的差异。\n\n**中间段**\n\n**①句 分析原因——引出原因**\n\n①The causes of these differences can be summarized as follows.\n\n**升级范文**\n\n①What are the causes of these differences?①\n\n【①升级句式】将①句由陈述句替换为 What 引导的特殊疑问句，使句式更加多样，也更能引发读者进一步思考。\n\n**②句 分析原因——原因1**\n\n②First of all, watching television is an extremely convenient way to access information and enjoy entertainment, which is why the vast majority of elderly people choose it.\n\n**升级范文**\n\n②First of all, watching television is an extremely convenient way to access information and enjoy entertainment, so that the vast majority of elderly people choose it.\n\n【①升级句式】将②句中 which 引导的非限定性定语从句调整为 so that 引导的结果状语从句，使句间关系更明晰。\n\n**③句 分析原因——原因2**\n\n③Secondly, walking is a low-intensity outdoor activity suitable for many of the elderly.\n\n**升级范文**\n\n③Secondly, walking, which is widely recognized as a low-intensity outdoor activity, proves to be an ideal choice for many of the elderly.\n\n**分析原因——原因 3**\n\n4Besides, although planting flowers, reading and playing chess are also beneficial, more often than not, only the elderly who are interested in these activities will participate in them.\n\n**升级范文**\n\n④Besides, although planting flowers, reading and playing chess are also beneficial, more often than not, only the elderly who have great passions for these activities are inclined to engage in them.\n\n【①升级词汇】将④句中的 are interested in 替换为 have great passions for，使表达更加新颖、更具感染力。【②升级词汇】将④句中的 will participate in 调整为 are inclined to engage in，使语气更加委婉，表达更加多样。\n\n**结尾段**\n\n**① 旬 总结全文——表达观点**\n\n**标准范文**\n\n①In short, diverse leisure activities play a crucial role in enriching the lifestyles of the elderly.\n\n**升级范文**\n\n①In short, diverse leisure activities are instrumental in enriching the lifestyles of the elderly.\n\n【①升级词汇】将①句中的 play a crucial role in 调整为 are instrumental in，使措辞更新颖。\n\n**②句 总结全文——提出建议**\n\n**标准范文**\n\n②Therefore, the elderly are advised to try more forms of leisure activities, besides the current ones, to bring more color to their lives.\n\n**升级范文**\n\n②Therefore, it's advisable for the elderly to explore more forms of leisure activities, besides the current ones, to bring more color to their lives.\n\n【①升级词汇】将②句中的 try 替换为 explore，使用词更加灵活。\n\n【②升级句式】将②句中的 the elderly are advised to... 调整为 it 作形式主语的句型 it's advisable for the elderly to..., 使句式更加丰富。\n\n**升级范文 高分在握**\n\n**升级范文**\n\n①What is depicted in the given bar chart is the detailed information of the primary leisure activities of the elderly in a certain community. ②Those who choose to watch television make up the largest proportion of the respondents, up to 90.8%, followed by those who choose to take walks, at 68.3%, while those who favor planting flowers, reading and playing chess occupy smaller shares: 34.7%, 31.8% and 18.4% respectively.\n\n**参考译文**\n\n①题目所给的柱状图描述了某社区老年人的主要休闲活动的详细信息。②选择看电视的人在受访者中所占的比例最大，达到 90.8%，其次是选择散步的人，占 68.3%，而喜欢养花、阅读和下棋的人占比较小：分别为 34.7% 、 31.8% 和 18.4%。\n\n①What are the causes of these differences? ②First of all, watching television is an extremely convenient way to access information and enjoy entertainment, so that the vast majority of elderly people choose it. ③Secondly, walking, which is widely recognized as a low-intensity outdoor activity, proves to be an ideal choice for many of the elderly. ④Besides, although planting flowers, reading and playing chess are also beneficial, more often than not, only the elderly who have great passions for these activities are inclined to engage in them.\n\n①In short, diverse leisure activities are instrumental in enriching the lifestyles of the elderly. ②Therefore, it’s advisable for the elderly to explore more forms of leisure activities, besides the current ones, to bring more color to their lives.\n\n①引起这些差异的原因有哪些呢？②首先，看电视是一种极为便捷的获取信息和享受娱乐的方式，因此绝大多数老年人选择了它。③其次，散步被广泛认为是一种低强度户外活动，被证明是许多老年人的理想选择。④此外，尽管养花、阅读和下棋也是有益的活动，但往往只有酷爱这些活动的老年人才有意向参与其中。\n\n①总之，多样化的休闲活动对丰富老年人的生活方式很重要。②因此，除了当前这些休闲活动，建议老年人体验更多类型的休闲活动，为他们的生活增添更多色彩。\n\n**写作素材 助力备考**\n\n**模板素材**\n\n**柱形图静态占比类**\n\n**开头段一·描述图表（总体描述 + 描述数据）**\n\n素材1①What is depicted in the given bar chart is 图表主题. ②主体1 makes up the largest proportion of the 调查对象，up to 数据1, followed by 主体2, at 数据2, while 主体3, 主体4, and 主体5 occupy smaller shares: 数据3, 数据4, and 数据5 respectively.\n\n素材2 ①As is clearly illustrated in the given bar chart, 图表主题. ②Obviously, among all 调查对象，主体 1 ranks first, reaching at 数据 1. ③The next is 主体 2, accounting for 数据 2. ④By the contrast, the proportions of 主体 3, 主体 4, and 主体 5 account for 数据 3, 数据 4, and 数据 5 respectively.\n\n素材3 ①The given bar chart clearly depicts 图表主题. ②Among all 调查对象，it can be seen that 主体1 holds the largest share, accounting for 数据1. ③Then comes 主体2, with 数据2. ④主体3, 主体4, and 主体5 make up 数据3, 数据4, and 数据5 respectively.\n\n**中间段 → 分析原因（引出原因 + 原因 1 + 原因 2 + 原因 3）**\n\n素材1 ①What are the causes of these differences? ②First of all, 原因 1. ③Secondly, 原因 2. ④Besides, 原因 3.\n\n素材2 ①The differences may stem from a number of reasons. ②To begin with, 原因1. ③Next, 原因2. ④Furthermore, 原因3.\n\n素材3 ①How do we account for the differences? ②In the first place, 原因1. ③In the second place, 原因2. ④In the third place, 原因3.\n\n**结尾段 → 总结全文（表达观点 + 提出建议）**\n\n素材1①In short, 观点内容. ②Therefore, it's advisable for 建议对象 to 建议内容.\n\n素材2①In conclusion, 观点内容. ②Therefore, it is recommended that 建议对象 should 建议内容.\n\n素材3 ①To sum up, 观点内容. ②Therefore, for 建议对象，it would be beneficial if they 建议内容.\n\n**词汇素材**\n\n单词\n\n- access vt. 获取\n\n- socialize vi.（和他人）交往\n\n- cultivate vt. 种植\n\n- enrich vt. 使丰富；充实\n\n- interact vi. 交流\n\n- pastime n. [C] 休闲活动\n\n- entertainment n. [C, U] 娱乐活动\n\n- preference n. [C, U] 偏好\n\n- retirement n. [C, U] 退休\n\n- fitness n. [U] 健康\n\n- pursuit n. [C-常用 pl.] 消遣\n\n- emphasis n. [C, U] 强调\n\n- popularity n. [U] 流行\n\n- diverse a. 多种多样的\n\n- senior n. [C] 老年人\n\n- robust a. 强健的\n\n- recreational a. 娱乐的\n\n- vibrant a. 充满活力的\n\n**短语**\n\n- maintain physical fitness 保持身体健康\n\n- adopt a healthy lifestyle 采取健康的生活方式\n\n- foster social bonds 促进社交联系\n\n- enrich one's daily life 丰富某人的日常生活\n\n- leisure activities 休闲活动\n\n- spiritual life 精神生活\n\n- enhance concentration 提高专注力\n\n- promote the sense of well-being 提升幸福感\n\n- a low-intensity activity 低强度活动\n\n- enhance the quality of life 提高生活质量\n\n- community involvement 社区参与\n\n- a source of entertainment 娱乐来源\n\n- physical and mental needs 身体和心理需求\n\n- senior activity rooms 老年人活动室\n\n- social interaction 社交互动\n\n- personal relationships 人际关系\n\n**佳句素材**\n\n- It is important to encourage the elderly to combine their leisure activities with physical exercise. 鼓励老年人将休闲活动与体育锻炼相结合是重要的。\n\n- Social interaction through leisure activities can prevent feelings of loneliness. 通过休闲活动进行社交互动可以防止产生孤独感。\n\n- Leisure activities are the seasonings in the lives of the elderly. 休闲活动是老年人生活中的调味剂。\n\n- Hobbies can provide a sense of purpose and fulfillment in later years.\n\n爱好可以为晚年的生活带来目标感和成就感。\n\n- The preference of the elderly for certain pastimes can guide community planners in creating pleasant community environments.\n\n老年人对某些消遣的偏好可以指导社区规划者创造宜人的社区环境。"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

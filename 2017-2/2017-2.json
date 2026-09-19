@@ -1,0 +1,714 @@
+{
+ "year": 2017,
+ "exam": "英语二",
+ "sections": [
+  {
+   "title": "Section I Use of English",
+   "instructions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "cloze",
+     "passage": [
+      "People have speculated for centuries about a future without work. Today is no different, with academics, writers, and activists once again {{1}} that technology is replacing human workers. Some imagine that the coming work-free world will be defined by {{2}} : A few wealthy people will own all the capital, and the masses will struggle in an impoverished wasteland.",
+      "A different and not mutually exclusive {{3}} holds that the future will be a wasteland of a different sort, one {{4}} by purposelessness: Without jobs to give their lives {{5}} , people will simply become lazy and depressed. {{6}} , today’s unemployed don’t seem to be having a great time. One Gallup poll found that 20 percent of Americans who have been unemployed for at least a year report having depression, double the rate for {{7}} Americans. Also, some research suggests that the {{8}} for rising rates of mortality, mental-health problems, and addiction {{9}} poorly-educated, middle-aged people is a shortage of well-paid jobs. Perhaps this is why many {{10}} the agonizing dullness of a jobless future.",
+      "But it doesn’t {{11}} follow from findings like these that a world without work would be filled with unease. Such visions are based on the {{12}} of being unemployed in a society built on the concept of employment. In the {{13}} of work, a society designed with other ends in mind could {{14}} strikingly different circumstances for the future of labor and leisure. Today, the {{15}} of work may be a bit overblown. “Many jobs are boring, degrading, unhealthy, and a waste of human potential,” says John Danaher, a lecturer at the National University of Ireland in Galway.",
+      "These days, because leisure time is relatively {{16}} for most workers, people use their free time to counterbalance the intellectual and emotional {{17}} of their jobs. “When I come home from a hard day’s work, I often feel {{18}} ,” Danaher says, adding, “In a world in which I don’t have to work, I might feel rather different” – perhaps different enough to throw himself {{19}} a hobby or a passion project with the intensity usually reserved for {{20}} matters."
+     ],
+     "questions": [
+      {
+       "number": 1,
+       "score": 0.5,
+       "options": {
+        "A": "boasting",
+        "B": "denying",
+        "C": "warning",
+        "D": "ensuring"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n1. [A] boasting 吹嘘\n\n[B] denying 否认\n\n[C] warning 警告\n\n[D] ensuring 保证\n\n[考点提炼] 上下文语义+词义辨析。\n\n[解题思路] 独立主格结构 with... _ that... 中，academics, writers... 与 technology is replacing human workers 分别对应首句 People 与 a future without work, 因此空格词与 speculated(对未来的猜测)应大致相关；而下文“其中一些猜测……: 少数富人会掌握所有资本，大众则挣扎于贫困线 (the masses will struggle...)”体现“担忧未来、不希望发生”的意味，warn 意为“预警某不好的情况以期避免”, 符合要求，因此 [C] 正确。\n\n[错项排除] [A] boasting 表示“对自身所有物或能力进行吹嘘”，但文中“技术会取代人工”属于“推测”，既非学者、作家们的“所有物”，也非“能力”。[B] denying 表示“否认某事/情况为真”，显然与文中 no different、once again 所表明的“上下句同向逻辑”相违背。[D] ensuring 表示“确保某事一定会发生 (make certain of sth)”，但其传递的“肯定”语气与首句“推测、预测”语气不符。"
+      },
+      {
+       "number": 2,
+       "score": 0.5,
+       "options": {
+        "A": "inequality",
+        "B": "instability",
+        "C": "unreliability",
+        "D": "uncertainty"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n2. [A] inequality 不平等 [B] instability 不稳定 [C] unreliability 不可靠 [D] uncertainty 迟疑 [考点提炼] 上下文语义 + 名词辨析。\n\n[解题思路] 空格句指出，其中一些人猜测即将到来的无工作世界将会以____为特征。空格下文意为，少数富人会掌握所有资本，而大众将会挣扎于穷困的荒地之中。A few wealthy people VS the masses 以及 own all the capital VS struggle in an impoverished wasteland 两组对比呈现出“财富分配的强烈不均衡性”，只有 inequality 与该内容契合，[A] 正确。\n\n[错项排除] [B] instability 从下文“财富严重不均”过度推出“民愤民怨致国家不再稳定”，但该词表示“不稳定”通常有限定成分说明其主体，如 economic/political/emotional instability（经济/政治/情绪的不稳定），其次，财富严重分化≠充满变数。reliable 用于说明“人或物（机器、方法等）可被信任能做得好，或按你所想的去做”，或“某物（数据、信息等）正确、符合事实，从而可信赖”，文中主语为“（无工作的）世界”，为客观环境，不存在“不能信赖”这种说法，故排除[C] unreliability。[D] uncertainty 表示“不确定、无把握的状态”，该词与 instability 有一定交集，但财富严重分化≠充满不确定性。\n\n**词汇注释与难句分析**\n\nspeculate v. 推测\n\ncapital n. 资本\n\nthe masses 普通百姓\n\nstruggle v. 奋斗；挣扎\n\nimpoverished a. 穷困的\n\nwasteland n. 荒地，不毛之地\n\n**语篇分析**\n\n**第一、二段介绍人们对未来无工作情况的消极看法。**\n\n首段指出人们的消极推测之一：贫富极度悬殊。①②句为引子，昔今对比引出人们对未来的不变推测：不再有工作。a future without work 提示全文话题：无工作的未来的情况。独立主格结构 with academics,... once again warning that... 细化首句 without work,借 warning 传达的“警示、危急”语气奠定人们对未来的“悲观”之情，同时以其“告诫以期避免”之意暗示这些人对技术心怀恐惧，认为技术的发展是未来悲剧的始作俑者。③句继续推测，说明“没有工作”的后果。Some imagine 承①句 People have speculated 和②句 academics,... warning... 串起“推测”链条，imagine 较 speculated“无根据/理由猜测”的意味更甚，暗含作者对观点的不赞同；define(为……的特征)为世界冠以 inequality 这一“特色”,充分说明无工作的弊端。A few wealthy people VS the masses、own all... VS struggle... 以鲜明的对比刻画出无工作世界中劳苦大众的悲惨境地。\n\nⅡ ① A different and not mutually exclusive 3 holds that the future will be a wasteland of a different sort, one 4 by purposelessness: Without jobs to give their lives 5, people will simply become lazy and depressed. ② 6, today's unemployed don't seem to be having a great time. ③ One Gallup poll found that 20 percent of Americans who have been unemployed for at least a year report having depression, double the rate for 7 Americans. ④ Also, some research suggests that the 8 for rising rates of mortality, mental-health problems, and addiction 9 poorly-educated middle-aged people is a shortage of well-paid jobs. ⑤ Perhaps this is why many 10 the agonizing dullness of a jobless future.\n\n另外一种与其不同但并不矛盾的预言认为，未来会是另一种荒芜之地，一个以“漫无目的”为特征的荒芜之地：没有了工作赋予生活以意义，人们只会变得懒惰和消沉。②的确如此，如今的无工作者似乎过得并不快乐。③一项盖洛普民意调查发现，在失业至少一年的美国人当中，有20%表示患有抑郁症，其比例是有工作的美国人的两倍。④某项研究也表明，在受教育程度低的中年人当中，死亡、心理健康问题以及染上毒瘾者的比例不断增长的原因是缺少高薪工作。⑤或许这解释了为什么许多人担忧无工作的未来会满是痛苦沉闷。"
+      },
+      {
+       "number": 3,
+       "score": 0.5,
+       "options": {
+        "A": "policy",
+        "B": "guideline",
+        "C": "resolution",
+        "D": "prediction"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n上文③句“其中一些人的猜想……”引出“另外的猜测”，空格词应与 imagine、speculated 同质，[D] prediction 符合文意。\n\n[错项排除] [A] policy 一般指“官方批准或采取的，针对某情况的政策、做法等”，如 the policy toward South Africa（针对南非的政策）、[B] guideline 表示“官方发布的，针对某问题的指导方针（未成法律）”或“行为、行动的参考”、[C] resolution 表示“对于问题、纠纷、困难处境的解决”；三项均涉及“对问题的处理”，而文中此处是“对问题的展示（the future will...）”。"
+      },
+      {
+       "number": 4,
+       "score": 0.5,
+       "options": {
+        "A": "characterized",
+        "B": "divided",
+        "C": "balanced",
+        "D": "measured"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n4. [A] characterized 以……为特点 [B] divided 分开 [C] balanced 平衡 [D] measured 测量 [考点提炼] 句内语义。\n\n[解题思路] 空格部分意为：……认为，未来会是一片(与上述情况)不同的荒地，一个被“漫无目的”所____的荒地：……。冒号后具体说明 a wasteland..., one(wasteland) ____ by purposelessness,展现“人无所事事、没有生活动力(simply become lazy and depressed)”的情境，可见 purposelessness 一词是对“另一种荒芜”的特点，即“另一些人眼中的未来世界”之特征的概括，因此[A] characterized 正确。\n\n[错项排除] [B] divided(by)含义有二：1)某物被分成若干部分，by 后所接的内容为“造成分割、分开的因素”, 如：Britain and America are two countries divided by a common language. (英国与美国是被同一种语言分开的两个国家。), 而“被漫无目的分割开来的荒地”显然逻辑错误；2) 表示数学运算中的除法，如 30 divided by 6 is 5. (30除以6等于5。), 排除该用法。[C] balanced (by) 表示“使(重要性、数量、价值或影响)均衡，相抵”, 施动者和受动者应该“属性相同”, 而文中“荒芜之地”与“漫无目的”前者为地点，后者为性质，显然不能起到相互平衡的作用。[D] measured (by) 引出的是“评判的标准、参照”, 文中“漫无目的(purposelessness)”属于性质、状态，“以之衡量荒芜之地”的说法显然不合逻辑。"
+      },
+      {
+       "number": 5,
+       "score": 0.5,
+       "options": {
+        "A": "wisdom",
+        "B": "meaning",
+        "C": "glory",
+        "D": "freedom"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n5. [A] wisdom 智慧\n\n[B] meaning 意义\n\n[C] glory 光荣\n\n[D] freedom 自由\n\n[考点提炼]句内语义。\n\n[解题思路] 空格部分位于冒号之后，对 purposelessness 进行解释说明：没有工作赋予生活____, 人们只会变得懒惰和沮丧。Without jobs to give their lives ____ 与 purposelessness 的含义相呼应，而考虑到否定介词 without 的存在，空格词应与 purposelessness 的含义相反，meaning 可表示“人生的意义，目标”, 恰与之相对，[B] 正确。\n\n[错项排除] [A]、[C]均可以置于空格后充当 give 的直接宾语，但与“没有工作赋予生活智慧/荣耀”相对立的内容应该是“自身知识、经验变得贫瘠/欠缺成就感”，尽管某些人可能会因此而感觉生活失去价值，但该情况缺乏普适性，不能据此判断“所有人都会产生无目的的空虚感”。[D] freedom 不符合语义逻辑，工作在一定程度上会降低自由程度，因此“没有了工作赋予人们自由”的说法不成立。"
+      },
+      {
+       "number": 6,
+       "score": 0.5,
+       "options": {
+        "A": "Instead",
+        "B": "Indeed",
+        "C": "Thus",
+        "D": "Nevertheless"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n6. [A] Instead 代替\n\n[B] Indeed 的确\n\n[C] Thus 因此\n\n[D] Nevertheless 然而\n\n[考点提炼]上下文逻辑关系。\n\n[解题思路] 从上文“未来人们(因为无业)会失去生活的热情，变得懒惰悲观(purposelessness、become lazy and depressed)”到本句“如今无业者过得不好(don't seem to be having a great time)”,后者显然是通过“现实人们的糟糕境遇”来肯定和证实前者推测，[B] Indeed 正确。\n\n[错项排除] [A] Instead 引出“事实上做出的举动”，与其前举动构成“取舍关联”，强调“没干事1，相反，干了事2”；[C] Thus 引出“上述内容造成的结果”；而上下文分别是“对未来人们境遇的推测”和“如今无业者的境遇”，不存在“取后舍前”的逻辑，前者也不是后者的原因。[D] Nevertheless 引出“与上文构成对比反差的内容”，但上下文都涉及“人们的糟糕境遇”，因而为顺承关系而非转折逻辑。"
+      },
+      {
+       "number": 7,
+       "score": 0.5,
+       "options": {
+        "A": "rich",
+        "B": "urban",
+        "C": "working",
+        "D": "educated"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n7. [A] rich 富有的\n\n[B] urban 城市的\n\n[C] working 工作的\n\n[D] educated 受过教育的\n\n[考点提炼]句内语义。\n\n[解题思路] double the rate for...表明本句把“美国无业者患抑郁症的比例”和“美国____者患抑郁症的比例”相对比，强调前者患病概率之大，空格处只能表示“有业的，有工作的”，才能契合上下文语义，突显“工作对人的意义”，因此[C]正确。\n\n[错项排除] [A] rich、[B] urban、[D] educated 均可以修饰 Americans 表示某类人群，其相对的人群分别是“贫穷的”、“郊区、乡村的”和“教育水平低的”，无法直接对应上文“无业的（who have been unemployed)”这一信息；另外[D] educated 看似和下文 poorly-educated... 相对，但其重心在 shortage of well-paid jobs 上，仍牢牢锁定“工作的重要性”这条主线。"
+      },
+      {
+       "number": 8,
+       "score": 0.5,
+       "options": {
+        "A": "explanation",
+        "B": "requirement",
+        "C": "compensation",
+        "D": "substitute"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n8. [A] explanation 原因 [B] requirement 必要条件\n\n[C] compensation 补偿 [D] substitute 代替者\n\n[考点提炼] 句内逻辑关系。\n\n[解题思路] Also, some research suggests that...与上句 One Gallup poll found 对仗，表明两句间“并列补充”关系，而上句的发现为“无工作者患抑郁症的概率较大”,即“无工作 VS 疾病”之间有因果关联；本句主语 ____ for... 引出的内容对应“疾病(mortality,...)”,表语对应“无工作(a shortage of well-paid jobs)”,explanation for sth 指“某事的原因”,符合上下文逻辑，故[A]正确。\n\n[错项排除] [B] requirement 与 for 搭配时多表示“实现某事必备的条件”，for 后面是“要实现的事”，而“疾病概率上升的条件是缺少高薪工作”显然不合逻辑。[C] compensation 与 for 搭配表示“使坏情况变好的事物；对不利局面的补偿”，for 后面是“坏情况”；文中 rising rates of... 虽然为“坏情况”，但 shortage of well-paid jobs 为消极事物，自然不能对之起到改善作用。[D] substitute 与 for 搭配，for 后面是“被替代的事物”，应该与“替代物”同质、作用或功能类似，而文中 rising rates 和 a shortage of well-paid jobs 并不属于同质事物。"
+      },
+      {
+       "number": 9,
+       "score": 0.5,
+       "options": {
+        "A": "under",
+        "B": "beyond",
+        "C": "alongside",
+        "D": "among"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n9. [A] under 由……控制；在……手下工作 [B] beyond 超出某人的理解能力\n\n[C] alongside 和……在一起 [D] among 在……中间\n\n[考点提炼] 句内语义+介词用法。\n\n[解题思路] 空格前 mortality, mental-health problems, and addiction 为“疾病相关的问题”, 空格后 poorly-educated middle-aged people 为“特定人群”, 空格介词需体现两者之间的关系。上句为“无业者患抑郁症(的比例……)”, 本句只能是“特定人群出现此类问题(的原因是……)”, 即“在这群人当中所出现的问题”, [D] among 符合要求。\n\n[错项排除] [A] under (sb.)含义有二：1)由……控制[管理、经营],2)在……手下工作，这两个含义均不能顺滑衔接“疾病相关问题”与“特定人群”之间的关系。[B] beyond (sb.)表示“超出某人的理解能力”,如：The whole problem was quite beyond him.(这个问题他根本无法理解。),[C] alongside (sb.)表示“与……一起”,而“超出某人理解能力的不断增长的比例”和“不断增长的比例与人一起”明显不合逻辑。"
+      },
+      {
+       "number": 10,
+       "score": 0.5,
+       "options": {
+        "A": "leave behind",
+        "B": "make up",
+        "C": "worry about",
+        "D": "set aside"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n10. [A] leave behind 留下；永久脱离(某情况/人/地) [B] make up 组成；编造；补足；补修\n\n[C] worry about 担心 [D] set aside 不顾；驳回，撤销\n\n[考点提炼] 上下文语义+动词词组辨析。\n\n[解题思路] 空格句指出：也许这就是许多人 ____ 无工作的未来会满是痛苦沉闷的原因。本段首句介绍另外一些人对未来的看法：人们感觉生活不再有意义，变得懒惰空虚。随后以调查发现说明“无工作”对人的负面影响，可见空格句是对全段的总结，说明这些人有此看法的原因；agonizing dullness 呼应首句 purposelessness、lazy and depressed,只有[C]符合文意，表现人们对未来的担忧之情。\n\n[错项排除] [A]错将句中 many 看成是对上句 poorly-educated middle-aged people 的指代，顺而得出“他们心中留下了痛苦的无聊感”，但该短语内涵为“把某物/人留在原地”，而非“心中生出某情绪”。[B]用法很多，及物时其后宾语可以是“群体/比例、理由/故事、数量/时间、课程”等，而文中宾语为“情绪”，排除该项。[D]表示“把情绪、信仰等抛诸脑后，不再受其影响”，显然背离上下文。\n\nA different and not mutually exclusive prediction holds that the future will be a wasteland of a different sort, one characterized by purposelessness: Without jobs to give their lives meaning, people will simply become lazy and depressed.\n\n功能注释：本句冒号后的分句是对前一分句中 purposelessness 的解释说明。分句 1 中 one 为 a wasteland 的同位语，characterized by purposelessness 为后置定语修饰 one, 说明这种类型荒芜之地的特点。\n\n**语篇分析**\n\n第二段指出对不用工作未来的消极推测二：生活失去意义，只剩负能量。①句过渡，引出不同于“世界将极其不平等”的另一种推测：人们会因缺少追求而堕落。different 开启对另一种看法的介绍，而 not mutually exclusive 和a wasteland of...表明其与首段看法在本质上相同：均对未来持悲观态度；a different sort 明确句首 different 所指，由同位语 one characterized by purposelessness 具体明示，与 defined by inequality 形成对仗；Without jobs to give their lives meaning 侧面表明“工作”的意义：赋予生活价值和意义；lazy and depressed 从心态和心理健康两方面明确未来的不利局面。②至④句利用“现状”说“未来”,论证①句推测。Indeed、One Gallup poll、Also,some research 串起句群逻辑线，其中②句总述无业者的悲观心态，③④句以调查研究表明无工作对身心健康的负面影响。who have been unemployed 与a shortage of well-paid jobs 对应，表现“因”——无(高薪)工作，having depression...与 rising rates of mortality...对应，表现“果”——患病几率大，突显“无工作”对人的不利影响。⑤句总结：上述不利影响正是一些人担心(无工作的)未来会造成痛苦的原因。dullness 源于形容词 dull,既表示“乏味枯燥”,还用于形容“疼痛”:not very severe but continuous“不那么严重，却隐隐约约持续不断”,暗示无工作的情况犹如“慢性疾病”,害人于无形之中。\n\n① But it doesn't 11 follow from findings like these that a world without work would be filled with unease. ② Such visions are based on the 12 of being unemployed in a society built on the concept of employment. ③ In the 13 of work, a society designed with other ends in mind could 14 strikingly different circumstances for the future of labor and leisure. ④ Today, the 15 of work may be a bit overblown. ⑤ “Many jobs are boring, degrading, unhealthy, and a waste of human potential,” says John Danaher, a lecturer at the National University of Ireland in Galway.\n\n①但是这些调查发现不一定能证明无工作的世界将满是不安。②此类想象是基于“无业的”缺点，而其所在的社会是构建于“有业”概念之上的。③在没有工作的情况下，一个怀揣着其他宗旨的社会可能会在未来的劳动与休闲方面产生截然不同的情形。④如今，工作的好处可能有点言过其实了。⑤戈尔韦爱尔兰国立大学的一位讲师约翰·丹纳赫说道：“许多工作枯燥乏味、有失体面、有害健康，且对人的潜能是一种浪费。”"
+      },
+      {
+       "number": 11,
+       "score": 0.5,
+       "options": {
+        "A": "statistically",
+        "B": "occasionally",
+        "C": "necessarily",
+        "D": "economically"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n11. [A] statistically 统计地\n\n[C] necessarily 必然地，一定地\n\n[考点提炼] 句内语义。\n\n[B] occasionally 偶尔，偶然地\n\n[D] economically 经济地；节约地\n\n[解题思路] 空格句指出：但是从这些调查发现中不____证明无工作的世界将满是不安。But... doesn't ____ follow from findings... 表明本句为过渡句，转承上文“对未来消极看法”,开启积极视角评述。not necessarily 表示“上述内容不一定正确”,语气委婉，使论证更显客观，因此[C]正确。\n\n[错项排除] [A] statistically、[D] economically 分别表示“从统计学角度看”和“从经济学角度看”，暗示上文从其他学科角度叙述（如社会学角度），但上文是宏观论述无工作未来对人类的负面影响，后文也未涉及“统计”或“经济”方面的内容。[B] occasionally 强调“有时发生，但没规律或频率低”，not occasionally 双重否定表肯定；而“从上述发现中得出这一结论不是偶然的”暗示下文将就“结论（无工作的未来充满不安）的必然性”展开论述，这与⑤句“许多工作枯燥、不体面、不利健康……”所体现的“工作并非都是优势”相矛盾。"
+      },
+      {
+       "number": 12,
+       "score": 0.5,
+       "options": {
+        "A": "chances",
+        "B": "downsides",
+        "C": "benefits",
+        "D": "principles"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n12. [A] chances 机会，可能性\n\n[B] downsides 不利的一面，缺点\n\n[C] benefits 好处；利益\n\n[D] principles 原则\n\n[考点提炼] 名词辨析。\n\n[解题思路] such visions 指代上文“一些人对于无工作未来的推测”，空格词表明这些推测的出发点；而上文“人们会变得空虚无聊、抑郁症、吸毒等问题发生概率会持续增长”等内容都是不工作的负面影响，the downside of a situation 意为“某情况（中较其他方面的）不利一面”，故[B]正确。\n\n[错项排除] [A] chances 表示“事情发生的可能性、机会”，如：There's always the chance that something will go wrong.（总有可能会出现问题。），但上文不涉及对“失业概率”问题的论述。[C] benefits 反向干扰，与上文所述不工作的消极影响相悖。[D] principles 指“某做法、计划、体系等所依据的基本理念”，而“失业的原则”这一说法明显不合逻辑。"
+      },
+      {
+       "number": 13,
+       "score": 0.5,
+       "options": {
+        "A": "absence",
+        "B": "height",
+        "C": "face",
+        "D": "course"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n13. [A] (in the) absence (of) 没有，缺乏\n\n[B] (in the) height (of) 在……的顶峰\n\n[C] (in the) face (of) 面对；由于\n\n[D] (in the) course (of) 在……期间\n\n[考点提炼] 上下文语义 + 固定搭配。\n\n[解题思路] 上文表明，人们对于未来的担忧源于当前社会对于“无业”的负面认知；本句中 other ends(其他目的)是就上句 (on the concept of) employment 而言，即上句描述惯常社会认知：以工作为社会存在的唯一目的，本句描述另一种社会认知：不以工作为唯一目的，再结合 for the future of labor and leisure 以及空格后信息 of work 推断本句探讨的应该是“未来无工作(但存在劳动和休闲)”情况下的社会情形，in the absence of work 可作句子状语，表示“在没有/缺乏工作的情况下”,[A]正确。\n\n[错项排除] [B] 表示“在某事物的巅峰时期”，of 后接“特定的时期或活动”，而文中空格后为 work，“在工作的巅峰时期”所指不明。[C]（in the) face (of) 有两层含义：(1) 即使面对（问题、困难等），(2) 由于、因为，分别体现让步和因果逻辑，不符合文意。[D] 表示“在事物发生的进程中”，而“在工作的过程中，一个……的社会可能……”暗示“工作”这一动作的执行者为“社会”，显然逻辑错误。"
+      },
+      {
+       "number": 14,
+       "score": 0.5,
+       "options": {
+        "A": "disturb",
+        "B": "restore",
+        "C": "exclude",
+        "D": "yield"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n14. [A] disturb\n[B] restore\n[C] exclude\n[D] yield\n\n[考点提炼] 句内语义+动词辨析。\n\n[解题思路] 空格处动词需体现“主语(社会)”与“宾语(截然不同的情形)”之间的关系。上句介绍基于“无工作弊端多多”这一社会认知的有关未来之推测，即：未来充满焦虑、不安（would be filled with unease）；本句介绍基于“社会存在的基础不仅仅是工作，还有休闲”这一认知的推测，即：未来会____截然不同的情形；空格词应与“充满”相近，只有 yield 符合要求，表示“产生某种结果”之意，[D]正确。\n\n[错项排除] [A] disturb 表示“破坏环境或氛围”、[C] exclude 表示“故意不接受/考虑某物”，两项均暗含“妨碍、不让某结果产生”之意，恰与文意相反。[B] restore 表示“恢复到原来的状态”，其后接“原有事物或状态”，而空格后为 strikingly different circumstances，即不同于过去的新情形，与之不符。"
+      },
+      {
+       "number": 15,
+       "score": 0.5,
+       "options": {
+        "A": "model",
+        "B": "practice",
+        "C": "virtue",
+        "D": "hardship"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n15. [A] model 模式\n\n[B] practice 实践\n\n[C] virtue 优点\n\n[D] hardship 困难\n\n[考点提炼] 上下文语义。\n\n[解题思路] 空格句指出：如今，工作带来的 ____ 也许有点夸大了；下文进而以引语进行补充说明：工作枯燥乏味、不体面、不健康，浪费人类潜力。因此空格句意在强调“工作并不像人们认为的那样益处多多”，借以反衬“无工作的未来未必那么糟糕”这一段落主旨，故[C]virtue 符合文意。\n\n[错项排除] [D] hardship 所示文意“工作的困难被放大了”暗示下文引语会围绕“工作并没有人们想得那么艰难痛苦”展开。[A] model、[B] practice 均不涉及“好坏程度”，因此也不存在夸不夸大的问题，无法与文中 overblown 构成合理搭配。\n\n**词汇注释与难句分析**\n\nfollow from 是……的必然结果\n\nunease n. 不安\n\nstrikingly ad. 显著地，引人注目地\n\nvision n. 憧憬，想象\n\ndesign v. 设计\n\ncircumstance n. 情形\n\noverblow v. 夸张，过分渲染\n\nend n. 目的\n\ndegrading a. 丧失体面的\n\n**语篇分析**\n\n第三、四段针对上述消极看法提出反对意见：无工作有其积极意义。\n\n第三段转承上文明确文章观点：无工作的世界未必不好，工作未必尽是好处。首句为段落主旨句。But it doesn't necessarily...提示本段开启对作者观点的论述。句中 it 为形式主语，真正主语为 that 从句；follow from findings 指“从研究发现中推出某结果”;be filled with unease 是对上文“无工作未来的负面影响”的概括。②至⑤句论证首句观点。②句分析消极看法的漏洞：出发点不客观。Such visions 回指上述对无工作未来的种种负面推测；are based on 引出其依据，the downsides of being unemployed 为依据的核心内容，in a society built on the concept of employment 则明确依据何以站不住脚：我们所在的社会构建于“工作”这一理念之上，“无业”理所当然被视为一无是处，据此来看未来势必不乐观。③句继而对“无工作未来”进行客观推测。In the absence of work 意即“未来无工作的情况下”;designed with other ends in mind(end 指“目的、目标”)修饰 a society,表明“社会”的正确定位：不仅仅基于“工作”,而是有多种目标；could...引出对“基于多种目标的社会”未来情况的推测；此处 strikingly different 修饰 circumstances for the future of...,强调“无工作”的非凡影响力：可能使得“劳动 VS 休闲”呈现出完全不同于当前的形式。④⑤句从反面论证“工作”的缺陷。a bit overblown 以委婉笔触表现出对“唯工作论”的质疑。⑤句引证④句，列举工作的弊端。boring、degrading、unhealthy、and a waste of human potential 反向暗示“无需工作”可以避免这些问题，为下文展开论述“无工作的好处”做好铺垫。\n\nIV ① These days, because leisure time is relatively 16 for most workers, people use their free time to counterbalance the intellectual and emotional 17 of their jobs. ② “When I come home from a hard day’s work, I often feel 18,” Danaher says, adding, “In a world in which I don’t have to work, I might feel rather different” — perhaps different enough to throw himself 19 a hobby or a passion project with the intensity usually reserved for 20 matters. [352 words]\n\n①现阶段，由于大多数工作者的闲暇时间相对不足，所以人们把空闲时间用作对工作上的智力以及情感方面烦心事的抵消力量。②丹纳赫说：“结束一天的辛苦工作回到家时，我经常会感觉疲惫不堪。”他还补充道：“在不必工作的世界里，我也许会有大不同的感受”——也许足够不同到让他以一种往往是用于专业问题的专注度全身心投入到某个兴趣或爱好当中。"
+      },
+      {
+       "number": 16,
+       "score": 0.5,
+       "options": {
+        "A": "tricky",
+        "B": "lengthy",
+        "C": "mysterious",
+        "D": "scarce"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n16. [A] tricky 难对付的；狡猾的\n\n[B] lengthy 长时间的；冗长的\n\n[C] mysterious 神秘的\n\n[D] scarce 不足的，稀少的\n\n[考点提炼] 上下文语义+形容词辨析。\n\n[解题思路] 空格句中 relatively(相对地)体现本句“现阶段人们的空闲时间”VS 上文“未来人们的“空闲时间”之间的比较意味，即无工作情况下时间必定很充裕，而当前人们不得不工作，其闲暇时间自然较少，因此[D]符合文意。\n\n[错项排除] [A] tricky 一方面表示“某事复杂或问题很多，因而难以对付、棘手”，另一方面指“(人)狡猾，诡计多端”，很显然这两个含义都不能说明“时间”的特点。[B] lengthy 一方面指“时间上的漫长”，构成反义干扰，另一方面指“讲话、文章等冗长，过于详尽”，不能与 leisure time 构成合理搭配。[C] mysterious 指“某事件或情况难以解释/理解”，而“空闲时间”显然不存在“难以解释/理解”的情况。"
+      },
+      {
+       "number": 17,
+       "score": 0.5,
+       "options": {
+        "A": "demands",
+        "B": "standards",
+        "C": "qualities",
+        "D": "threats"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n17. [A] demands 困难的/烦人的/累人的事情；需要\n\n[B] standards 水平；标准\n\n[C] qualities 品质；质量；特性\n\n[D] threats 威胁\n\n[考点提炼]句内语义。\n\n[解题思路] 句中 counterbalance 指“使平衡，抵消”; 文中互相平衡/抵消的双方为：闲暇时间 VS 工作上智力和情感的 ____; 而闲暇时间明显是用来放松的，能与其产生相反影响的只能是“工作上智力和情绪的劳累”, 能表现这一含义的只有 demands, the demands of sth 为常见用法，表示“困难的/烦人的/累人的事情”, [A] 正确。\n\n[错项排除] [B] standards 指“用来判断/衡量质量的标准”或“质量/成就等被接受的水平”，而“用闲暇时间平衡智力和情绪上的标准/水平”明显不符合语义逻辑。[C] qualities 指“优良品质”，属于“自身属性”，因而不存在“被平衡/抵消”的说法。[D] threats 暗含“工作给人类带来智力和情绪上的威胁”之意，不符合文意，其次闲暇时间也不可能对威胁起到抵消作用。"
+      },
+      {
+       "number": 18,
+       "score": 0.5,
+       "options": {
+        "A": "ignored",
+        "B": "tired",
+        "C": "confused",
+        "D": "starved"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n18. [A] ignored 被忽视的，被忽略的\n\n[B] tired 疲倦的\n\n[C] confused 困惑的\n\n[D] starved 饥饿的\n\n[考点提炼]句内语义。\n\n[解题思路] 上文指出人们利用空闲时间来抵消工作对智力和情感的要求，这种要求实指“工作中需要应付的困难、累人之事”,因此本句只能是“工作一天后感觉疲惫”,[B] tired 符合文意。\n\n[错项排除] [A] ignored、[C] confused、[D] starved 均可与 feel 构成合理搭配，但“感觉被忽视/困惑/饥饿”与上文“抵消工作中的需求”以及下文“不用工作时，有精力去发展业余爱好或喜好”无甚关联。"
+      },
+      {
+       "number": 19,
+       "score": 0.5,
+       "options": {
+        "A": "off",
+        "B": "against",
+        "C": "behind",
+        "D": "into"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n19. [A] (throw)... off 摆脱\n[B] (throw)... against 朝……扔/投\n[C] (throw)... behind\n[D] (throw)... into 投身于；积极投入\n\n[考点提炼] 固定搭配。\n\n[解题思路] 空格句对上句“工作一天后很疲惫”进行补充：“在一个不需要工作的世界，我也许会感觉大不相同”；破折号后作者对这一感觉作出解释：也许不同到____某个兴趣或爱好计划……。不同于“疲惫”，同时和“兴趣、爱好”挂钩、还要与“throw（投）”这一动词相关的动作只能是“投入”，throw oneself into...表示“积极投入到某事中去”，符合文意，[D]正确。\n\n[错项排除] [A] (throw)...off 指“摆脱束缚、疾病等”，而文中宾语为积极含义的“兴趣爱好”。[B] (throw)...against 利用其“朝着……扔/投”释义进行干扰，但其表示的是“实际的身体动作”，没有修辞用法，不能表示“投身于兴趣爱好”。[C] behind 利用 throw one's weight behind 这一固定短语进行干扰，该短语表示“支持某人/某事”，文中宾语为 himself 而非 his weight。"
+      },
+      {
+       "number": 20,
+       "score": 0.5,
+       "options": {
+        "A": "technological",
+        "B": "professional",
+        "C": "educational",
+        "D": "interpersonal"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n20. [A] technological 技术的 [B] professional 专业的；职业的\n\n[C] educational 教育的；有教育意义的 [D] interpersonal 人际的\n\n[考点提炼] 上下文语义。\n\n[解题思路] 空格部分大意为：也许足够不同到让他以往往为 ____ 问题而留的热情投入到某个兴趣中去(with the intensity... )。professional 一词强调“区别于业余爱好的专业、职业性”,紧贴全文焦点“工作”的同时，也契合句子体现的“人们在闲余情形下对兴趣的热情、专注度之高”,印证全文论点：无工作的未来未必不好(不会满是闲散与不安，相反会涌现新的专业人才)。\n\n[错项排除] 其余三项均能与 matters 构成合理搭配，体现一定的积极意义，但一方面\"技术的/教育的/人际的“修饰 matters，只能代表某个领域的问题，与 usually reserved for...（往往留给）所体现的宏观现实情形不符，同时也无法体现”热烈程度”。\n\n**词汇注释与难句分析**\n\nleisure time 空闲时间\n\nrelatively ad. 相对地，比较地\n\nintellectual a. 智力的\n\ncounterbalance v. 使平衡，抵消\n\nhobby n. 业余爱好\n\npassion n. 强烈的爱好，热爱\n\n**语篇分析**\n\n第四段深入说明“无工作”的积极意义。首句退步表明当前人们的无奈：闲暇时间仅够平衡工作的辛劳。relatively scarce 暗示相对于未来不用工作的情况，当前人们没有什么空闲时间（去做其他的事）；后置修饰成分 of their jobs 表明 the intellectual and emotional demands 特指“为应对工作之需而造成的智力、情感的损耗”。②句进而表明未来无需工作的意义。破折号前为具体人物引语，比较“为工作所累(often feel tired)VS 无需工作(might feel rather different)”的不同；破折号后切换至评论视角，对这一“不同”作详细说明；throw himself into a hobby or a passion project 明确直接意义：有机会专注于自身兴趣爱好；with the intensity... 说明这种“专注”的方式：以极大的专注力和激情；usually reserved for professional matters 修饰 intensity(强度、热烈、专心致志)，侧面凸显无工作情况下人的潜能：会以一种不亚于“专业的热情”投入到某个爱好中去，反而助力凡人成就不凡，为社会带来更大价值。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part A",
+   "instructions": "Read the following four texts. Answer the questions after each text by choosing A, B, C or D. Mark your answers on the ANSWER SHEET. (40 points)",
+   "score": 40,
+   "groups": [
+    {
+     "title": "Text 1",
+     "type": "reading",
+     "passage": [
+      "Every Saturday morning, at 9 am, more than 50,000 runners set off to run 5km around their local park. The Parkrun phenomenon began with a dozen friends and has inspired 400 events in the UK and more abroad. Events are free, staffed by thousands of volunteers. Runners range from four years old to grandparents; their times range from Andrew Baddeley’s world record 13 minutes 48 seconds up to an hour.",
+      "Parkrun is succeeding where London’s Olympic “legacy” is failing. Ten years ago on Monday, it was announced that the Games of the 30th Olympiad would be in London. Planning documents pledged that the great legacy of the Games would be to lever a nation of sport lovers away from their couches. The population would be fitter, healthier and produce more winners. It has not happened. The number of adults doing weekly sport did rise, by nearly 2 million in the run-up to 2012 – but the general population was growing faster. Worse, the numbers are now falling at an accelerating rate. The opposition claims primary school pupils doing at least two hours of sport a week have nearly halved. Obesity has risen among adults and children. Official retrospections continue as to why London 2012 failed to “inspire a generation.” The success of Parkrun offers answers.",
+      "Parkun is not a race but a time trial: Your only competitor is the clock. The ethos welcomes anybody. There is as much joy over a puffed-out first-timer being clapped over the line as there is about top talent shining. The Olympic bidders, by contrast, wanted to get more people doing sport and to produce more elite athletes. The dual aim was mixed up: The stress on success over taking part was intimidating for newcomers.",
+      "Indeed, there is something a little absurd in the state getting involved in the planning of such a fundamentally “grassroots” concept as community sports associations. If there is a role for government, it should really be getting involved in providing common goods – making sure there is space for playing fields and the money to pave tennis and netball courts, and encouraging the provision of all these activities in schools. But successive governments have presided over selling green spaces, squeezing money from local authorities and declining attention on sport in education. Instead of wordy, worthy strategies, future governments need to do more to provide the conditions for sport to thrive. Or at least not make them worse."
+     ],
+     "questions": [
+      {
+       "number": 21,
+       "score": 2.0,
+       "stem": "According to Paragraph 1, Parkrun has .",
+       "options": {
+        "A": "gained great popularity",
+        "B": "created many jobs",
+        "C": "strengthened community ties",
+        "D": "become an official festival"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| 21. According to Paragraph 1, Parkrun has ____. | 21. 根据第一段，“公园跑”已____。 |\n| --- | --- |\n| [A] gained great popularity | [A] 赢得了巨大欢迎 |\n| [B] created many jobs | [B] 创造了许多岗位 |\n| [C] strengthened community ties | [C] 加强了社区联系 |\n| [D] become an official festival | [D] 成为了官方节日 |\n\n[精准定位]第一段①句指出公园跑“每周六早上定时举行；每次人数超过5万”。②句指出公园跑“始于十来个朋友，如今在全国激起400场活动，国外更多”。③句指出该活动涉及数千名志愿者。④句则指出该活动中老少齐上场。综合段落可得知，该活动已赢得巨大欢迎，[A]正确。\n\n[命题解密] 正确项 [A] gained great popularity 是对第一段 Every Saturday morning... 50,000 runners... has inspired 400 events in the UK and more abroad... thousands of volunteers... range from four years old to grandparents 等细节的高度概括。\n\n[B]将③句公园跑活动“涉及数千名志愿者”(staffed by thousands of volunteers)改为与之存在巨大含义偏差的“创造了许多工作”(created many jobs)。[C]由①句 their local park、②句 a dozen friends、④句 range from four years old to grandparents 主观臆想出“邻里朋友间其乐融融的社区关系 (strengthened community ties)”，但文章只说“多人参加某个活动”，没有提及“人们之间的交往互动”，所以选项无从得知。[D]对④句 world record 进行曲解：由“世界纪录”主观推出这是一种“官方/正式赛事 (become an official festival)”，但实际上恰恰相反，这是一种自由参加的民间活动（集中体现于②③句）。\n\n[技巧总结]本段表面考查事实细节，实则考查段落主旨，要求学生对文中细节进行概括推理。解题时可采取思路：一、综合各句细节，整体把握段落，初步得出答案；二、利用下段首句进行反推，检验推理是否正确；三、排除对原文细节进行篡改扭曲或断章取义的选项。\n\n具体来看，首先结合首段①句的“活动已成规律、规模巨大”、②句的“发展迅速”、③句的“志愿者众多”、④句的“参加者老少皆有”，可推知该活动获得了成功/赢得了欢迎，初步确定[A]正确，再由第二段首句 Parkrun is succeeding 可推知推理正确无误，确定[A]为答案。最后排除篡改③句信息的[B]、断章取义的[C]、反向干扰的[D]。\n\nII ① Parkrun is succeeding where London's Olympic \"legacy\" is failing. ② Ten years ago on Monday, it was announced that the Games of the 30th Olympiad would be in London. ③ Planning documents pledged that the great legacy of the Games would be to lever a nation of sport lovers away from their couches. ④ The population would be fitter, healthier and produce more winners. ⑤ It has not“ happened. ⑥ The number of adults doing weekly sport did rise, by nearly 2 million in the run-up to 2012 — but the general population was growing faster. ⑦ Worse, the numbers are now falling at an accelerating rate. ⑧ The opposition claims primary school pupils doing at least two hours of sport a week have nearly halved. ⑨ Obesity has risen among adults and children. ⑩ Official retrospections continue as to why London 2012 failed to “inspire a generation.” ⑪ The success of Parkrun offers answers.\n\n**词汇注释与难句分析**\n\npledge v. 发誓，保证\n\nlegacy n. 遗产\n\nlever v. (用杠杆)撬动\n\ncouch n. 沙发\n\nfit a. 健壮的，强健的\n\nobesity n. 肥胖症\n\nretrospection n. 回想，反思\n\n**经典搭配**\n\nin the run-up to sth（重要事件的前夕）\n\nas to sth（关于）\n\nfail to do sth（未能完成某事）\n\n**语篇分析**\n\n第二段转而指出伦敦奥运会遗产正走向失败：国民运动参与不升反降。关键词为：London's Olympic \"legacy\" is failing(伦敦奥运会“遗产”在走向失败)。\n\n①句过渡提出段落主旨：伦敦奥运遗产正走向失败。Parkrun is succeeding 概述上文：公园跑正走向成功；London's Olympic \"legacy\" is failing 引发下文：伦敦奥运会遗产在走向失败。where(“在某个地方，正是……之处”)以强调功能凸显对比意味：二者就某一相同目标出现了完全相反的结果。\n\n②至⑨句解释首句，具体说明“伦敦奥运遗产”的失败之处(亦即“公园跑”的成功之处)。\n\n②③④句阐释“伦敦奥运遗产（London's Olympic “legacy”）”具体所指。三句间借名词回指 the Games of the 30th Olympiad...the Games 及情态词重复 would be...would be...紧密衔接。\n\n②句回溯至2005年宣布“伦敦将承办第30届奥运会”之日。Ten years ago on Monday 以确切日期凸显其重大意义。\n\n③句指出“奥运遗产”所指：激励全国民众开始参加体育运动。句中 Planning documents 指出该遗产的明确文件：伦敦奥运会规划文件(由政府、奥组委发布；包括奥运会的指导思想、战略目标等)。lever a nation of sport lovers away from their couches 以比喻(lever 本意为“用杠杆撬动”)和借代(couch 本意为“沙发”)展现其宏伟的战略目标：激励国民脱离懒散观看状态，开始亲身参与体育运动。pledge、great、would be(pledge 意为“[尤指公开或正式作出的]誓言、誓约”)刻画政府当时的“信誓旦旦”,与后文的“承诺落空”形成鲜明对比。注：legacy of the Games(奥运遗产)为常用表述，指各届奥运会在经济、文化、体育等各方面产生的影响，正式开始于奥运申办成功之时，成文体现在奥运规划文件。\n\n④句进一步明确其双重目的。would be fitter, healthier and produce more winners (fit 指外表的强壮(不一定健康); healthy 则更进一层，指真正的健康) 三个比较级连用、貌似传递三重语义，实则借 and 说明双重目的、并将重点落于后者：“使国民更强壮，更健康” 和 “产生更多获胜者/顶尖的体育精英” 是伦敦奥运会提出的双重目的，但在一定程度上后者又是前者的目的。\n\n⑤⑥⑦⑧⑨句转而指出奥运预期遗产正在走向失败(is failing):国民运动参与不升反降。\n\n⑤句引领句群：上述预期并未实现。It has not happened 以短句传达力度、强调事实；It 回指③④\n\n句所述 the (pledged) great legacy of the Games。\n\n⑥⑦⑧⑨句以数据论证⑤句。\n\n⑥⑦⑧句指出“国民运动参与”不升反降。\n\n⑥⑦句指出成年人(adults)的运动参与加速下降。两句间以 worse 形成语义递进，以时间状语 in the run-up to 2012...now 及时态变化体现时间顺承。\n\n⑥句着眼“规划文件设定战略目标之时——2012年伦敦奥运会前夕”:成年人的运动参与并未提升。句子以 but 形成让步转折，戳破“运动人数增多”的假象：前半句以强调结构 did rise 指出每周参加运动的净人数的确增加；后半句转而以比较级 was growing faster 指出总人口增加更快(即：运动参与实际下降了)。注：本句所关注时间段“规划文件设定预期目标之时——2012年伦敦奥运会前夕(in the run-up to 意为‘[重要事件的]前夕’)”按道理应该是国民运动热情高涨阶段，但“连这时的运动参与都未能提升”这一事实足以说明政府思路错误，或执行不当，甚至两者兼有。\n\n⑦句进而聚焦“当前”: 指出成年人的运动参与在加速下降。the numbers 回指 The number of adults doing weekly sport。are now falling at an accelerating rate 直截了当指出现在成年人运动参与“在加速下降”, 暗示事出有因。\n\n⑧句进一步指出，儿童的运动参与也已大幅下降。have nearly halved 以巨大的数据冲击力展示积极运动(每周运动至少两小时)的儿童数量的大幅减少。The opposition 指出信息来源“反对伦敦奥运战略目标或其执行方式的人”,暗示问题已引发强烈不满。\n\n⑨句概述⑥⑦⑧句现象“国民运动参与度不升反降”的后果：成人和儿童肥胖人数均增多。Obesity (when someone is very fat in a way that is unhealthy “肥胖症”)和④句的 fitter, healthier 形成鲜明对比，凸显奥运遗产的失败：国民不仅未能更强壮、更健康；反而出现更多肥胖症、更不健康。\n\n⑩⑪句收束全段、照应开篇、且引出下文：官方一直在反思原因，却始终不得其解；“公园跑”的成功则给出了答案。两句间以 why...offers answers 形成问答逻辑。\n\n⑩句指出官方一直在反思原因，却至今未得其解。句中 Official retrospections as to why London 2012 failed to “inspire a generation”借伦敦奥运会口号概指前九句内容，引出英国官方对失败原因的反思（“inspire a generation”是2012伦敦奥运会口号，引号表直接援引；as to...为 retrospection 的定语，说明反思内容，后置是为了避免头重脚轻）。continue（意为 not stop doing sth“一直在持续（且将继续持续）”）强调英国官方“一直在反思失败原因、却始终不得其解”，预示后文引入原因分析。\n\n⑪句顺而指出“公园跑”的成功给出了答案，为下文设引。The success of Parkrun 照应①句的 Parkrun is succeeding 乃至首段；offers answers 明确下文论述角度：以“公园跑”成功的原因，说明“奥运遗产”失败的原因。\n\n[段落整体梳理] 本段有11句之多，阅读时重在梳理句间逻辑。段落整体为因果论证：①至⑨句说明事实“伦敦奥运会预期遗产(激励一代人的运动精神)失败”——⑩⑪句进入原因分析。①至⑨句内部为“总(①句)——分(②至⑨句)”结构，且②③④句追溯当初伦敦奥运会预期遗产；⑤至⑨句说明预期失败：未能激发运动参与、改善国民健康(其中⑥⑦⑧句对应③句，⑨句对应④句)。"
+      },
+      {
+       "number": 22,
+       "score": 2.0,
+       "stem": "The author believes that London’s Olympic “legacy” has failed to .",
+       "options": {
+        "A": "boost population growth",
+        "B": "promote sport participation",
+        "C": "improve the city’s image",
+        "D": "increase sport hours in schools"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 22. The author believes that London's Olympic “legacy” has failed to ____. | 22. 作者认为伦敦奥运会“遗产”未能____。 |\n| --- | --- |\n| [A] boost population growth | [A] 促进人口增长 |\n| [B] promote sport participation | [B] 提升运动参与 |\n| [C] improve the city's image | [C] 改善城市形象 |\n| [D] increase sport hours in schools | [D] 增加校内运动时间 |\n\n[精准定位]根据题干定位到第二段。该段指出，奥运会遗产预期能够促进国民参与运动、促进国民健康；结果却是运动人数下降，肥胖人数增加。可见[B]正确。\n\n[命题解密]正确项[B] (failed to)promote sport participation 是对第二段⑤至⑨句内容的概括。sport participation 同义替换 doing weekly sport/doing...sport a week。\n\n[A]将⑦句 the numbers are now falling(运动人数下降)理解为“总人口下降”。且⑥句明确指出人口数量在快速增加(was growing faster)。[C]结合常识“举办奥运会有助于提升城市形象”和④句 The population would be fitter, healthier 设置干扰，但作者关注的是“运动参与及国民健康”,无关“城市形象”。[D]将⑧句 primary school pupils doing at least two hours of sport a week have nearly halved 偷换对象，减半的是“热爱运动的学生人数(pupils)”,而不是“校内运动时间(sport hours)”。\n\n[技巧总结]第二段涉及多个概念之间的多重复杂关系(因果关系，同向、反向变化关系等),在此设置具体事实题能充分考查学生辨析信息的能力。解题时需从两个方向入手：一、借助逻辑词等线索理清所考段句(句群)间逻辑关系；二、将选项与原文比较，看信息是否一致，比较过程中一定要重神似(同义改写或概括原文内容)、轻形似(虽然文字表面与原文相似，但实际内容与原文相悖)。\n\n具体看本题，首先从原文入手，可借①句 where London's Olympic “legacy” is failing 和⑩句 why London 2012 failed to “inspire a generation”推断②—⑨句具体阐释伦敦奥运遗产的失败之处，说明 inspire a generation 所指，为解题主要线索。再借⑤句 It has not happened. 进一步推知②—④句具体说明当初预期，⑥—⑨句则说明预期失败，解题需整体对比两大部分。对比可发现失败之处：未能促进运动参与、提升国民健康，初步锁定[B]。再从选项解题：发现[D]偷换⑧句概念，[A]与⑥句相悖，[C]在原文中并未提及，可排除。[B]虽从字面上看文中未提及，却是对其中主要内容的概括改写，故正确。\n\nⅢ ① Parkrun is not a race but a time trial: Your only competitor is the clock. ② The ethos welcomes anybody. ③ There is as much joy over a puffed-out first-timer being clapped over the line as there is about top talent shining. ④ The Olympic bidders, by contrast, wanted to get more people doing sport and to produce more elite athletes. ⑤ The dual aim was mixed up: The stress on success over taking part was intimidating for newcomers.\n\n“公园跑”不是竞赛，而是计时赛：你唯一的竞争对手便是时间。其精神在于欢迎任何人。气喘吁吁的初次参加者在掌声中跨过终点时，获得的快乐与光芒四射的顶尖天才一样多。相比之下，奥运会申办者则希望让更多人参与运动且产生更多的精英运动员。双重目的被混为一谈：强调“成功”胜过“参与”会吓退新手。\n\n**词汇注释与难句分析**\n\nethos n. 精神特质，理念\n\nshine v. 干的出色，出类拔萃\n\nbidder n. 投标人\n\ndual a. 双重的\n\nintimidating a. 令人胆怯的\n\n**经典搭配**\n\ntime trial (计时赛)\n\npuffed-out（气喘吁吁的，上气不接下气的）\n\nfirst-timer（初次做某事者）\n\nOlympic bidder(奥运申办者)\n\nstress on A over B (强调 A 胜过 B, 把 A 看的高于 B)\n\n**语篇分析**\n\n①②③句分析“公园跑”成功吸引大众的原因。三句步步深入，指向公园跑大受欢迎的根本原因。\n\n①句以取舍结构 not A but B 强调“公园跑”的性质：不是竞赛，而是计时赛(无对手、无压力)。race 强调“与他人竞争、争取胜出”。a time trial: Your only competitor is the clock (the clock 为借代用法，以“时钟”指“时间”; only 强调唯一性)强调“只需与时间竞争、挑战自己；没有与他人竞争的压力”。\n\n②句以绝对表述 welcomes anybody 概括“公园跑”的理念：欢迎任何人参加(无门槛、无限制)。ethos (单数名词、集体概念，意为“道德意识、精神特质”) 强调公园跑的核心理念。\n\n③句以同级比较 There is as much joy over A as there is about B 展现“公园跑”的最大魅力：带给每一位参加者同样的掌声和快乐(有鼓励、有快乐)。两组对比 first-timer VS top talent、puffed-out VS shining 选取参加公园跑的“两端人群”:气喘吁吁到达终点的初次参加者 VS 光芒四射的顶尖天才运动员。同级比较 There is as much joy over...as there is about...强调公园跑的魅力：无关胜负，所有人都能获得同样多的快乐。being clapped over the line 修饰 puffed-out first-timer,进一步展现活动的吸引力：即便最后狼狈到达终点，也能获得热烈掌声(体现了鼓励与善意)。\n\n④⑤句为第二层，分析伦敦奥运会遗产失败(国民运动参与不升反降)的原因。逻辑词 by contrast 衔接两个句群，强调二者成败的差异。The dual aim 回指衔接④⑤句。\n\n④句明确奥运会申办者的“双重目的”：让更多民众参与运动；产生更多的精英运动员。The Olympic bidders“奥运申办者”具体到本文主要指伦敦奥组委。wanted to get more people doing sport and to produce more elite athletes 回应上段 would be fitter, healthier and produce more winners，说明奥运会申办者的双重目的，并和①②③句传递的“公园跑唯一目的——鼓励全民运动”形成对比。\n\n⑤句进而指出申办者将双重目的混为一谈：“强调获胜”会吓退“运动菜鸟”。The dual aim was mixed up 直接否定上述思路：两种目的混为一谈（mix up 意为“混淆，混乱”，带有强烈贬义）。冒号后进一步说明申办者强调重点，并明确其中矛盾、说明失败原因：申办者实则强调成功胜过参与（the stress on success over taking part 对应 to produce more elite athletes，即：“产生更多精英运动员”才是其强调重点）会吓退新手（newcomers 回应 to get more people doing sport，即：“让更多人参与运动”成为空谈）。\n\n[段落整体解读]一、段落以 by contrast 衔接①②③句和④⑤句，在“公园跑”和“奥运会”之间形成对比，阅读重点在于抓取二者不同之处：前者目的唯一（欢迎全民运动），后者有双重目的（“促进全民运动”和“产生精英运动员”，且更重视后者）。二、本段通过末句的点睛之笔，揭示伦敦奥运申办者战略目标的矛盾性，从而解释上段所述现象（国民运动参与不升反降、奥运遗产走向失败）原因：强调成功胜过参与（即：强调产生精英运动员）会吓退新手（即：无法提升大众运动参与）。"
+      },
+      {
+       "number": 23,
+       "score": 2.0,
+       "stem": "Parkrun is different from Olympic games in that it .",
+       "options": {
+        "A": "aims at discovering talents",
+        "B": "focuses on mass competition",
+        "C": "does not emphasize elitism",
+        "D": "does not attract first-timers"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n| 23. Parkrun is different from Olympic games in that it ____. | 23. “公园跑”不同于“奥运会”之处在于它____。 |\n| --- | --- |\n| [A] aims at discovering talents | [A] 意在发现天才 |\n| [B] focuses on mass competition | [B] 聚焦大众比赛 |\n| [C] does not emphasize elitism | [C] 不强调精英主义 |\n| [D] does not attract first-timers | [D] 无法吸引新手 |\n\n[精准定位]根据题干关键词 different 定位到第三段(④句的 by contrast 是 different 的同义表达)。该段首先指出“公园跑”旨在让所有人参加运动、获得快乐。随后指出“奥运会”有两个目的：既希望民众广泛参与，又希望发现精英运动员。所以二者区别在于：“公园跑”不强调“精英主义”,[C]正确。\n\n[命题解密]正确项[C]中 emphasize elitism 是对 produce more elite athletes(“奥运会”所强调的、而“公园跑”所不涉及的内容)的同义改写。\n\n[A]aims at discovering talents（意在发现天才）源自④句 produce more elite athletes，但这是“奥运会”的目的，而非题目所问“公园跑”的目的。[B]focuses on mass competition 利用①句 competitor 和②句 welcomes anybody 粧杂形成干扰，但原文强调的是公园跑“鼓励大众运动，并不强调竞争”，选项与之存在巨大含义偏差。[D]does not attract first-timers 利用⑤句 was intimidating for newcomers 形成干扰，但这是“奥运会（承办者）”的问题，与“公园跑”的特征相反。\n\n[技巧总结]“事物详细比较处”为命题人常考点。考生需：一、仔细读题干，明确命题人重在考查“哪一方”特征；二、梳理原文，理清比较对象（A、B）、比较方面（X1、X2...）、以及比较结果；三、分析选项，排除颠倒比较结果的选项，排除扭曲原文信息的选项；选取和原文信息一致的选项。\n\n具体看本题，首先读题干，发现命题人重在考查“公园跑”(it 指代 Parkrun)特征。随后读原文，发现第三段以 by contrast 将段落一分为二，比较“公园跑”和“奥运会”的区别。最后分析选项，发现 [A]、[D] 颠倒对象（将“奥运会”特征当做“公园跑”特征），[B] 违背①②句信息，均排除。[C] 体现二者根本差异，符合原文比较结果，为正确项。\n\nIV ① Indeed, there is something a little absurd in the state getting involved in the planning of such a fundamentally “grassroots” concept as community sports associations. ② If there is a role for government, it should really be getting involved in providing common goods — making sure there is space for playing fields and the money to pave tennis and netball courts, and encouraging the provision of all these activities in schools. ③ But successive governments have presided over selling green spaces, squeezing money from local authorities and declining attention on sport in education. ④ Instead of wordy, worthy strategies, future governments need to do more to provide the conditions for sport to thrive. ⑤ Or at least not make them worse. [405 words]\n\n的确，政府参与规划“社区体育协会”这样本质上“草根”的概念有点荒唐。如果政府要起点作用，那其实应该是努力提供公共物品——确保有运动场地的空间，有铺筑网球、篮网球场的资金，并支持学校开展所有这些体育活动。但是历届政府却一直掌管着售卖绿地，压缩地方政府资金，拒绝重视教育领域的体育运动。未来政府不是要制定冗长的，令人尊敬的策略，而是需要多干实事，为繁荣体育运动提供条件。或者至少不要让情况变得更糟。\n\n**词汇注释与难句分析**\n\ngrassroots n. 基层民众，草根\n\nsuccessive a. 连续的\n\ndecline v. 拒绝\n\nwordy a. 冗长的，啰嗦的\n\nworthy a. 有价值的，值得尊敬的\n\nget involved in sth（参与，卷入）\n\ncommon goods(公共产品，公共资源)\n\nmake sure（确保）\n\npreside over(主持，掌管……)\n\nat least(至少，起码)\n\n**经典搭配**\n\n**语篇分析**\n\n第四段进一步指出伦敦奥运遗产失败更重要的原因：历届政府做法错误。关键词为：providing common goods(提供公共物品)。\n\n①②③句重批判：英国政府做法严重错误。\n\n①句指出政府的错误做法：具体参与草根运动的规划。Indeed 承载评判语气，开启对政府做法错误性的揭示。getting involved in...说明政府过去十年间做法：借设立“社区体育协会”等方式组织基层活动(such、fundamentally 蕴含作者强烈情感：“政府”居然插手策划如此“草根”的活动)。a little absurd 明确作者对政府做法的讽刺批判：有些可笑。\n\n②句转而指出政府应该采取的正确做法：确保公共资源到位。If there is a role for government, it should really be...以假定条件句承接上文提出建议：假如政府真要起到什么作用(言外之意：政府无需具体规划基层体育活动),那便是……(其中 really 起强调功能：这才是政府真正应该做的)。getting involved in providing common goods 指明政府正确做法：提供公共资源。破折号后具体解释 getting involved in providing common goods:确保大众运动所需的场地、资金等。\n\n③句再次转折，指出历届政府实际背道而驰。转折词 But 从②句的政府“应该如此”到本句“实际完全相反”。successive governments (successive 意为“连续的，历届的”)强调历届政府都是如此。have presided over (preside over 意为“负责(重要局面)”)强调政府的“牢牢掌控”,与②句 getting involved in (强调“行动参与”)形成对比。selling green spaces、squeezing money(squeeze 意为“严格限制、压缩”,带贬义)、declining attention on sport in education (decline 此处为及物动词，意为“[正式]拒绝”)和②句 making sure there is space、(making sure there is) the money、encouraging the provision... in schools 分别形成强烈对比，展现历届政府的背道而驰：本该确保体育场地、确保资金到位、鼓励学校重视体育；实际却在出售绿地、严格限制资金、拒绝关注学校运动(作者言外之意：难怪希望“促进运动参与，改善国民健康”的奥运遗产会走向失败)。\n\n④⑤句重在建议(为未来政府指明弥补方向):少空谈策略，多干实事。\n\n④句以取舍结构 Instead of..., future governments need to... 传递以史为鉴之意，为未来政府指出正确做法。wordy, worthy strategies 运用头韵修辞增强批判态度 (wordy 意为“冗长的，话太多的”, 带强烈贬义；worthy 明褒实贬，以“值得尊敬的”讽刺政府策略的“大而无用”; strategy 指“[为实现某目标而制定的]行动计划、策略”, 原本中性，此处带上“纸上谈兵”的贬义), 暗指以前历届政府做法。do more to provide the conditions 回应②句，向未来政府提出建议：多干实事，为繁荣体育运动提供条件。\n\n⑤句再退一步，对政府提出最低期待：至少不要让事情变得更糟。Or at least 承接上句，退步引出作者对未来政府的最低期待。not make them worse(them 回指上句 conditions)表面是在向未来政府提出建议，实际是在批判历届政府所作所为：其做法不仅未能促进国民参与运动，反而让情况变得更糟。\n\n[段落整体解读] 本段前三句作者以多重转折(Indeed... If... But)直接评判英国历届政府就“促进大众体育”的做法。后两句以取舍建议结构(Instead of..., future governments need to...)和让步建议结构(Or at least...)向未来政府提出建议。阅读时应既能分清细节(哪是作者建议做法？哪是作者批判做法？)又能把握作者总体态度(不满政府现有做法，希望未来能够改变)。"
+      },
+      {
+       "number": 24,
+       "score": 2.0,
+       "stem": "With regard to mass sports, the author holds that governments should .",
+       "options": {
+        "A": "organize “grassroots” sports events",
+        "B": "supervise local sports associations",
+        "C": "increase funds for sports clubs",
+        "D": "invest in public sports facilities"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 24. With regard to mass sports, the author holds that governments should _. | 24. 关于大众体育，作者认为政府应该_。 |\n| --- | --- |\n| [A] organize “grassroots” sports events | [A] 组织“草根”体育活动 |\n| [B] supervise local sports associations | [B] 监管地方的运动协会 |\n| [C] increase funds for sports clubs | [C] 增加对体育俱乐部的投资 |\n| [D] invest in public sports facilities | [D] 投资公共体育设施 |\n\n[精准定位]由题干关键词 mass sports、governments 定位到第四段。该段②④句指出政府就促进“大众体育”的正确做法：采取具体行动、提供公共物品。可见[D]正确。\n\n[命题解密]正确项[D]invest in public sports facilities 是对第四段②句 providing common goods—making sure there is... 以及④句 provide the conditions for sport to thrive 的概括。\n\n[A] organize “grassroots” sports events 利用①句 getting involved in the planning of such a fundamentally “grassroots” concept...制造干扰，将“作者认为错误的做法”当做“作者建议的正确做法”。[B] supervise local sports associations 对③句 have presided over... local authorities 断章取义，将“政府一直错误地压缩地方资金”理解为“政府应该监管当地体育组织”。[C] increase funds for sports clubs 篡改②句 making sure there is... the money to pave tennis and netball courts 文意：政府加大投资的对象是“公共设施(common goods)，而不是“运动俱乐部(sports clubs)”。\n\n**真题精解**\n\n[技巧总结]本段考查作者(the author holds)对文中人物做法的建议(governments should)。解题关键在于划分信息、辨明真伪：文中哪是政府的现有做法（作者认为正确还是错误），哪是作者向政府未来做法提出的建议；一定要识别命题人设置的陷阱：将作者批判的做法当做作者建议的做法。主要辨别线索为：蕴含作者褒贬态度的形容词、副词等；表明建议的情态词、动词(should, need to, suggest)等；表明作者思路的逻辑词(But, instead of 等)。\n\n具体来看本题，首先对第四段信息分类：凭借②④句的 it should really be...future governments need to 可知此处是作者建议政府应该采取的正确做法，是正确项的主要来源；凭借①句的 there is something a little absurd 以及③句的 But、④句的 Instead of wordy, worthy strategies 可知该内容为作者反对的错误做法，是干扰项的主要来源。随后看选项：[D]是对②④句“作者建议”的概括，故正确；[A]将①句“政府现有错误做法”当做作者建议，故排除。最后看[B]、[C],前者不仅来自对“错误做法”的描述(③句),而且篡改信息，故排除；后者虽来自对“建议做法”的阐释(②句),但偷换对象，也错误。"
+      },
+      {
+       "number": 25,
+       "score": 2.0,
+       "stem": "The author’s attitude to what UK governments have done for sports is .",
+       "options": {
+        "A": "tolerant",
+        "B": "critical",
+        "C": "uncertain",
+        "D": "sympathetic"
+       },
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| 25. The author's attitude to what UK governments have done for sports is ____. | 25. 作者对英国政府对体育所做行为的态度是____。 |\n| --- | --- |\n| [A] tolerant | [A] 宽容的 |\n| [B] critical | [B] 批评的 |\n| [C] uncertain | [C] 不确定的 |\n| [D] sympathetic | [D] 赞同的 |\n\n[精准定位]根据题干关键词 what UK governments have done for sports 定位到第四段。本段前三句指出，英国政府参与规划基层体育运动的做法有些可笑。其正确做法应该是确保公共设施到位，而实际上政府却采取了完全相反的做法。最后两句向未来政府提出建议：为繁荣体育事业多干实事，至少不要让情况变得更糟。可见，作者对政府持明显的批判态度，[B]正确。\n\n[命题解密] 正确项 [B] critical 概括了文中 a little absurd、It should really be... But successive governments...、wordy, worthy strategies 等所传递的作者态度。\n\n[A]来自对⑤句 Or at least not make them worse 的曲解：作者认为政府至少没有让事情变得更糟，即持容忍态度(tolerant)。但实际上这是作者在对未来政府亮出底线(至少不能让情况更糟),暗示对政府已有行为的强烈不满。[C]来自文中明显褒贬词汇：由于文中既有贬义词 absurd、worse 等，又有褒义词 worthy 等，直接认定作者态度不确定(uncertain)。但实际上 worthy 此处是褒词贬用，讽刺历届政府习惯提“繁杂冗长、大而无用”的策略。[D]对④句 worthy strategies, future governments need to do more 断章取义：作者认为政府做法颇有价值，未来应继续加大力度(sympathetic)。但实际本句是在以取舍结构(Instead of...)和褒词贬用(worthy 和 wordy 连用，带贬义色彩)说明未来政府应该放弃当前错误做法，转变工作方式。\n\n[技巧总结]本题和上题从不同角度考查第四段内容：上题侧重细节，考查作者具体建议；本段侧重整体，考查作者总体态度。解答本题时更应该宏观把握段落、抓取作者语义重点和整体态度。切忌：一、由个别褒义(贬义)词断定作者态度；二、错误划分句间关系，误解路标词(indeed, but 等)体现的逻辑关系；三、对文中表述断章取义。\n\n具体来看本题，首先由第四段④句 future governments need to 可知，后两句重在向“未来政府”提出建议，前三句才是对“政府已有行为”的集中评判，是解题的主要线索来源。再进一步分析前三句，可发现语义重点集中于 But 转折之后的③句，该句以 have presided over selling green spaces... squeezing money... and declining attention 传递批判态度，初步判断[B]正确。最后再细看其他部分，发现前两句以 there is a little absurd 的贬义色彩和 It should really be 的批评性建议暗含对政府已有行为的不满，④⑤句对未来政府的建议也反向暗示对历届政府的不满。故完全确定[B]选项。"
+      }
+     ]
+    },
+    {
+     "title": "Text 2",
+     "type": "reading",
+     "passage": [
+      "With so much focus on children’s use of screens, it’s easy for parents to forget about their own screen use. “Tech is designed to really suck you in,” says Jenny Radesky in her study of digital play, “and digital products are there to promote maximal engagement. It makes it hard to disengage, and leads to a lot of bleed-over into the family routine.”",
+      "Radesky has studied the use of mobile phones and tablets at mealtimes by giving mother-child pairs a food-testing exercise. She found that mothers who used devices during the exercise started 20 per cent fewer verbal and 39 per cent fewer nonverbal interactions with their children. During a separate observation, she saw that phones became a source of tension in the family. Parents would be looking at their emails while the children would be making excited bids for their attention.",
+      "Infants are wired to look at parents’ faces to try to understand their world, and if those faces are blank and unresponsive – as they often are when absorbed in a device – it can be extremely disconcerting for the children. Radesky cites the “still face experiment” devised by developmental psychologist Ed Tronick in the 1970s. In it, a mother is asked to interact with her child in a normal way before putting on a blank expression and not giving them any visual social feedback: The child becomes increasingly distressed as she tries to capture her mother’s attention. “Parents don’t have to be exquisitely present at all times, but there needs to be a balance and parents need to be responsive and sensitive to a child’s verbal or nonverbal expressions of an emotional need,” says Radesky.",
+      "On the other hand, Tronick himself is concerned that the worries about kids’ use of screens are born out of an “oppressive ideology that demands that parents should always be interacting” with their children: “It’s based on a somewhat fantasised, very white, very upper-middle-class ideology that says if you’re failing to expose your child to 30,000 words you are neglecting them.” Tronick believes that just because a child isn’t learning from the screen doesn’t mean there’s no value to it – particularly if it gives parents time to have a shower, do housework or simply have a break from their child. Parents, he says, can get a lot out of using their devices to speak to a friend or get some work out of the way. This can make them feel happier, which lets them be more available to their child the rest of the time."
+     ],
+     "questions": [
+      {
+       "number": 26,
+       "score": 2.0,
+       "stem": "According to Jenny Radesky, digital products aredesigned to .",
+       "options": {
+        "A": "simplify routine matters",
+        "B": "absorb user attention",
+        "C": "better interpersonal relations",
+        "D": "increase work efficiency"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 26. According to Jenny Radesky, digital products are designed to ____. | 26. 根据詹妮·拉德斯基的观点，数字产品的设计初衷在于____。 |\n| --- | --- |\n| [A] simplify routine matters | [A] 简化日常事务 |\n| [B] absorb user attention | [B] 吸引用户注意力 |\n| [C] better interpersonal relations | [C] 改善人际关系 |\n| [D] increase work efficiency | [D] 提高工作效率 |\n\n[精准定位] 首段②③句指出 Jenny Radesky 观点：科技旨在将你真正卷入其中，数字产品就是为了促进最大参与。这使你难以自拔，且渗透到家庭日常之中。可见 Jenny Radesky 认为，数字产品的设计初衷在于“吸引用户注意力”, [B] 正确。\n\n[命题解密] 题干+正确项[B]是对②句信息的明确：digital products are designed to 对应 digital products are there to; absorb user attention 对应 promote maximal engagement。\n\n[A]截取③句词汇 routine 捏造干扰：将原文观点“人们对数字产品的沉迷影响到了家庭日常生活”篡改为“数字产品旨在简化日常事务”。[C]将②句 promote maximal engagement(促进对数字产品的最大使用)错误理解为“促进人际交流、改善人际关系”。[D]将②句 promote maximal engagement(促进对数字产品的最大使用)错误理解为“促进最大工作投入，提高工作效率”。\n\n[技巧总结] 本题要求考生对“文中人物话语/观点”做出明确解读。解题难点在于：话语中的关键表述或为固定短语、或为抽象用语，均难解其义（即：本题在很大程度上考查的是词义推断，而且是直接词汇线索匮乏的词义推断）。考生对此可采取策略：一、将人物话语视为整体，将其中难词相互关联，尽可能推导出人物观点大致方向；二、借助上下文和所考人物话语的逻辑关系，进一步获取推理线索；三、对四个选项同时采用“排除干扰法”和“锁定正确项法”，最终确定答案。\n\n具体来看本题，首先会发现 Jenny Radesky 话语(第一段②③句)中关键词(promote maximal engagement, suck you in, bleed-over)均难以理解，但整体看两句、并将难词进行关联，发现 suck you in 和 promote maximal engagement 同义/近义，说明科技/数字产品的设计初衷(随后的 disengage 与其反义，表示相反过程，dis-前缀意为“去掉/解除……”),此时可推知其大概含义(数字产品的设计初衷):将你吸入，使你最大程度参与。再联系上、下文(第一段①句和第二段①句),可知 Radesky 所言针对场景为“家庭内对数字产品的使用”。最后对比选项：[A]与 suck you in/promote maximal engagement 的“卷入，拉入”方向相悖，[C]、[D]表示的场景“社交”“职场”与原文场景“家庭”不符，均排除；[B]既与原文方向一致，又可切入文章场景，且符合数字产品特征，故是对 Radesky 观点的正确解读。\n\nII ① Radesky has studied the use of mobile phones and tablets at mealtimes by giving mother-child pairs a food-testing exercise. ② She found that mothers who used devices during the exercise started 20 per cent fewer verbal and 39 per cent fewer nonverbal interactions with their children. ③ During a separate observation, she saw that phones became a source of tension in the family. ④ Parents would be looking at their emails while the children would be making excited bids for their attention.\n\n通过让多对母子参与食物测试任务，拉德斯基研究了进餐时段手机和平板电脑的使用情况。她发现，在任务期间使用数字设备的母亲与孩子进行语言交流的频率降低了20%，进行非语言交流的频率降低了39%。在另外一次观察中，她发现手机成了家庭紧张关系的根源。当孩子们紧张不安地企图获得父母的注意时，父母们却在查看电子邮件。\n\n**词汇注释与难句分析**\n\ntablet n. 平板电脑\n\nexercise n. 活动，任务\n\ninteraction n. 交流；相互作用\n\nverbal a. 文字的，言语的\n\ntension n. 紧张关系，紧张状况\n\nbid n. 努力，企图，争取\n\n**语篇分析**\n\n第二、三段具体介绍拉德斯基的研究：父母使用数字产品会减少亲子互动，对亲子关系造成不良影响。\n\n第二段介绍拉德斯基的研究发现：父母使用数字产品会减少亲子互动，导致家庭紧张关系。关键词为：①fewer...interactions with their children(与孩子的交流减少);②a source of tension(紧张关系的根源)。\n\n①②句介绍拉德斯基有关“数字设备的使用对亲子互动的影响”的研究。Radesky has studied 与 She found、a food-testing exercise 与 during the exercise 实现句间紧密衔接。\n\n①句介绍研究内容、对象和方法。has studied...明确研究内容：手机和平板电脑在进餐时段的使用情况；by giving mother-child pairs...表明以“母子”为研究对象，让其接受测试任务。\n\n②句介绍研究发现。20 per cent fewer verbal and 39 per cent fewer nonverbal interactions 明确数字产品的使用降低了亲子之间的言语或非言语交流，尤其是非言语交流的骤降，表明孩子内心诸多难以言表的真实情感、情绪被大大忽视了，暗示可能对亲子关系造成不良后果。\n\n③④句继续介绍拉德斯基的另一发现。两句间为例证关系。\n\n③句介绍其观察发现：手机成了家庭紧张关系的根源。tension 明确手机导致家庭内部紧张关系，说明数字产品给家庭关系带来负面影响。\n\n④句举例指出：当孩子们急切地想获得父母的注意时，父母们却在查看电子邮件。while 既是时间状语引出词，强调同时性，又表让步转折，强调对比。making excited bids for 形象传达孩子努力博取父母注意时紧张不安的心情(excited 意为 nervous or upset and unable to relax“受刺激的，紧张不安的”),looking at their emails 则传达父母盯着邮件的沉静专注之态，双方之间形成“你动我静、你急我缓”的截然反差局面，导致关系紧张。两个 would be(老是，总是)凸显这种情形发生得很频繁。"
+      },
+      {
+       "number": 27,
+       "score": 2.0,
+       "stem": "Radesky’s food-testing exercise shows that mothers’use of devices .",
+       "options": {
+        "A": "takes away babies’ appetite",
+        "B": "distracts children’s attention",
+        "C": "slows down babies’ verbal development",
+        "D": "reduces mother-child communication"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 27. Radesky's food-testing exercise shows that mothers' use of devices ____. | 27. 拉德斯基的食物测试任务表明，母亲使用(数字)设备会 ____。 |\n| --- | --- |\n| [A] takes away babies' appetite | [A] 降低幼儿食欲 |\n| [B] distracts children's attention | [B] 分散孩子注意力 |\n| [C] slows down babies' verbal development | [C] 减缓幼儿语言发展 |\n| [D] reduces mother-child communication | [D] 减少母子交流 |\n\n[精准定位] 根据题干中关键名词短语 Radesky's food-testing exercise 定位到第二段。该段②句指出食物测试发现：使用数字设备的母亲与孩子的语言交流减少了 20%, 非语言交流减少了 39%。可见，母亲使用数字设备会减少其与孩子的交流，[D]正确。\n\n[命题解密] 正确项[D]是对第二段②句所述“食物测试发现”的概括：reduces 对应 20 per cent fewer...39 per cent fewer; communication 对应 verbal and...nonverbal interactions。\n\n[A]利用①句 mealtimes、food-testing 等词捏造干扰，但研究观察的不是“孩子食欲（babies' appetite）”，而是“进餐时的母子交流”。[B]改变④句逻辑关系：将“孩子努力获取父母的注意力时，父母却在使用数字设备”改为“父母使用数字设备，会分散孩子注意力”。[C]由②句“使用数字设备会使母亲与孩子的语言交流减少 20%”主观臆断出“这会减缓孩子的语言发展”，但文中实际并未提及该影响。\n\n[技巧总结] 本题就“文中所提及检测/实验/研究”命制事实细节题。考生若要快速正确解题，必须既做到“精确定位”，又做到“正确理解”：“准确定位”需要考生首先快速阅读题干、确定具体所问（命题人就哪一项研究设问？具体问的是该研究的对象、发现、还是意义？）；随后阅读文章，先圈定阐释该研究的所有内容，再分清各句阐述对象（哪一句/几句是在阐释研究对象，哪是研究发现，哪是研究意义？），从而锁定题干问题的确切来源。“理解正确”要求考生精准定位之后，从句法、语义等角度对该内容进行分析，正确提取文意、从而确定正确项；切忌对其中个别表述断章取义。\n\n具体看本题，首先“精确定位”:根据题干 Radesky's food-testing exercise shows that 可知，命题人就“Radesky 的食物检测实验”设问，具体问的是“实验发现”。据此初步定位至第二段并对其进行信息区分：首先发现①②句围绕 food-testing exercise 阐释，③④句则是关于另一实验(a separate observation),从而将解题线索锁定①②句。随后进一步分析①②句：②句 She found that...表明该句才是“研究发现”介绍句，为答案确切来源。随后“准确理解”:首先明确②句主干 mothers who used devices...started...fewer verbal and...fewer nonverbal interactions with their children,从而得知其意在展现“母亲使用数字设备”对“母子交流”的影响。随后从具体信息 20 per cent fewer verbal and 39 per cent fewer nonverbal interactions 得出结果“交流大幅减少”,从而确定[D]正确。\n\nⅢ ① Infants are wired to look at parents' faces to try to understand their world, and if those faces are blank and unresponsive — as they often are when absorbed in a device — it can be extremely disconcerting for the children. ② Radesky cites the “still face experiment” devised by developmental psychologist Ed Tronick in the 1970s. ③ In it, a mother is asked to interact with her child in a normal way before putting on a blank expression and not giving them any visual social feedback: The child becomes increasingly distressed as she tries to capture her mother's attention. ④ “Parents don't have to be exquisitely present at all times, but there needs to be a balance and parents need to be responsive and sensitive to a child's verbal or nonverbal expressions of an emotional need,” says Radesky.\n\n婴幼儿生来就靠观察父母的面孔来理解世界，如果这些面孔毫无表情也无任何反应——就像他们沉浸在数字设备时经常就是如此——这会让孩子感到非常不安。拉德斯基引用了20世纪70年代发展心理学家爱德华·特罗尼克设计的“面无表情实验”。在实验中，母亲被要求先以正常方式与孩子交流，之后摆出一副面无表情的神情并且不给孩子任何视觉上的社交反馈；孩子在试图吸引母亲注意力的过程中变得越来越苦恼。“父母不必一直都近乎完美地做到无时无刻不在，但必须有一个平衡而且父母需要积极回应并体恤孩子的语言或非语言的情感诉求，”拉德斯基说。\n\n**词汇注释与难句分析**\n\nblank a. 没表情的，不感兴趣的\n\nunresponsive a. 反应迟钝的\n\ndisconcerting a. 使人不安的\n\ndistressed a. 痛苦的，悲伤的，苦恼的\n\nexquisitely ad. 精致地，近乎完美地\n\npresent a. 在场的，存在的\n\nsensitive a. 体恤的，善解人意的\n\n**经典搭配**\n\nbe wired to do (天生，自然就会)\n\nbe absorbed in（全神贯注于……，专注于……）\n\nput on a... expression（做出/装出某一表情）\n\ncapture one's attention（吸引某人的注意力）\n\n功能注释：本句是由冒号连接的两个并列分句构成。分句1描述实验过程：to do A before doing B “先做A，再做B”表明两个实验步骤。分句2描述结果，becomes increasingly distressed 说明了孩子越来越苦恼的心理变化。\n\n**语篇分析**\n\n第三段继续介绍拉德斯基研究的观点：父母沉迷于电子产品导致孩子产生负面情绪，需寻求平衡，保持亲子互动。关键词为：①still face experiment(面无表情实验);②a balance(平衡)。\n\n①②③句为一层，介绍拉德斯基观点：父母面无表情的冷漠态度会让婴儿产生负面情绪。①句与②③句之间为例证关系。\n\n①句概述指出父母沉迷于电子产品的冷漠无神模样让孩子感到不安。本句为 and(表结果)连接的并列句。are wired to“天生就……”描述婴儿本能“通过观察父母脸色来理解世界”，暗示婴儿有追求交流互动的本能需求。if...it can be 阐述结果：如果父母面无表情且无反应，孩子会极为不安。blank and unresponsive 说明父母不与孩子进行任何交流互动，定语从句 as...in a device 是 if 假设情形的例证说明：父母专注于数字设备时往往表现如此，often 一词凸显这种情形频繁发生；disconcerting“使人不安的”凸显对孩子情感、情绪等造成不良影响，加之程度副词 extremely 的修饰，强调这种影响非常严重。\n\n②③句介绍拉德斯基研究中所引用的特罗尼克设计的“面无表情实验”。\n\n②句介绍实验名称及设计者。still face experiment 明确实验名称“面无表情实验”；by developmental psychologist Ed Tronick 明确实验设计者及其研究领域“心理学”，暗示实验可能涉及交流互动对心理状态的影响。\n\n③句介绍实验过程和结果。冒号前概述实验过程，before“在……之前”说明实验有两个步骤：母亲先与孩子正常交流，随后装作面无表情也无视觉性反馈，interact...in a normal way VS putting on a...feedback 体现母亲对孩子“正常互动”与“零互动”的对比，blank expression、not...social feedback 呼应①句 blank and unresponsive，诠释 still face 的内涵。冒号后概述实验结果：孩子在试图吸引母亲注意力的过程中变得越来越苦恼，tries to capture...attention 明确孩子试图重建交流互动关系，becomes increasingly distressed 强调孩子徒劳而无果，苦恼渐增，呼应①句 extremely disconcerting。\n\n④句拉德斯基承接上述实验总结结论：寻求平衡，保持亲子互动。don't have to be... but there needs to be 表让步转折逻辑：先让步指出家长不必寸步不离孩子，近乎完美无可挑剔，绝对性词汇 exquisitely、all the time 凸显这种做法过于严苛，趋于极端；后转折强调父母需寻找平衡，回应并体恤孩子的情感诉求，balance 表明在“完全沉浸于数字产品中而无亲子互动”和“拒绝所有数字产品时刻陪伴孩子”之间取得平衡，responsive、sensitive...明确要回应，还要理解，暗示与孩子进行真正的交流互动，verbal or nonverbal expressions of an emotional need 明确交流互动中体现着孩子的情感诉求，说明“零互动或缺乏互动”容易伤及孩子的情感，不利于形成良好的亲子关系。"
+      },
+      {
+       "number": 28,
+       "score": 2.0,
+       "stem": "Radesky cites the “still face experiment” to show that .",
+       "options": {
+        "A": "it is easy for children to get used to blank expressions",
+        "B": "verbal expressions are unnecessary for emotional exchange",
+        "C": "children are insensitive to changes in their parents’mood",
+        "D": "parents need to respond to children’s emotional needs"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| 28. Radesky cites the “still face experiment” to show that ____. | 28. Radesky 引用“面无表情实验”是为了表明____。 |\n| --- | --- |\n| [A] it is easy for children to get used to blank expressions | [A] 孩子很容易对面无表情习以为常 |\n| [B] verbal expressions are unnecessary for emotional exchange | [B] 语言表达对于情感交流并非必须 |\n| [C] children are insensitive to changes in their parents’ mood | [C] 孩子对父母的情绪变化不敏感 |\n| [D] parents need to respond to children’s emotional needs | [D] 父母需要回应孩子的情感需求 |\n\n[精准定位] 由 the “still face experiment” 定位至第三段。该段②③句指出 Radesky 引用了“面无表情实验”，并说明实验发现“父母面无表情会令孩子越来越压抑”。④句则指出 Radesky 观点：父母应积极回应孩子所表达的情感诉求。综上可知，Radesky 意在借实验提醒父母回应孩子的情感需求，[D] 正确。\n\n[命题解密] 正确项[D]是对第三段④句 Radesky 观点 parents need to be responsive and sensitive to a child's verbal or nonverbal expressions of an emotional need 的正确概括。\n\n[A]将③句所述孩子对父母面无表情的反应“越来越苦恼”(increasingly distressed)篡改为与之完全相反的“很容易习惯”(it is easy for children to get used to)。[B]将④句关键词 verbal...expressions、emotional need 结合现实体验“情感交流有时无需语言传达”形成干扰，但实际上这与④句观点相悖。且选项中 emotional exchange 泛指人们的情感交流，未触及本段论述焦点“父母与孩子的交流互动”。[C]将①句 those faces are blank and unresponsive 所指“没有表情、没有反应的父母（those faces 指 parents' faces）”错误理解为“对父母情绪变化不敏感的孩子（those faces 指 children's faces）”。\n\n[技巧总结] 本题考查“文中人物(Radesky)”引用某一实验(the “still face experiment”)的目的，实为“文中人物观点题”和“写作目的题”的结合。解题时可采取思路：一、整体理解实验内容(尤其是实验发现);二、概括提取人物主要观点；三、找到“人物观点”与“实验发现”的对应关系，明确人物引用实验的目的。注：无论是与“人物观点”还是“实验内容”相悖的选项都错误。\n\n具体来看本题，首先从“实验”入手，锁定第三段②③句所述面无表情实验，并抓取其“发现”:父母面无表情会令孩子越来越苦恼。随后从“人物”入手，锁定第三段①④句，提取 Radesky 主要观点(重点在于④句 but 转折之后的语义重点):父母应积极回应孩子所表达的情感诉求。最后将二者联系，可知 Radesky 引用实验的目的：以“研究发现”引出/支撑“自己观点”,从而确定[D]。其它三项或与“研究发现”相悖，或与“人物观点”相悖，均可排除。\n\nIV ① On the other hand, Tronick himself is concerned that the worries about kids' use of screens are born out of an \"oppressive ideology that demands that parents should always be interacting\" with their children: \"It's based on a somewhat fantasized, very white, very upper-middle-class ideology that says if you're failing to expose your child to 30,000 words you are neglecting them.\" ② Tronick believes that just because a child isn't learning from the screen doesn't mean there's no value to it — particularly if it gives parents time to have a shower, do housework or simply have a break from their child. ③ Parents, he says, can get a lot out of using their devices to speak to a friend or get some work out of the way. ④ This can make them feel happier, which lets them be more available to their child the rest of the time. [420 words]\n\n**词汇注释与难句分析**\n\noppressive a. 压制的，令人焦虑的\n\nfantasized a. 想象的，幻想的\n\navailable a. 有空的，有暇的\n\nattentive a. 专心的，留意的(30题)\n\nbe born out of (因……而产生)\n\nexpose sb to sth（使某人接触/体验某事物）\n\nget a lot out of sth（从……中获益良多）\n\nget sth out of the way (把某事处理完)\n\n**经典搭配**\n\nOn the other hand, Tronick himself is concerned that the worries about kids' use of screens are born out of an \"oppressive ideology that demands that parents should always be interacting\" with their children: \"It's based on a somewhat fantasized, very white, very upper-middle-class ideology that says if you're failing to expose your child to 30,000 words you are neglecting them.\"\n\n功能注释：本句是由冒号连接两个并列分句构成。分句1为间接引述，分句2为直接引语，共同传达 Tronick 的观点：人们对孩子使用数字设备的普遍担忧根源于一种压制性的意识形态。两个 ideology 后都有定语从句，都是对“压制性意识形态”内涵的解释说明。\n\n**语篇分析**\n\n第四段转而介绍特罗尼克的观点：数字产品的使用有一定益处，能增进亲子交流。关键词：①can get a lot(获益良多);②more available(更有闲暇)。本段借助观点句式 Tronick...is concerned that、Tronick believes that、he says 以及④句代词 This 的回指作用将四句紧密衔接。\n\n①句介绍特罗尼克的担忧：对孩子使用数字产品的忧虑根源于一种压制性的意识形态。On the other hand 起转换话题的作用，由前文探讨“父母使用数字产品的可能影响”切入“大众对于孩子使用数字产品的担忧(worries about kids' use of screens)”。is concerned that...明确其担忧的问题“人们对孩子使用数字产品的担忧根源于一种压制性的意识形态”,are born out of(因……而产生)明确因果关联，that 定语从句解释说明 oppressive ideology:它要求父母一直与孩子保持交流，demands、should 传递的命令式语气以及 always be interacting 表达的持续状态，与 oppressive 感情色彩相吻合，凸显这种意识形态对人行为的强制性影响，体现特罗尼克的反感态度。It's based on...与 the worries about...are born out of...同指，引出阐述这种意识形态的性质“有一定的幻想成分，非常符合白人和中上阶层价值观念”,fantasized 表明它基于主观想象，暗示不一定符合客观事实，体现特罗尼克的批驳态度；very white,very upper-middle-class 暗示这种意识形态代表的是社会主流群体，占据社会主导地位，会对大多数人的行为产生影响。if you're...you are...说明它对父母行为的影响：亲子互动量必须达到一定硬性标准，呼应 always be interacting with。\n\n②句介绍特罗尼克对孩子使用数字设备的看法：能让父母有时间做其他事情。doesn't mean... (mean“产生……结果，意味着”)明确否定了“孩子没有利用数字产品学会东西”与“数字产品无价值”之间的因果关联，just 凸显这一原因很不充分，表明对数字产品价值的充分肯定。particularly if 引出代表性事例说明数字产品的价值，to have... do... or simply... 表明它令父母获得短暂的解放，or simply 尤为强调父母无需时时刻刻陪伴孩子，照应上段 parents don't... present、needs to be a balance,表明可以适度地使用数字产品，在“使用数字产品”与“进行亲子互动”之间取得平衡。\n\n③④句介绍特罗尼克对父母使用数字设备的看法：让父母获益匪浅，也有更多闲暇陪伴孩子。\n\n③句说明给父母带来的益处。get a lot out of... 引出说明父母可从使用数字产品中获益多多，speak to a friend or get some work out of the way 凸显对个人生活和工作都有所助益。\n\n④句进而说明给孩子带来的益处。This 回指上句内容，makes“使得”表因果关系，说明父母使用数字产品能提升自我幸福感，which 从句说明带给孩子的好处，be more available to 明确父母更有闲暇陪伴孩子，表明对数字产品的使用有助于增进亲子交流。"
+      },
+      {
+       "number": 29,
+       "score": 2.0,
+       "stem": "The oppressive ideology mentioned by Tronick requires parents to .",
+       "options": {
+        "A": "protect kids from exposure to wild fantasies",
+        "B": "teach their kids at least 30,000 words a year",
+        "C": "ensure constant interaction with their children",
+        "D": "remain concerned about kids’ use of screens"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| 29. The oppressive ideology mentioned by Tronick requires parents to ____. | 29. Tronick 所提及的“压制性意识形态”要求父母____。 |\n| --- | --- |\n| [A] protect kids from exposure to wild fantasies | [A] 保护孩子免受狂乱幻想的影响 |\n| [B] teach their kids at least 30,000 words a year | [B] 每年至少教给孩子3万个词汇 |\n| [C] ensure constant interaction with their children | [C] 确保与孩子一直保持互动 |\n| [D] remain concerned about kids' use of screens | [D] 一直关心孩子对数字产品的使用 |\n\n[精准定位] 根据题干中关键名词 oppressive ideology(压制性意识形态)定位至第四段①句。该句指出，压制性意识形态要求父母必须一直与孩子保持互动，因此[C]正确。\n\n[命题解密] 正确项[C]是对①句 that demands that parents should always be interacting\" with their children 的同义改写，该从句是对 oppressive ideology 内涵的说明。\n\n[A]糅杂①句两处片段 fantasized 及 expose your kids to 设置干扰。但 fantasized 是作者对该意识形态的评价，无关意识形态本身内容；且 expose your kids to... 指出该意识形态要求父母与孩子的语言交流“达到 3 万词”，文中并未提及该意识形态要求父母保护孩子免受狂乱幻想的影响（protect kids from exposure to wild fantasies）。[B]曲解①句 expose your child to 30,000 words 内涵：该信息意在说明压制性意识形态认为“父母与孩子的语言交流必须达到 3 万词的量（即必须与孩子不断进行语言交流）”并非指“父母每年必须教会孩子多少词汇（teach their kids at least 30,000 words a year）”。[D]利用①句 worries about kids' use of screens 设置干扰，但这是压制性意识形态“造成的后果”而非“其本身内容”。\n\n[技巧总结] 本题就文中以“逻辑关系复杂的长难句”所阐释的“关键概念”命题，重在考查考生理解长难句、提取关键信息的能力。可采取解题思路：先借“语法知识”和“语用分析”分解长难句，锁定答案具体来源（这一过程需谨记解题任务：不必纠结于完全理清句中各种复杂关系，而是将重点放在确定题目答案来源）；再将具体来源与各选项对比，找到与其同义（或为同义转述，或为语义概括）的选项。\n\n具体看本题，据题干关键词 oppressive ideology 直接锁定第四段①句，该长难句涉及多个从句、多重内容：Tronick 担忧问题（Tronick himself... concerned）、孩子使用屏幕担忧者观点（the worries about kids' use of screens）、压制性意识形态（an oppressive ideology）、上层中产阶级意识形态（upper-middle-class ideology）等。但考生借助语法、语用知识可知：对于解答本题，句子前半部分信息基本可以忽略；后半部分中定语从句 that demands... 为对 oppressive ideology 内容的直接介绍，是解题的主要来源；It's based on... 说明该意识形态的来源，其内容 that says if you're failing... 可作为解题的次要线索。再将该内容与选项对比，发现[C]是主要来源的同义转换，且与次要线索信息完全一致，为正确项。"
+      },
+      {
+       "number": 30,
+       "score": 2.0,
+       "stem": "According to Tronick, kids’ use ofscreens may .",
+       "options": {
+        "A": "give their parents some free time",
+        "B": "make their parents more creative",
+        "C": "help them with their homework",
+        "D": "help them become more attentive"
+       },
+       "answer": "A",
+       "explanation": "**真题精解**\n\n> **答案：** A\n\n| 30. According to Tronick, kids' use of screens may ____. | 30. 根据 Tronick 的观点，孩子使用数字产品可以____。 |\n| --- | --- |\n| [A] give their parents some free time | [A] 给父母一些空闲时间 |\n| [B] make their parents more creative | [B] 让他们的父母更富有创造力 |\n| [C] help them with their homework | [C] 帮助他们做作业 |\n| [D] help them become more attentive | [D] 帮助他们变得更专心 |\n\n[精准定位] 第四段②句指出，Tronick 认为孩子使用数字产品并非完全没有好处：它可以使父母抽出时间洗澡、做家务或者稍作休息，即，给父母一些自由时间，[A]正确。\n\n[命题解密] 正确项[A] give their parents some free time 是对第四段②句 it (the screen) gives parents time to have a shower, do housework or simply have a break from their child 的概括。\n\n[B]将第四段③句 get a lot out of using their devices(可以从使用数字设备中“获益良多”)错误理解为“从使用数字产品中‘获得创造力’(more creative)”。且原文侧重“父母对数字设备的使用”，和题干所问“孩子对数字设备的使用”无直接关联。[C]将第四段②句蕴含多重否定的句式 just because a child isn't learning from the screen doesn't mean there's no value to it(仅仅因为孩子没有从数字产品上学到东西，并不意味着它没有任何价值)理解为与之相悖的“数字产品可帮助孩子完成作业(help them with their homework)”。[D]利用第一段 suck you in、promote maximal engagement 形成干扰，但这指的是“沉迷于数字设备”，而非“提高注意力(become more attentive)”，且第一段内容并非 Tronick 观点。\n\n[技巧总结] 本题考查“人物观点细节”(Tronick 就“孩子使用数字产品的影响”的看法)，要求考生：一、借助观点引出词(say、believe 等)、信息关键词(同义词、反义词复现等凸显关注对象)、逻辑路标词(on the other hand 等转折词表明观点方向转变；particularly、especially 等强调词则引出语义重点)就“阐释同一人物观点”的大段内容划分句群、区分“子观点”，从而锁定正确项。二、正确理解特殊句式(多重否定句、反问质疑句)传递的观点、根据上下文理解抽象表述的含义，以识别命题人的干扰陷阱。\n\n具体看本题，首先根据观点引出词 Tronick himself is concerned、Tronick believes、he says 可知：第四段各句均在阐释 Tronick 观点。随后根据 kids' use of screens... your child... a child... 和 Parents... using their devices... This can make them 可将其划分句群：①②句侧重对“孩子使用数字设备”的论述，③④则是对“父母使用数字设备”的论述，即：解题线索应主要来自①②句，尤其是②句 particularly if 之后内容，并确定对其进行概括的[A]为答案。[B]对 get a lot 断章取义，[C]利用涉及多重否定的特殊句式 just because... doesn't mean... 设置干扰，[D]则利用和 Tronick 观点无直接关联的内容形成干扰。"
+      }
+     ]
+    },
+    {
+     "title": "Text 3",
+     "type": "reading",
+     "passage": [
+      "Today, widespread social pressure to immediately go to college in conjunction with increasingly high expectations in a fast-moving world often causes students to completely overlook the possibility of taking a gap year. After all, if everyone you know is going to college in the fall, it seems silly to stay back a year, doesn’t it? And after going to school for 12 years, it doesn’t feel natural to spend a year doing something that isn’t academic.",
+      "But while this may be true, it’s not a good enough reason to condemn gap years. There’s always a constant fear of falling behind everyone else on the socially perpetuated “race to the finish line,” whether that be toward graduate school, medical school or a lucrative career. But despite common misconceptions, a gap year does not hinder the success of academic pursuits – in fact, it probably enhances it.",
+      "Studies from the United States and Australia show that students who take a gap year are generally better prepared for and perform better in college than those who do not. Rather than pulling students back, a gap year pushes them ahead by preparing them for independence, new responsibilities and environmental changes – all things that first-year students often struggle with the most. Gap year experiences can lessen the blow when it comes to adjusting to college and being thrown into a brand new environment, making it easier to focus on academics and activities rather than acclimation blunders.",
+      "If you’re not convinced of the inherent value in taking a year off to explore interests, then consider its financial impact on future academic choices. According to the National Center for Education Statistics, nearly 80 percent of college students end up changing their majors at least once. This isn’t surprising, considering the basic mandatory high school curriculum leaves students with a poor understanding of the vast academic possibilities that await them in college. Many students find themselves listing one major on their college applications, but switching to another after taking college classes. It’s not necessarily a bad thing, but depending on the school, it can be costly to make up credits after switching too late in the game. At Boston College, for example, you would have to complete an extra year were you to switch to the nursing school from another department. Taking a gap year to figure things out initially can help prevent stress and save money later on."
+     ],
+     "questions": [
+      {
+       "number": 31,
+       "score": 2.0,
+       "stem": "One of the reasons for high-school graduates not taking a gap year is that .",
+       "options": {
+        "A": "they think it academically misleading",
+        "B": "they have a lot of fun to expect in college",
+        "C": "it feels strange to do differently from others",
+        "D": "it seems worthless to take off-campus courses"
+       },
+       "answer": "C",
+       "explanation": "> **答案：** C\n\n| 31. One of the reasons for high-school graduates not taking a gap year is that ____. | 31. 高中毕业生不选择间隔年的一个原因是____。 |\n| --- | --- |\n| [A] they think it academically misleading | [A] 他们认为它在学业上误人子弟 |\n| [B] they have a lot of fun to expect in college | [B] 他们对大学许多乐趣有所期待 |\n| [C] it feels strange to do differently from others | [C] 做法和其他人不一样令人不安 |\n| [D] it seems worthless to take off-campus courses | [D] 修读校外课程似乎没什么价值 |\n\n[精准定位] 首段①句说明“毕业生不选择间隔年”的环境因素，即“尽早入学”的社会压力和快速发展的世界对个人越来越高的要求；②③句补充主观原因：周围人都直入大学，一意孤行显得愚蠢；连读12年书突然休整一年感觉“有违常理”，[C]正确概括了毕业生这种从众心理（群体压力）。\n\n[命题解密] 题干 not taking a gap year 呼应①句现象 to completely overlook the possibility of taking a gap year, reasons 呼应②句 After all; 选项[C]中 do differently from others 概括②③句“周围人都直入大学，多年学习一般不会中断学业”这一群体做法，feels strange 则对应 seems silly、doesn't feel natural。\n\n[A]把③句“休间隔年，即暂停学业(doing something that isn't academic)”曲解为“间隔年在学业上误人子弟(academically misleading)”。[B]把首句碎片信息 immediately go to college、high expectations 糊杂，臆断出“学生急于体验大学乐趣”，但前者源于“社会压力(widespread social pressure)”而非“自身兴趣”，后者指“快速发展的世界对学生的要求(in a fast-moving world)”。[D]把“间隔年的内涵，即体验学业以外的事情”偷换为“修读校外课程(take off-campus courses)”。\n\n[技巧总结]因果题的基本解题原则是找出表示因果关系的逻辑词，确定孰因孰果后逐一比对选项。但许多情况下，尤其当题干形式不是惯常的“...because(或 in that、due to、for)____.”,而是“one of the reasons...is____.”时(且原文并无此类字眼),文中很可能探讨了不止一个原因，而强干扰项往往是对其中一个原因的曲解，因此解题时切忌找到一组因果逻辑词就草草比对相似信息盖棺定论。\n\n本题对应的首段中，①句因果关联词 causes students to... 极易让人认为答案就在本句中，从而把 social pressure to immediately go to college、high expectations 等片段信息和选项强行关联，而忽略了②句因果关联短语 After all(补充解释上述情况的原因)及其后内容，最终错过正确项。\n\nⅡ ① But while this may be true, it's not a good enough reason to condemn gap years. ② There's always a constant fear of falling behind everyone else on the socially perpetuated \"race to the finish line,\" whether that be toward graduate school, medical school or a lucrative career. ③ But despite common misconceptions, a gap year does not hinder the success of academic pursuits —in fact, it probably enhances it.\n\n但这即使是事实，也不足以成为谴责间隔年的理由。在全社会一直延续着“向终点冲刺的比赛”，无论终点是研究生院、医学院还是赚钱的职业，人们永远有一种落于人后的担忧。然而，尽管存在许多误解，间隔年其实不会阻碍学术事业的成功——实际上，它很可能助人成功。\n\n**词汇注释与难句分析**\n\ncondemn v. 谴责\n\nperpetuate v. 使永久化，使持续\n\nfinish line(finishing line)(体育比赛跑道的)终点线\n\ngraduate school 研究生院\n\nmedical school(med school) 医学院\n\nlucrative a. 赚大钱的，获利多的\n\nmisconception n. 错误认识，误解\n\nhinder v. 阻碍，妨碍，阻挡\n\npursuit n. 事业，消遣，爱好\n\nenhance v. 提高，增强，增进\n\n**语篇分析**\n\n第二段提出作者观点：间隔年不仅不会妨碍学业，反而有助于学业成功。关键词为：doesn't hinder...enhances it(不阻碍……助人成功)。\n\n①句为过渡句，承上“学生对间隔年的否定”开启下文“为间隔年平反”的论述。But 转承上文引出作者观点；this、it 指代首段“学生不考虑间隔年的原因/间隔年的问题”。句内以“让步一转折（while...，it's not...）”方式提出观点，推测语气 may be true 暗示作者意不在“承认上述情况为真”，而是以退为进，强调“就算是事实，也不足以作为反对间隔年的依据”；not...good enough 委婉传达否定之意：“不随大流、不走寻常路（选择间隔年）”本无所谓好坏，“显得很傻”、“感觉不正常”也只是人们在完全不了解甚至不愿了解的情况下做出的感性判断，并未触及间隔年本身，因而对其的否定根本站不住脚。condemn(to say sth is very bad and unacceptable)呼应首段①句 completely overlook，表明如今人们几乎将间隔年“妖魔化”，有失公允。\n\n②句解释①句：人们排斥间隔年是因为担心落于人后(，而非间隔年本身有问题)。主干 There's always a constant fear...强调人们“生怕落后”这一担忧历来都有，且会持续存在。状语 on the...进一步介绍这种心态的背景；“race to the finish line”被 socially perpetuated(perpetuate 意为“使持续[尤指不好的情形、体系或信仰]”)修饰，强调“人生就是一场冲向终点的比赛，结果才是最重要的”是整个社会营造出的氛围，根深蒂固，难以摒除；注：引号中 race 为名词，to...为后置定语，表明比赛的目标)。whether...or...(that 回指 race)强调不管比赛的终点(finish line,即目标)是“学术科研(graduate school, medical school)”抑或“个人谋生(a lucrative career)”，无一例外都贯穿着“生怕落后”的心态，人们在这种氛围里自然视间隔年为成功的绊脚石。\n\n③句表明观点：间隔年有助于学术成功。But 承接上文暗含之意“(在冲向终点的比赛中)选择间隔年浪费时间，导致落后”转而提出作者观点。本句与①句类似，句内为“让步一转折(despite...,... does not... )”逻辑：尽管“间隔年不利于成功”已是大众共识，但与事实不符；misconceptions(ideas that are not correct)直接将上文人们的普遍看法定性为“误解”;does not hinder...回应 fear of falling behind...,对共识予以纠正；再以破折号以及 in fact(事实上[用于补充说明，强调前面所说的话])引出作者欲强调的内容，突出其核心观点：间隔年很可能有利于学业。两个代词 it 分别指代破折号前a gap year 和 the success of academic pursuits。\n\nⅢ ① Studies from the United States and Australia show that students who take a gap year are generally better prepared for and perform better in college than those who do not. ② Rather than pulling students back, a gap year pushes them ahead by preparing them for independence, new responsibilities and environmental changes — all things that first-year students often struggle with the most. ③ Gap year experiences can lessen the blow when it comes to adjusting to college and being thrown into a brand new environment, making it easier to focus on academics and activities rather than acclimation blunders.\n\n美国和澳大利亚的研究表明，经历过间隔年的学生普遍比没经历过间隔年的学生对大学有更充分的准备，表现也更好。间隔年不仅不会使学生退步，反而能让学生在独立、新的责任和环境变化方面——这些都是一年级学生往往最为纠结的事情——做好更充分的准备，从而助其进步。间隔年经历可以减轻适应大学生活和陷入全新环境所带来的冲击，使学生更容易专注于学业和活动，而不必为适应问题分心。\n\n**词汇注释与难句分析**\n\nlessen v. 减弱，减轻\n\nbrand new 全新的，崭新的\n\nacclimation n. 适应\n\nblunder n. 愚蠢(或粗心的)错误\n\n**经典搭配**\n\npull back（把……向后拉，使后退）\n\npush ahead（促进，推进）\n\nstruggle with（与……斗争、抗争）\n\nlessen/soften/cushion the blow（缓解，缓和）\n\nthrow into（使突然陷入某种状态）\n\n**语篇分析**\n\n第三、四段通过“说明间隔年的价值”论证作者观点。\n\n第三段借研究发现指出间隔年对学业的价值：有助于适应大学生活，实现学业成功。关键词为：generally better prepared for and perform better(准备更充分，表现更好)。\n\n①句概述研究发现。以对比结构 better...better...than...清晰呈现“休间隔年的学生(who take a gap year)”较“直入大学的学生(those who do not)”的优势，力证间隔年的作用；and 此处体现因果逻辑：鉴于准备更加充分(prepared 指 ready and able to deal with sth)→入学后能更好应对新环境和问题，自然表现更好。\n\n②③句细述研究发现。\n\n②句阐释间隔年的直接作用：使预备。以取舍结构 Rather than(而不是)与对称结构 pulling students back VS pushes them ahead 否定普遍看法“间隔年导致学生落后”,突出本文观点“间隔年推动学生进步”。by 后具体说明间隔年如何促人进步，preparing them for... 呼应并具体化①句 better prepared for,与破折号后 first-year students often struggle with the most 相对，凸显大学新生面临的最大障碍(最高级 the most 修饰动词短语 struggle with...):独立、新的责任、环境变化，而经历过间隔年的学生能更好应对这些问题。\n\n③句进而阐释“预备”的意义：能更好专注学业与大学活动。lessen the blow(to make sth that is unpleasant seem less unpleasant and easier to accept“缓解，缓和”)承②句重申间隔年的作用：减轻冲击，缓解压力，when it comes to(=as for“关于”)引出冲击源：适应突如其来的新环境。状语 making it... 继而说明这一作用的深层意义；focus on academics and activities 是对①句 perform better in college 的具体解释，easier 暗含比较意味，与 rather than... 一起凸显“选择间隔年 VS 不选间隔年”的学生之间的差异：前者避免了对新环境的困惑与不适，能更快融入大学学习和生活，从而取得良好表现。注：blunder 作动词用以形容“因看不清而走路不稳(to move in an unsteady way, as if you cannot see properly)”，此处为名词，表示“因疏忽而导致的错误”，喻指“没提前熟悉新环境，盲目行动而造成的磕绊、问题”。"
+      },
+      {
+       "number": 32,
+       "score": 2.0,
+       "stem": "Studies from the US and Australia imply that taking a gapyear helps .",
+       "options": {
+        "A": "keep students from being unrealistic",
+        "B": "lower risks in choosing careers",
+        "C": "ease freshmen’s financial burdens",
+        "D": "relieve freshmen of pressures"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 32. Studies from the US and Australia imply that taking a gap year helps ____. | 32. 美国和澳大利亚的研究表明，选择间隔年有助于____。 |\n| --- | --- |\n| [A] keep students from being unrealistic | [A] 避免学生不切实际 |\n| [B] lower risks in choosing careers | [B] 降低择业的风险 |\n| [C] ease freshmen's financial burdens | [C] 减轻新生经济负担 |\n| [D] relieve freshmen of pressures | [D] 减轻新生的压力 |\n\n[精准定位] 由题干关键词 Studies from the US and Australia 定位至第三段，本段借美、澳两国研究指出间隔年能帮助学生做好准备，更顺利地适应大学环境，更自如地应对多数新生最为头疼的问题，即间隔年相当于大学预演环节，使学生提前受到磨炼，减轻适应新环境的压力，[D] 正确。\n\n[命题解密] 正确项[D]对应③句 lessen the blow, 其中 freshmen 和 pressures 对应②句 all things that first-year students often struggle with...。\n\n[A]将第二段②句“出于担心落于人后的现实考量，不选择间隔年（constant fear of falling behind everyone else）”反向曲解为“有助于学生变得更加实际”。[B]源自第二段②句a lucrative career，但该内容只是举例说明社会“快节奏、重结果”的氛围（无论什么目标，心态都是如此），不涉及“间隔年对择业的指导作用”。[C]利用第四段 financial impact、costly 进行干扰，但其引用的数据源自“国家教育统计中心”，与题干“美、澳研究”不符。\n\n[技巧总结] 事实细节题考查对文中细节的理解和概括能力，此类题往往信息覆盖面较大，不易准确定位，可以先对选项展开分析，提炼各自的核心内涵，各项若存在信息交叠的情况，则考虑交叠点很可能与正确项相关，再带着信息结合原文解题，最后还可以结合段落(群)主旨对结果进行验证。\n\n本题中，四个选项共有的信息点为：避免、防止学生出现某问题或使问题缓解；[C]、[D]两项的交叠信息为：减轻新生某种压力；综合判断考虑正确项与“学生压力”相关，再通过原文 better prepared for... all things that... struggle with、lessen the blow... adjusting... 推测此处聚焦“大一新生面临的各种压力”问题，且与核心话题“间隔年”的性质，即“高中毕业后，上大学之前的一段时间”直接相关，由此判断[D]正确。"
+      },
+      {
+       "number": 33,
+       "score": 2.0,
+       "stem": "The word “acclimation” (Para. 3) is closest in meaning to .",
+       "options": {
+        "A": "adaptation",
+        "B": "application",
+        "C": "motivation",
+        "D": "competition"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| 33. The word “acclimation”(Para. 3) is closest in meaning to ____. | 33. acclimation 一词(第三段)词义最接近____。 |\n| --- | --- |\n| [A] adaptation | [A] 适应 |\n| [B] application | [B] 申请 |\n| [C] motivation | [C] 激励 |\n| [D] competition | [D] 竞争 |\n\n[精准定位] 所考词出现于第三段③句，本句指出间隔年经历可以帮助人们“更好地适应大学的新环境，从而专注于学业和活动，而非 acclimation blunders”,推知 acclimation blunders 和“专注学业”对立，即“牵绊于学业之外的问题”，结合上文可知为 acclimation 为“（新生对环境的）适应”问题，[A]正确。\n\n[命题解密] [A] adaptation 呼应第三段③句 adjusting to college and being thrown into a brand new environment, 是对②句 things that first-year students often struggle with、③句 the blow 概括和说明，与 rather than 之前的“能专注学业与活动”形成了取舍关系，故为正确项。\n\n[B]源于第四段④句中 college applications(大学专业的申请)，但首先 application blunders 表意不明，其次“学业和活动”与“(专业)申请错误/问题”虽然能构成取舍关系，却脱离了上下文针对“适应大学新环境”的探讨。[C]脱离考查词所在句子，从②句 a gap year pushes them ahead 中臆测出“(间隔年让学生有)积极性、干劲”，曲解了 focus on... rather than... 的取舍内涵。[D]源于第二段②句“竞争压力导致人们忽视间隔年(a constant fear of falling behind everyone else)”，但“专注学业，而非竞争问题”显然不合逻辑。\n\n[技巧总结]词义推断题考查学生结合上下文推断词义的能力，逻辑关系词、特殊句型、语义重复等内容都是解题线索。本题中，acclimation、blunder 均为超纲词，如果不知道 blunder 的词义，不妨将 acclimation blunders 看作一个整体。由 rather than 的取舍之意可知，间隔年能让学生得以“免受 acclimation blunders 的困扰”，而专注于自身学业和各种活动，而上文表明“新生最大困扰就是适应新环境方面的问题”，因此 acclimation blunders 指的是适应问题。\n\nIV ① If you're not convinced of the inherent value in taking a year off to explore interests, then consider its financial impact on future academic choices. ② According to the National Center for Education Statistics, nearly 80 percent of college students end up changing their majors at least once. ③ This isn't surprising, considering the basic mandatory high school curriculum leaves students with a poor understanding of the vast academic possibilities that await them in college. ④ Many students find themselves listing one major on their college applications, but switching to another after taking college classes. ⑤ It's not necessarily a bad thing, but depending on the school, it can be costly to make up credits after switching too late in the game. ⑥ At Boston College, for example, you would have to complete an extra year were you to switch to the nursing school from another department. ⑦ Taking a gap year to figure things out initially can help prevent stress and save money later on. [399 words]\n\n如果你不相信休学一年具有发掘兴趣的内在价值，那么就想想它对于未来学业选择的经济影响吧。根据(美国)国家教育统计中心的数据，约80%的大学生最后都至少转过一次专业。鉴于高中强制性基础课程使学生对于大学里广阔的学术选择知之甚少，这并不奇怪。许多学生发现自己在大学申请书中填报了一个专业，上过大学课程之后却转到了另一个专业。这并不一定是坏事，但是根据学校的不同，由于转专业太迟，补学分的费用可能会很高。例如，在波士顿学院，如果你要从其他院系转到护理学院的话，就必须再多读一年。选择间隔年一开始就把事情理顺有助于预防压力，之后还能节省开支。\n\n**词汇注释与难句分析**\n\ninherent a. 固有的，内在的\n\nmajor n. 主修课程，专业课\n\nmandatory a. 强制的，法定的，义务的\n\ncurriculum n. 全部课程\n\nawait v. 将发生在，将降临到\n\ncredit n. 学分\n\nafter prep. 鉴于，由于\n\ngame n. 活动，行业\n\nnursing n. 护理\n\nswitch v. (尤指突然彻底的) 改变\n\ndepartment n. 系\n\ncostly a. 昂贵的\n\n**经典搭配**\n\n**语篇分析**\n\n第四段通过举例说明间隔年对现实的价值：发掘兴趣所在，提供经济助力。关键词为：①to explore interests(发现兴趣);②financial impact(经济影响)。\n\n①句为段落主旨句，指出间隔年能让学生找到自身兴趣，且有助于省钱。全句以 If you're not... then consider... 句式先退步引出假设内容（若你不认可间隔年有助发现自身兴趣），后邀读者考虑其在经济方面的好处；句式背后的论证逻辑为：间隔年作为高中和大学之间的缓冲阶段，最基本的作用就是“从纷繁的内容中明确自己的兴趣”（inherent 意为 that is a basic or permanent part of sb/sth and that cannot be removed“固有的，内在的”），作者对此深信不疑，认为毋庸赘言，因此转向更具说服力的现实经济影响加以论证；future academic choices 锁定影响的对象：未来的学业选择。\n\n②至⑥句借“转专业现象十分普遍，浪费钱财”反面论证其经济价值。changing their majors、switch (ing)、switch to 呼应①句 academic choices。\n\n②句引用研究数据提出一种现象：大部分学生有过转专业经历。According to 引出数据来源“美国国家教育统计中心”, nearly 80 percent 强调转专业者比例之高，at least once 表明这部分人不乏多次转专业的学生，再次强调现象的普遍性。end up... (to find yourself in a place or situation that you did not intend or expect to be in“最终却”)微妙传达“学生本无意转专业，却因缺乏了解选择了不合适、不合意的专业，最终不得不转专业”的情形。\n\n③句评价现象并解释现象原因。This 指代②句现象，主句直接进行评价：在意料之中。considering（鉴于……）引出作者评价的依据，也即转专业现象普遍存在的原因；其中 leave... with...（leave 指 to make sth happen or remain as a result“使发生、造成”）体现因果关联：高中强制性基础课程限制了学生的视野，这导致他们对于大学各类专业不甚了解从而错选专业。a poor understanding of the vast academic possibilities 中 poor VS vast 对比鲜明，暗中肯定利用间隔年开拓视野、发掘兴趣的重要性。\n\n④句退而介绍转专业的过程。find themselves listing one major..., but switching to another... (find sb doing sth 表示“[尤指意外地]发现，发觉[处于某状态、在做某事]”) 呼应②句 end up changing their majors, 形象刻画学生对于转专业“意外而无奈”的心情。\n\n⑤⑥句说明转专业的代价。for example 表明两句例证关系。\n\n⑤句指出转专业的代价：补学分代价很大。前半句退步指出转专业未必不好，后半句以 but 转折引出语义重心“转专业代价很大”:学生为补学分可能需要支付高昂费用(costly)。句中还为这一代价限定了具体条件，depending on 引出条件一“在某些学校”,after(意为 because of sth that happened earlier“由于，既然”)引出条件二“转专业太晚”,这种条件限定与 not necessarily(不一定，未必)、can(可能)都体现论证的严谨。注：game 取僻义 a type of activity or business,指代转专业这种行为/活动。\n\n⑥句举例说明⑤句。以波士顿学院的护理专业为例证明转专业的代价之大。本句为虚拟将来时，were you to...为省略了 if 的倒装形式，其完整形式为 if you were to...。虚拟语气与一般现在/将来时相比暗含一种否定，暗示由于转专业代价太大，现实中学生选择转入护理专业的可能性较小。\n\n⑦句总结全段重申间隔年的现实意义。Taking a gap year 再次点题，to figure out...回应段首句 explore interests, 总结间隔年的实质“利用一年时间对包括自身兴趣在内的许多问题形成初步认识”; can help prevent stress 呼应上段内容，即间隔年的直接作用“缓解(新环境下的各种)压力”, 并由 and 引出本段重点，即间隔年的现实作用“省钱”。"
+      },
+      {
+       "number": 34,
+       "score": 2.0,
+       "stem": "A gap year may save money for students by helping them .",
+       "options": {
+        "A": "avoid academic failures",
+        "B": "establish long-term goals",
+        "C": "switch to another college",
+        "D": "decide on the right major"
+       },
+       "answer": "D",
+       "explanation": "> **答案：** D\n\n| 34. A gap year may save money for students by helping them ____. | 34. 通过帮助大学生____,间隔年能够为其节省开支。 |\n| --- | --- |\n| [A] avoid academic failures | [A] 避免学业失败 |\n| [B] establish long-term goals | [B] 建立长期目标 |\n| [C] switch to another college | [C] 转到其他大学 |\n| [D] decide on the right major | [D] 选定正确专业 |\n\n[精准定位] 由题干关键词 save money 定位至第四段，本段利用研究数据说明间隔年能帮助学生更好地确定自身兴趣所在，减少转专业造成的金钱上的浪费，故 [D] 正确。\n\n[命题解密] [D]准确概括了第四段内容，即间隔年有助于确定自身兴趣所在，避免转专业造成的花钱补学分的情况，从而为学生省钱。题干中 save money 对应①句 its financial impact、⑤句 costly、⑦句 save money;选项中 the right major 呼应①句 future academic choices。\n\n[A]由第三段①句 perform better in college、③句 focus on academics 而来，但原文意在说明间隔年对于适应新环境的作用，而非其经济影响。[B]从第四段②句“大部分学生最后都至少转过一次专业(end up changing their majors at least once)”中推出“大学生缺乏恒心，无法树立长远目标”，但③句表明其原因在于“高中毕业后对大学专业认识有限，盲目选择了不适合的专业”，而非耐性、坚持的问题。[C]将第四段②至⑥句重点说明的“转专业(switching to another major)”现象曲解为“转学(switching to another college)”。\n\n[技巧总结] 分析题干是解题的首要关键环节，通常来说，所考内容位于题干的重心部分，因而正确项与段落或全文主旨紧密挂钩；但有时命题人将重心部分设为题干的已知信息，转而考查辅助性内容，这时答案一定不能脱离已限定的重心内容。这种情况相当于告知考生某段落的主旨，通过该内容明确目标段落，在其中寻找答案，而非到处撒网。\n\n本题中，题干重心信息为“间隔年能够帮助学生节省开支”，所考内容“by helping them ____”为辅助性内容，即“节省开支的具体实现方式”，解题时切不可孤立信息，单纯考虑“间隔年对学生的作用”，在第三、四两段中寻找答案，而应从一开始就根据重心信息 save money 定位至第四段首句（段落主旨），锁定该段为答案目标段落，从而快速排除与第三段相关的 [A]，而段首句就提及了 the inherent value... to explore interests，再结合重心信息 future academic choices 推测正确项与“间隔年有助确立个人兴趣，有助于专业选择”相关。"
+      },
+      {
+       "number": 35,
+       "score": 2.0,
+       "stem": "The most suitable title for this text would be .",
+       "options": {
+        "A": "In Favor of the Gap Year",
+        "B": "The ABCs of the Gap Year",
+        "C": "The Gap Year Comes Back",
+        "D": "The Gap Year: ADilemma"
+       },
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n| 35. The most suitable title for this text would be ____. | 35. 本文最恰当的标题可能是____。 |\n| --- | --- |\n| [A] In Favor of the Gap Year | [A] 支持间隔年 |\n| [B] The ABCs of the Gap Year | [B] 间隔年基本知识 |\n| [C] The Gap Year Comes Back | [C] 间隔年再度兴起 |\n| [D] The Gap Year: A Dilemma | [D] 间隔年——一个两难抉择 |\n\n[精准定位] 首段介绍了普遍现象“毕业生完全忽视间隔年”，第二段提出作者观点“间隔年可以帮助学生获得学业上的成功”，第三、四段通过分析间隔年的作用论证这一观点，可见全文立意在于“呼吁毕业生重视间隔年的意义”，[A]正确。\n\n[命题解密] [A] 是全文立意的准确体现，the Gap Year 为全文关键词，In Favor of 体现了作者对间隔年的支持态度。\n\n[B]暗示全文围绕“间隔年的基本知识”展开，但文中仅在第三、四段论证其价值时涉及了间隔年的基本作用，不足以概括全篇主旨。[C]所对应的内容应为“间隔年由盛转衰后，而今重获人们的重视”，显然与文中所述当前现象“学生完全忽视间隔年”不符。[D]中关键词 Dilemma 表示一种模棱两可的态度，暗示作者认为“选择间隔年”利弊参半，违背作者“明确支持间隔年”这一态度。\n\n[技巧总结] 全文主旨题需要从宏观把握文章类型。考研文章一般为议论文，又叫说理文，也就是说作者立意在于表达观点、主张，无论采取何种方式（立论或驳论），标题必须体现这一观点。本文首段介绍普遍认知（现象），即“间隔年费时无用，让人落后”，第二段提出相反观点，即“间隔年很有意义”，第三、四段论证这一观点，很明显作者旗帜鲜明，在为间隔年“平反”。选项中[B]对应的是“阐释说明”型文体，完全不涉及作者观点、态度；[C]为“现象阐释”型，也能体现作者对间隔年的支持态度，但文意侧重对“新现象原因、影响”的说明，未能凸显“批评、反对某情况”的站位；[D]态度比较明确，但论证重心在于“间隔年有两面性，利弊参半”，与文中“力挺”基调不符。"
+      }
+     ]
+    },
+    {
+     "title": "Text 4",
+     "type": "reading",
+     "passage": [
+      "Though often viewed as a problem for western states, the growing frequency of wildfires is a national concern because of its impact on federal tax dollars, says Professor Max Moritz, a specialist in fire ecology and management.",
+      "In 2015, the US Forest Service for the first time spent more than half of its $5.5 billion annual budget fighting fires – nearly double the percentage it spent on such efforts 20 years ago. In effect, fewer federal funds today are going towards the agency’s other work – such as forest conservation, watershed and cultural resources management, and infrastructure upkeep – that affect the lives of all Americans.",
+      "Another nationwide concern is whether public funds from other agencies are going into construction in fire-prone districts. As Moritz puts it, how often are federal dollars building homes that are likely to be lost to a wildfire?",
+      "“It’s already a huge problem from a public expenditure perspective for the whole country,” he says. “We need to take a magnifying glass to that. Like, ‘Wait a minute, is this OK?’ Do we want instead to redirect those funds to concentrate on lower-hazard parts of the landscape?”",
+      "Such a view would require a corresponding shift in the way US society today views fire, researchers say.",
+      "For one thing, conversations about wildfires need to be more inclusive. Over the past decade, the focus has been on climate change – how the warming of the Earth from greenhouse gases is leading to conditions that worsen fires.",
+      "While climate is a key element, Moritz says, it shouldn’t come at the expense of the rest of the equation.",
+      "“The human systems and the landscapes we live on are linked, and the interactions go both ways,” he says. Failing to recognize that, he notes, leads to “an overly simplified view of what the solutions might be. Our perception of the problem and of what the solution is becomes very limited.”",
+      "At the same time, people continue to treat fire as an event that needs to be wholly controlled and unleashed only out of necessity, says Professor Balch at the University of Colorado. But acknowledging fire’s inevitable presence in human life is an attitude crucial to developing the laws, policies, and practices that make it as safe as possible, she says.",
+      "“We’ve disconnected ourselves from living with fire,” Balch says. “It is really important to understand and try and tease out what is the human connection with fire today.”"
+     ],
+     "questions": [
+      {
+       "number": 36,
+       "score": 2.0,
+       "stem": "More frequentwildfires have become a nationalconcern because in 2015 they .",
+       "options": {
+        "A": "exhausted unprecedented management efforts",
+        "B": "consumed a record-high percentage of budget",
+        "C": "severely damaged the ecology of western states",
+        "D": "caused a huge rise of infrastructure expenditure"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 36. More frequent wildfires have become a national concern because in 2015 they ____. | 36. 森林大火更频繁已成举国关切之事，是因为2015年森林大火____。 |\n| --- | --- |\n| [A] exhausted unprecedented management efforts | [A] 消耗史无前例的管理力度 |\n| [B] consumed a record-high percentage of budget | [B] 花费破纪录的高比例预算 |\n| [C] severely damaged the ecology of western states | [C] 严重损害西部州的生态 |\n| [D] caused a huge rise of infrastructure expenditure | [D] 造成基础设施支出大幅上升 |\n\n[精准定位] 第一段明确指出：日益频繁的森林大火因其对联邦税款的不良影响而发展为举国关切之事，第二段①句例证其对联邦税款的不良影响：2015 年，美国林务局首次将超过一半的预算用于对抗森林大火，故 [B] 正确。\n\n[命题解密] 正确项[B]是对第二段①句的同义改写，是对第二段①句与第一段解释说明关系的正确解读。\n\n[A]利用第二段中碎片信息 for the first time、efforts、management 等凭空捏造出“史无前例的管理力度问题”。[C]利用第一段中碎片信息 western states、ecology 等捏造出“西部州的生态问题”，而文意重在讲述西部州森林大火给全国税款带来的影响。[D]将第二段末句 infrastructure upkeep“基础设施养护”曲解为 infrastructure expenditure“基础设施支出”，且将文意“基础设施养护所用联邦专款减少(fewer)”反向干扰为“基础设施支出大幅增加”。\n\n[技巧总结]因果细节题的常规解答办法为：根据题干所示“果”回文定位“因”，并借题干时间词、处所词等缩小定位信息，随后将其与选项一一比对，敲定正确答案。如本题，首先根据题干“果：森林大火更频繁已成举国关切之事”定位至首段“因：对联邦税款的影响”，而该段实为独句段，并不能就此得出准确因果关联，故而再借题干时间词 in2015锁定至第二段①句“林务局首次花费总预算的过半用于抗击林火，所占比例高达20年前的两倍”，最后将这一精准信息与选项比对，最终敲定[B]正确。\n\n③ Another nationwide concern is whether public funds from other agencies are going into construction in fire-prone districts. ② As Moritz puts it, how often are federal dollars building homes that are likely to be lost to a wildfire?\n\n另一件举国关切之事是，来自其他机构的公共基金是否被用于火灾易发区建设。以莫里茨的话来讲就是，联邦资金用于建设那些可能会被毁于林火的家园的频率如何。\n\n**词汇注释与难句分析**\n\nnationwide a. 全国范围的，全国性的\n\nprone a. 易于发生某事的；很可能……的\n\nput v. 说，表达\n\n第三、四段提出第二个举国关切问题。\n\n第三段概述问题：其他机构公共资金是否用于火灾易发区建设及其使用频率。关键词为：① whether...going into...(是否用于……);② how often(频率多高)。\n\n句直指问题：其他机构公共资金是否用于火灾易发区建设。public funds from other agencies 承前 the US Forest Service, 将讨论范围由“林务局预算分配比例失衡”扩大到“其他机构的公共资金是否也被挪用至森林抗火”。\n\n句深化问题：其他机构公共资金用于火灾易发区建设的频率如何。As Moritz puts it(it 回指首句所述问题)体现①②句间解释说明关系；how often 以频率设问，将①句“是否用于……”进一步细化为“到底有多么频繁地用于……”,深层暗示“其他机构的公共资金被移用到森林火灾易发区建设为既成事实，举国关切的是被移用频率到底有多高”;building homes that are likely to be lost to a wildfire 实质照应 construction in fire-prone districts,指向“火灾易发区建设”。\n\nIV ① “It’s already a huge problem from a public expenditure perspective for the whole country,” he says. ② “We need to take a magnifying glass to that. ③ Like, ‘Wait a minute, is this OK?’ ④ Do we want instead to redirect those funds to concentrate on lower-hazard parts of the landscape?”\n\n“从公共支出角度看，这对整个国家来说已然是一个巨大的难题，”他说，“对此，我们要用放大镜来看待。比如，‘等一下，这样做可行吗？’我们要反过来，将这些资金转向，集中用于该地景的低风险区域吗？”\n\n**词汇注释与难句分析**\n\nredirect v. 使改变用途，重新使用\n\nconcentrate v. 使集中于，使汇聚于\n\nhazard n. 危险，隐患\n\n**经典搭配**\n\nlandscape n. 地形，地貌\n\npublic expenditure（公共支出）\n\nmagnifying glass（放大镜）\n\n**语篇分析**\n\n第四段指出问题严重性及应对办法：问题很严重，需慎重对待。关键词为：①already a huge problem (已是一个重大问题);②need to take a magnifying glass(需采用放大镜对待)。\n\n①句指出问题严重性：极其巨大、非常棘手。It 再现上段所述问题“其他机构公共资金是否也用于火灾易发区建设、其频率有多高”;already 暗传此重大问题业已存在且有愈演愈烈之势；from a public expenditure perspective 形似强调看待这一巨大问题的角度，实则反衬全文论述角度：从公共资金支出角度看待抗击林火所需联邦税款给全国人民造成的影响。\n\n②至④句就问题解决方案给出建设性意见。We need to..., Like..., instead... 以其内部“建议→例证→反说”实现句间衔接。\n\n②句给出建议：要用放大镜来看待这个问题。magnifying glass 喻指：对待“将大量联邦资金用于抗击林火、火灾易发区建设(that 复现 it 之意)”这一巨大问题要多方位、多角度、多层面看待，要善于见微知著、洞察细小问题，深层暗示：需要确保联邦资金的支出安全可靠。\n\n③④句解释说明②句：要审慎公共资金投向。Like 实则辖域③④句，体现其与②句的例证关联。\n\n③句指出审思方向一：投入火灾易发区是否可行？this 再度复现前文 that、it, 明确问题，并借 Wait a minute、is this OK 强调资金投放时多加思考，反衬莫里茨否定之意：投入火灾易发区或许并没有想象中那么切实可行。\n\n④句指出审思方向二：要不要投入到低风险区域建设去？instead 实则相较 this 而言，引出另外一种做法，即 redirect... to concentrate on...,并借 Do we want 所蕴藏的“我们要不要去……?”传递莫里茨实质性建议：不应将公共资金全部投入到火灾易发区建设，而应将一部分公共资金投入到该林区的较低风险区域建设(言外之意是，要重视森林防护、基础设施养护等工作，诸如树木死亡生态救治和森林健康恢复等)。注：句中 lower-hazard parts of the landscape 实则相较上段 fire-prone districts 而言，指的某一地景(如林区)范围内风险较小区域。"
+      },
+      {
+       "number": 37,
+       "score": 2.0,
+       "stem": "Moritz calls for the use of “a magnifying glass” to .",
+       "options": {
+        "A": "raise more funds for fire-prone areas",
+        "B": "avoid the redirection of federal money",
+        "C": "find wildfire-free parts of the landscape",
+        "D": "guarantee safer spending of public funds"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 37. Moritz calls for the use of “a magnifying glass” to ____. | 37. 莫里茨呼吁使用“放大镜”旨在____。 |\n| --- | --- |\n| [A] raise more funds for fire-prone areas | [A] 为火灾易发区募集更多资金 |\n| [B] avoid the redirection of federal money | [B] 避免改变联邦资金的用途 |\n| [C] find wildfire-free parts of the landscape | [C] 寻找该地景林火免疫区 |\n| [D] guarantee safer spending of public funds | [D] 确保公共资金的支出更可靠 |\n\n[精准定位] 第四段②句直指莫里茨建议：要用放大镜来看待“是否将联邦资金投入林火易发区建设”这个全国性大问题；③④句进而以正反设问的方式解释说明抽象概念“用放大镜看待”:等一等，这么投放可行不可行？要不要将其投向该地景的低风险区域？换而言之，要多提问、多审思以确保联邦资产的投向准确无误，故[D]正确。\n\n[命题解密] 正确项[D]是对第四段③④句所传递的莫里茨之意的正确解读。\n\n[A]利用 magnifying glass 的字面意“放大”捏造干扰“raise more funds”，而文意实际针对“联邦资金的投向”而言，与“募集资金”无关。[B]首先将④句 Do we want instead to redirect those funds...“我们是否要将这些联邦资金……”中 those funds 范围扩大至 federal money“联邦资金”，其次将该句所传递的疑问之意曲解为充分肯定的否定之意“避免改变联邦资金的用途(avoid the redirection)”。[C]首先将④句 lower-hazard parts of the landscape“低风险区域”偷换为 wildfire-free parts of the landscape“无风险区域”，其次文中并未提及“找寻无风险区域(find wildfire-free parts)”的相关信息，故排除。\n\n[技巧总结]本题就含有回指关系、比喻修辞、抽象概念的复杂信息处设置推理引申题。解答时应当：首先，理清回指关系，明确被考查的核心对象；其次，借助上下文特殊句式结构认识被考查对象的本质；最后，结合段落(群)主旨，明确抽象概念深层所指。如本题，根据题干 a magnifying glass 所在句中 that 回指“公共资金是否被用于火灾易发区建设”,可推知本题实质考查对象为“联邦资金的投放问题”;其次，根据下文的疑问句式复现所传递出的正反两向“is this OK? Do we want instead to...?(这么做好么？要不要……?)”可推测莫里茨意在建议联邦资金投放时要双向考虑清楚，借此推测“用放大镜看问题”即指“全方位、多角度设问，审思资金投向是否可靠”;最后，根据第三四段核心论述话题“非林务局、其他机构公共资金是否用于火灾易发区建设”亦可明确“放大镜”意在强调细思公共资金的投向以确保其正确可靠，故[D]正确。\n\nV ① Such a view would require a corresponding shift in the way US society today views fire, researchers say.\n\n这种观念需要当今美国社会在看待火灾的方式上做出相应改变，研究者说。\n\n**词汇注释与难句分析**\n\ncorresponding a. 相应的，由此引起\n\nshift n. （想法、做法等的）转变，改变\n\n**语篇分析**\n\n第五至十段为第二部分，针对两个举国关切问题提出解决办法。\n\n第五段总述问题应对办法：全社会需要转变火灾观念。关键词为：shift in the way...views fire(转变看待火灾的方式)。\n\n独句成段，Such a view 回指上段疑问所传递的部分肯定之意“改变部分公共资金用途，聚焦低风险区域建设”；强调必要性的 require 表明形成这一视角的必要条件是美国社会看待火灾的方式做出改变；corresponding“相对应的”进而表明 Such a view 与 shift in the way... views fire 的紧密联系：只有看待火灾的方式做出相应的转变，才有这种视角的形成。\n\nVI ① For one thing, conversations about wildfires need to be more inclusive. ② Over the past decade, the focus has been on climate change — how the warming of the Earth from greenhouse gases is leading to conditions that worsen fires.\n\n首先，关于森林大火的晤谈应该更具包容性。在过去的十来年间，晤谈一直聚焦于气候变化——温室气体所致的地球变暖如何诱发火灾恶化的环境。\n\n**词汇注释与难句分析**\n\ninclusive a. 包容广阔的，范围广的\n\nworsen v. (使)变得更差，(使)恶化\n\n**经典搭配**\n\nclimate change (气候变化)\n\ngreenhouse gases（温室气体）\n\n**语篇分析**\n\n第六至八段(从森林大火晤谈角度)指出观念转变方式之一。\n\n第六段直说转变方式：关于森林大火的晤谈应更加包容。关键词为：more inclusive(更具包容性)。\n\n句直指建议：晤谈应更具包容性。比较级 more inclusive 说明建议内容：有关森林大火的晤谈应该主题更开阔、内容更广泛，反衬此前晤谈范围狭窄。\n\n句回溯过去晤谈范围：一直聚焦于气候变化。Over the past decade 强调这一做法持续时间之久，且有延续之嫌；from、leading to、worsen 搭建起因果逻辑链：温室气体排放→地球气候变暖→环境恶化→火灾频发，深层暗示过去做法的单一性“仅仅聚焦于气候变化对森林大火的影响”而忽略了其他若干人为因素。\n\nVII ① While climate is a key element, Moritz says, it shouldn't come at the expense of the rest of the equation.\n\n尽管气候是一个关键要素，但它不应以牺牲其他影响因素作为代价，莫里茨说。\n\n**词汇注释与难句分析**\n\nequation n. 影响因素，综合体\n\n**经典搭配**\n\nkey element（关键要素）\n\nat the expense of (以……为代价)\n\n**语篇分析**\n\n第七、八段通过说明“晤谈范围过窄造成不良影响”论证这一转变方式的正确性。\n\n第七段指出晤谈聚焦气候变化的后果：以忽略其他影响因素为代价。关键词为：come at the expense of... (以……为代价)。\n\n句子先以 While 让步承认气候变化对森林大火的影响，后以 shouldn't 指出过去晤谈聚焦气候变化的不妥之处：以牺牲其他影响因素为代价；equation (the set of different facts, ideas etc. that all affect a situation and must be considered together “(涉及平衡的) 影响因素，综合体”) 表明影响森林大火的所有因素是一个综合体，必须综合起来考虑。"
+      },
+      {
+       "number": 38,
+       "score": 2.0,
+       "stem": "While admitting that climate is a key element, Moritz notes that .",
+       "options": {
+        "A": "public debates have not settled yet",
+        "B": "fire-fighting conditions are improving",
+        "C": "other factors should not be overlooked",
+        "D": "a shift in the view of fire has taken place"
+       },
+       "answer": "C",
+       "explanation": "**真题精解**\n\n> **答案：** C\n\n| 38. While admitting that climate is a key element, Moritz notes that ____. | 38. 承认气候是关键要素之余，莫里茨也指出____。 |\n| --- | --- |\n| [A] public debates have not settled yet | [A] 公开讨论尚无定论 |\n| [B] fire-fighting conditions are improving | [B] 消防条件正在改善 |\n| [C] other factors should not be overlooked | [C] 不应忽略其他因素 |\n| [D] a shift in the view of fire has taken place | [D] 火灾观念已经改变 |\n\n[精准定位] 第七段明确指出莫里茨观点：气候尽管是一个关键要素，但不应以牺牲其他影响因素为代价，故 [C] 正确。\n\n[命题解密] 正确项[C]是 shouldn't come at the expense of the rest of the equation 的同义改写。\n\n[A]源自第六段②句 how... is leading to...，但将“晤谈焦点在于探究地球变暖如何导致火灾恶化”曲解为“公开讨论尚未定论”。[B]源自第六段②句 conditions that worsen fires，却将“地球变暖诱发使火灾恶化的条件”反向曲解为“抗击火灾的条件在改善”。[D]源自第五段 shift in the way... views fire，却将“期望：应改变看待火灾的方式”曲解为“事实：对火灾的看法已经发生改变”。\n\n[技巧总结] 本题形似考查人物观点，实则考查事实细节。解答关键在：根据题干关键词定位，并于定位处寻找正确信息，干扰项或反向曲解、或张冠李戴、或望文生义。如本题，根据题干关键词 While admitting... a key element 定位至第七段，并于其中断定 [C] 的正确性。\n\nVIII ① “The human systems and the landscapes we live on are linked, and the interactions go both ways,” he says. ② Failing to recognize that, he notes, leads to “an overly simplified view of what the solutions might be. ③ Our perception of the problem and of what the solution is becomes very limited.”\n\n“人类系统与我们所赖以生存的地景相互关联，而且，两者间的相互影响是双向的，”他说。不能认识到这一点会导致“对可能性解决措施的看法过于简化，对问题的认知以及对问题解决办法的认知变得极其有限，”他指出。\n\n**词汇注释与难句分析**\n\ninteraction n. 相互作用，相互影响\n\nsimplified a. 简化的\n\n**语篇分析**\n\n第八段进而展示忽略其他影响因素的代价。关键词为：leads to(导致)。\n\n句先指出人文与地景的关系：相互关联，相互影响。we live on 强调地景之于人类的重要性：赖以生存之基；and 以并列之形传递递进语义：不仅相互作用，且作用好坏兼具；go both ways 在 interactions 基础上强调指出：两者间相互影响既可以是正面的、也可以是负面的，反向强调两者间相辅相成、相互制约的关联。\n\n句后说明未能认识上述关联的后果。\n\n句直指后果 1: 对问题解决办法的思路过简。leads to 表因果关联：不能认识两者间关联→对问题解决办法的看法过于简化；overly simplified 强调人们看法过于简单，以致无法找到真正正确而又全面的问题解决方案。\n\n句直指后果 2: 对问题、解决办法的思路过窄。Our perception of the problem and of what the solution is 细化②句 view of what the solutions might be; very limited 强调对问题及其解决办法的看法都变得非常有限。"
+      },
+      {
+       "number": 39,
+       "score": 2.0,
+       "stem": "The overly simplified view Moritz mentions is a result of failing to .",
+       "options": {
+        "A": "discover the fundamental makeup of nature",
+        "B": "explore the mechanism of the human systems",
+        "C": "maximize the role of landscape in human life",
+        "D": "understand the interrelations of man and nature"
+       },
+       "answer": "D",
+       "explanation": "**真题精解**\n\n> **答案：** D\n\n| 39. The overly simplified view Moritz mentions is a result of failing to ____. | 39. 莫里茨所言及的过度简化的看法是未能____所致。 |\n| --- | --- |\n| [A] discover the fundamental makeup of nature | [A] 挖掘自然的基本构成 |\n| [B] explore the mechanism of the human systems | [B] 探索人类系统的机制 |\n| [C] maximize the role of landscape in human life | [C] 充分发挥地景在人类生活中的作用 |\n| [D] understand the interrelations of man and nature | [D] 掌握人类和自然的相互关系 |\n\n[精准定位]第八段首先指出人文与地景的关系：相互关联、相互影响；随后指出不认识这一关系的后果：对可能性解决措施的看法过于简化，故[D]正确。\n\n[命题解密] 题干+正确项[D]是对第八段②句的同义改写。\n\n[A]、[B]将①句双向关联“人类系统与地景紧密相连(linked)”割裂为单向研究“探索自然/人文基本构成”。[C]则将①句双向关联“人类系统与地景相互作用(interactions)”单向割裂为“地景对人类生活的作用(the role of A in B)”。\n\n[技巧总结] 本题同 36 题，考查因果细节。解答关键在：根据题干关键信息定位，并于定位信息中借助隐性因果逻辑词明确“因”、“果”, 最后借助代词指代关联将因果关联细化。如本题，根据题干关键信息 The overly simplified view 定位至第八段，而后借助隐性因果关联词 leads to 明确所考查的“因”为 Failing to recognize that, 而借助 that 回指功能“人类系统与地景之间相互联系、相互影响”即可推知真正的原因即在于：未能把握好人与自然的相关关系，故 [D] 正确。技巧补充：观察敏锐者通过透析四个选项即可快速得出正确答案 [D]: 四个选项围绕“人”、“自然”展开，其中 [A]、[B] 为单一考查，指向“某一方面的构成”, [C]、[D] 则联合考查，指向“两者间影响”, 而 [C] “某一方之于另一方的作用”其实也侧重于单向考查，并未强调两者间关联。\n\nIX ① At the same time, people continue to treat fire as an event that needs to be wholly controlled and unleashed only out of necessity, says Professor Balch at the University of Colorado. ② But acknowledging fire's inevitable presence in human life is an attitude crucial to developing the laws, policies, and practices that make it as safe as possible, she says.\n\n然而，人们仍旧把火灾视为需要全面控制且唯有必要方可释放的事件，科罗拉多大学鲍尔奇教授说。但是，承认火灾在人类生活中的必然存在这一态度对于形成确保火灾尽可能安全的法律、政策、惯例至关重要，她说。\n\n**词汇注释与难句分析**\n\nunleash v. 发泄，突然释放，使爆发\n\nnecessity n. 必然，必要\n\nacknowledge v. 承认\n\ninevitable a. 必然发生的，难以避免的\n\npresence n. 存在，出现\n\n**经典搭配**\n\ntreat as（把……视为）\n\nout of necessity（出于必要）\n\n功能注释：本句主干为 she says，引语部分做 says 的宾语，引语部分的主干为 acknowledging fire's inevitable presence in human life is an attitude。形容词结构 crucial to developing... 做后置定语修饰 an attitude，其中又嵌套 that 引导的定语从句修饰 the laws, policies and practices。\n\n**语篇分析**\n\n第九、十段(从人们对待火灾角度)指出观念转变方式之二。\n\n第九段直说转变方式：承认火灾是人类生活中的必然存在。关键词为：acknowledging fire's inevitable presence(承认火灾的必然存在)。\n\n句指出长期以来人们对火灾的错误认知：将其视为可控事件。At the same time (used to introduce a contrasting fact, etc. that must be considered, “然而，不过”)照应第六段 For one thing, 实现段群衔接，引出观念转变的第二个方式；wholly、only out of necessity 分别修饰被动态动词 controlled、unleashed,凸显人们对火灾的一般认识：火灾可全面控制，非必要时可完全将其压制，而必要时亦可将其释放，字里行间透露出人们对待火灾可控性的自以为是。\n\n句转而指出正确认知：应将其视为人类生活中不可避免的事件。inevitable“必然发生的，难以避免的”表明火灾的存在是不可避免的；crucial、make 以其隐藏的因果关联强调这一认知的重要性：是形成相应法律、政策及惯例以确保火灾足够安全的关键。\n\nX ① “We’ve disconnected ourselves from living with fire,” Balch says. ② “It is really important to understand and try and tease out what is the human connection with fire today.” [431 words]\n\n“我们已将自身从与火灾共存中剥离开来，”鲍尔奇说。“理解并尽力梳理出当今人类与火灾之间关联非常重要。”\n\n**词汇注释与难句分析**\n\ndisconnect v. 使分离，使脱离\n\ntease v. 梳理\n\n**经典搭配**\n\ndisconnect...from...（使……脱离）\n\ntease out（梳理，疏通）\n\n**语篇分析**\n\n第十段补充说明：认清人与火灾密不可分，切不可割裂两者关联。关键词为：It is really important to... (……非常重要)。\n\n句指出错误做法：将自身生活与火灾割裂开来。(have) disconnected... from doing 以其现在完成时态表明当前现状：将自身生活与火灾完全割裂开来，不想也不愿与火灾共存，深层暗示当前人们对火灾的零容忍。\n\n句指出正确做法：要努力与火灾和谐相处。really important 强调“与火灾和谐共存”的重要性；and 复现，却语义有差，前者有“先后之意：先思维上转变过来，后行动上调整过来”之意，后者有“to 之意：相当于 try to tease out(尽可能梳理清楚)”;connection 与①句 disconnected 反向呼应，表明鲍尔奇对梳理人与火灾之间联系的认识：人应该与火灾达成妥协，并与之共存。"
+      },
+      {
+       "number": 40,
+       "score": 2.0,
+       "stem": "Professor Balch points out that fire is something man should .",
+       "options": {
+        "A": "do away with",
+        "B": "come to terms with",
+        "C": "pay a price for",
+        "D": "keep away from"
+       },
+       "answer": "B",
+       "explanation": "**真题精解**\n\n> **答案：** B\n\n| 40. Professor Balch points out that fire is something man should ____. | 40. 鲍尔奇教授指出火灾是人类应该____的事物。 |\n| --- | --- |\n| [A] do away with | [A] 终结 |\n| [B] come to terms with | [B] 与之妥协 |\n| [C] pay a price for | [C] 付出代价 |\n| [D] keep away from | [D] 远离 |\n\n[精准定位] 第九段间接引用鲍尔奇教授之言指出：现如今的人们认为火灾是可以被全面控制的，而事实是，人们必须承认火灾是不可避免之物；第十段直接引用鲍尔奇教授之言指出：现如今的人们业已切断与火灾的关联，而事实是，理解人与火灾的关联并梳理好这一关联至关重要。由此可见，鲍尔奇教授认为火灾不可避免、人与火灾密不可分、人类应与火灾和谐共存，故[B]正确。\n\n[命题解密] 正确项 come to terms with 是对末两段鲍尔奇教授对火灾认知 acknowledging fire's inevitable presence, really important to understand and try and tease out what is the human connection with fire 的合理推断。\n\n[A]错将第九段①句人们错误认知“火灾应该被全面控制，且只在有必要时才使其爆发（wholly controlled and unleashed only out of necessity)”曲解为鲍尔奇观点“人类应该终结火灾”。[C]由第九段\n\n句鲍尔奇所述客观事实“火灾在人类生活中不可避免(fire's inevitable presence in human life)”捏造出因果关联“人类要为火灾付出代价”。[D]将末段①句人们错误做法“人类将自己与火灾割裂开来(disconnected ourselves from living with fire)”曲解为鲍尔奇观点“人类应该远离火灾”。\n\n[技巧总结] 本题借考查人物观点考查推理引申。解答关键在：1. 借助逻辑词、句式、时态等区辨人物观点与普遍观点的差异；2. 就人物观点信息抽取合理的概念关联。如本题，借助逻辑词 But 及完成时句式可判定：第九段①句+第十段①句为鲍尔奇所反对的人们普遍看法“认为火灾可控，进而割裂自身与火灾的关联”、第九段②句+第十段②句即为鲍尔奇观点“火灾不可避免、要充分理解这一关联并力图理清关系”,进而借“两者密不可分、应正视并做好相关工作”可推知鲍尔奇观点指向“人应与火灾和平共处”,也即[B]正确。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section II Reading Comprehension — Part B",
+   "instructions": "Read the following text and match each of the numbered items in the left column to its corresponding information in the right column. There are two extra choices in the right column. Mark your answers on the ANSWER SHEET. (10points)",
+   "score": 10,
+   "groups": [
+    {
+     "type": "matching",
+     "passage": [
+      "The decline in American manufacturing is a common refrain, particularly from Donald Trump. “We don’t make anything anymore,” he told Fox News, while defending his own made-in-Mexico clothing line.",
+      "Without question, manufacturing has taken a significant hit during recent decades, and further trade deals raise questions about whether new shocks could hit manufacturing.",
+      "But there is also a different way to look at the data.",
+      "Across the country, factory owners are now grappling with a new challenge: Instead of having too many workers, they may end up with too few. Despite trade competition and outsourcing, American manufacturing still needs to replace tens of thousands of retiring boomers every year. Millennials may not be that interested in taking their place. Other industries are recruiting them with similar or better pay.",
+      "For factory owners, it all adds up to stiff competition for workers – and upward pressure on wages. “They’re harder to find and they have job offers,” says Jay Dunwell, president of Wolverine Coil Spring, a family-owned firm, “They may be coming [into the workforce], but they’ve been plucked by other industries that are also doing as well as manufacturing.” Mr. Dunwell has begun bringing high school juniors to the factory so they can get exposed to its culture.",
+      "At RoMan Manufacturing, a maker of electrical transformers and welding equipment that his father cofounded in 1980, Robert Roth keeps a close eye on the age of his nearly 200 workers. Five are retiring this year. Mr. Roth has three community-college students enrolled in a work-placement program, with a starting wage of $13 an hour that rises to $17 after two years.",
+      "At a worktable inside the transformer plant, young Jason Stenquist looks flustered by the copper coils he’s trying to assemble and the arrival of two visitors. It’s his first week on the job. Asked about his choice of career, he says at high school he considered medical school before switching to electrical engineering. “I love working with tools. I love creating,” he says.",
+      "But to win over these young workers, manufacturers have to clear another major hurdle: parents, who lived through the worst US economic downturn since the Great Depression, telling them to avoid the factory. Millennials “remember their father and mother both were laid off. They blame it on the manufacturing recession,” says Birgit Klohs, chief executive of The Right Place, a business development agency for western Michigan.",
+      "These concerns aren’t misplaced: Employment in manufacturing has fallen from 17 million in 1970 to 12 million in 2015. When the recovery began, worker shortages first appeared in the high-skilled trades. Now shortages are appearing at the mid-skill levels.",
+      "“The gap is between the jobs that take no skills and those that require a lot of skill,” says Rob Spohr, a business professor at Montcalm Community College. “There’re enough people to fill the jobs at McDonalds and other places where you don’t need to have much skill. It’s that gap in between, and that’s where the problem is.”",
+      "Julie Parks of Grand Rapids Community College points to another key to luring Millennials into manufacturing: a work/life balance. While their parents were content to work long hours, young people value flexibility. “Overtime is not attractive to this generation. They really want to live their lives,” she says."
+     ],
+     "options": {
+      "A": "says that he switched to electrical engineering because he loves working with tools.",
+      "B": "points out that there are enough people to fill the jobs that don’t need much skill.",
+      "C": "points out that the US doesn’t manufacture anything anymore.",
+      "D": "believes that it is important to keep a close eye on the age of his workers.",
+      "E": "says that for factory owners, workers are harder to find because of stiff competition.",
+      "F": "points out that a work/life balance can attract young people into manufacturing.",
+      "G": "says that the manufacturing recession is to blame for the lay-off of the young people’s parents."
+     },
+     "questions": [
+      {
+       "number": 41,
+       "score": 2.0,
+       "stem": "Jay Dunwell",
+       "answer": "E",
+       "explanation": "> **答案：** E\n\n41. [答案] E [精解]根据题干 Jay Dunwell 定位至第五段。该段借助观点标记词/符(says+双引号)将其观点呈现：工人更加难寻/工人手上有多个工作机会/工人已经被其他行业抢走了(②③句),而该观点实则顺承①句“行业间劳动力竞争激烈”而来；[E]选项“对于工厂老板而言，因(行业间)激烈争夺，工人愈加难寻”复现 Dunwell 观点关键词 for factory owners/are harder to find/stiff competition,故正确。\n\n| 41. Jay Dunwell41.杰伊·顿维尔 | [B] points out that there are enough people to fill the jobs that don't need much skill.[B]指出有足够多的人来填补那些无需太多技能的工作。 |\n| --- | --- |"
+      },
+      {
+       "number": 42,
+       "score": 2.0,
+       "stem": "Jason Stenquist",
+       "answer": "A",
+       "explanation": "> **答案：** A\n\n42. [答案] A [精解] 根据题干 Jason Stenquist 定位至第七段。该段③④⑤句借助观点表达词/符(says+双引号)说明 Stenquist 职业选择改变的原因：由医学转到电气工程，是因为喜欢与工具打交道、喜爱创造；[A]“他改修电气工程是因为他喜欢与工具打交道”复现该部分关键词 switching to electrical engineering/love working with tools,与文中 Jason Stenquist 信息匹配。\n\n| 42. Jason Stenquist42.贾森·施坦奎斯 | [C] points out that the US doesn't manufacture anything anymore.[C]指出美国不再制造任何东西了。 |\n| --- | --- |"
+      },
+      {
+       "number": 43,
+       "score": 2.0,
+       "stem": "Birgit Klohs",
+       "answer": "G",
+       "explanation": "> **答案：** G\n\n43. [答案] G [精解] 根据题干 Birgit Klohs 定位至第八段。该段②③句借助观点标记词/符(says + 双引号)指出其观点：千禧一代记得他们的父母曾双双被辞退，并将这归咎于制造业衰退；[G] 中 the lay-off of the young people's parents, the manufacturing recession is to blame 分别同义替换 their father and mother both were laid off. They blame it on the manufacturing recession, 所述内容“年轻人的父母遭解雇应归咎于制造业衰退”与 Birgit Klohs 观点一致。\n\n| 43. Birgit Klohs43.波吉特·科尔士 | [D] believes that it is important to keep a close eye on the age of his workers.[D]认为密切关注其员工年龄很重要。 |\n| --- | --- |"
+      },
+      {
+       "number": 44,
+       "score": 2.0,
+       "stem": "Rob Spohr",
+       "answer": "B",
+       "explanation": "> **答案：** B\n\n| 44. Rob Spohr44.罗布·施波尔 | [E] says that for factory owners, workers are harder to find because of stiff competition.[E]称对于工厂老板而言，因竞争激烈工人愈加难寻。 |\n| --- | --- |\n| 45. Julie Parks45.朱莉·帕克斯 | [F] points out that a work/life balance can attract young people into manufacturing.[F]指出工作—生活平衡能吸引年轻人进入制造业。 |\n| | [G] says that the manufacturing recession is to blame for the lay-off of the young people's parents.[G]称年轻人父母遭解雇归咎于制造业衰退。 |\n\n44. [答案] B [精解] 根据题干 Rob Spohr 定位至第十段。该段①②句借助观点表达词/符(says+双引号)指出其观点：劳动力缺口存在于中级技术岗位，而无需技能的岗位则劳动力充足；[B] 通过复现 there are enough people to fill, 并以 the jobs that don't need much skill 同义改写 the jobs... where you don't need to have much skill, 指出“有足够的人来填补那些无需太多技能的工作”, 与 Rob Spohr 观点一致。"
+      },
+      {
+       "number": 45,
+       "score": 2.0,
+       "stem": "Julie Parks",
+       "answer": "F",
+       "explanation": "> **答案：** F\n\n45. [答案] F [精解] 根据题干 Julie Parks 定位至第十一段。该段①句借助观点标记词 (points to) 指出其观点：另一个吸引千禧一代进入制造业的关键是“工作—生活平衡”; [F] 复现关键词 a work/life balance, 指出“工作—生活平衡能吸引年轻人进入制造业”, 与 Julie Parks 匹配。\n\n[干扰项排除][C]:由其关键内容 the US doesn't manufacture anything anymore“美国不再制造任何东西了”定位至第一段②句，锁定该选项观点持有人物为 Donald Trump。\n\n[D]: 由其关键内容 keep a close eye on the age of his workers “密切关注员工年龄”定位至第六段①句，锁定该选项观点所持人物为 Robert Roth。\n\n[技巧总结]解答“人物—观点”匹配题的关键在：第一、由题干人物回文定位，于定位处所在的上下文中抓取观点标记词，并就观点标记词锁定观点内容；第二、将人物观点内容与备选项观点内容比对，锁定可能性正确项；第三、将剩余选项内容回文对应，找出该观点持有人物，并与题干比对，排除错项，敲定答案。就本篇“人物—观点”匹配题而言，由于借由人物观点即可锁定正确答案，故而只需敲定未选项的错误性即可。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section III Translation",
+   "instructions": "Translate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)",
+   "score": 15,
+   "groups": [
+    {
+     "type": "translation_full",
+     "passage": [
+      "My dream has always been to work somewhere in an area between fashion and publishing. Two years before graduating from secondary school, I took a sewing and design course thinking that I would move on to a fashion design course. However, during that course I realized I was not good enough in this area to compete with other creative personalities in the future, so I decided that it was not the right path for me. Before applying for university I told everyone that I would study journalism, because writing was, and still is, one of my favourite activities. But, to be honest, I said it, because I thought that fashion and me together was just a dream – I knew that no one could imagine me in the fashion industry at all! So I decided to look for some fashion-related courses that included writing. This is when I noticed the course “Fashion Media & Promotion.”"
+     ],
+     "questions": [
+      {
+       "number": 46,
+       "score": 15.0,
+       "answer": "我的梦想一直是在时尚和出版之间的领域工作。中学毕业前两年，我选了一门缝纫与设计课，心想以后会接着修一门时装设计课。然而，在学习那门课程期间，我意识到自己在这个领域不够出色，日后不足以与其他有创造力的人士竞争，因此我认定，这条路不适合我。申请上大学之前，我跟所有人说我要学新闻，因为写作曾经是——现在依然是——我最喜欢的活动之一。可是，说实话，当时我那么说是因为我觉得时尚和我结缘仅仅是个梦——我知道，别人根本无法想象我能进入时尚行业！于是，我决定找些含有写作的与时尚相关的课程。就在这个时候，我注意到了“时尚传媒与推广”这门课。",
+       "explanation": "> **答案：** 参考译文见下文\n\n**我的梦想**\n\n**一、文章总体分析**\n\n本文节选自2016年1月份第4期 World Student《世界学生杂志》。文章是国际留学生 Inese Gailane(伊尼斯·盖来恩)对梦想的自述，讲述在追求“在时尚和出版之间领域工作”这一梦想路上的心路历程，有过尝试，也曾受挫，最后还是坚持最初的梦想。文章句子结构及用词比较简单，但固定短语比较多，翻译时需结合上下文语境使译文表达更加精准、确切。\n\n**二、语篇分析**\n\n① My dream has always been to work somewhere in an area between fashion and publishing. ② Two years before graduating from secondary school, I took a sewing and design course thinking that I would move on to a fashion design course. ③ However, during that course I realized I was not good enough in this area to compete with other creative personalities in the future, so I decided that it was not the right path for me. ④ Before applying for university I told everyone that I would study journalism, because 我的梦想一直是在时尚和出版之间的领域工作。中学毕业前两年，我选了一门缝纫与设计课，心想以后会接着修一门时装设计课。然而，在学习那门课程期间，我意识到自己在这个领域不够出色，日后不足以与其他有创造力的人士竞争，因此我认定，这条路不适合我。申请上大学之前，我跟所有人说我要学新闻，因为 writing was, and still is, one of my favourite activities. ⑤ But, to be honest, I said it, because I thought that fashion and me together was just a dream — I knew that no one could imagine me in the fashion industry at all! ⑥ So I decided to look for some fashion-related courses that included writing. ⑦ This is when I noticed the course \"Fashion Media & Promotion\".[156 words]\n\n写作曾经是——现在依然是——我最喜欢的活动之一。可是，说实话，当时我那么说是因为我觉得时尚和我结缘仅仅是个梦——我知道，别人根本无法想象我能进入时尚行业！于是，我决定找些含有写作的与时尚相关的课程。就在这个时候，我注意到了“时尚传媒与推广”这门课。\n\n**词汇注释与难句分析**\n\ntake v. 攻读，修(某一课程)\n\nsewing n. 缝纫\n\npersonality n. 有突出个性的人\n\napply v. 申请\n\npromotion n. 推广\n\n**经典搭配**\n\ngraduate from(从……毕业)\n\nsecondary school(中学)\n\nmove on to sth/doing sth(继续某事，接着做某事)\n\nfashion design(时装设计)\n\ncompete with(与……竞争)\n\nto be honest(说实话)\n\nno/not...at all(完全不，根本不)\n\n**语篇分析**\n\n本段讲述作者在追求“在时尚和出版之间的领域工作”这一梦想路上的心路历程：从尝试与时尚相关课程之后想放弃，到后来坚守梦想，找到了相关课程“时尚传媒与推广”。\n\n①句为主旨句，介绍作者的梦想：在时尚和出版之间的领域工作。an area between fashion and publishing 界定其梦想工作领域。\n\n②③句为第一层，介绍作者的中学经历与想法：尝试过时装相关课程，但认定时尚之路不适合自己。However 体现句间转折关系，took a sewing and design course、during that course 实现句间衔接。②句介绍作者在中学修读缝纫与设计课的心理动机。伴随状语 thinking that... 明确其选课心理：以后还会修时装设计课；took a sewing and design course、move on to a fashion design course 体现作者对时尚行业饶有兴趣。③句转而谈其课程感想：自认为表现不够出色，因此认定时尚之路不通。not good enough... to compete with 说明作者梦想受挫，自认为不足以与创造力人士竞争。so I decided... 引出结果：欲放弃时尚之路。\n\n④⑤句为第二层，介绍作者申请大学专业时的心路历程：认为时尚行业仅是一个梦，而打算学新闻业。I said it 回指 I told everyone that I would study journalism，实现句间衔接。④句指出其打算学新闻业的浅层原因：爱好写作。writing was, and still is 凸显其对写作的兴趣一直很强。⑤句转而介绍真正原因。to be honest... because... 强调真正原因：时尚行业仅仅是一个梦，是难以企及和想象的（just a dream、no one could imagine）；just、no... at all 起加强语气的效果。\n\n⑥⑦句为第三层，介绍作者的最终决定：寻找写作与时尚相结合的课程。⑥句 fashion-related courses that included writing 回应首句 an area between fashion and publishing，说明作者坚持最初的梦想。⑦句指出作者与“时尚传媒与推广”这门课不期而遇。Fashion Media & Promotion 是“时尚与写作”的结合，promotion 通常指通过广告营销来推广，可能包含营销方案策划。\n\n**三、难句分析**\n\n1. Two years before graduating from secondary school, I took a sewing and design course thinking that I would move on to a fashion design course.\n\n本句涉及的难点：现在分词结构、宾语从句、固定短语。\n\n主句：I took a sewing and design course 时间状语：Two years before graduating from secondary school,\n\n**要点注释**\n\n① to be honest 为固定短语，意为“说实话”，做插入语，结合后面的 because，可知此句介绍真实原因。\n\n②I said it 回指上一句 I told everyone that I would study journalism, 但因语义衔接紧密，可直译为 “我那么说……”。fashion and me together was... 字面意为“时尚和我结合一起……”, 可以灵活译为 “我与时尚结缘”, 显得更自然、地道。\n\n③破折号引出句子解释说明 a dream。no...at all 表强烈否定之意，“根本不”。imagine me in the fashion industry at all 中介词 in 带动词意味，表示 into a place，“进入某地”，故译为“别人根本无法想象我能进入时尚行业”。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section IV Writing — Part A",
+   "score": 10,
+   "groups": [
+    {
+     "type": "writing",
+     "questions": [
+      {
+       "number": 47,
+       "score": 10.0,
+       "stem": "Suppose you are invited by Professor Williams to give a presentation about Chinese culture to a group of international students. Write a reply to\n1) accept the invitation, and\n2) introduce the key points of your presentation.\nYou should write about 100 words on the ANSWER SHEET.\nDo not use your own name. Use “Li Ming” instead.\nDo not write your address. (10 points)",
+       "answer": "Dear Professor Williams,\n\nI am honored to give a presentation about Chinese culture to international students at your invitation. I am pleased to take this opportunity to communicate with foreign friends about cultures.\n\nMy presentation will be focused on Chinese martial arts, which is an important component of Chinese culture. To begin with, I will briefly introduce it and its development over millennia. Then, I will focus on some common styles of Chinese martial arts, each of which has its own set of techniques and ideas. Furthermore, I will show some photos of relevant historical locations and figures. I believe graphic visual depiction will be more impressive than boring language.\n\nThank you for your invitation. I am looking forward to seeing you.\n\nSincerely yours,\nLi Ming",
+       "explanation": "**一、审题谋篇**\n\n**1. 解析题目指令，确定行文要点**\n\n| | | | |\n| --- | --- | --- | --- |\n| 抓取指令关键词 | 梳理信息 | 归纳要点 | |\n| 情景 | Suppose you are invited by Professor Williams to give a presentation about Chinese culture to a group of international students. | 1.写信人身份：“你”,即大学生2.写作对象：威廉姆斯教授3.写作话题：关于中国文化的讲座 | 1.格式：书信(接受邀请信)。2.语域：给教授的信件属于公务信函，应使用正式语体。3.内容要点：1接受邀请；2介绍讲座要点。 |\n| 要求 | Write a reply to1) accept the invitation, and2) introduce the key points of your presentation . | 4.写作类型：书信5.交际目的：回应邀请 | |\n\n**2. 罗列关键词**\n\ninvitation 邀请；presentation 讲座；Chinese culture 中国文化\n\n**3. 行文思路**\n\n第一段：说明写信目的，接受邀请；第二段：介绍讲座要点；\n\n第三段：表达期待。\n\n**二、优秀范文赏析**\n\n**优秀范文**\n\nDear Professor Williams, ①I am honored to give a presentation about Chinese culture to international students at your invitation. ②I am pleased to take this opportunity to communicate with foreign friends about cultures.\n\n① My presentation will be focused on Chinese martial arts, which is an important component of Chinese culture. ② To begin with, I will briefly introduce it and its development over millennia. ③ Then, I will focus on some common styles of Chinese martial arts, each of which has its own set of techniques and ideas. ④ Furthermore, I will show some photos of relevant historical locations and figures. ⑤ I believe graphic visual depiction will be more impressive than boring language.\n\n① Thank you for your invitation. ② I am looking forward to seeing you.\n\n**参考译文**\n\n亲爱的威廉姆斯教授：①很荣幸能够受邀为留学生做有关中国文化的讲座。②我非常愿意借此机会与外国朋友进行文化沟通和交流。\n\n①讲座将以中国文化的一个重要组成部分——中国武术为主题。②首先，我会对中国武术及其几千年来的发展历程进行简要介绍。③然后，我将重点介绍一些常见的中国武术门派，其中每一派都有各自的技术和思想体系。④此外，一些相关的历史遗迹和历史人物将用照片呈现给大家。⑤我相信，相对于干瘪的文字，生动形象的视觉描绘可以给大家留下更深刻的印象。\n\nSincerely yours,\n\n①感谢您的邀请。②期待与您见面。\n\nLi Ming\n\n诚挚的，\n\n李明\n\n[必备表达]\n\n1. presentation [n.] 讲座\n\n2. Chinese martial arts 中国武术\n\n3. component [n.] 组成部分\n\n5. furthermore [ad.] 此外\n\n6. graphic [a.] 图画的\n\n4. focus on...集中于……，以……为重点\n\n7. visual [a.] 视觉的\n\n8. impressive [a.] 给人印象深刻的\n\n[活用外刊]\n\n1. To begin with, the government must act with conviction, rather than wish the problem away.\n\n—The Economist\n\n译文：首先，政府必须带着坚定的信念有所行动，而非期待问题能不攻自破。\n\n点拨：to begin with 用于引出几点内容中的第一点，可替换常用的 firstly, first of all, 增加表达的灵活性。\n\n2. It's been something that I have been looking forward to doing for a while.\n\n—The Wall Street Journal\n\n译文：这是我一直以来都很期待的事情。\n\n点拨：look forward to... 表示“盼望、期待某事”，常用于书信中，表示对即将进行的会面或回信的期待。\n\nThen, I will focus on some common styles of Chinese martial arts, 定语从句修饰 styles of Chinese martial arts: each of which has its own set of techniques and ideas.\n\n**句子成形步骤：**\n\n**①写出简单句**\n\nI will introduce some styles of Chinese martial arts.\n\nAll of them have their own techniques and ideas.\n\n②利用代词将简单句整合\n\nI will introduce some styles of Chinese martial arts, each of which has its own techniques and ideas.\n\n③通过替换动词、增加形容词等增加表达精确性、内容饱满度以及美感\n\nI will focus on some common styles of Chinese martial arts, each of which has its own set of techniques and ideas.\n\n**④采用衔接手法，使文字连贯，层次清晰**\n\nThen, I will focus on...\n\n[篇章衔接]引言部分(2句):①句表示已收到邀请；②句表示接受邀请。\n\n主体部分(5句):①句明确讲座主题；②至⑤句介绍讲座的内容要点。\n\n结尾部分(2句):①句表达感谢；②句表达对见面的期待。\n\n**模板提炼**\n\n本模板由【优秀范文】提炼、改编而来，适用于接受讲座邀请等的回信。\n\nI have received your letter inviting me to 具体邀请内容. Thank you for your invitation. I am pleased to accept it.\n\nMy presentation would be focused on 讲座主题. The key points of my presentation would be as follows. To begin with, 要点一. Then, I will focus on 要点二. Furthermore, 要点三.\n\nThank you once again for your kind invitation. I am looking forward to meeting you soon.\n\nSincerely yours,\n\nLi Ming\n\n**三、写作储备**\n\n**回复邀请信常用表达**\n\n(1) 开篇：说明写作目的，接受或拒绝邀请\n\n- It was nice of you to invite me to attend....感谢您邀请我参加……。\n\n- I am pleased to accept your invitation. 我很高兴接受您的邀请。\n\n- It will be my pleasure to be present on this occasion. 能参加这次活动我深感荣幸。\n\n- I regret to inform you that I will not be able to attend your event due to....\n\n很抱歉告诉您，因为……，我不能参加您的活动。\n\n- I would love to attend, but unfortunately I have other engagements on the same day and will not be able to make it. 我很想参加，但很遗憾，我在当天已另有安排，所以无法前来。\n\n**(2) 结尾：表达感谢、期待或歉意**\n\n- Thank you once again for your kind invitation and for your effort in making... a successful one.\n\n再次感谢您的善意邀请，以及您为成功举办……所做的努力。\n\n- Please accept my apologies. I would love to attend future events and I am sure I will have a better luck next time. Wish you all the best and hope to see you soon. 请接受我的歉意。我很乐意参加今后的活动，并相信下次我能有幸参加。祝你一切顺利，期待早日相见。\n\n- I'm sure that... will be memorable, and we are truly sorry to miss it.\n\n相信……会让人难以忘怀，并为错过这次机会表示诚挚的歉意。\n\n**四、写作练习**\n\n请根据下列要求进行写作。\n\n**Directions:**\n\nYou are invited by Professor McCarthy to attend a session of the forthcoming Second International Conference on Knowledge Economy. But you can't attend it because of some personal reasons. Write a letter to Professor McCarthy to 1) tell him your decision, and 2) state the reasons.\n\nYou should write about 100 words on the ANSWER SHEET. Do not sign your own name at the end of the letter. Use \"Li Ming\" instead. Do not write the address. (10 points)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Section IV Writing — Part B",
+   "score": 15,
+   "groups": [
+    {
+     "type": "writing",
+     "images": [
+      "assets/2017-2-q48.jpg"
+     ],
+     "questions": [
+      {
+       "number": 48,
+       "score": 15.0,
+       "stem": "Write an essay based on the chart below. In your writing, you should\n1) interpret the chart, and\n2) give your comments.\nYou should write about 150 words on the ANSWER SHEET. (15 points)",
+       "answer": "The given chart reveals China's consecutive growth of museums and museum visitors from 2013 to 2015. The growth of museum experienced a slowdown in 2014, while the growth of museum visitors maintained a dynamic momentum.\n\nThis phenomenon can be attributed to the following reasons. Firstly, thanks to national endeavor at cultural undertakings, numerous museums have been constructed and opened freely to the public. Moreover, China's rapid economic growth underpins the cultural progress. With living-standard improving, the public demand increasingly varied spiritual nutrition, thus visiting museums and galleries has become a willing choice for more people.\n\nHowever, this encouraging sign also presents challenges, like how to address the supply deficiency posed by decelerated growth of museum and people's increasingly diverse need for exhibitions. Museums can improve efficiency by embracing mobile and digital technologies like e-museum. Meanwhile, through digital pictures and interactive videos, visitors can appreciate numerous exhibits from around the world and obtain fresh visiting experiences. It's believed that through joint efforts, China's museums will constitute a bigger driving force advancing cultural development and the important means to enhance people's well-being, thus further boosting economic and social development.",
+       "explanation": "**一、审题谋篇**\n\n**1. 分析图表数据，解读背后现象**\n\n| | | | |\n| --- | --- | --- | --- |\n| 图表数据 | 数据意义 | 数据分析 | 现象解读 |\n| 横坐标数据 | 划定时间范围：2013年至2015年 | 两条折线显示从2013年到2015年，博物馆参观人数和博物馆数量均连续攀升；其中参观人数保持稳定增长，而博物馆增速有所放缓。 | 两折线的攀升趋势反映我国文化事业繁荣发展的景象。参观人数增长显示人民文化需求旺盛；而博物馆增速先快后慢则表明潜在挑战：若参观人数持续增加，未来博物馆可能供不应求等。考生可根据图表阐发对变化的看法，或分析变化原因。 |\n| 纵坐标数据 | 博物馆和参观人数的数量变化情况 | | |\n\n**2. 罗列关键词**\n\n描写关键词：annual growth 年度增长，a constant/consecutive/continuous increase 持续增加 话题关键词：line chart 折线图，visit museums 参观博物馆，cultural infrastructure/facilities 文化基础设施，public cultural undertaking 公共文化事业\n\n**3. 行文思路**\n\n第一段：描述图表变化趋势；第二段：分析现象原因；第三段：揭示现象带来的挑战，提出应对建议。\n\n**二、优秀范文赏析**\n\n**优秀范文**\n\n① The given chart reveals China's consecutive growth of museums and museum visitors from 2013 to 2015. ② The growth of museum experienced a slowdown in 2014, while the growth of museum visitors maintained a dynamic momentum.\n\n① This phenomenon can be attributed to the following reasons. ② Firstly, thanks to national endeavor at cultural undertakings, numerous museums have been constructed and opened freely to the public. ③ Moreover, China's rapid economic growth underpins the cultural progress. ④ With living-standard improving, the public demand increasingly varied spiritual nutrition, thus visiting museums and galleries has become a willing choice for more people.\n\n**参考译文**\n\n①上述图表反映了2013年至2015年三年间中国博物馆数量以及参观人数连续攀升的情况。②其中，博物馆增长在2014年出现放缓，而参观人数则始终保持强劲增长势头。\n\n①之所以出现这种现象，原因可能有以下几点。②首先，得益于国家对文化事业的鼎力支持，大批博物馆得以建成并免费对公众开放。③其次，中国经济快速发展为文化进步奠定了坚实的基础。④随着生活水平的提高，人们需要的精神食粮也愈加多样，流连于博物馆、美术馆自然成为了越来越多人的自发选择。\n\n① However, this encouraging sign also presents challenges, like how to address the supply deficiency posed by decelerated growth of museum and people's increasingly diverse need for exhibitions. ② Museums can improve efficiency by embracing mobile and digital technologies like e-museum. ③ Meanwhile, through digital pictures and interactive videos, visitors can appreciate numerous exhibits from around the world and obtain fresh visiting experiences. ④ It's believed that through joint efforts, China's museums will constitute a bigger driving force advancing cultural development and the important means to enhance people's well-being, thus further boosting economic and social development.\n\n[必备表达]\n\n1. slowdown [n.] 减速\n\n2. dynamic momentum 强劲增长的势头\n\n3. be attributed to... 归因于……\n\n①不过，这一可喜现象背后也存在诸多挑战，如怎样应对博物馆增长放缓带来的供不应求问题以及人们日益多样化的观展需求问题等。②博物馆可以通过移动数字技术，如网上观展来提高效率。③同时，通过数字图片和互动视频，参观者们也能欣赏到来自世界各地的展品，获得全新的观展体验。④相信通过各方努力，中国博物馆会对文化发展起到更大的推动作用，成为改善民生的重要阵地，从而推动经济社会的更快发展。\n\n4. endeavor [n.] 努力\n\n5. numerous [a.] 许多的，大量的\n\n6. underpin [v.] 构成……的基础\n\n7. spiritual nutrition 精神食粮，精神营养\n\n8. address [v.] 处理，设法解决\n\n9. supply deficiency 供应不足，供不应求\n\n**活用外刊**\n\n1. Africa needs its judiciary to underpin social progress.\n\n10. decelerated growth 增长放缓\n\n11. increasingly diverse need 日益多样化的需求\n\n译文：非洲需要司法体系为基础促进社会进步。\n\n12. efficiency [n.] 效率，利用率\n\n13. mobile and digital technology 移动数字技术\n\n14. interactive [a.] 人机交互的，互动的\n\n15. constitute [v.] 构成\n\n16. people's well-being 人民福祉\n\n—The Guardian\n\n点拨：underpin 意为“从底部支持或巩固、作为……的基础”，此处用以说明经济基础乃文化发展的根本，经济繁荣对文化发展有巨大的促进作用。\n\n2. This simple change would go a long way to address many of the problems described here. —Forbes\n\n译文：这个简单的变化或将足够解决这里所描述的很多问题。\n\n点拨：address 此处取僻义“对付、解决(某一问题)”，形容对某一问题或矛盾进行处理并设法解决。\n\nIt's believed, 主语从句：that through joint efforts China's museums will constitute a bigger driving force advancing cultural development and the important means to enhance\n\n**句子成形步骤：**\n\n①写出简单句\n\nIt's believed that China's museums can drive cultural development and improve people's well-being. We should work together to achieve this.\n\nSo these museums will improve the economic and social development.\n\n②利用从句、副词及连词将简单句整合\n\nIt's believed that we can work together to improve China's museums which will drive cultural development and improve people's well-being, so we can improve the economic and social development.\n\n③通过微调句式，替换词汇等使逻辑顺畅、表达精确\n\nIt's believed that through joint efforts, China's museums will constitute a bigger driving force advancing cultural development and the important means to enhance people's well-being, thus further boosting economic and social development.\n\n**点评发光句式：**\n\n本句信息量大，成句时应选择恰当主语，可将次要信息处理成状语、定语结构，避免过多从句叠加。\n\n**篇章衔接**\n\n第一段(2句):①句说明图片总体趋势；②句具体描绘两条折线变化情况。\n\n第二段(4句):①句过渡，开启下文原因分析。②句说明博物馆增加原因：国家支持文化发展。③④句说明参观人数持续增加原因。其中③句以短句指出：经济发展促进文化繁荣；④句具体分析该因素如何作用。\n\n第三段(4句):①句过渡，肯定现象积极意义后，转而指出潜在矛盾：增长亦会带来挑战；②③句针对挑战提出建议：利用数字技术提高博物馆利用率、创造全新观展体验；④句总结收篇，提出期待。\n\n**应用模板**\n\n该思路适用于对正向变化趋势进行评价和分析，如：“发达国家手机订阅量发展”、“在线教育增长”等。\n\nI ①The above chart illustrates that （描述图表变化）.\n\nⅡ①From my perspective, the above phenomenon will inevitably benefit both individuals and our society in the following aspects. ②To begin with, through （方式）, people are entrusted with an opportunity to improve their （能力）, thus living a more fulfilling and ____ life wherever they are. ③In addition, from a long-term vision, the change which is closely related to/ caused by （原因）, constitutes the engine of ____ development, which indicates a promising future for ____. ①在我看来，上述现象必然在下面几个方面，为个人和整个社会的发展带来巨大的价值。②首先，通过____，人们有机会提升____，从而无论在哪里，都能过上更加富有意义且____的生活。③另外，从长远来看，这种由____而导致的变化成为促进____发展源源不断的动力，意味着____将拥有一个光明的前途。 Ⅲ①However, while maintaining the development of ____, we should also realize the risk of ____, thus making joint efforts to ____（建议）. ②Only by ____（总结性建议），can we yield a fruitful result of ____. ①但在保持____发展的同时，我们也要意识到____的风险，进而同心协力____。②只有通过____，我们才能收获____的成功果实。\n\n模板注释：第二段着眼变化带来的机遇，从“个人”和“社会”两个方面进行分析。第三段指出须规避风险，并给出具体建议。\n\n**三、写作储备**\n\n**话题表述补充**\n\n关于文化：civilization[n.]文明，bright/promising[a.]光明的，cultural exchange/contact 文化交流，community/grassroots culture 社区/草根文化，cultural troupe 文化团体 关于发展：scale[n.] 规模，input[v/n.] 投入，rejuvenation/renaissance[n.] 复兴，reinforce/facilitate/empower[v.] 巩固、促进，steadily step up 稳定增长，scale up/down 大规模增加/减少，yield good results 取得良好的成效\n\n- The value of culture is its effect on character. It avails nothing unless it enables and strengthens that. Its aim is not beauty but goodness. (Somerset Maugham)\n\n[写作素材积累]文化的价值在于它对人类品性的影响。除非文化能使品性更为高尚、有力，否则并无任何作用。它的目标不是美，而是善。（英国小说家、戏剧家，毛姆）\n\n- Up to today, an integrated, open, competition-based and orderly cultural market system has been established in China.\n\n时至今日，一个综合、开放、以竞争为基础且秩序良好的文化市场体系已然在中国形成。\n\n- In line with the principle of “letting a hundred flowers blossom and a hundred schools of thoughts contend”, great efforts have been made to inherit and promote the good traditional cultures of China and actively absorb the outstanding cultural achievements of the world, resulting in great prosperity and progress in both public cultural undertakings and cultural industries.\n\n以“百花齐放百家争鸣”为原则，中国大力继承和弘扬优秀传统文化，积极吸取世界文化的杰出成就，使文化事业和文化产业发展实现了极大的繁荣、取得了巨大的进步。\n\n- A composer cannot write enchanting melody with one note, and a painter cannot paint landscape with only one color. The world is a treasure house where the unique cultural achievements created by people of all countries are displayed.\n\n作曲家无法用一个音符表达出优美的旋律，画家难以用一种颜色描绘多彩的画卷。世界是一座丰富多彩的艺术殿堂，各国人民创造的独特历史文化都是其中的瑰宝。"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
