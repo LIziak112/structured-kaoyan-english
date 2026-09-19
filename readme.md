@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jpg" alt="Structured Kaoyan English（考研英语结构化数据集）项目横幅" width="100%">
+</p>
+
 # Structured-Kaoyan-English (考研英语结构化数据集)
 
 **简体中文** | [English](README.en.md)

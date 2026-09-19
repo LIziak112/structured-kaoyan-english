@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jpg" alt="Structured Kaoyan English banner" width="100%">
+</p>
+
 # Structured Kaoyan English
 
 [简体中文](readme.md) | **English**
